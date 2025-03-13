@@ -1,0 +1,2378 @@
+
+2020-01-02 * "parking" #bot
+    Assets:EUR:Efectivo:Leo       -0.70 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-01-02 * "bar" #bot
+    Assets:EUR:Efectivo:Leo       -5.95 EUR
+    Expenses:Salir:Copas
+
+2020-01-02 * "Café" #bot
+    Assets:EUR:Efectivo:Leo        -3.0 EUR
+    Expenses:Salir:Cafe
+
+2020-01-08 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -2.50 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-01-08 * "café" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Salir:Cafe
+
+2020-01-08 * "metro" #bot
+    Assets:EUR:Efectivo:Leo        -4.0 EUR
+    Expenses:Transporte:Publico
+
+2020-01-08 * "bar" #bot
+    Assets:EUR:Efectivo:Leo       -1.40 EUR
+    Expenses:Salir:Copas
+
+2020-01-08 * "bar" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Salir:Copas
+
+2020-01-08 * "Hamburguesa Madrid" #bot
+    Assets:EUR:Efectivo:Leo       -16.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-01-09 * "desayuno" #bot
+    Assets:EUR:Efectivo:Leo       -2.40 EUR
+    Expenses:Salir:Restaurante
+
+2020-01-09 * "cabrales" #bot
+    Assets:EUR:Efectivo:Leo       -8.40 EUR
+    Expenses:Compras:Alimentos
+
+2020-01-09 * "metro" #bot
+    Assets:EUR:Efectivo:Leo       -4.70 EUR
+    Expenses:Transporte:Publico
+
+2020-01-09 * "McDonald's" #bot
+    Assets:EUR:Efectivo:Leo      -10.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-01-09 * "tren Frankfurt" #bot
+    Assets:EUR:Efectivo:Leo       -8.70 EUR
+    Expenses:Transporte:Tren
+
+2020-01-11 * "Tren Darmstadt" #bot
+    Assets:EUR:Efectivo:Leo       -6.50 EUR
+    Expenses:Transporte:Publico
+
+2020-01-13 * "U-Bahn" #bot
+    Assets:EUR:Efectivo:Leo      -10.70 EUR
+    Expenses:Transporte:Publico
+
+2020-01-13 * "Café" #bot
+    Assets:EUR:Efectivo:Leo        -9.0 EUR
+    Expenses:Salir:Cafe
+
+2020-01-13 * "Café" #bot
+    Assets:EUR:Efectivo:Leo        -1.0 EUR
+    Expenses:Salir:Cafe
+
+2020-01-14 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo        -7.0 EUR
+    Expenses:Salir:Cafe
+
+2020-01-16 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo      -16.87 EUR
+    Expenses:Compras:Alimentos
+
+2020-01-16 * "Unknown"
+    Assets:EUR:Efectivo:Leo          50 EUR
+    Income:Regalos
+
+2020-01-17 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo       -2.70 EUR
+    Expenses:Salir:Cafe
+
+2020-01-17 * "Brötchen" #bot
+    Assets:EUR:Efectivo:Leo        -3.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-01-17 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -1.99 EUR
+    Expenses:Salir:Cafe
+
+2020-01-17 * "Döner" #bot
+    Assets:EUR:Efectivo:Leo       -20.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-01-18 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -5.20 EUR
+    Expenses:Salir:Cafe
+
+2020-01-18 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -4.10 EUR
+    Expenses:Salir:Cafe
+
+2020-01-18 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -4.60 EUR
+    Expenses:Salir:Cafe
+
+2020-01-20 * "desayuno estación Frankfurt" #bot
+    Assets:EUR:Efectivo:Leo       -9.10 EUR
+    Expenses:Salir:Restaurante
+
+2020-01-20 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -3.30 EUR
+    Expenses:Salir:Cafe
+
+2020-01-21 * "Vino Regalo cumpleaños" #bot
+    Assets:EUR:Efectivo:Leo       -0.98 EUR
+    Expenses:Compras:Regalos
+
+2020-01-25 * "parking" #bot
+    Assets:EUR:Efectivo:Leo        -1.0 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-01-25 * "chocolate caliente spo" #bot
+    Assets:EUR:Efectivo:Leo       -21.0 EUR
+    Expenses:Salir:Cafe
+
+2020-01-25 * "Bus Kiel" #bot
+    Assets:EUR:Efectivo:Leo       -5.20 EUR
+    Expenses:Transporte:Publico
+
+2020-01-25 * "Bus Kiel" #bot
+    Assets:EUR:Efectivo:Leo       -5.20 EUR
+    Expenses:Transporte:Publico
+
+2020-01-27 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo       -2.78 EUR
+    Expenses:Compras:Alimentos
+
+2020-01-27 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo       -9.84 EUR
+    Expenses:Compras:Alimentos
+
+2020-01-27 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo        -4.9 EUR
+    Expenses:Compras:Alimentos
+
+2020-01-27 * "bar Doppelkopf" #bot
+    Assets:EUR:Efectivo:Leo       -33.0 EUR
+    Expenses:Salir:Copas
+
+2020-01-28 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo       -8.25 EUR
+    Expenses:Compras:Alimentos
+
+2020-01-30 * "Frühstück" #bot
+    Assets:EUR:Efectivo:Leo       -33.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-01-30 * "cócteles+cerveza phollkomplex" #bot
+    Assets:EUR:Efectivo:Leo      -42.70 EUR
+    Expenses:Salir:Copas
+
+2020-01-30 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo      -19.60 EUR
+    Expenses:Salir:Copas
+
+2020-01-31 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -15.0 EUR
+    Expenses:Salir:Copas
+
+2020-01-31 * "Fischbrötchen" #bot
+    Assets:EUR:Efectivo:Leo      -16.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-03 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo        -4.8 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-03 * "Doko" #bot
+    Assets:EUR:Efectivo:Leo       -29.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-04 * "Pizza" #bot
+    Assets:EUR:Efectivo:Leo       -17.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-05 * "cerveza THW" #bot
+    Assets:EUR:Efectivo:Leo        -8.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-06 * "Fischbrötchen" #bot
+    Assets:EUR:Efectivo:Leo        -8.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-07 * "hoi an Kiel" #bot
+    Assets:EUR:Efectivo:Leo       -28.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-08 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo       -3.70 EUR
+    Expenses:Salir:Cafe
+
+2020-02-08 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-08 * "Pommes" #bot
+    Assets:EUR:Efectivo:Leo       -6.20 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-08 * "Werder" #bot
+    Assets:EUR:Efectivo:Leo       -20.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-08 * "Withdrawal" #bot
+    Assets:EUR:Cuenta:Leo        -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-02-08 * "Indio Bremen" #bot
+    Assets:EUR:Efectivo:Leo      -15.90 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-08 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo        -9.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-08 * "agua" #bot
+    Assets:EUR:Efectivo:Leo       -0.24 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-08 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -4.60 EUR
+    Expenses:Salir:Copas
+
+2020-02-09 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo      -10.20 EUR
+    Expenses:Salir:Copas
+
+2020-02-09 * "Pizza" #bot
+    Assets:EUR:Efectivo:Leo       -40.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-10 * "Edeka" #bot
+    Assets:EUR:Efectivo:Leo       -8.24 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-11 * "McDonald's" #bot
+    Assets:EUR:Efectivo:Leo      -10.65 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-11 * "café" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Salir:Cafe
+
+2020-02-11 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -11.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-11 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo        -6.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-12 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -19.0 EUR
+    Expenses:Salir:Cafe
+
+2020-02-13 * "Damascus" #bot
+    Assets:EUR:Efectivo:Leo       -14.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-13 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo        -7.0 EUR
+    Expenses:Salir:Cafe
+
+2020-02-14 * "café librería comida" #bot
+    Assets:EUR:Efectivo:Leo        -7.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-14 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -6.50 EUR
+    Expenses:Salir:Cafe
+
+2020-02-14 * "fotocopias" #bot
+    Assets:EUR:Efectivo:Leo       -2.30 EUR
+    Expenses:Compras:Utilidades
+
+2020-02-15 * "Cafe" #bot
+    Assets:EUR:Efectivo:Leo       -2.95 EUR
+    Expenses:Salir:Cafe
+
+2020-02-15 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo       -2.20 EUR
+    Expenses:Otros
+
+2020-02-15 * "Kebab" #bot
+    Assets:EUR:Efectivo:Leo       -17.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-16 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-02-20 * "hamburguesas Dortmund" #bot
+    Assets:EUR:Efectivo:Leo       -45.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-20 * "parking" #bot
+    Assets:EUR:Efectivo:Leo       -4.20 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-02-21 * "salir Bottrop" #bot
+    Assets:EUR:Efectivo:Leo       -23.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-22 * "hamburgues Bottrop" #bot
+    Assets:EUR:Efectivo:Leo       -10.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-22 * "Currywurst" #bot
+    Assets:EUR:Efectivo:Leo       -1.76 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-22 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -23.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-23 * "carnaval" #bot
+    Assets:EUR:Efectivo:Leo      -48.40 EUR
+    Expenses:Salir:Copas
+
+2020-02-23 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo       -1.80 EUR
+    Expenses:Salir:Cafe
+
+2020-02-23 * "pizza, Pommes" #bot
+    Assets:EUR:Efectivo:Leo       -8.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-24 * "Cafe" #bot
+    Assets:EUR:Efectivo:Leo       -6.50 EUR
+    Expenses:Salir:Cafe
+
+2020-02-24 * "netto" #bot
+    Assets:EUR:Efectivo:Leo       -6.21 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-25 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-02-25 * "Edeka" #bot
+    Assets:EUR:Efectivo:Leo       -3.69 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-25 * "Doko" #bot
+    Assets:EUR:Efectivo:Leo       -28.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-27 * "peluquero" #bot
+    Assets:EUR:Efectivo:Leo       -42.0 EUR
+    Expenses:Gastos:Peluquero
+
+2020-02-27 * "Costa smeralda" #bot
+    Assets:EUR:Efectivo:Leo      -120.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-28 * "Kebab" #bot
+    Assets:EUR:Efectivo:Leo       -13.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-29 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-02-29 * "Edeka" #bot
+    Assets:EUR:Efectivo:Leo      -25.47 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-29 * "rubbellose" #bot
+    Assets:EUR:Efectivo:Leo        -4.0 EUR
+    Expenses:Lujo
+
+2020-02-29 * "comida cine" #bot
+    Assets:EUR:Efectivo:Leo      -12.80 EUR
+    Expenses:Salir:Cine
+
+2020-02-29 * "bar" #bot
+    Assets:EUR:Efectivo:Leo       -24.0 EUR
+    Expenses:Salir:Copas
+
+2020-03-01 * "McDonald's" #bot
+    Assets:EUR:Efectivo:Leo       -17.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-03-01 * "bar" #bot
+    Assets:EUR:Efectivo:Leo      -20.10 EUR
+    Expenses:Salir:Copas
+
+2020-03-02 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo        -8.0 EUR
+    Expenses:Salir:Copas
+
+2020-03-03 * "Edeka" #bot
+    Assets:EUR:Efectivo:Leo       -3.49 EUR
+    Expenses:Compras:Alimentos
+
+2020-03-04 * "sello" #bot
+    Assets:EUR:Efectivo:Leo       -0.80 EUR
+    Expenses:Otros
+
+2020-03-04 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo       -2.60 EUR
+    Expenses:Perdido
+
+2020-03-04 * "Augustiner algo" #bot
+    Assets:EUR:Efectivo:Leo       -70.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-03-06 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -3.50 EUR
+    Expenses:Salir:Cafe
+
+2020-03-07 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo       -25.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-03-08 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo          -50.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-03-08 * "tranvía" #bot
+    Assets:EUR:Efectivo:Leo       -2.80 EUR
+    Expenses:Transporte:Publico
+
+2020-03-08 * "McDonald's" #bot
+    Assets:EUR:Efectivo:Leo       -8.27 EUR
+    Expenses:Salir:Restaurante
+
+2020-03-08 * "cola" #bot
+    Assets:EUR:Efectivo:Leo       -4.48 EUR
+    Expenses:Salir:Cafe
+
+2020-03-08 * "barabend" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Salir:Copas
+
+2020-03-11 * "Edeka" #bot
+    Assets:EUR:Efectivo:Leo
+    Expenses:Compras:Alimentos    24.19 EUR
+    Expenses:Compras:Alimentos      -25 EUR ; Geld von Janas Eltern
+
+2020-04-07 * "Rasierer Micha"
+    Assets:EUR:Banco:Leo         -39.99 EUR
+    Assets:EUR:Efectivo:Leo          50 EUR
+    Income:Regalos
+
+2020-04-19 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -2.70 EUR
+    Expenses:Salir:Cafe
+
+2020-04-23 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo       -3.35 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-23 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo       -42.9 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-23 * "supermercado" #bot
+    Assets:EUR:Efectivo:Leo      -14.78 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-24 * "Café" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Salir:Cafe
+
+2020-04-25 * "Fischbrötchen" #bot
+    Assets:EUR:Efectivo:Leo       -17.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-04-26 * "Pan" #bot
+    Assets:EUR:Efectivo:Leo       -3.45 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-26 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-04-26 * "Pommes" #bot
+    Assets:EUR:Efectivo:Leo       -3.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-04-27 * "Fischbrötchen" #bot
+    Assets:EUR:Efectivo:Leo      -13.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-04-27 * "🍞" #bot
+    Assets:EUR:Efectivo:Leo       -4.24 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-27 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -4.60 EUR
+    Expenses:Salir:Copas
+
+2020-04-28 * "Currywurst" #bot
+    Assets:EUR:Efectivo:Leo       -6.40 EUR
+    Expenses:Salir:Restaurante
+
+2020-04-28 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo       -3.29 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-29 * "schlemmermarkt" #bot
+    Assets:EUR:Efectivo:Leo      -11.28 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-29 * "Mittagessen" #bot
+    Assets:EUR:Efectivo:Leo        -6.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-04-29 * "Kabel" #bot
+    Assets:EUR:Efectivo:Leo      -17.40 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2020-04-29 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo       -1.99 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-29 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo       -5.97 EUR
+    Expenses:Perdido
+
+2020-04-29 * "kebab" #bot
+    Assets:EUR:Efectivo:Leo       -6.80 EUR
+    Expenses:Salir:Restaurante
+
+2020-04-30 * "Currywurst" #bot
+    Assets:EUR:Efectivo:Leo      -13.80 EUR
+    Expenses:Salir:Restaurante
+
+2020-04-30 * "schlemmermarkt" #bot
+    Assets:EUR:Efectivo:Leo       -4.49 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-30 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -3.60 EUR
+    Expenses:Salir:Copas
+
+2020-05-01 * "pan" #bot
+    Assets:EUR:Efectivo:Leo       -3.54 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-01 * "bar" #bot
+    Assets:EUR:Efectivo:Leo       -9.81 EUR
+    Expenses:Salir:Copas
+
+2020-05-02 * "pan" #bot
+    Assets:EUR:Efectivo:Leo       -2.12 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-02 * "Coca-Cola" #bot
+    Assets:EUR:Efectivo:Leo       -1.88 EUR
+    Expenses:Salir:Cafe
+
+2020-05-03 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo       -3.40 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-03 * "Café" #bot
+    Assets:EUR:Efectivo:Leo        -3.0 EUR
+    Expenses:Salir:Cafe
+
+2020-05-03 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo       -3.70 EUR
+    Expenses:Salir:Cafe
+
+2020-05-03 * "McDonald's" #bot
+    Assets:EUR:Efectivo:Leo       -0.31 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-03 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -13.0 EUR
+    Expenses:Salir:Copas
+
+2020-05-03 * "kebab" #bot
+    Assets:EUR:Efectivo:Leo       -3.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-04 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -7.45 EUR
+    Expenses:Salir:Cafe
+
+2020-05-04 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -4.48 EUR
+    Expenses:Salir:Cafe
+
+2020-05-04 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -2.49 EUR
+    Expenses:Salir:Cafe
+
+2020-05-04 * "Waffeln" #bot
+    Assets:EUR:Efectivo:Leo       -5.10 EUR
+    Expenses:Lujo
+
+2020-05-05 * "kebab" #bot
+    Assets:EUR:Efectivo:Leo        -9.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-05 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo       -1.53 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-07 * "restaurante tailandés" #bot
+    Assets:EUR:Efectivo:Leo       -16.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-07 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo       -0.73 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-07 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-05-07 * "dahoam" #bot
+    Assets:EUR:Efectivo:Leo       -34.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-08 * "Achim" #bot
+    Assets:EUR:Efectivo:Leo      -55.76 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-08 * "pan" #bot
+    Assets:EUR:Efectivo:Leo       -4.23 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-08 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo      -10.60 EUR
+    Expenses:Salir:Copas
+
+2020-05-08 * "vino" #bot
+    Assets:EUR:Efectivo:Leo      -16.48 EUR
+    Expenses:Salir:Copas
+
+2020-05-09 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo       -1.52 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-09 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo       -1.30 EUR
+    Expenses:Perdido
+
+2020-05-09 * "peluquero" #bot
+    Assets:EUR:Efectivo:Leo       -30.0 EUR
+    Expenses:Gastos:Peluquero
+
+2020-05-09 * "líquido lentillas" #bot
+    Assets:EUR:Efectivo:Leo       -3.99 EUR
+    Expenses:Compras:Utilidades
+
+2020-05-09 * "Pommes" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-10 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo       -1.70 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-10 * "Fischbrötchen" #bot
+    Assets:EUR:Efectivo:Leo      -11.60 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-10 * "Wasser" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-10 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -8.20 EUR
+    Expenses:Salir:Copas
+
+2020-05-10 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -3.44 EUR
+    Expenses:Salir:Copas
+
+2020-05-11 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo       -1.99 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-13 * "patatas fritas" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-16 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo      -25.51 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-16 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo      -20.90 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-16 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-05-16 * "Burger" #bot
+    Assets:EUR:Efectivo:Leo      -23.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-19 * "kebab" #bot
+    Assets:EUR:Efectivo:Leo       -4.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-19 * "Rossmann" #bot
+    Assets:EUR:Efectivo:Leo       -5.74 EUR
+    Expenses:Compras:Utilidades
+
+2020-05-19 * "hamburguesa" #bot
+    Assets:EUR:Efectivo:Leo      -43.10 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-20 * "hamburguesa" #bot
+    Assets:EUR:Efectivo:Leo       -3.90 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-22 * "Achim" #bot
+    Assets:EUR:Efectivo:Leo      -57.92 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-22 * "gafas" #bot
+    Assets:EUR:Efectivo:Leo        -4.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-05-23 * "farmacia" #bot
+    Assets:EUR:Efectivo:Leo       -2.79 EUR
+    Expenses:Compras:Utilidades
+
+2020-05-23 * "fresas" #bot
+    Assets:EUR:Efectivo:Leo       -2.60 EUR
+    Expenses:Compras:Alimentos
+2020-05-24 * "vino" #bot
+    Assets:EUR:Efectivo:Leo       -20.0 EUR
+    Expenses:Salir:Copas
+
+2020-05-25 * "comida mediodía" #bot
+    Assets:EUR:Efectivo:Leo       -1.37 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-25 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo      -16.62 EUR
+    Expenses:Perdido
+
+2020-05-28 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-05-28 * "pizza" #bot
+    Assets:EUR:Efectivo:Leo      -13.80 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-29 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -7.50 EUR
+    Expenses:Salir:Copas
+
+2020-05-29 * "vino" #bot
+    Assets:EUR:Efectivo:Leo       -8.87 EUR
+    Expenses:Salir:Copas
+
+2020-05-30 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -9.24 EUR
+    Expenses:Salir:Copas
+
+2020-05-30 * "kebab" #bot
+    Assets:EUR:Efectivo:Leo        -5.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-03 * "Milchschnitte" #bot
+    Assets:EUR:Efectivo:Leo       -1.29 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-04 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo        -7.0 EUR
+    Expenses:Salir:Copas
+
+2020-06-05 * "Vino" #bot
+    Assets:EUR:Efectivo:Leo      -14.98 EUR
+    Expenses:Salir:Copas
+
+2020-06-06 * "Edeka" #bot
+    Assets:EUR:Efectivo:Leo      -24.34 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-06 * "Coca-Cola" #bot
+    Assets:EUR:Efectivo:Leo       -1.88 EUR
+    Expenses:Salir:Cafe
+
+2020-06-07 * "Pommes" #bot
+    Assets:EUR:Efectivo:Leo       -9.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-08 * "kebab" #bot
+    Assets:EUR:Efectivo:Leo        -8.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-08 * "Freund" #bot
+    Assets:EUR:Efectivo:Leo      -14.52 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-08 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -12.0 EUR
+    Expenses:Salir:Copas
+
+2020-06-09 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo      -36.90 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-09 * "roti" #bot
+    Assets:EUR:Efectivo:Leo         -10 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-11 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo      -13.36 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-12 * "parking" #bot
+    Assets:EUR:Efectivo:Leo        -3.0 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-06-12 * "Pommes" #bot
+    Assets:EUR:Efectivo:Leo       -13.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-15 * "Döner" #bot
+    Assets:EUR:Efectivo:Leo        -4.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-15 * "leche" #bot
+    Assets:EUR:Efectivo:Leo       -1.39 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-15 * "parking" #bot
+    Assets:EUR:Efectivo:Leo       -1.50 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-06-18 * "bañador" #bot
+    Assets:EUR:Efectivo:Leo       -4.50 EUR
+    Expenses:Compras:Ropa
+
+2020-06-18 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo       -2.20 EUR
+    Expenses:Perdido
+
+2020-06-18 * "pastel" #bot
+    Assets:EUR:Efectivo:Leo       -3.55 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-18 * "reloj Jana" #bot
+    Assets:EUR:Efectivo:Leo       -1.40 EUR
+    Expenses:Compras:Ropa
+
+2020-06-19 * "hamburguesa" #bot
+    Assets:EUR:Efectivo:Leo       -44.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-19 * "Achim" #bot
+    Assets:EUR:Efectivo:Leo       -7.96 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-20 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo      -15.54 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-21 * "Günther" #bot
+    Assets:EUR:Efectivo:Leo       -4.35 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-22 * "Coca-Cola" #bot
+    Assets:EUR:Efectivo:Leo        -4.0 EUR
+    Expenses:Salir:Cafe
+
+2020-06-22 * "Radler" #bot
+    Assets:EUR:Efectivo:Leo       -4.30 EUR
+    Expenses:Salir:Copas
+
+2020-06-23 * "leche" #bot
+    Assets:EUR:Efectivo:Leo       -1.49 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-26 * "markant" #bot
+    Assets:EUR:Efectivo:Leo       -5.10 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-26 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-06-27 * "markant" #bot
+    Assets:EUR:Efectivo:Leo        -1.8 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-28 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -4.80 EUR
+    Expenses:Salir:Cafe
+
+2020-06-28 * "Pan" #bot
+    Assets:EUR:Efectivo:Leo       -3.70 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-28 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -3.30 EUR
+    Expenses:Salir:Cafe
+
+2020-07-04 * "McDonald's" #bot
+    Assets:EUR:Efectivo:Leo       -8.99 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-04 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo       -10.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-04 * "gofre" #bot
+    Assets:EUR:Efectivo:Leo       -3.90 EUR
+    Expenses:Lujo
+
+2020-07-04 * "tram Mannheim" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Transporte:Publico
+
+2020-07-04 * "compra" #bot
+    Assets:EUR:Efectivo:Leo       -20.0 EUR
+    Expenses:Compras:Alimentos
+
+2020-07-05 * "pizza" #bot
+    Assets:EUR:Efectivo:Leo       -28.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-05 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -2.50 EUR
+    Expenses:Salir:Copas
+
+2020-07-05 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -2.50 EUR
+    Expenses:Salir:Copas
+
+2020-07-06 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -12.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-06 * "McDonald's" #bot
+    Assets:EUR:Efectivo:Leo       -7.99 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-06 * "Costa" #bot
+    Assets:EUR:Efectivo:Leo      -41.73 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-06 * "Costa" #bot
+    Assets:EUR:Efectivo:Leo       -10.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-06 * "rubellose" #bot
+    Assets:EUR:Efectivo:Leo      -13.10 EUR
+    Expenses:Lujo
+
+2020-07-07 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -2.60 EUR
+    Expenses:Salir:Cafe
+
+2020-07-07 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo       -2.30 EUR
+    Expenses:Salir:Cafe
+
+2020-07-07 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo        -4.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-07 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -4.50 EUR
+    Expenses:Salir:Copas
+
+2020-07-08 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -2.60 EUR
+    Expenses:Salir:Cafe
+
+2020-07-08 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -2.30 EUR
+    Expenses:Salir:Cafe
+
+2020-07-08 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-07-08 * "peluquero" #bot
+    Assets:EUR:Efectivo:Leo       -42.0 EUR
+    Expenses:Gastos:Peluquero
+
+2020-07-08 * "luisella" #bot
+    Assets:EUR:Efectivo:Leo       -44.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-08 * "tranvía" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Transporte:Publico
+
+2020-07-08 * "Café" #bot
+    Assets:EUR:Efectivo:Leo        -1.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-08 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo        -8.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-10 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -4.20 EUR
+    Expenses:Salir:Cafe
+
+2020-07-10 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -11.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-10 * "copy shop" #bot
+    Assets:EUR:Efectivo:Leo       -0.40 EUR
+    Expenses:Trabajo
+
+2020-07-11 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo      -88.14 EUR
+    Expenses:Compras:Alimentos
+
+2020-07-11 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo       -2.30 EUR
+    Expenses:Perdido
+
+2020-07-15 * "patatas fritas" #bot
+    Assets:EUR:Efectivo:Leo       -3.59 EUR
+    Expenses:Compras:Alimentos
+
+2020-07-15 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -1.30 EUR
+    Expenses:Salir:Cafe
+
+2020-08-02 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-08-02 * "mujer" #bot
+    Assets:EUR:Efectivo:Leo       -0.50 EUR
+    Expenses:Donaciones
+
+2020-08-03 * "ferretería" #bot
+    Assets:EUR:Efectivo:Leo       -70.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-03 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo       -6.33 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-03 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -62.02 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-04 * "tapones" #bot
+    Assets:EUR:Efectivo:Leo        -5.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-05 * "llaves" #bot
+    Assets:EUR:Efectivo:Leo        -6.0 EUR
+    Expenses:Compras:Casa:Utilidades
+
+2020-08-06 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-08-07 * "helado" #bot
+    Assets:EUR:Efectivo:Leo        -3.0 EUR
+    Expenses:Salir:Cafe
+
+2020-08-08 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -4.54 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-08 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -7.34 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-12 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -64.85 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-12 * "propina" #bot
+    Assets:EUR:Efectivo:Leo        -2.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-13 * "ferretería" #bot
+    Assets:EUR:Efectivo:Leo      -23.50 EUR
+    Expenses:Compras:Casa:Utilidades
+
+2020-08-14 * "froiz" #bot
+    Assets:EUR:Efectivo:Leo      -16.94 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-16 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -9.40 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-08-16 * "parking" #bot
+    Assets:EUR:Efectivo:Leo       -0.60 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-08-16 * "bar" #bot
+    Assets:EUR:Efectivo:Leo       -8.10 EUR
+    Expenses:Salir:Copas
+
+2020-08-16 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo       -18.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-17 * "gasolina" #bot
+    Assets:EUR:Efectivo:Leo       -25.0 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2020-08-17 * "velas" #bot
+    Assets:EUR:Efectivo:Leo       -6.95 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-17 * "goiko" #bot
+    Assets:EUR:Efectivo:Leo      -31.40 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-17 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -3.50 EUR
+    Expenses:Salir:Cafe
+
+2020-08-18 * "papelería" #bot
+    Assets:EUR:Efectivo:Leo       -3.85 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-18 * "sello" #bot
+    Assets:EUR:Efectivo:Leo       -1.75 EUR
+    Expenses:Otros
+
+2020-08-18 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-08-18 * "administración" #bot
+    Assets:EUR:Efectivo:Leo       -8.50 EUR
+    Expenses:Gastos:Administracion
+
+2020-08-18 * "copas con pavla" #bot
+    Assets:EUR:Efectivo:Leo      -11.10 EUR
+    Expenses:Salir:Copas
+
+2020-08-18 * "Decathlon" #bot
+    Assets:EUR:Efectivo:Leo      -24.99 EUR
+    Expenses:Deporte
+
+2020-08-18 * "copas con jana" #bot
+    Assets:EUR:Efectivo:Leo       -4.50 EUR
+    Expenses:Salir:Copas
+
+2020-08-19 * "café" #bot
+    Assets:EUR:Efectivo:Leo        -9.0 EUR
+    Expenses:Salir:Cafe
+
+2020-08-19 * "pantalón gris zara" #bot
+    Assets:EUR:Efectivo:Leo      -29.95 EUR
+    Expenses:Compras:Ropa
+
+2020-08-19 * "champú" #bot
+    Assets:EUR:Efectivo:Leo       -6.50 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-19 * "kebab" #bot
+    Assets:EUR:Efectivo:Leo       -8.80 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-20 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -5.33 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-20 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -25.20 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-21 * "parking" #bot
+    Assets:EUR:Efectivo:Leo       -1.30 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-08-21 * "gasolinera" #bot
+    Assets:EUR:Efectivo:Leo       -53.0 EUR
+    Expenses:Lujo
+
+2020-08-22 * "Garaje Francisco Fianza+Alquiler primer mes"
+    Assets:EUR:Efectivo:Leo         -30 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-08-22 * "bombillas coche" #bot
+    Assets:EUR:Efectivo:Leo      -16.95 EUR
+    Expenses:Gastos:Coche:Taller
+
+2020-08-22 * "pan" #bot
+    Assets:EUR:Efectivo:Leo        -1.0 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-22 * "Withdrawal" #bot
+    Assets:EUR:Banco:Leo         -200.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-08-22 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -2.90 EUR
+    Expenses:Salir:Cafe
+
+2020-08-22 * "ropa" #bot
+    Assets:EUR:Efectivo:Leo      -45.98 EUR
+    Expenses:Compras:Ropa
+
+2020-08-22 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -4.67 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-23 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -4.30 EUR
+    Expenses:Salir:Cafe
+
+2020-08-25 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-08-25 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo        -1.0 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-26 * "vino" #bot
+    Assets:EUR:Efectivo:Leo        -7.0 EUR
+    Expenses:Salir:Copas
+
+2020-08-26 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo        -4.0 EUR
+    Expenses:Salir:Copas
+
+2020-08-26 * "palomitas" #bot
+    Assets:EUR:Efectivo:Leo       -2.90 EUR
+    Expenses:Salir:Cine
+
+2020-08-27 * "ropa arreglos" #bot
+    Assets:EUR:Efectivo:Leo       -22.0 EUR
+    Expenses:Compras:Ropa
+
+2020-08-28 * "goiko" #bot
+    Assets:EUR:Efectivo:Leo      -25.20 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-29 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -35.03 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-29 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -9.06 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-29 * "comida Ikea" #bot
+    Assets:EUR:Efectivo:Leo       -2.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-29 * "súper" #bot
+    Assets:EUR:Efectivo:Leo      -10.10 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-30 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -4.70 EUR
+    Expenses:Salir:Cafe
+
+2020-08-31 * "bocadillo" #bot
+    Assets:EUR:Efectivo:Leo       -1.70 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-31 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca      -300.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-08-31 * "droguería" #bot
+    Assets:EUR:Efectivo:Leo       -9.77 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-01 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-01 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-01 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-03 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo        -4.0 EUR
+    Expenses:Salir:Cafe
+
+2020-09-03 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-03 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-03 * "garaje" #bot
+    Assets:EUR:Efectivo:Leo       -85.0 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-09-03 * "reparación bol irán" #bot
+    Assets:EUR:Efectivo:Leo       -50.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-03 * "collar" #bot
+    Assets:EUR:Efectivo:Leo       -18.0 EUR
+    Expenses:Compras:Ropa
+
+2020-09-03 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -3.80 EUR
+    Expenses:Salir:Copas
+
+2020-09-03 * "ayo" #bot
+    Assets:EUR:Efectivo:Leo      -36.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-03 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca      -300.0 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-09-04 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-04 * "pan" #bot
+    Assets:EUR:Efectivo:Leo        -1.0 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-04 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-09-04 * "senpan" #bot
+    Assets:EUR:Efectivo:Leo      -30.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-05 * "despensa" #bot
+    Assets:EUR:Efectivo:Leo      -12.05 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-05 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -26.30 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-05 * "kebab" #bot
+    Assets:EUR:Efectivo:Leo      -14.60 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-05 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-09-06 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -6.90 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-09-06 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -2.50 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-09-07 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-07 * "Fianza Eléctrica"
+    Assets:EUR:Efectivo:Leo        -240 EUR
+    Assets:EUR:Deudas
+
+2020-09-07 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-07 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-07 * "coca cola jana" #bot
+    Assets:EUR:Efectivo:Leo       -3.60 EUR
+    Expenses:Salir:Cafe
+
+2020-09-08 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-09-08 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -8.20 EUR
+    Expenses:Salir:Cafe
+
+2020-09-08 * "bombilla" #bot
+    Assets:EUR:Efectivo:Leo       -6.00 EUR
+    Expenses:Salir:Copas
+
+2020-09-09 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-09-09 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -1.00 EUR
+    Expenses:Salir:Cafe
+
+2020-09-09 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -4.70 EUR
+    Expenses:Salir:Copas
+
+2020-09-10 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-09-10 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca     -300.00 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-09-10 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-11 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-11 * "Sucre" #bot
+    Assets:EUR:Efectivo:Leo       -3.20 EUR
+    Expenses:Salir:Cafe
+
+2020-09-12 * "desayuno" #bot
+    Assets:EUR:Efectivo:Leo       -7.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-12 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -3.00 EUR
+    Expenses:Salir:Cafe
+
+2020-09-12 * "comida" #bot
+    Assets:EUR:Efectivo:Leo      -44.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-13 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -4.90 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-09-14 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-15 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-09-15 * "café" #bot
+    Assets:EUR:Efectivo:Leo      -11.05 EUR
+    Expenses:Salir:Cafe
+
+2020-09-16 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -0.90 EUR
+    Expenses:Salir:Cafe
+
+2020-09-16 * "bico bar" #bot
+    Assets:EUR:Efectivo:Leo      -16.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-16 * "patatas" #bot
+    Assets:EUR:Efectivo:Leo       -3.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-17 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-17 * "pan" #bot
+    Assets:EUR:Efectivo:Leo       -1.00 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-17 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -6.60 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-18 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-09-18 * "mediodía" #bot
+    Assets:EUR:Efectivo:Leo       -6.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-19 * "despensa" #bot
+    Assets:EUR:Efectivo:Leo       -2.44 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-19 * "pescado" #bot
+    Assets:EUR:Efectivo:Leo       -3.80 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-19 * "carnicería" #bot
+    Assets:EUR:Efectivo:Leo       -7.25 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-19 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo       -8.15 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-19 * "harina" #bot
+    Assets:EUR:Efectivo:Leo       -1.25 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-19 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -44.41 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-21 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-21 * "café" #bot
+    Assets:EUR:Efectivo:Leo      -10.70 EUR
+    Expenses:Salir:Cafe
+
+2020-09-21 * "frutería" #bot
+    Assets:EUR:Efectivo:Leo       -4.64 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-21 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -49.84 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-21 * "gasolinera" #bot
+    Assets:EUR:Efectivo:Leo       -1.00 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2020-09-21 * "parking" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-09-22 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-20 * "Comida Mirela Sydney Maite"
+    Assets:EUR:Efectivo:Leo          30 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-22 * "Coca Cola"
+    Assets:EUR:Efectivo:Leo        -3.8 EUR
+    Expenses:Salir:Cafe
+
+2020-09-23 * "pizza" #bot
+    Assets:EUR:Efectivo:Leo       -0.70 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-23 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-23 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-24 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-24 * "gofre" #bot
+    Assets:EUR:Efectivo:Leo       -6.50 EUR
+    Expenses:Lujo
+
+2020-09-25 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-25 * "papelería" #bot
+    Assets:EUR:Efectivo:Leo       -2.53 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-26 * "farmacia" #bot
+    Assets:EUR:Efectivo:Leo       -9.80 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-26 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -6.90 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-09-26 * "bar" #bot
+    Assets:EUR:Efectivo:Leo       -5.60 EUR
+    Expenses:Salir:Copas
+
+2020-09-26 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo      -21.10 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-26 * "parking" #bot
+    Assets:EUR:Efectivo:Leo       -5.40 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-09-26 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -2.50 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-09-29 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-29 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-29 * "panadería"
+    Assets:EUR:Efectivo:Leo        -3.8 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-29 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.30 EUR
+    Expenses:Salir:Cafe
+
+2020-09-29 * "Carta" #bot
+    Assets:EUR:Efectivo:Leo       -1.85 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-29 * "bar" #bot
+    Assets:EUR:Efectivo:Leo       -3.90 EUR
+    Expenses:Salir:Copas
+
+2020-09-30 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.60 EUR
+    Expenses:Salir:Cafe
+
+2020-09-30 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca     -100.00 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-09-30 * "bar trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -6.80 EUR
+    Expenses:Salir:Cafe
+
+2020-09-30 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-09-30 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo       -0.80 EUR
+    Expenses:Salir:Cafe
+
+2020-09-30 * "bar" #bot
+    Assets:EUR:Efectivo:Leo      -12.00 EUR
+    Expenses:Salir:Copas
+
+2020-10-01 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-10-01 * "frutería" #bot
+    Assets:EUR:Efectivo:Leo       -6.80 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-01 * "a granel" #bot
+    Assets:EUR:Efectivo:Leo       -7.50 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-01 * "a granel" #bot
+    Assets:EUR:Efectivo:Leo       -2.17 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-01 * "a granel" #bot
+    Assets:EUR:Efectivo:Leo       -1.18 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-01 * "vino" #bot
+    Assets:EUR:Efectivo:Leo       -8.30 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-02 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-10-02 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -5.30 EUR
+    Expenses:Salir:Cafe
+
+2020-10-02 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-10-02 * "goiko" #bot
+    Assets:EUR:Efectivo:Leo      -33.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-03 * "desayuno" #bot
+    Assets:EUR:Efectivo:Leo      -22.95 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-03 * "Mercadona" #bot
+    Assets:EUR:Efectivo:Leo       -2.14 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-03 * "granel" #bot
+    Assets:EUR:Efectivo:Leo       -6.59 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-03 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca     -300.00 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-10-04 * "bar" #bot
+    Assets:EUR:Efectivo:Leo      -10.70 EUR
+    Expenses:Salir:Copas
+
+2020-10-04 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -3.40 EUR
+    Expenses:Salir:Cafe
+
+2020-10-05 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-10-06 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-10-06 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -4.40 EUR
+    Expenses:Salir:Cafe
+
+2020-10-07 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-10-07 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.50 EUR
+    Expenses:Salir:Cafe
+
+2020-10-08 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-10-08 * "bar trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -7.40 EUR
+    Expenses:Salir:Cafe
+
+2020-10-08 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo       -5.70 EUR
+    Expenses:Salir:Cafe
+
+2020-10-08 * "santo libre" #bot
+    Assets:EUR:Efectivo:Leo      -56.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-09 * "bar" #bot
+    Assets:EUR:Efectivo:Leo       -9.00 EUR
+    Expenses:Salir:Copas
+
+2020-10-09 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -2.12 EUR
+    Expenses:Salir:Copas
+
+2020-10-10 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -17.37 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-10 * "frutería" #bot
+    Assets:EUR:Efectivo:Leo       -9.50 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-10 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo       -2.55 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-11 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -6.90 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-10-11 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -1.95 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-10-11 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo      -60.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-11 * "parking" #bot
+    Assets:EUR:Efectivo:Leo       -4.50 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-10-11 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -2.70 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-10-12 * "gasolina" #bot
+    Assets:EUR:Efectivo:Leo      -56.00 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2020-10-12 * "Tívoli" #bot
+    Assets:EUR:Efectivo:Leo      -20.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-13 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-10-13 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.90 EUR
+    Expenses:Salir:Cafe
+
+2020-10-14 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-10-14 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca     -300.00 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-10-14 * "paño gafas" #bot
+    Assets:EUR:Efectivo:Leo      -10.00 EUR
+    Expenses:Compras:Utilidades
+
+2020-10-14 * "sexo shop" #bot
+    Assets:EUR:Efectivo:Leo      -48.00 EUR
+    Expenses:Lujo
+
+2020-10-14 * "goiko" #bot
+    Assets:EUR:Efectivo:Leo      -33.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-15 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-10-15 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.50 EUR
+    Expenses:Salir:Cafe
+
+2020-10-16 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-10-17 * "a granel" #bot
+    Assets:EUR:Efectivo:Leo       -8.90 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-17 * "a granel" #bot
+    Assets:EUR:Efectivo:Leo       -4.46 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-17 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -40.28 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-17 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -12.08 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-18 * "desayuno" #bot
+    Assets:EUR:Efectivo:Leo      -17.80 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-18 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo       -0.48 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-18 * "Coca-Cola" #bot
+    Assets:EUR:Efectivo:Leo       -4.30 EUR
+    Expenses:Salir:Cafe
+
+2020-10-18 * "pizza" #bot
+    Assets:EUR:Efectivo:Leo      -15.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-19 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-10-20 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-10-21 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -5.60 EUR
+    Expenses:Salir:Cafe
+
+2020-10-22 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-10-22 * "máquina de coser Mari Carmen" #bot
+    Assets:EUR:Efectivo:Leo      -35.00 EUR
+    Expenses:Compras:Regalos
+
+2020-10-22 * "restaurante tailandés Coruña" #bot
+    Assets:EUR:Efectivo:Leo      -28.10 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-23 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -7.10 EUR
+    Expenses:Salir:Cafe
+
+2020-10-25 * "pan" #bot
+    Assets:EUR:Efectivo:Leo       -4.05 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-25 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -3.90 EUR
+    Expenses:Salir:Cafe
+
+2020-10-25 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -9.40 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-10-25 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo       -2.37 EUR
+    Expenses:Perdido
+
+2020-10-25 * "goiko" #bot
+    Assets:EUR:Efectivo:Leo      -35.40 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-26 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-10-27 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.90 EUR
+    Expenses:Salir:Cafe
+
+2020-10-28 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-10-28 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -3.20 EUR
+    Expenses:Salir:Cafe
+
+2020-10-28 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca     -300.00 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-10-28 * "rincón de alba" #bot
+    Assets:EUR:Efectivo:Leo      -28.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-28 * "café del sol" #bot
+    Assets:EUR:Efectivo:Leo       -4.30 EUR
+    Expenses:Salir:Copas
+
+2020-10-29 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-10-29 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -4.20 EUR
+    Expenses:Salir:Cafe
+
+2020-10-29 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -11.07 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-30 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-10-30 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -7.40 EUR
+    Expenses:Salir:Cafe
+
+2020-10-30 * "sobres" #bot
+    Assets:EUR:Efectivo:Leo       -0.50 EUR
+    Expenses:Compras:Utilidades
+
+2020-10-30 * "sello" #bot
+    Assets:EUR:Efectivo:Leo       -1.75 EUR
+    Expenses:Compras:Utilidades
+
+2020-10-30 * "pasta fresca" #bot
+    Assets:EUR:Efectivo:Leo       -5.23 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-30 * "queso" #bot
+    Assets:EUR:Efectivo:Leo       -6.49 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-30 * "frutería" #bot
+    Assets:EUR:Efectivo:Leo       -6.28 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-30 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -9.94 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-30 * "Gadis h" #bot
+    Assets:EUR:Efectivo:Leo       -0.50 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-31 * "cartas" #bot
+    Assets:EUR:Efectivo:Leo      -12.00 EUR
+    Expenses:Compras:Medios:Juegos
+
+2020-10-31 * "pepita" #bot
+    Assets:EUR:Efectivo:Leo      -27.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-11-01 * "Coca-Cola" #bot
+    Assets:EUR:Efectivo:Leo       -4.40 EUR
+    Expenses:Salir:Cafe
+
+2020-11-01 * "goiko" #bot
+    Assets:EUR:Efectivo:Leo      -35.10 EUR
+    Expenses:Salir:Restaurante
+
+2020-11-02 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-11-02 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.90 EUR
+    Expenses:Salir:Cafe
+
+2020-11-02 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo       -5.05 EUR
+    Expenses:Salir:Cafe
+
+2020-11-03 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-11-03 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.90 EUR
+    Expenses:Salir:Cafe
+
+2020-11-03 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -2.99 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-04 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.50 EUR
+    Expenses:Salir:Cafe
+
+2020-11-04 * "terra mia" #bot
+    Assets:EUR:Efectivo:Leo      -44.25 EUR
+    Expenses:Salir:Restaurante
+
+2020-11-05 * "cafe trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-11-05 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.90 EUR
+    Expenses:Salir:Cafe
+
+2020-11-06 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -13.52 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-07 * "frutería" #bot
+    Assets:EUR:Efectivo:Leo       -4.00 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-07 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -18.30 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-07 * "granel" #bot
+    Assets:EUR:Efectivo:Leo      -18.48 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-08 * "gofre" #bot
+    Assets:EUR:Efectivo:Leo       -1.50 EUR
+    Expenses:Lujo
+
+2020-11-09 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.90 EUR
+    Expenses:Salir:Cafe
+
+2020-11-09 * "pan" #bot
+    Assets:EUR:Efectivo:Leo       -1.30 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-10 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo       -1.06 EUR
+    Expenses:Perdido
+
+2020-11-10 * "fagapizza" #bot
+    Assets:EUR:Efectivo:Leo       -1.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-11-10 * "huevos" #bot
+    Assets:EUR:Efectivo:Leo       -3.30 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-10 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.90 EUR
+    Expenses:Salir:Cafe
+
+2020-11-10 * "exprimidor" #bot
+    Assets:EUR:Efectivo:Leo       -8.00 EUR
+    Expenses:Compras:Utilidades
+
+2020-11-12 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca     -200.00 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-11-12 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo       -3.79 EUR
+    Expenses:Perdido
+
+2020-11-12 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -14.78 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-13 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -3.00 EUR
+    Expenses:Salir:Cafe
+
+2020-11-13 * "🍩" #bot
+    Assets:EUR:Efectivo:Leo       -3.14 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-13 * "granel" #bot
+    Assets:EUR:Efectivo:Leo       -7.35 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-13 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -6.44 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-14 * "frutería" #bot
+    Assets:EUR:Efectivo:Leo       -6.04 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-14 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -15.86 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-14 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -1.00 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-16 * "sven Gesellschafterbeschluss" #bot
+    Assets:EUR:Efectivo:Leo       -2.05 EUR
+    Expenses:Trabajo
+
+2020-11-16 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -27.59 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-16 * "does" #bot
+    Assets:EUR:Efectivo:Leo       -8.97 EUR
+    Expenses:Lujo
+
+2020-11-16 * "doed" #bot
+    Assets:EUR:Efectivo:Leo       -1.00 EUR
+    Expenses:Lujo
+
+2020-11-16 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -0.11 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-18 * "comida marmota" #bot
+    Assets:EUR:Efectivo:Leo      -10.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-11-18 * "granel" #bot
+    Assets:EUR:Efectivo:Leo       -8.49 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-18 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -7.81 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-19 * "full time" #bot
+    Assets:EUR:Efectivo:Leo      -30.85 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2020-11-20 * "queixeria" #bot
+    Assets:EUR:Efectivo:Leo      -15.64 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-20 * "placas lasaña" #bot
+    Assets:EUR:Efectivo:Leo       -5.50 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-20 * "frutería" #bot
+    Assets:EUR:Efectivo:Leo       -3.77 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-20 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -18.81 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-20 * "alimentos" #bot
+    Assets:EUR:Efectivo:Leo       -3.99 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-21 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca     -200.00 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-11-21 * "chuches" #bot
+    Assets:EUR:Efectivo:Leo       -1.81 EUR
+    Expenses:Lujo
+
+2020-11-22 * "farmacia alcohol" #bot
+    Assets:EUR:Efectivo:Leo       -2.69 EUR
+    Expenses:Compras:Utilidades
+
+2020-11-23 * "farmacia alcohol" #bot
+    Assets:EUR:Efectivo:Leo       -7.90 EUR
+    Expenses:Compras:Utilidades
+
+2020-11-23 * "pan" #bot
+    Assets:EUR:Efectivo:Leo       -2.00 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-24 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -2.80 EUR
+    Expenses:Salir:Cafe
+
+2020-11-25 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.80 EUR
+    Expenses:Salir:Cafe
+
+2020-11-25 * "propina" #bot
+    Assets:EUR:Efectivo:Leo       -2.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-11-25 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo       -7.44 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-27 * "Café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.80 EUR
+    Expenses:Salir:Cafe
+
+2020-11-27 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -11.54 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-28 * "regalos Alemania" #bot
+    Assets:EUR:Efectivo:Leo      -83.90 EUR
+    Expenses:Compras:Regalos
+
+2020-11-28 * "frutería" #bot
+    Assets:EUR:Efectivo:Leo       -3.56 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-28 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -17.27 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-28 * "pastel" #bot
+    Assets:EUR:Efectivo:Leo       -3.20 EUR
+    Expenses:Salir:Cafe
+
+2020-11-28 * "pan" #bot
+    Assets:EUR:Efectivo:Leo       -0.82 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-28 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca     -200.00 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-11-30 * "Donuts" #bot
+    Assets:EUR:Efectivo:Leo       -2.10 EUR
+    Expenses:Salir:Cafe
+
+2020-11-30 * "Carrefour" #bot
+    Assets:EUR:Efectivo:Leo       -3.68 EUR
+    Expenses:Compras:Alimentos
+
+2020-12-01 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -2.80 EUR
+    Expenses:Salir:Cafe
+
+2020-12-01 * "Donuts" #bot
+    Assets:EUR:Efectivo:Leo       -2.10 EUR
+    Expenses:Salir:Cafe
+
+2020-12-02 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-12-02 * "mendigo" #bot
+    Assets:EUR:Efectivo:Leo       -0.47 EUR
+    Expenses:Compras:Alimentos
+
+2020-12-03 * "granier" #bot
+    Assets:EUR:Efectivo:Leo       -1.84 EUR
+    Expenses:Compras:Alimentos
+
+2020-12-03 * "frutería" #bot
+    Assets:EUR:Efectivo:Leo       -0.70 EUR
+    Expenses:Compras:Alimentos
+
+2020-12-04 * "café trabajo" #bot
+    Assets:EUR:Efectivo:Leo      -14.20 EUR
+    Expenses:Salir:Cafe
+
+2020-12-04 * "peaje" #bot
+    Assets:EUR:Efectivo:Leo       -6.90 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-12-05 * "carbe" #bot
+    Assets:EUR:Efectivo:Leo       -5.90 EUR
+    Expenses:Compras:Alimentos
+
+2020-12-05 * "frutería" #bot
+    Assets:EUR:Efectivo:Leo       -6.45 EUR
+    Expenses:Compras:Alimentos
+
+2020-12-05 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo      -56.53 EUR
+    Expenses:Compras:Alimentos
+
+2020-12-11 * "pan" #bot
+    Assets:EUR:Efectivo:Leo       -0.95 EUR
+    Expenses:Compras:Alimentos
+
+2020-12-11 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo       -1.80 EUR
+    Expenses:Salir:Copas
+
+2020-12-12 * "Peaje España" #bot #alemania2020
+    Assets:EUR:Efectivo:Leo       -2.50 EUR
+    Assets:EUR:Efectivo:Leo       -6.20 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-12-12 * "Café" #bot #alemania2020
+    Assets:EUR:Efectivo:Leo       -1.20 EUR
+    Expenses:Salir:Cafe
+
+2020-12-12 * "Coca-Cola" #bot #alemania2020
+    Assets:EUR:Efectivo:Leo        -1.5 EUR
+    Expenses:Salir:Cafe
+
+2020-12-12 * "peaje" #bot #alemania2020
+    Assets:EUR:Efectivo:Leo      -11.55 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-12-23 * "pan" #bot
+    Assets:EUR:Efectivo:Leo       -2.70 EUR
+    Expenses:Compras:Alimentos
+
+2020-12-23 * "mcdonald's" #bot
+    Assets:EUR:Efectivo:Leo      -11.28 EUR
+    Expenses:Lujo
+
+2020-12-23 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -2.20 EUR
+    Expenses:Salir:Cafe
+
+2020-12-26 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -7.27 EUR
+    Expenses:Salir:Cafe
+
+2020-12-26 * "Café" #bot
+    Assets:EUR:Efectivo:Leo       -1.00 EUR
+    Expenses:Salir:Cafe
+
+2020-12-26 * "kebab" #bot
+    Assets:EUR:Efectivo:Leo       -4.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-12-29 * "café" #bot
+    Assets:EUR:Efectivo:Leo       -5.38 EUR
+    Expenses:Salir:Cafe

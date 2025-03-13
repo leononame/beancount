@@ -1,0 +1,134 @@
+
+2000-01-01 commodity IE00BYX5NX33
+    name: "MSCI World"
+    quote: EUR
+2000-01-01 commodity IE0007987708
+    name: "MSCI Europe"
+    quote: EUR
+2000-01-01 commodity IE00BYX5MX67
+    name: "S&P 500"
+    quote: EUR
+2000-01-01 commodity IE00BYWYCC39
+    name: "Emerging Markets"
+    quote: EUR
+2000-01-01 commodity IE0007201266
+    name: "Pacific Ex-Japan"
+    quote: EUR
+2000-01-01 commodity IE00BYX5N771
+    name: "MSCI Japan"
+    quote: EUR
+
+
+2023-09-20 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Europe      107.93 IE0007987708 {2023-09-20}
+    Assets:Invest:MyInvestor:Cash      -2999.89 EUR
+
+; 599.418 US at 10.0097
+2023-09-20 * "Compra Fondos"
+    Assets:Invest:MyInvestor:US         599.418 IE00BYX5MX67 {2023-09-20}
+    Assets:Invest:MyInvestor:Cash      -5999.99 EUR
+
+; 299.709 US at 10.0097
+2023-09-20 * "Compra Fondos"
+    Assets:Invest:MyInvestor:US         299.709 IE00BYX5MX67 {2023-09-20}
+    Assets:Invest:MyInvestor:Cash      -2999.99 EUR
+
+; 3.9 Japan at 255.9388
+2023-09-20 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Pacific        3.9 IE0007201266  {2023-09-21}
+    Assets:Invest:MyInvestor:Cash       -998.16 EUR
+
+; 213.95 Europe at 28.0437
+2023-09-21 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Europe      213.95 IE0007987708 {2023-09-21}
+    Assets:Invest:MyInvestor:Cash      -5999.94 EUR
+
+; 455.092 US at 9.8881
+2023-09-21 * "Compra Fondos"
+    Assets:Invest:MyInvestor:US         455.092 IE00BYX5MX67 {2023-09-21}
+    Assets:Invest:MyInvestor:Cash      -4499.99 EUR
+
+; 1144.205 World at 8.7397
+2023-09-21 * "Compra Fondos"
+    Assets:Invest:MyInvestor:World     1144.204 IE00BYX5NX33 {2023-09-21}
+    Assets:Invest:MyInvestor:Cash      -9999.99 EUR
+
+; 149.88 Japan at 6.672
+2023-09-21 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Japan       149.88 IE00BYX5N771 {2023-09-21}
+    Assets:Invest:MyInvestor:Cash       -999.99 EUR
+
+; 175.52 Emerging at 11.3941
+2023-09-21 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Emerging    175.52 IE00BYWYCC39 {2023-09-21}
+    Assets:Invest:MyInvestor:Cash      -1999.89 EUR
+
+; 162.56 Europe at 27.6805
+2023-09-22 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Europe      162.56 IE0007987708 {2023-09-22}
+    Assets:Invest:MyInvestor:Cash      -4499.74 EUR
+
+; 7.95 Pacific at 251.5758
+2023-09-22 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Pacific       7.95 IE0007201266 {2023-09-22}
+    Assets:Invest:MyInvestor:Cash      -2000.02 EUR
+
+; 300.783 Japan at 6.6493
+2023-09-22 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Japan      300.783 IE00BYX5N771 {2023-09-22}
+    Assets:Invest:MyInvestor:Cash      -1999.99 EUR
+
+; 225.587 Japan at 6.6493
+2023-09-22 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Japan      225.587 IE00BYX5N771 {2023-09-22}
+    Assets:Invest:MyInvestor:Cash      -1499.99 EUR
+
+; 578.81 World at 8.6384
+2023-09-22 * "Compra Fondos"
+    Assets:Invest:MyInvestor:World       578.81 IE00BYX5NX33 {2023-09-22}
+    Assets:Invest:MyInvestor:Cash      -4999.99 EUR
+
+; 230.019 US at 9.7818
+2023-09-22 * "Compra Fondos"
+    Assets:Invest:MyInvestor:US         230.019 IE00BYX5MX67 {2023-09-22}
+    Assets:Invest:MyInvestor:Cash      -2249.99 EUR
+
+; 354.42 Emerging at 11.286
+2023-09-22 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Emerging    354.42 IE00BYWYCC39 {2023-09-22}
+    Assets:Invest:MyInvestor:Cash      -3999.98 EUR
+
+; 5.91 Pacific at 253.7409
+2023-09-25 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Pacific       5.91 IE0007201266 {2023-09-25}
+    Assets:Invest:MyInvestor:Cash       -1499.6 EUR
+
+; 81.53 Europe at 27.5973
+2023-09-25 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Europe       81.53 IE0007987708 {2023-09-25}
+    Assets:Invest:MyInvestor:Cash         -2250 EUR
+
+; 289.972 World at 8.6215
+2023-09-25 * "Compra Fondos"
+    Assets:Invest:MyInvestor:World      289.972 IE00BYX5NX33 {2023-09-25}
+    Assets:Invest:MyInvestor:Cash      -2499.99 EUR
+
+; 113.648 Japan at 6.5993
+2023-09-25 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Japan      113.648 IE00BYX5N771 {2023-09-25}
+    Assets:Invest:MyInvestor:Cash       -749.99 EUR
+
+; 263.16 Emerging at 11.3995
+2023-09-25 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Emerging    263.16 IE00BYWYCC39 {2023-09-25}
+    Assets:Invest:MyInvestor:Cash      -2999.89 EUR
+
+; 131.73 Emerging at 11.3865
+2023-09-26 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Emerging    131.73 IE00BYWYCC39 {2023-09-26}
+    Assets:Invest:MyInvestor:Cash      -1499.94 EUR
+
+; 66.5 Emerging at 11.2781
+2023-09-27 * "Compra Fondos"
+    Assets:Invest:MyInvestor:Emerging      66.5 IE00BYWYCC39 {2023-09-27}
+    Assets:Invest:MyInvestor:Cash       -749.99 EUR

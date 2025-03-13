@@ -1,0 +1,2805 @@
+2022-01-01 * "Petroprix"
+    Assets:EUR:Banco:Abanca                    -53.85 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2022-01-03 * "Bausparen Jana"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-01-03 * "Papa Iago"
+    Assets:EUR:Banco:DKB                          100 EUR
+    Liabilities:Deudas:Familia
+
+2022-01-03 * "Bitpiraten"
+    Assets:EUR:Banco:DKB                         -400 EUR
+    Expenses:Compras:Bitpiraten
+
+2022-01-03 * "bAV"
+    Assets:EUR:Banco:DKB                         -260 EUR
+    Expenses:Gastos:Seguros:Rente
+
+2022-01-03 * "BU"
+    Assets:EUR:Banco:DKB                       -48.15 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-01-03 * "Nest Audio"
+    Assets:EUR:Banco:Abanca                     54.49 EUR
+    Assets:EUR:Deudas
+
+2022-01-03 * "Yoga Jana"
+    Assets:EUR:Banco:Jana                          -7 EUR
+    Expenses:Deporte
+
+2022-01-05 * "Wallapop Ropa Bebé"
+    Assets:EUR:Banco:Abanca                    -36.44 EUR
+    Expenses:Compras:Bebe
+
+2022-01-05 * "Ori 2"
+    Assets:EUR:Banco:Abanca                    -14.79 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-01-05 * "Wallapop Nest Audio"
+    Assets:EUR:Banco:Abanca                    -46.51 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-01-05 * "Wallapop Ropa Bebé"
+    Assets:EUR:Banco:Abanca                     -18.9 EUR
+    Expenses:Compras:Bebe
+
+2022-01-05 * "Burger King"
+    Assets:EUR:Banco:Abanca                     -22.1 EUR
+    Expenses:Salir:Restaurante
+
+2022-01-05 * "Wallapop Ropa Bebé"
+    Assets:EUR:Banco:Abanca                      -9.9 EUR
+    Expenses:Compras:Bebe
+
+2022-01-06 * "GitHub Sponsors Photoprism"
+    Assets:EUR:Banco:Leo                       -28.38 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-01-07 * "Amazon Vigilabebés"
+    Assets:EUR:Banco:Abanca                    -42.49 EUR
+    Expenses:Compras:Bebe
+
+2022-01-07 * "Just Eat Burger King"
+    Assets:EUR:Banco:Abanca                     -22.1 EUR
+    Expenses:Salir:Restaurante
+
+2022-01-11 * "Just Eat Pizza"
+    Assets:EUR:Banco:Abanca                     -32.3 EUR
+    Expenses:Salir:Restaurante
+
+2022-01-11 * "Cartuchos Sodastream"
+    Assets:EUR:Banco:Abanca                      -139 EUR
+    Expenses:Compras:Alimentos
+
+2022-01-12 * "Glovo Goiko"
+    Assets:EUR:Banco:Abanca                    -30.79 EUR
+    Expenses:Salir:Restaurante
+
+2022-01-12 * "Smart Audiobook Player"
+    Assets:EUR:Banco:Abanca                     -2.09 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-01-12 * "Nest Audio 2 Wallapop"
+    Assets:EUR:Banco:Abanca                    -53.05 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-01-12 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -32.65 EUR
+    Expenses:Salir:Restaurante
+
+2022-01-12 * "Salario Leo"
+    Assets:EUR:Banco:Abanca                      5000 EUR
+    Income:Salario:Leo
+
+2022-01-13 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2022-01-14 * "Glovo"
+    Assets:EUR:Banco:Abanca                    -32.29 EUR
+    Expenses:Salir:Restaurante
+
+2022-01-15 * "Amazon Jana?"
+    Assets:EUR:Banco:Abanca                    -57.02 EUR
+    Expenses:Compras:Utilidades
+
+2022-01-15 * "Harry Potter 7"
+    Assets:EUR:Banco:Leo                       -55.15 EUR
+    Expenses:Compras:Medios:Libros
+
+2022-01-15 * "Yoga Jana"
+    Assets:EUR:Banco:Jana                          -7 EUR
+    Expenses:Deporte
+
+2022-01-15 * "Lyxor New Energy"
+    Assets:EUR:Banco:DKB                         -500 EUR
+    Assets:Invest:Depot:NewEnergy             12.8469 LYX0CB {2022-01-15} @@ 500 EUR
+
+2022-01-15 * "Bausparen"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Assets:Invest:Bausparen
+
+2022-01-17 * "Lowi"
+    Assets:EUR:Banco:Abanca                    -37.05 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+
+2022-01-17 * "DHL"
+    Assets:EUR:Banco:Jana                      -11.08 EUR
+    Expenses:Compras:Regalos
+
+2022-01-18 * "Taller Masaje Punti"
+    Assets:EUR:Banco:Abanca                       -15 EUR
+    Expenses:Gastos:Bebe
+
+2022-01-20 * "Yoga Jana"
+    Assets:EUR:Banco:Jana                          -7 EUR
+    Expenses:Deporte
+
+
+2022-01-20 * "Just Eat"
+    Assets:EUR:Banco:Abanca                     -30.6 EUR
+    Expenses:Salir:Restaurante
+
+2022-01-20 * "Bici Coruña"
+    Assets:EUR:Banco:Abanca                       -30 EUR
+    Expenses:Gastos:Administracion
+
+2022-01-20 * "Bici Coruña"
+    Assets:EUR:Banco:Abanca                       -30 EUR
+    Expenses:Gastos:Administracion
+
+2022-01-20 * "Just Eat"
+    Assets:EUR:Banco:Abanca                     -27.6 EUR
+    Expenses:Salir:Restaurante
+
+2022-01-20 * "Mullvad"
+    Assets:EUR:Banco:Leo                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-01-22 * "Transferencie"
+    Assets:EUR:Banco:Abanca                     -3000 EUR
+    Assets:EUR:Banco:DKB
+
+2022-01-26 * "Just Eat"
+    Assets:EUR:Banco:Abanca                     -30.6 EUR
+    Expenses:Salir:Restaurante
+
+2022-01-27 * "Yoga Jana"
+    Assets:EUR:Banco:Jana                          -7 EUR
+    Expenses:Deporte
+
+2022-01-28 * "Leo Salario"
+    Assets:EUR:Banco:Abanca                      6000 EUR
+    Income:Salario:Leo
+
+2022-01-29 balance Assets:EUR:Banco:Abanca    8697.16 EUR
+
+2022-01-30 * "Paperspace"
+    Assets:EUR:Banco:Leo                       -16.67 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-01-30 * "Yoga Jana"
+    Assets:EUR:Banco:Jana                         -24 EUR
+    Expenses:Deporte
+
+2022-01-30 * "Transfer"
+    Assets:EUR:Banco:DKB                        -1000 EUR
+    Assets:EUR:Banco:Leo
+
+2022-01-31 balance Assets:EUR:Banco:DKB       2154.67 EUR
+2022-01-31 balance Assets:EUR:Banco:Leo        1057.2 EUR
+2022-01-31 balance Assets:EUR:Banco:Jana      1215.86 EUR
+
+2022-01-31 * "Naturgy"
+    Assets:EUR:Banco:Abanca                   -183.55 EUR
+    Expenses:Gastos:Casa:Luz                    60.72 EUR
+    Expenses:Gastos:Casa:Gas                   122.83 EUR
+
+2022-01-31 * "Silla Bebé"
+    Assets:EUR:Banco:Abanca                      -116 EUR
+    Expenses:Compras:Bebe
+
+2022-01-31 * "Paga Jana"
+    Assets:EUR:Banco:Abanca                     944.4 EUR
+    Income:Salario:Jana
+
+2022-02-02 * "Just Eat"
+    Assets:EUR:Banco:Abanca                     -32.9 EUR
+    Expenses:Salir:Restaurante
+
+
+2022-02-05 * "Teclado Wallapop"
+    Assets:EUR:Banco:Abanca                    -29.45 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-02-08 * "Just Eat"
+    Assets:EUR:Banco:Abanca                     -11.3 EUR
+    Expenses:Salir:Restaurante
+
+2022-02-08 * "Amazon Varios"
+    Assets:EUR:Banco:Abanca                   -192.35 EUR
+    Expenses:Compras:Utilidades
+
+2022-02-09 * "Uber Pepita"
+    Assets:EUR:Banco:Abanca                    -33.38 EUR
+    Expenses:Salir:Restaurante
+
+2022-02-11 * "Amazon O-Rings"
+    Assets:EUR:Banco:Abanca                    -13.98 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-02-11 * "Goiko Andrea"
+    Assets:EUR:Banco:Abanca                     -49.1 EUR
+    Assets:EUR:Banco:Abanca                        18 EUR
+    Expenses:Salir:Restaurante
+
+2022-02-13 * "Transferencia"
+    Assets:EUR:Banco:Abanca                     -2000 EUR
+    Assets:EUR:Banco:DKB
+
+2022-02-04 * "Jana Paquete"
+    Assets:EUR:Banco:Jana                      -15.28 EUR
+    Expenses:Compras:Utilidades
+
+2022-02-10 * "Jana Chaqueta"
+    Assets:EUR:Banco:Jana                      -169.9 EUR
+    Expenses:Compras:Ropa
+
+2022-02-01 * "Papa Iago"
+    Assets:EUR:Banco:DKB                          100 EUR
+    Liabilities:Deudas:Familia
+
+2022-02-01 * "BU"
+    Assets:EUR:Banco:DKB                       -48.15 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-02-01 * "Bitpiraten"
+    Assets:EUR:Banco:DKB                         -400 EUR
+    Expenses:Compras:Bitpiraten
+
+2022-02-01 * "Bausparen Jana"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-02-01 * "BAV"
+    Assets:EUR:Banco:DKB                         -260 EUR
+    Expenses:Gastos:Seguros:Rente
+
+2022-02-15 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2022-02-16 * "Vegaffinity"
+    Assets:EUR:Banco:Abanca                   -185.52 EUR
+    Expenses:Compras:Alimentos
+
+2022-02-16 * "China Center Compras Casa"
+    Assets:EUR:Banco:Abanca                   -136.15 EUR
+    Expenses:Compras:Utilidades
+
+2022-02-16 * "Lowi"
+    Assets:EUR:Banco:Abanca                     -32.1 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+
+2022-02-16 * "NJana chaqueta devolución"
+    Assets:EUR:Banco:Abanca                        -6 EUR
+    Expenses:Compras:Ropa
+
+2022-02-18 * "Just Eat"
+    Assets:EUR:Banco:Abanca                     -32.4 EUR
+    Expenses:Salir:Restaurante
+
+2022-02-18 * "WoW"
+    Assets:EUR:Banco:Abanca                    -65.94 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-02-18 * "Just Eat"
+    Assets:EUR:Banco:Abanca                     -31.5 EUR
+    Expenses:Salir:Restaurante
+
+2022-02-19 * "aceite"
+    Assets:EUR:Banco:Abanca                    -107.7 EUR
+    Expenses:Compras:Alimentos
+
+2022-02-20 * "Kim Cena"
+    Assets:EUR:Banco:Abanca                        16 EUR
+    Expenses:Salir:Restaurante
+
+2022-02-22 * "Vacuna Punti"
+    Assets:EUR:Banco:Abanca                   -106.15 EUR
+    Expenses:Gastos:Bebe
+
+2022-02-23 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -50.65 EUR
+    Expenses:Salir:Restaurante
+
+2022-02-24 * "Yoga"
+    Assets:EUR:Banco:Abanca                       -36 EUR
+    Expenses:Deporte
+
+2022-02-25 * "Just Eat"
+    Assets:EUR:Banco:Abanca                     -30.2 EUR
+    Expenses:Salir:Restaurante
+
+2022-02-22 * "FlyerAlarm Punti"
+    Assets:EUR:Banco:Jana                      -24.65 EUR
+    Expenses:Compras:Regalos
+
+2022-02-21 * "Mullvad"
+    Assets:EUR:Banco:Leo                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-02-15 * "Bausparen"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Assets:Invest:Bausparen
+
+2022-02-21 * "Seguro Haftpflicht Jana Gothaer"
+    Assets:EUR:Banco:DKB                       -39.96 EUR
+    Expenses:Gastos:Seguros:Haftpflicht
+
+2022-02-15 * "MSCI World"
+    Assets:Invest:Depot:MSCI                   1.2499 A2H59Q {2022-02-15} @@ 500 EUR
+    Assets:EUR:Banco:DKB                      -500.49 EUR
+    Expenses:Gastos:Banco:Fondos                 0.49 EUR
+
+
+2022-02-15 * "Lyxor New Energy"
+    Assets:EUR:Banco:DKB                         -500 EUR
+    Assets:Invest:Depot:NewEnergy             13.8715 LYX0CB {2022-02-15} @@ 500 EUR
+
+2022-02-28 * "Saco de dormir"
+    Assets:EUR:Banco:Abanca                        -6 EUR
+    Expenses:Compras:Bebe
+
+2022-03-01 * "Ingreso Leo"
+    Assets:EUR:Banco:Abanca                      6000 EUR
+    Income:Salario:Leo
+
+2022-03-01 * "Red Dead 2"
+    Assets:EUR:Banco:Abanca                    -59.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-03-01 * "Just Eat Kim+Mesi"
+    Assets:EUR:Banco:Abanca                     -61.8 EUR
+    Expenses:Salir:Restaurante
+
+2022-03-01 * "Deco Wifi Mesh"
+    Assets:EUR:Banco:Abanca                    -79.99 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-03-01 * "Amazon Jana"
+    Assets:EUR:Banco:Abanca                    -30.98 EUR
+    Expenses:Compras:Utilidades
+
+2022-03-03 * "Agua"
+    Assets:EUR:Banco:Abanca                    -48.97 EUR
+    Expenses:Gastos:Casa:Agua
+
+2022-03-04 * "Airbnb Kiel"
+    Assets:EUR:Banco:Abanca                  -2878.89 EUR
+    Expenses:Viaje:Hotel
+
+2022-03-03 * "Yoga Jana"
+    Assets:EUR:Banco:Jana                         -30 EUR
+    Expenses:Deporte
+
+2022-03-01 * "Papa Iago"
+    Assets:EUR:Banco:DKB                          100 EUR
+    Liabilities:Deudas:Familia
+
+2022-03-01 * "BU"
+    Assets:EUR:Banco:DKB                       -48.15 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-03-01 * "Bitpiraten"
+    Assets:EUR:Banco:DKB                         -400 EUR
+    Expenses:Compras:Bitpiraten
+
+2022-03-01 * "Bausparen Jana"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-03-01 * "BAV"
+    Assets:EUR:Banco:DKB                         -260 EUR
+    Expenses:Gastos:Seguros:Rente
+
+2022-03-06 * "Gasolina"
+    Assets:EUR:Banco:Abanca                    -70.14 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2022-03-08 * "Goiko"
+    Assets:EUR:Banco:Abanca                     -33.5 EUR
+    Expenses:Salir:Restaurante
+
+2022-03-08 * "ING"
+    Assets:EUR:Banco:Abanca                      0.02 EUR
+    Income:Invest:Dividendos
+
+2022-03-08 * "ING"
+    Assets:EUR:Banco:Abanca                      0.91 EUR
+    Income:Invest:Dividendos
+
+2022-03-09 * "Transfer"
+    Assets:EUR:Banco:Abanca                     -1500 EUR
+    Assets:EUR:Banco:DKB
+
+; 2022-03-10 * "Airbnb familia Jana"
+;     Assets:EUR:Banco:Abanca                      600 EUR
+2022-03-11 * "Intereses Abanca grr"
+    Assets:EUR:Banco:Abanca                     -0.17 EUR
+    Expenses:Gastos:Banco:Intereses
+
+2022-03-12 * "Tarjetas de gracias Iago"
+    Assets:EUR:Banco:Abanca                    -57.14 EUR
+    Expenses:Compras:Regalos
+
+2022-03-12 * "Coche Boris" #extraordinario
+    Assets:EUR:Banco:Abanca                      -300 EUR
+    Expenses:Compras:Coche
+
+2022-03-14 * "Jana"
+    Assets:EUR:Banco:Abanca                      2000 EUR
+    Income:Salario:Jana
+
+2022-03-14 * "Burger King"
+    Assets:EUR:Banco:Abanca                    -10.25 EUR
+    Expenses:Salir:Restaurante
+
+2022-03-15 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2022-03-15 * "XXX"
+    Assets:EUR:Banco:Abanca                    -17.38 EUR
+    Expenses:Perdido
+
+2022-03-16 * "Just Eat"
+    Assets:EUR:Banco:Abanca                     -36.5 EUR
+    Expenses:Salir:Restaurante
+
+2022-03-16 * "Lowi"
+    Assets:EUR:Banco:Abanca                       -32 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+
+2022-03-16 * "DGT Boris"
+    Assets:EUR:Banco:Abanca                     -8.67 EUR
+    Expenses:Compras:Coche
+
+2022-03-17 * "Leo"
+    Assets:EUR:Banco:Abanca                     15000 EUR
+    Income:Salario:Leo
+
+2022-03-17 * "Leo"
+    Assets:EUR:Banco:Abanca                      6900 EUR
+    Income:Salario:Leo
+
+2022-03-17 * "Naturgy"
+    Assets:EUR:Banco:Abanca                   -237.53 EUR
+    Expenses:Gastos:Casa:Luz                   103.53 EUR
+    Expenses:Gastos:Casa:Gas                      134 EUR
+
+2022-03-18 * "Peajes"
+    Assets:EUR:Banco:Abanca                   -100.25 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2022-03-19 * "Just Eat"
+    Assets:EUR:Banco:Abanca                     -84.6 EUR
+    Expenses:Salir:Restaurante
+
+2022-03-19 * "Boris" #extraordinario
+    Assets:EUR:Banco:Abanca                    -21600 EUR
+    Expenses:Compras:Coche
+
+2022-03-19 * "Bizum Masaje"
+    Assets:EUR:Banco:Abanca                      -140 EUR
+    Assets:EUR:Deudas
+
+2022-03-20 balance Assets:EUR:Banco:Abanca    5013.44 EUR
+
+2022-03-14 * "Lotería"
+    Assets:EUR:Banco:DKB                           -5 EUR
+    Expenses:Lujo
+
+2022-03-15 * "Bausparen"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Assets:Invest:Bausparen
+
+2022-03-17 * "Certificado Nacimiento Consulado Hamburgo"
+    Assets:EUR:Banco:Leo                         -4.6 EUR
+    Expenses:Gastos:Administracion
+
+2022-03-20 * "Mullvad"
+    Assets:EUR:Banco:Leo                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-03-20 * "Wallapop Petos"
+    Assets:EUR:Banco:Jana                       -8.45 EUR
+    Expenses:Compras:Bebe
+
+2022-03-20 * "Wallapop Petos"
+    Assets:EUR:Banco:Jana                      -12.45 EUR
+    Expenses:Compras:Bebe
+
+2022-03-20 * "Wallapop Petos"
+    Assets:EUR:Banco:Jana                      -11.45 EUR
+    Expenses:Compras:Bebe
+
+2022-03-20 * "Morriña"
+    Assets:EUR:Banco:Abanca                       -94 EUR
+    Expenses:Salir:Restaurante
+
+2022-03-22 * "Glovo Anduriña"
+    Assets:EUR:Banco:Abanca                     -8.99 EUR
+    Expenses:Salir:Restaurante
+
+2022-03-22 * "Seguro Coche"
+    Assets:EUR:Banco:Abanca                   -548.23 EUR
+    Expenses:Gastos:Coche:Seguro
+
+2022-03-22 * "Bizum Masaje"
+    Assets:EUR:Banco:Abanca                       140 EUR
+    Assets:EUR:Deudas
+
+
+2022-03-23 * "Just Eat Pizza"
+    Assets:EUR:Banco:Abanca                     -27.6 EUR
+    Expenses:Salir:Restaurante
+
+2022-03-23 * "Renfe" #madrid2022
+    Assets:EUR:Banco:Abanca                    -197.4 EUR
+    Expenses:Transporte:Tren
+
+2022-03-24 * "Goiko"
+    Assets:EUR:Banco:Abanca                     -40.8 EUR
+    Expenses:Salir:Restaurante
+
+2022-03-25 * "Parking Santiago"
+    Assets:EUR:Banco:Abanca                     -0.85 EUR
+    Expenses:Gastos:Coche:Parking
+
+2022-03-26 * "Amazon Telepeaje Chisme"
+    Assets:EUR:Banco:Abanca                     -9.94 EUR
+    Expenses:Compras:Utilidades
+
+2022-03-26 * "Goiko"
+    Assets:EUR:Banco:Abanca                     -35.5 EUR
+    Expenses:Salir:Restaurante
+
+2022-03-15 * "MSCI World"
+    Assets:Invest:Depot:MSCI                   1.1998 A2H59Q {2022-03-15} @@ 500 EUR
+    Assets:EUR:Banco:DKB                      -500.49 EUR
+    Expenses:Gastos:Banco:Fondos                 0.49 EUR
+
+2022-03-15 * "Lyxor New Energy"
+    Assets:EUR:Banco:DKB                         -500 EUR
+    Assets:Invest:Depot:NewEnergy             12.3503 LYX0CB {2022-02-15}
+
+2022-03-26 * "Audible"
+    Assets:EUR:Banco:Abanca                     -9.99 EUR
+    Expenses:Compras:Medios:Libros
+
+2022-03-31 * "Booking Hotel" #semanasanta2022
+    Assets:EUR:Banco:Abanca                      -121 EUR
+    Expenses:Viaje:Hotel
+
+2022-04-03 * "Gasolina"
+    Assets:EUR:Banco:Abanca                    -88.65 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2022-04-04 * "Club del Mar"
+    Assets:EUR:Banco:Abanca                    -60.68 EUR
+    Expenses:Deporte
+
+2022-04-06 * "Airbnb Francia 1" #alemania2022
+    Assets:EUR:Banco:Abanca                     -58.7 EUR
+    Expenses:Viaje:Hotel
+
+2022-04-06 * "Airbnb Francia 2" #alemania2022
+    Assets:EUR:Banco:Abanca                       -50 EUR
+    Expenses:Viaje:Hotel
+
+2022-04-06 * "Jack White"
+    Assets:EUR:Banco:Abanca                     -48.5 EUR
+    Expenses:Salir:Conciertos
+
+2022-04-06 * "Impuestos Berta"
+    Assets:EUR:Banco:Abanca                     -60.8 EUR
+    Expenses:Gastos:Coche:Otros
+
+2022-04-06 * "Lagar da Estrela"
+    Assets:EUR:Banco:Abanca                       -80 EUR
+    Expenses:Salir:Restaurante
+
+2022-04-07 * "Goiko"
+    Assets:EUR:Banco:Abanca                     -40.5 EUR
+    Expenses:Salir:Restaurante
+
+2022-03-31 * "Lotería"
+    Assets:EUR:Banco:DKB                        -15.4 EUR
+    Expenses:Lujo
+
+2022-04-01 * "BU"
+    Assets:EUR:Banco:DKB                       -48.15 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-04-01 * "Bitpiraten"
+    Assets:EUR:Banco:DKB                         -400 EUR
+    Expenses:Compras:Bitpiraten
+
+2022-04-01 * "bAV"
+    Assets:EUR:Banco:DKB                         -260 EUR
+    Expenses:Gastos:Seguros:Rente
+
+2022-04-01 * "Bausparen Jana"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-04-07 * "Alquiler"
+    Assets:EUR:Efectivo:Leo                      -680 EUR ; Alquiler
+    Assets:EUR:Efectivo:Leo                      -394 EUR ; Seguro
+    Assets:EUR:Deudas                           -3400 EUR
+    Assets:EUR:Efectivo:Leo                      3400 EUR
+    Expenses:Gastos:Alquiler
+
+2022-04-08 * "Jana Yoga"
+    Assets:EUR:Banco:Jana                         -30 EUR
+    Expenses:Deporte
+
+2022-04-09 * "Taller pintura Jana+Leo"
+    Assets:EUR:Banco:Abanca                       -90 EUR
+    Expenses:Salir:Museo
+
+2022-04-12 * "Uni Sara+Antón"
+    Assets:EUR:Banco:Abanca                     -14.5 EUR
+    Expenses:Salir:Cafe
+
+2022-04-13 * "Booking" #semanasanta2022
+    Assets:EUR:Banco:Abanca                       121 EUR
+    Expenses:Viaje:Hotel
+
+2022-04-13 * "Booking" #semanasanta2022
+    Assets:EUR:Banco:Abanca                      -184 EUR
+    Expenses:Viaje:Hotel
+
+2022-04-13 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2022-04-13 * "Goiko"
+    Assets:EUR:Banco:Abanca                     -37.9 EUR
+    Expenses:Salir:Restaurante
+
+2022-04-14 * "Barco Cañón do Sil" #semanasanta2022
+    Assets:EUR:Banco:Abanca                       -36 EUR
+    Expenses:Viaje:Tour
+
+2022-04-14 * "Leo"
+    Assets:EUR:Banco:Abanca                      3000 EUR
+    Income:Salario:Leo
+
+2022-04-15 * "Amazon Cosas bebé"
+    Assets:EUR:Banco:Abanca                   -125.32 EUR
+    Expenses:Compras:Bebe
+
+2022-04-15 * "Podcast Go"
+    Assets:EUR:Banco:Abanca                     -3.29 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-04-17 * "Pijama Punti"
+    Assets:EUR:Banco:Abanca                        -8 EUR
+    Expenses:Compras:Bebe
+
+2022-04-18 * "Transfer"
+    Assets:EUR:Banco:Abanca                      -700 EUR
+    Assets:EUR:Banco:DKB
+
+2022-04-19 * "Jana"
+    Assets:EUR:Banco:Abanca                      2000 EUR
+    Income:Salario:Jana
+
+2022-04-19 * "Bausparen"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Assets:Invest:Bausparen
+
+2022-04-19 * "Mullvad"
+    Assets:EUR:Banco:Leo                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-04-19 * "Berta Andrea"
+    Assets:EUR:Banco:Abanca                      3000 EUR
+    Expenses:Compras:Coche
+
+2022-04-20 * "Lowi"
+    Assets:EUR:Banco:Abanca                    -32.33 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+
+2022-04-01 * "Just Eat Goiko"
+    Assets:EUR:Banco:Abanca                    -31.45 EUR
+    Expenses:Salir:Restaurante
+
+2022-04-22 * "Glovo Goiko"
+    Assets:EUR:Banco:Abanca                    -59.78 EUR
+    Expenses:Salir:Restaurante
+
+2022-04-22 * "Steam Planet Coaster"
+    Assets:EUR:Banco:Abanca                     -9.49 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-04-22 * "Burguer King"
+    Assets:EUR:Banco:Abanca                    -17.95 EUR
+    Expenses:Salir:Restaurante
+
+2022-04-24 * "Transfer"
+    Assets:EUR:Banco:Abanca                     -1500 EUR
+    Assets:EUR:Banco:DKB
+
+2022-04-27 * "Amazon NursiCare"
+    Assets:EUR:Banco:Abanca                    -63.99 EUR
+    Expenses:Gastos:Bebe
+
+2022-04-27 * "GOG.com Parkitect"
+    Assets:EUR:Banco:Abanca                    -24.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-04-27 * "Glovo Anduriña"
+    Assets:EUR:Banco:Abanca                     -8.99 EUR
+    Expenses:Salir:Restaurante
+
+2022-04-27 * "Wallapop Trona Bebé"
+    Assets:EUR:Banco:Abanca                    -13.45 EUR
+    Expenses:Compras:Bebe
+
+2022-04-27 * "Wallapop Brick Party"
+    Assets:EUR:Banco:Abanca                    -13.45 EUR
+    Expenses:Compras:Medios:Juegos
+
+2022-04-30 * "DHL"
+    Assets:EUR:Banco:Abanca                    -14.98 EUR
+    Expenses:Compras:Regalos
+
+2022-05-01 * "Gasolina"
+    Assets:EUR:Banco:Abanca                    -92.86 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2022-05-03 * "Just Eat Goiko"
+    Assets:EUR:Banco:Abanca                    -36.95 EUR
+    Expenses:Salir:Restaurante
+
+2022-05-03 * "Audible"
+    Assets:EUR:Banco:Abanca                     -9.99 EUR
+    Expenses:Compras:Medios:Libros
+
+2022-05-03 * "Club del Mar"
+    Assets:EUR:Banco:Abanca                     -36.7 EUR
+    Expenses:Deporte
+
+2022-05-04 * "Paypal Bolsa Timbuk2"
+    Assets:EUR:Banco:Abanca                   -167.99 EUR
+    Expenses:Compras:Ropa
+
+2022-05-04 * "Just Eat Goiko"
+    Assets:EUR:Banco:Abanca                    -16.05 EUR
+    Expenses:Salir:Restaurante
+
+2022-05-04 * "Just Eat Goiko"
+    Assets:EUR:Banco:Abanca                    -33.95 EUR
+    Expenses:Salir:Restaurante
+
+2022-04-21 * "Lyxor New Energy"
+    Assets:EUR:Banco:DKB                         -500 EUR
+    Assets:Invest:Depot:NewEnergy             12.3213 LYX0CB {2022-04-21}
+
+2022-04-21 * "MSCI World"
+    Assets:Invest:Depot:MSCI                   1.1843 A2H59Q {2022-04-21} @@ 500 EUR
+    Assets:EUR:Banco:DKB                      -500.49 EUR
+    Expenses:Gastos:Banco:Fondos                 0.49 EUR
+
+2022-04-27 * "Lotería"
+    Assets:EUR:Banco:DKB                        -16.2 EUR
+    Expenses:Lujo
+
+2022-05-01 * "BU"
+    Assets:EUR:Banco:DKB                       -48.15 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-05-01 * "Bitpiraten"
+    Assets:EUR:Banco:DKB                         -400 EUR
+    Expenses:Compras:Bitpiraten
+
+2022-05-01 * "bAV"
+    Assets:EUR:Banco:DKB                         -260 EUR
+    Expenses:Gastos:Seguros:Rente
+
+2022-05-01 * "Bausparen Jana"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-05-04 * "Tabea"
+    Assets:EUR:Banco:DKB                          450 EUR
+    Assets:EUR:Deudas
+
+2022-05-05 * "Lentillas Leo"
+    Assets:EUR:Banco:Abanca                   -111.92 EUR
+    Expenses:Compras:Utilidades
+
+2022-05-05 * "Lentillas Jana"
+    Assets:EUR:Banco:Abanca                    -42.46 EUR
+    Expenses:Compras:Utilidades
+
+2022-05-06 * "Yoga Jana"
+    Assets:EUR:Banco:Jana                         -30 EUR
+    Expenses:Deporte
+
+2022-05-05 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -31.15 EUR
+    Expenses:Salir:Restaurante
+
+2022-05-06 * "Tabea"
+    Assets:EUR:Banco:DKB                       1825.1 EUR
+    Income:Invest:Intereses                     -47.8 EUR
+    Assets:EUR:Deudas
+2022-05-09 * "Pagatelia"
+    Assets:EUR:Banco:Abanca                   -100.25 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2022-05-10 * "Ingresos"
+    Assets:EUR:Banco:Abanca                     10000 EUR
+    Income:Salario:Leo
+    Income:Salario:Jana                      -3019.13 EUR ; impuestos de jana que yo no pago
+
+2022-05-10 * "Regalo Eltistag"
+    Assets:EUR:Banco:Jana                         -10 EUR
+    Expenses:Compras:Regalos
+
+2022-05-10 * "Balm You"
+    Assets:EUR:Banco:Jana                       -87.6 EUR
+    Expenses:Compras:Utilidades
+
+2022-05-12 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -39.25 EUR
+    Expenses:Salir:Restaurante
+
+2022-05-12 * "Amazon Bañadores Punti"
+    Assets:EUR:Banco:Abanca                    -63.97 EUR
+    Expenses:Compras:Bebe
+
+2022-05-12 * "Ingreso Leo"
+    Assets:EUR:Banco:Sabadell                    3000 EUR
+    Income:Salario:Leo
+
+2022-05-12 * "Tasación Piso" #extraordinario
+    Assets:EUR:Banco:Sabadell                 -477.95 EUR
+    Expenses:Compras:Piso
+
+2022-05-13 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2022-05-14 * "Prado" #madrid2022
+    Assets:EUR:Banco:Abanca                       -80 EUR
+    Expenses:Salir:Museo
+
+2022-05-16 * "Lowi"
+    Assets:EUR:Banco:Abanca                     -31.9 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+
+2022-05-16 * "Nota simple Piso" #extraordinario
+    Assets:EUR:Banco:Sabadell                  -50.82 EUR
+    Expenses:Compras:Piso
+
+2022-05-17 * "Tarjeta Millenium"
+    Assets:EUR:Banco:Abanca                       -10 EUR
+    Expenses:Transporte:Bus
+
+2022-05-17 * "Tarjeta Millenium"
+    Assets:EUR:Banco:Abanca                       -10 EUR
+    Expenses:Transporte:Bus
+
+2022-05-17 * "Garantía"
+    Assets:EUR:Banco:Abanca                    -10000 EUR
+    Assets:Piso:Tui
+
+2022-05-18 * "Food Tour Madrid" #madrid2022
+    Assets:EUR:Banco:Abanca                   -272.89 EUR
+    Expenses:Viaje:Tour
+
+2022-05-18 * "Transferencia"
+    Assets:EUR:Banco:Abanca                     -3000 EUR
+    Assets:EUR:Banco:Sabadell
+
+2022-05-18 * "Transferencia"
+    Assets:EUR:Banco:DKB                        -4000 EUR
+    Assets:EUR:Banco:Sabadell
+
+2022-05-18 * "Transfer"
+    Assets:EUR:Banco:DKB                       786.08 EUR
+    Assets:EUR:Banco:Jana
+
+2022-05-18 * "Transfer"
+    Assets:EUR:Banco:DKB                       1037.6 EUR
+    Assets:EUR:Banco:Leo
+
+2022-05-16 * "Bausparen"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Assets:Invest:Bausparen
+
+2022-05-18 * "Regalo Jana"
+    Assets:EUR:Efectivo:Jana                      300 EUR
+    Income:Regalos
+
+2022-05-19 * "Ingreso Leo"
+    Assets:EUR:Banco:Sabadell                   11000 EUR
+    Income:Salario:Leo
+
+2022-05-23 * "Dinero Padres Jana"
+    Assets:EUR:Banco:Sabadell                   50000 EUR
+    Liabilities:Deudas:Familia
+
+2022-05-19 * "Naturgy"
+    Assets:EUR:Banco:Abanca                   -336.15 EUR
+    Expenses:Gastos:Casa:Gas                   219.35 EUR
+    Expenses:Gastos:Casa:Luz                    116.8 EUR
+
+2022-05-20 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -39.25 EUR
+    Expenses:Salir:Restaurante
+
+2022-05-24 * "Wallapop"
+    Assets:EUR:Banco:Abanca                     -9.45 EUR
+    Expenses:Compras:Bebe
+
+2022-05-25 * "GOG.com Old World"
+    Assets:EUR:Banco:Abanca                    -35.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-05-25 * "Uber Eats Pepita"
+    Assets:EUR:Banco:Abanca                    -37.64 EUR
+    Expenses:Salir:Restaurante
+
+2022-05-24 * "Mullvad"
+    Assets:EUR:Banco:DKB                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-05-26 * "Transfer"
+    Assets:EUR:Efectivo:Leo                      -300 EUR
+    Assets:EUR:Efectivo:Jana
+
+2022-05-27 * "Dividendos"
+    Assets:EUR:Banco:DKB                        29.95 EUR
+    Income:Invest:Dividendos
+
+2022-05-30 * "Bausparen Kontogebühr"
+    Expenses:Gastos:Banco:General
+    Assets:Invest:Bausparen                         6 EUR
+
+
+
+2022-05-30 * "Intereses"
+    Assets:Invest:Bausparen                     25.49 EUR
+    Income:Invest:Intereses
+2022-05-30 * "Intereses"
+    Assets:Invest:Bausparen
+    Income:Impuestos                             0.35 EUR
+2022-05-30 * "Intereses"
+    Assets:Invest:Bausparen
+    Income:Impuestos                             6.37 EUR
+
+
+2022-06-01 * "Rente"
+    Assets:EUR:Banco:DKB                         -260 EUR
+    Expenses:Gastos:Seguros:Rente
+
+2022-06-01 * "BU"
+    Assets:EUR:Banco:DKB                       -48.15 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-06-01 * "bitpiraten"
+    Assets:EUR:Banco:DKB                         -400 EUR
+    Expenses:Compras:Bitpiraten
+
+2022-06-01 * "Bausparen Auszahlung"
+    Assets:EUR:Banco:DKB                      6266.79 EUR
+    Assets:Invest:Bausparen
+
+2022-05-26  * "Just Eat Thai Market"
+    Assets:EUR:Banco:Abanca                     -21.7 EUR
+    Expenses:Salir:Restaurante
+
+2022-05-26 * "Agua"
+    Assets:EUR:Banco:Abanca                    -48.41 EUR
+    Expenses:Gastos:Casa:Agua
+
+2022-05-28 * "Steam Wreckfest"
+    Assets:EUR:Banco:Abanca                    -13.96 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-06-01 * "Green Stories Johannes"
+    Assets:EUR:Banco:Abanca                    -36.45 EUR
+    Expenses:Compras:Regalos
+
+2022-06-01 * "Bio Kinder Johannes"
+    Assets:EUR:Banco:Abanca                     -22.2 EUR
+    Expenses:Compras:Regalos
+
+2022-06-01 * "Just Eat Goiko?"
+    Assets:EUR:Banco:Abanca                    -38.09 EUR
+    Expenses:Salir:Restaurante
+
+2022-06-01 * "Audible"
+    Assets:EUR:Banco:Abanca                     -9.99 EUR
+    Expenses:Compras:Medios:Libros
+
+2022-05-26 * "Seguro Hogar"
+    Assets:EUR:Banco:Sabadell                 -280.58 EUR
+    Expenses:Gastos:Seguros:Hogar
+2022-05-27 * "Seguro Hogar"
+    Assets:EUR:Banco:Sabadell                 -273.13 EUR
+    Assets:EUR:Deudas
+
+2022-05-27 * "Préstamo mamá"
+    Assets:EUR:Banco:Sabadell                    5000 EUR
+    Liabilities:Deudas:Familia
+
+2022-05-31 * "Seguro Hogar"
+    Assets:EUR:Banco:Sabadell                  273.13 EUR
+    Assets:EUR:Deudas
+
+2022-05-31 * "Préstamo mamá"
+    Assets:EUR:Banco:Sabadell                    5000 EUR
+    Liabilities:Deudas:Familia
+
+2022-06-02 * "Transfer"
+    Assets:EUR:Banco:Sabadell                    5000 EUR
+    Assets:EUR:Banco:DKB
+
+2022-06-02 * "Alquiler"
+    Assets:EUR:Banco:Sabadell                    -680 EUR
+    Expenses:Gastos:Alquiler
+
+2022-06-09 * "Nota simple Piso 2" #extraordinario
+    Assets:EUR:Banco:Sabadell                  -50.82 EUR
+    Expenses:Compras:Piso
+
+2022-06-03 * "Primavera"
+    Liabilities:TC:Leo                             -8 EUR
+    Expenses:Salir:Copas
+2022-06-03 * "Primavera"
+    Liabilities:TC:Leo                           -6.5 EUR
+    Expenses:Salir:Copas
+2022-06-03 * "Tranvía Barcelona"
+    Liabilities:TC:Leo                           -2.4 EUR
+    Expenses:Transporte:Bus
+2022-06-03 * "Primavera"
+    Liabilities:TC:Leo                             -9 EUR
+    Expenses:Salir:Copas
+2022-06-04 * "Primavera"
+    Liabilities:TC:Leo                           -4.5 EUR
+    Expenses:Salir:Copas
+2022-06-04 * "Primavera"
+    Liabilities:TC:Leo                           -8.5 EUR
+    Expenses:Salir:Copas
+2022-06-05 * "Primavera"
+    Liabilities:TC:Leo                           -3.5 EUR
+    Expenses:Compras:Alimentos
+2022-06-05 * "Primavera"
+    Liabilities:TC:Leo                             -3 EUR
+    Expenses:Salir:Copas
+
+2022-06-07 * "Tranvía Barcelona"
+    Liabilities:TC:Leo                           -2.4 EUR
+    Expenses:Transporte:Bus
+2022-06-07 * "RHCP"
+    Liabilities:TC:Leo                          -14.6 EUR
+    Expenses:Salir:Copas
+
+2022-06-08 * "McDonald's"
+    Liabilities:TC:Leo                             -7 EUR
+    Expenses:Salir:Restaurante
+
+2022-06-09 * "Burger King"
+    Liabilities:TC:Leo                           -1.5 EUR
+    Expenses:Salir:Restaurante
+2022-06-09 * "Burger King"
+    Liabilities:TC:Leo                           -1.5 EUR
+    Expenses:Salir:Restaurante
+
+2022-06-09 * "Gasolina"
+    Liabilities:TC:Leo                            -98 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2022-06-09 * "Gasolina"
+    Liabilities:TC:Leo                         -13.76 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2022-06-02 * "Club Del Mar"
+    Assets:EUR:Banco:Abanca                     -36.7 EUR
+    Expenses:Deporte
+
+2022-06-03 * "Hostal Lami"
+    Assets:EUR:Banco:Abanca                    -449.9 EUR
+    Expenses:Viaje:Hotel
+2022-06-03 * "Hostal Lami"
+    Assets:EUR:Banco:Abanca                       -45 EUR
+    Expenses:Viaje:Hotel
+
+2022-06-03 * "Burger King"
+    Assets:EUR:Banco:Abanca                     -10.4 EUR
+    Expenses:Salir:Restaurante
+
+2022-06-03 * "Sagrada Familia"
+    Assets:EUR:Banco:Abanca                       -78 EUR
+    Expenses:Salir:Museo
+
+2022-06-05 * "Etíope Barcelona"
+    Assets:EUR:Banco:Abanca                       -36 EUR
+    Expenses:Salir:Restaurante
+
+2022-06-06 * "Ingresos Jana"
+    Assets:EUR:Banco:Abanca                      2000 EUR
+    Income:Salario:Jana
+
+2022-06-06 * "Flax&Kale"
+    Assets:EUR:Banco:Abanca                        24 EUR
+    Expenses:Salir:Restaurante
+
+2022-06-06 * "asiatico"
+    Assets:EUR:Banco:Abanca                       -43 EUR
+    Expenses:Salir:Restaurante
+
+2022-06-06 * "Bounce Barcelona Consigna"
+    Assets:EUR:Banco:Abanca                     -6.65 EUR
+    Expenses:Viaje:Otro
+
+2022-06-08 * "Peaje"
+    Assets:EUR:Banco:Abanca                    -99.25 EUR
+    Expenses:Gastos:Coche:Peaje
+2022-06-10 * "No Sé"
+    Assets:EUR:Banco:Abanca                        -6 EUR
+    Expenses:Perdido
+2022-06-10 * "Intereses Abanca"
+    Assets:EUR:Banco:Abanca                     -0.01 EUR
+    Expenses:Gastos:Banco:Intereses
+
+2022-06-02 * "Bausparen"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-06-13 * "DM"
+    Assets:EUR:Banco:DKB                       -37.35 EUR
+    Expenses:Compras:Bebe
+
+2022-06-13 * "McDonald's"
+    Assets:EUR:Banco:DKB                       -12.28 EUR
+    Expenses:Salir:Restaurante
+
+2022-06-13 * "McDonald's"
+    Assets:EUR:Banco:DKB                        -9.09 EUR
+    Expenses:Salir:Restaurante
+
+2022-06-08 * "Yoga Jana"
+    Assets:EUR:Banco:Jana                          -4 EUR
+    Expenses:Deporte
+
+2022-06-14 * "Cheque 1"
+    Assets:EUR:Banco:Sabadell                 -102795 EUR
+    Assets:Piso:Tui
+
+2022-06-14 * "Cheque 2"
+    Assets:EUR:Banco:Sabadell                 -102795 EUR
+    Assets:Piso:Tui
+
+2022-06-14 * "Cheque 3"
+    Assets:EUR:Banco:Sabadell               -98202.36 EUR
+    Assets:Piso:Tui
+
+2022-06-14 * "Parte que falta piso"
+    Assets:EUR:Banco:Sabadell                   -1616 EUR
+    Assets:Piso:Tui
+
+2022-06-14 * "Income Leo"
+    Assets:EUR:Banco:Sabadell                    4000 EUR
+    Income:Salario:Leo
+
+2022-06-15 * "Income Leo"
+    Assets:EUR:Banco:Sabadell                    3000 EUR
+    Income:Salario:Leo
+
+2022-06-15 * "Crédito piso tui"
+    Assets:EUR:Banco:Sabadell               268830.30 EUR
+    Liabilities:Deudas:Banco
+
+2022-06-15 * "Apertura Crédito" #extraordinario
+    Assets:EUR:Banco:Sabadell                    -750 EUR
+    Expenses:Compras:Piso
+
+2022-06-15 * "Bahn Sitzplatz"
+    Assets:EUR:Banco:Abanca                        -4 EUR
+    Expenses:Transporte:Tren
+
+2022-06-15 * "Bahn Ticket"
+    Assets:EUR:Banco:Abanca                    -142.9 EUR
+    Assets:EUR:Deudas                           38.75 EUR
+    Expenses:Transporte:Tren                   104.15 EUR
+
+2022-06-15 * "Bahn BahnCard"
+    Assets:EUR:Banco:Abanca                     -72.9 EUR
+    Expenses:Transporte:Tren
+
+2022-06-16 * "Burger King"
+    Assets:EUR:Banco:Abanca                     -21.5 EUR
+    Expenses:Salir:Restaurante
+
+2022-06-16 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+
+2022-06-16 * "Impuestos piso" #extraordinario
+    Assets:EUR:Banco:Sabadell                  -28800 EUR
+    Expenses:Compras:Piso
+2022-06-16 * "Notaría piso" #extraordinario
+    Assets:EUR:Banco:Sabadell                   -1450 EUR
+    Expenses:Compras:Piso
+2022-06-16 * "Registro piso" #extraordinario
+    Assets:EUR:Banco:Sabadell                    -950 EUR
+    Expenses:Compras:Piso
+2022-06-16 * "Gestión piso" #extraordinario
+    Assets:EUR:Banco:Sabadell                 -441.65 EUR
+    Expenses:Compras:Piso
+2022-06-16 * "Provision no residente"
+    Assets:EUR:Banco:Sabadell                -1391.64 EUR
+    Assets:Piso:Tui
+2022-06-16 * "Impuesto no residente"
+    Assets:EUR:Banco:Sabadell                   -3200 EUR
+    Assets:Piso:Tui
+2022-06-17 * "Lowi"
+    Assets:EUR:Banco:Abanca                       -32 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+2022-06-20 * "Visado US"
+    Assets:EUR:Banco:Abanca                    -502.9 EUR
+    Income:Salario:Leo
+2022-06-21 * "JGA Johannes"
+    Assets:EUR:Banco:Abanca                   -235.53 EUR
+    Expenses:Compras:Regalos
+2022-06-19 * "Mullvad"
+    Assets:EUR:Banco:Leo                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+2022-06-19 * "9 Euro Ticket"
+    Assets:EUR:Banco:Jana                          -9 EUR
+    Expenses:Transporte:Tren
+2022-06-15 * "dm"
+    Assets:EUR:Banco:DKB                        -31.2 EUR
+    Expenses:Compras:Utilidades
+
+2022-06-17 * "Seguro Vida piso" #extraordinario
+    Assets:EUR:Banco:Sabadell                -7471.89 EUR
+    Expenses:Compras:Piso                     4625.29 EUR
+    Assets:EUR:Deudas                         2846.60 EUR
+2022-06-17 * "Seguro Vida piso" #extraordinario
+    Assets:EUR:Banco:Sabadell                -7471.89 EUR
+    Expenses:Compras:Piso                     4625.29 EUR
+    Assets:EUR:Deudas                         2846.60 EUR
+2022-06-20 * "Seguro protección de pagos piso" #extraordinario
+    Assets:EUR:Banco:Sabadell                -3576.23 EUR
+    Expenses:Compras:Piso
+2022-06-21 * "Lyxor New Energy"
+    Assets:EUR:Banco:DKB                         -500 EUR
+    Assets:Invest:Depot:NewEnergy             13.6147 LYX0CB {2022-06-21}
+
+2022-06-21 * "MSCI World"
+    Assets:Invest:Depot:MSCI                   1.3692 A2H59Q {2022-06-21} @@ 500 EUR
+    Assets:EUR:Banco:DKB                      -500.49 EUR
+    Expenses:Gastos:Banco:Fondos                 0.49 EUR
+
+2022-06-23 * "Sabadell negativo"
+    Assets:EUR:Banco:Sabadell                     -28 EUR
+    Assets:EUR:Deudas
+
+2022-06-24 * "Puto sabadell"
+    Assets:EUR:Banco:Sabadell                    1000 EUR
+    Income:Salario:Leo
+
+2022-06-24 * "Sabadell negativo"
+    Assets:EUR:Banco:Sabadell                  -42.54 EUR
+    Assets:EUR:Deudas
+
+2022-06-28 * "Puto sabadell"
+    Assets:EUR:Banco:Sabadell                    1500 EUR
+    Income:Salario:Leo
+
+2022-06-30 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell                 -173.25 EUR
+    Expenses:Compras:Piso:Intereses
+
+2022-06-30 * "TC"
+    Assets:EUR:Banco:Sabadell                 -184.16 EUR
+    Liabilities:TC:Leo
+
+
+2022-06-23 * "Pan"
+    Assets:EUR:Banco:DKB                         -4.2 EUR
+    Expenses:Salir:Restaurante
+
+2022-06-23 * "Powerbank"
+    Assets:EUR:Banco:DKB                          -35 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-06-23 * "Snipes"
+    Assets:EUR:Banco:DKB                       -99.99 EUR
+    Expenses:Compras:Ropa
+
+2022-06-23 * "Pull&Bear"
+    Assets:EUR:Banco:DKB                      -119.08 EUR
+    Expenses:Compras:Ropa
+
+2022-06-23 * "Scotch&Soda"
+    Assets:EUR:Banco:DKB                      -146.92 EUR
+    Expenses:Compras:Ropa
+
+2022-06-24 * "TC"
+    Assets:EUR:Banco:DKB                           -5 EUR
+    Assets:EUR:Banco:Leo
+
+2022-06-24 * "TC"
+    Assets:EUR:Banco:DKB                          -13 EUR
+    Assets:EUR:Banco:Jana
+
+2022-06-27 * "Transferencia"
+    Assets:EUR:Banco:Abanca                      -400 EUR
+    Assets:EUR:Banco:DKB
+
+2022-06-27 * "DB Asiento"
+    Assets:EUR:Banco:Leo                         -4.5 EUR
+    Expenses:Transporte:Tren
+
+
+2022-06-22 * "Amazon Auris nuevos"
+    Assets:EUR:Banco:Abanca                    -79.99 EUR
+    Assets:EUR:Deudas
+
+2022-06-23 * "DB 9 Euro Ticket"
+    Assets:EUR:Banco:Abanca                        -4 EUR
+    Expenses:Transporte:Tren
+
+2022-06-29 * "Tren Kiel"
+    Assets:EUR:Banco:Abanca                    -79.85 EUR
+    Assets:EUR:Deudas
+
+2022-07-01 * "Tren Dortmund"
+    Assets:EUR:Banco:Leo                       -49.75 EUR
+    Expenses:Transporte:Tren
+
+2022-07-01 * "BU"
+    Assets:EUR:Banco:DKB                       -48.15 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-07-01 * "Signal Iduna"
+    Assets:EUR:Banco:DKB                         -260 EUR
+    Expenses:Gastos:Seguros:Rente
+
+2022-07-01 * "Jana"
+    Assets:EUR:Banco:DKB                         -300 EUR
+    Assets:EUR:Efectivo:Jana
+
+2022-07-01 * "Bausparen"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-07-04 * "Rossmann"
+    Assets:EUR:Banco:DKB                        -2.95 EUR
+    Expenses:Compras:Utilidades
+
+2022-07-05 * "Transfer"
+    Assets:EUR:Banco:DKB                          400 EUR
+    Assets:EUR:Banco:Abanca
+
+2022-07-01 * "Audible"
+    Assets:EUR:Banco:Abanca                     -9.99 EUR
+    Expenses:Compras:Medios:Libros
+
+2022-07-01 * "Club del Mar"
+    Assets:EUR:Banco:Abanca                     -36.7 EUR
+    Expenses:Deporte
+
+2022-07-05 * "Leo"
+    Assets:EUR:Banco:Abanca                      2500 EUR
+    Income:Salario:Leo
+
+2022-07-05 * "Alquiler"
+    Assets:EUR:Banco:Abanca                      -680 EUR
+    Expenses:Gastos:Alquiler
+
+2022-07-06 * "Tren Dortmund"
+    Assets:EUR:Banco:Abanca                    -51.25 EUR
+    Expenses:Transporte:Tren
+
+2022-07-07 * "Rebtel"
+    Assets:EUR:Banco:Abanca                        -5 EUR
+    Expenses:Gastos:Movil
+
+2022-07-07 * "Amazon Strandmuschel, Kleiderding"
+    Assets:EUR:Banco:Abanca                    -53.97 EUR
+    Expenses:Compras:Utilidades
+
+2022-07-08 * "Transferencia"
+    Assets:EUR:Banco:Abanca                      -600 EUR
+    Assets:EUR:Banco:DKB
+
+2022-07-13 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2022-07-15 * "Chronos Principle Google Play"
+    Assets:EUR:Banco:Abanca                     -1.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-07-17 * "Transferencia"
+    Assets:EUR:Banco:Abanca                      -600 EUR
+    Assets:EUR:Banco:DKB
+
+2022-07-18 * "Lowi"
+    Assets:EUR:Banco:Abanca                     -31.9 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+
+2022-07-19 * "Leo"
+    Assets:EUR:Banco:Abanca                      1000 EUR
+    Income:Salario:Leo
+
+2022-07-20 * "Jonas Costa"
+    Assets:EUR:Banco:Abanca                      -100 EUR
+    Expenses:Salir:Restaurante
+
+2022-07-20 * "Jonas Costa"
+    Assets:EUR:Banco:Abanca                       -13 EUR
+    Expenses:Salir:Restaurante
+
+2022-07-07 * "Rewe"
+    Assets:EUR:Banco:DKB                       -78.93 EUR
+    Expenses:Compras:Alimentos
+
+2022-07-07 * "Panadería"
+    Assets:EUR:Banco:DKB                          -11 EUR
+    Expenses:Compras:Alimentos
+
+2022-07-08 * "Dividendos"
+    Assets:EUR:Banco:DKB                        53.17 EUR
+    Income:Invest:Dividendos
+
+2022-07-11 * "Löwenherz"
+    Assets:EUR:Banco:DKB                          -70 EUR
+    Expenses:Salir:Restaurante
+
+2022-07-12 * "9 Euro Ticket"
+    Assets:EUR:Banco:DKB                           -9 EUR
+    Expenses:Transporte:Tren
+
+2022-07-18 * "AdBlue"
+    Assets:EUR:Banco:DKB                       -29.99 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2022-07-18 * "Gasolina"
+    Assets:EUR:Banco:DKB                       -87.24 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2022-07-18 * "Rewe"
+    Assets:EUR:Banco:DKB                       -93.33 EUR
+    Expenses:Compras:Alimentos
+
+2022-07-18 * "McDonald's"
+    Assets:EUR:Banco:DKB                        -9.07 EUR
+    Expenses:Salir:Restaurante
+
+; 2022-07-14 * "Brothers & Sisters"
+;     Assets:EUR:Banco:DKB                          -40 EUR
+;     Expenses:Otros
+
+2022-07-19 * "Rewe"
+    Assets:EUR:Banco:DKB                       -33.51 EUR
+    Expenses:Compras:Alimentos
+
+2022-07-19 * "JGA Jana Melina"
+    Assets:EUR:Banco:DKB                          -75 EUR
+    Expenses:Compras:Regalos
+2022-07-19 * "Yoga Jana"
+    Assets:EUR:Banco:DKB                          -30 EUR
+    Expenses:Deporte
+2022-07-19 * "Jana"
+    Assets:EUR:Banco:DKB                         2500 EUR
+    Income:Salario:Jana
+
+2022-07-19 * "Bahn"
+    Assets:EUR:Banco:DKB                        38.75 EUR
+    Assets:EUR:Deudas
+
+2022-07-20 * "Seebar"
+    Assets:EUR:Banco:DKB                        -22.7 EUR
+    Expenses:Salir:Restaurante
+2022-07-21 * "Mullvad"
+    Assets:EUR:Banco:DKB                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-07-22 * "momox"
+    Assets:EUR:Banco:DKB                       121.09 EUR
+    Income:Invest:Dividendos
+
+2022-07-25 * "Lieferando burger Bank"
+    Assets:EUR:Banco:DKB                       -37.89 EUR
+    Expenses:Salir:Restaurante
+
+2022-07-25 * "9 Euro Ticket"
+    Assets:EUR:Banco:DKB                           -9 EUR
+    Expenses:Transporte:Tren
+
+2022-07-25 * "Brothers & Sisters"
+    Assets:EUR:Banco:DKB                          -40 EUR
+    Expenses:Otros
+
+2022-07-20 * "Naturgy"
+    Assets:EUR:Banco:Abanca                   -116.64 EUR
+    Expenses:Gastos:Casa:Gas                    38.55 EUR
+    Expenses:Gastos:Casa:Luz                    66.66 EUR
+    Expenses:Gastos:Casa:Luz                     3.33 EUR
+    Expenses:Gastos:Casa:Gas                      8.1 EUR
+
+2022-07-25 * "Nintendo Guacamelee 2"
+    Assets:EUR:Banco:Abanca                     -4.63 EUR
+    Expenses:Compras:Medios:Videojuegos
+2022-07-25 * "Nintendo Guacamelee"
+    Assets:EUR:Banco:Abanca                     -3.25 EUR
+    Expenses:Compras:Medios:Videojuegos
+2022-07-19 * "Sabadell"
+    Assets:EUR:Banco:Sabadell                   42.54 EUR
+    Assets:EUR:Deudas
+2022-07-19 * "Sabadell"
+    Assets:EUR:Banco:Sabadell                      28 EUR
+    Assets:EUR:Deudas
+2022-07-19 * "Sabadell"
+    Assets:EUR:Banco:Sabadell                 2846.60 EUR
+    Assets:EUR:Deudas
+2022-07-19 * "Sabadell"
+    Assets:EUR:Banco:Sabadell                 2846.60 EUR
+    Assets:EUR:Deudas
+
+2022-07-27 * "Auris Amazon"
+    Assets:EUR:Banco:Abanca                     79.99 EUR
+    Assets:EUR:Deudas
+
+2022-07-30 * "Classic Sudoku"
+    Assets:EUR:Banco:Abanca                     -5.49 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-08-01 * "Club del Mar"
+    Assets:EUR:Banco:Abanca                     -36.7 EUR
+    Expenses:Deporte
+
+2022-08-02 * "Audible"
+    Assets:EUR:Banco:Abanca                     -9.99 EUR
+    Expenses:Compras:Medios:Libros
+
+2022-08-03 * "Ingresos"
+    Assets:EUR:Banco:Abanca                      2500 EUR
+    Income:Salario:Leo
+
+2022-08-03 * "Alquiler"
+    Assets:EUR:Banco:Abanca                      -680 EUR
+    Expenses:Gastos:Alquiler
+
+2022-07-26 * "TC Leo"
+    Assets:EUR:Banco:DKB                       -54.25 EUR
+    Assets:EUR:Banco:Leo
+
+2022-08-01 * "Mamajun"
+    Assets:EUR:Banco:DKB                         -102 EUR
+    Expenses:Salir:Restaurante
+
+2022-08-01 * "BU"
+    Assets:EUR:Banco:DKB                       -48.15 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-08-01 * "Signal Iduna"
+    Assets:EUR:Banco:DKB                         -260 EUR
+    Expenses:Gastos:Seguros:Rente
+
+2022-08-02 * "Bausparen Jana"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-08-04 * "Bahn"
+    Assets:EUR:Banco:DKB                        79.85 EUR
+    Assets:EUR:Deudas
+
+2022-07-31 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell                -1291.06 EUR
+    Liabilities:Deudas:Banco                   966.22 EUR
+    Expenses:Compras:Piso:Intereses
+
+2022-08-10 * "Airbnb Kiel" #alemania2022
+    Assets:EUR:Banco:Abanca                  -1021.55 EUR
+    Expenses:Viaje:Hotel
+
+2022-08-15 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2022-08-15 * "Transferencia"
+    Assets:EUR:Banco:Sabadell                   -1000 EUR
+    Assets:EUR:Banco:DKB
+
+2022-08-16 * "Transferencia"
+    Assets:EUR:Banco:Sabadell                   -1000 EUR
+    Assets:EUR:Banco:DKB
+
+2022-08-11 * "Gasolinera"
+    Liabilities:TC:Leo                         -68.23 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2022-08-08 * "9 Euro Ticket"
+    Assets:EUR:Banco:DKB                           -9 EUR
+    Expenses:Transporte:Tren
+
+2022-08-09 * "Paypal Jana Yoga?"
+    Assets:EUR:Banco:DKB                          -26 EUR
+    Expenses:Deporte
+
+2022-08-09 * "Paypal Jana Yoga?"
+    Assets:EUR:Banco:DKB                           -7 EUR
+    Expenses:Deporte
+
+2022-08-10 * "Móvil Leo"
+    Assets:EUR:Banco:DKB                       -19.99 EUR
+    Expenses:Gastos:Movil
+
+2022-08-10 * "Zapatos Leo"
+    Assets:EUR:Banco:DKB                          -95 EUR
+    Expenses:Compras:Ropa
+
+2022-08-11 * "Móvil nuevo Moto"
+    Assets:EUR:Banco:DKB                      -234.99 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-08-18 * "Burger Bank"
+    Liabilities:TC:Leo                          -28.5 EUR
+    Expenses:Salir:Restaurante
+
+2022-08-19 * "Vino Johannes"
+    Liabilities:TC:Leo                           -282 EUR
+    Assets:EUR:Banco:DKB
+
+2022-08-23 * "Gofres"
+    Liabilities:TC:Leo                            -10 EUR
+    Expenses:Salir:Restaurante
+
+2022-08-23 * "Castello"
+    Liabilities:TC:Leo                           -4.4 EUR
+    Expenses:Salir:Cafe
+
+2022-08-23 * "Mullvad"
+    Assets:EUR:Banco:DKB                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-08-18 * "Lowi"
+    Assets:EUR:Banco:Abanca                     -31.9 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+
+2022-08-24 * "Telepeaje"
+    Assets:EUR:Banco:Abanca                   -125.25 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2022-08-26 * "Agua"
+    Assets:EUR:Banco:Abanca                    -41.73 EUR
+    Expenses:Gastos:Casa:Agua
+
+2022-08-30 * "DHL devolución móvil"
+    Assets:EUR:Banco:Abanca                     -5.99 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-08-30 * "Luz"
+    Assets:EUR:Banco:Abanca                     -21.7 EUR
+    Expenses:Gastos:Casa:Luz
+
+2022-08-31 * "Paga baja"
+    Assets:EUR:Banco:Abanca                    1101.8 EUR
+    Income:Salario:Leo
+
+2022-08-31 * "DHL devolución móvil"
+    Assets:EUR:Banco:Abanca                      5.99 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-08-31 * "Audible"
+    Assets:EUR:Banco:Abanca                     -9.99 EUR
+    Expenses:Compras:Medios:Libros
+
+2022-08-31 * "DHL devolución móvil"
+    Assets:EUR:Banco:Abanca                    -13.99 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-09-01 * "Club del Mar"
+    Assets:EUR:Banco:Abanca                     -36.7 EUR
+    Expenses:Deporte
+
+2022-08-31 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell                -1291.06 EUR
+    Expenses:Compras:Piso:Intereses            323.67 EUR
+    Liabilities:Deudas:Banco
+
+2022-08-31 * "TC Leo"
+    Assets:EUR:Banco:Sabadell                 -393.13 EUR
+    Liabilities:TC:Leo
+
+2022-09-01 * "Iago ING"
+    Assets:EUR:Banco:Sabadell                    -400 EUR
+    Assets:EUR:Banco:Abanca                       400 EUR
+
+2022-08-30 * "Hotel Egletons" #alemania2022
+    Liabilities:TC:Leo                          -86.4 EUR
+    Expenses:Viaje:Hotel
+2022-08-30 * "Gasolina" #alemania2022
+    Liabilities:TC:Leo                         -37.36 EUR
+    Expenses:Gastos:Coche:Gasolina
+2022-08-30 * "Gasolina" #alemania2022
+    Liabilities:TC:Leo                         -80.01 EUR
+    Expenses:Gastos:Coche:Gasolina
+2022-08-30 * "Gasolina" #alemania2022
+    Liabilities:TC:Leo                         -65.86 EUR
+    Expenses:Gastos:Coche:Gasolina
+2022-08-30 * "Gasolina" #alemania2022
+    Liabilities:TC:Leo                         -27.81 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2022-08-29 * "dm"
+    Assets:EUR:Banco:DKB                        -31.8 EUR
+    Expenses:Compras:Utilidades
+
+2022-09-01 * "BU"
+    Assets:EUR:Banco:DKB                       -48.15 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-09-01 * "bAV"
+    Assets:EUR:Banco:DKB                         -260 EUR
+    Expenses:Gastos:Seguros:Rente
+
+2022-09-02 * "Bausparen Jana"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-09-02 * "Yoga Jana"
+    Assets:EUR:Banco:Abanca                        -5 EUR
+    Expenses:Deporte
+
+2022-09-04 * "La Teresa"
+    Assets:EUR:Banco:Abanca                        56 EUR
+    Expenses:Salir:Restaurante
+
+2022-09-04 * "La Teresa"
+    Assets:EUR:Banco:Abanca                        55 EUR
+    Expenses:Salir:Restaurante
+
+2022-09-05 * "Leo"
+    Assets:EUR:Banco:Abanca                   2182.73 EUR
+    Income:Salario:Leo
+    Expenses:Compras:Tecnología:Hardware      -182.73 EUR
+
+2022-09-05 * "Transferencia"
+    Assets:EUR:Banco:Abanca                     -1000 EUR
+    Assets:EUR:Banco:Sabadell
+
+2022-09-05 * "Sol"
+    Assets:EUR:Banco:Abanca                         4 EUR
+    Expenses:Compras:Regalos
+
+2022-09-05 * "Sol"
+    Assets:EUR:Banco:Abanca                       -24 EUR
+    Expenses:Compras:Regalos
+
+2022-09-05 * "Sol"
+    Assets:EUR:Banco:Abanca                         4 EUR
+    Expenses:Compras:Regalos
+
+2022-09-05 * "Sol"
+    Assets:EUR:Banco:Abanca                         4 EUR
+    Expenses:Compras:Regalos
+
+2022-09-05 * "Sol"
+    Assets:EUR:Banco:Abanca                         4 EUR
+    Expenses:Compras:Regalos
+
+2022-09-06 * "Goiko Just Eat"
+    Assets:EUR:Banco:Abanca                    -34.19 EUR
+    Expenses:Salir:Restaurante
+
+2022-09-06 * "Sol"
+    Assets:EUR:Banco:Abanca                         4 EUR
+    Expenses:Compras:Regalos
+
+2022-09-06 * "Sol"
+    Assets:EUR:Banco:Abanca                         4 EUR
+    Expenses:Compras:Regalos
+
+2022-09-06 * "Sol"
+    Assets:EUR:Banco:Abanca                         4 EUR
+    Expenses:Compras:Regalos
+
+2022-09-06 * "Jabra"
+    Assets:EUR:Banco:Abanca                   -182.73 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-09-07 * "Naturgy"
+    Assets:EUR:Banco:Abanca                     21.67 EUR
+    Expenses:Gastos:Casa:Gas
+
+2022-09-10 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -37.09 EUR
+    Expenses:Salir:Restaurante
+
+2022-09-13 * "Jana"
+    Assets:EUR:Banco:Abanca                      1500 EUR
+    Income:Salario:Jana
+
+2022-09-13 * "Naturgy"
+    Assets:EUR:Banco:Abanca                    -45.26 EUR
+    Expenses:Gastos:Casa:Gas                    21.57 EUR
+    Expenses:Gastos:Casa:Luz
+
+2022-09-07 * "Wallapop"
+    Assets:EUR:Banco:DKB                        -14.9 EUR
+    Expenses:Compras:Bebe
+2022-09-07 * "Wallapop"
+    Assets:EUR:Banco:DKB                        -8.45 EUR
+    Expenses:Compras:Bebe
+2022-09-08 * "Haftpflicht"
+    Assets:EUR:Banco:DKB                       -63.16 EUR
+    Expenses:Gastos:Seguros:Haftpflicht
+2022-09-08 * "Móvil"
+    Assets:EUR:Banco:DKB                        -4.51 EUR
+    Expenses:Gastos:Movil
+
+2022-09-14 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2022-09-14 * "Papers Please"
+    Assets:EUR:Banco:Abanca                     -4.89 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-09-15 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -37.59 EUR
+    Expenses:Salir:Restaurante
+
+2022-09-16 * "Espejo Punti"
+    Assets:EUR:Banco:Abanca                    -23.98 EUR
+    Expenses:Compras:Utilidades
+
+2022-09-16 * "Amazon"
+    Assets:EUR:Banco:Abanca                    -58.87 EUR
+    Expenses:Compras:Utilidades
+
+2022-09-16 * "Lowi"
+    Assets:EUR:Banco:Abanca                     -31.9 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+
+2022-09-16 * "Sport Tortilla"
+    Assets:EUR:Banco:Abanca                        -9 EUR
+    Expenses:Salir:Restaurante
+
+2022-09-16 * "MEGA"
+    Assets:EUR:Banco:Abanca                       -35 EUR
+    Expenses:Compras:Regalos
+
+2022-09-16 * "MEGA"
+    Assets:EUR:Banco:Abanca                       -70 EUR
+    Expenses:Compras:Regalos
+
+2022-09-18 * "Comida Casa del Agua"
+    Assets:EUR:Banco:Abanca                     -28.5 EUR
+    Expenses:Salir:Restaurante
+
+2022-09-21 * "Amazon Retorno (Auris trabajo)"
+    Assets:EUR:Banco:Abanca                    182.73 EUR
+    Income:Salario:Leo
+
+2022-09-21 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -33.19 EUR
+    Expenses:Salir:Restaurante
+
+2022-09-22 * "Tomate Mutti"
+    Assets:EUR:Banco:Abanca                    -28.24 EUR
+    Expenses:Compras:Alimentos
+
+2022-09-23 * "GOG.com"
+    Assets:EUR:Banco:Abanca                     -8.19 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-09-13 * "Wallapop"
+    Assets:EUR:Banco:DKB                        -29.9 EUR
+    Expenses:Compras:Bebe
+
+2022-09-14 * "Wallapop"
+    Assets:EUR:Banco:DKB                       -10.45 EUR
+    Expenses:Compras:Bebe
+
+2022-09-21 * "Mullvad"
+    Assets:EUR:Banco:DKB                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-09-22 * "Signal IDUNA"
+    Assets:EUR:Banco:DKB                          260 EUR
+    Expenses:Gastos:Seguros:Rente
+
+2022-09-19 * "No sé qué es (registro piso?)" #extraordinario
+    Assets:EUR:Banco:Sabadell                  916.04 EUR
+    Expenses:Compras:Piso
+
+2022-09-20 * "Piso Comunidad"
+    Assets:EUR:Banco:Sabadell                    -100 EUR
+    Expenses:Gastos:Casa:Comunidad
+
+
+2022-09-25 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -30.79 EUR
+    Expenses:Salir:Restaurante
+
+2022-09-27 * "GOG.com Refund"
+    Assets:EUR:Banco:Abanca                      8.19 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-09-27 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -31.79 EUR
+    Expenses:Salir:Restaurante
+
+2022-09-28 * "Amazon cable Thunderbolt"
+    Assets:EUR:Banco:Abanca                       -35 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-09-28 * "GOG.com Urbek"
+    Assets:EUR:Banco:Abanca                    -15.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-09-28 * "Parking Santiago" #entierro-papa
+    Assets:EUR:Banco:Abanca                      -121 EUR
+    Expenses:Gastos:Coche:Parking
+
+2022-09-29 * "Burger King"
+    Assets:EUR:Banco:Abanca                    -13.15 EUR
+    Expenses:Salir:Restaurante
+
+2022-09-30 * "Leo"
+    Assets:EUR:Banco:Abanca                      3800 EUR
+    Income:Salario:Leo
+
+2022-09-30 * "Transferencia Tui 4 por pagos durante el verano"
+    Assets:EUR:Banco:Abanca                   -166.08 EUR
+    Expenses:Gastos:Casa:Gas                    26.03 EUR
+    Expenses:Gastos:Casa:Agua                   40.05 EUR
+    Expenses:Gastos:Casa:Comunidad                100 EUR
+
+2022-10-01 * "Amazon cable Thunderbolt"
+    Assets:EUR:Banco:Abanca                        35 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-10-01 * "Vuelos Alemania" #entierro-papa
+    Assets:EUR:Banco:Abanca                   -730.04 EUR
+    Expenses:Viaje:Avion
+
+2022-10-01 * "Audible"
+    Assets:EUR:Banco:Abanca                     -9.99 EUR
+    Expenses:Compras:Medios:Libros
+
+2022-10-01 * "Cable thunderbolt real"
+    Assets:EUR:Banco:Abanca                    -35.99 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2022-10-03 * "Bizum Flores Leti"
+    Assets:EUR:Banco:Abanca                      -7.5 EUR
+    Expenses:Compras:Regalos
+
+2022-09-26 * "Iago Hannes"
+    Assets:EUR:Banco:Sabadell                    -700 EUR
+    Liabilities:Deudas:Familia
+
+2022-09-26 * "Ooops"
+    Assets:EUR:Banco:Sabadell                    -700 EUR
+    Liabilities:Deudas:Familia
+2022-09-28 * "Ooops"
+    Assets:EUR:Banco:Sabadell                     700 EUR
+    Liabilities:Deudas:Familia
+
+2022-09-30 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell                -1291.06 EUR
+    Liabilities:Deudas:Banco                   968.56 EUR
+    Expenses:Compras:Piso:Intereses             322.5 EUR
+
+2022-09-30 * "TC Leo"
+    Assets:EUR:Banco:Sabadell                 -297.44 EUR
+    Liabilities:TC:Leo
+
+2022-10-04 * "Club del Mar"
+    Assets:EUR:Banco:Abanca                     -36.7 EUR
+    Expenses:Deporte
+
+2022-09-29 * "Wallapop"
+    Assets:EUR:Banco:DKB                       -16.45 EUR
+    Expenses:Compras:Ropa
+
+2022-10-04 * "Bausparen Jana"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-10-05 * "BU"
+    Assets:EUR:Banco:DKB                       -48.15 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-10-08 * "Just eat"
+    Assets:EUR:Banco:Abanca                    -30.79 EUR
+    Expenses:Salir:Restaurante
+
+2022-10-10 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2022-10-10 * "Otto Papa" #entierro-papa
+    Assets:EUR:Banco:DKB                       -82.93 EUR
+    Expenses:Otros
+
+2022-10-10 * "Drillisch"
+    Assets:EUR:Banco:DKB                        -4.99 EUR
+    Expenses:Gastos:Movil
+
+2022-10-12 * "Dommi Bild" #entierro-papa
+    Assets:EUR:Efectivo:Leo                       100 EUR
+    Income:Regalos
+
+2022-10-11 * "Bügeleisen" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        10 EUR
+    Income:Regalos
+
+2022-10-11 * "Gefrierschrank" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        20 EUR
+    Income:Regalos
+
+2022-10-11 * "Nevera" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        10 EUR
+    Income:Regalos
+
+2022-10-11 * "Jana"
+    Assets:EUR:Banco:DKB                         1500 EUR
+    Income:Salario:Jana
+
+2022-10-11 * "Leo"
+    Assets:EUR:Banco:DKB                         6600 EUR
+    Income:Salario:Leo
+
+2022-10-11 * "Comunidad"
+    Assets:EUR:Banco:Sabadell                    -100 EUR
+    Expenses:Gastos:Casa:Comunidad
+
+2022-10-13 * "Antiquariat Schramm" #entierro-papa
+    Assets:EUR:Banco:DKB                          500 EUR
+    Income:Regalos
+
+2022-10-14 * "Ofen" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        50 EUR
+    Income:Regalos
+
+2022-10-14 * "Libros" #entierro-papa
+    Assets:EUR:Efectivo:Leo                       350 EUR
+    Income:Regalos
+
+2022-10-14 * "Chris Entrümpelt" #entierro-papa
+    Assets:EUR:Efectivo:Leo                      -800 EUR
+    Expenses:Otros
+
+2022-10-14 * "Papa Monedero" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        50 EUR
+    Income:Regalos
+
+2022-10-14 * "Akkuschrauber" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        15 EUR
+    Income:Regalos
+
+2022-10-14 * "Perdido"
+    Assets:EUR:Efectivo:Leo                      5.01 EUR
+    Expenses:Perdido
+
+2022-10-14 * "Geburtsurkunden" #entierro-papa
+    Assets:EUR:Banco:DKB                        -22.5 EUR
+    Expenses:Gastos:Administracion
+
+2022-10-14 * "Dinero Papá" #entierro-papa
+    Assets:EUR:Banco:DKB                      6546.54 EUR
+    Income:Regalos
+
+2022-10-14 * "Nebenkostenabrechnung Papa" #entierro-papa
+    Assets:EUR:Banco:DKB                      -176.74 EUR
+    Expenses:Otros
+
+2022-10-15 * "Tische" #entierro-papa
+    Assets:EUR:Efectivo:Leo                         5 EUR
+    Income:Regalos
+
+2022-10-15 * "Stühle" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        20 EUR
+    Income:Regalos
+
+2022-10-15 * "Tisch" #entierro-papa
+    Assets:EUR:Efectivo:Leo                       120 EUR
+    Income:Regalos
+
+2022-10-15 * "Schraubzwingen" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        40 EUR
+    Income:Regalos
+
+2022-10-15 * "Tele" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        60 EUR
+    Income:Regalos
+
+2022-10-17 * "Ventas Papá" #entierro-papa
+    Assets:EUR:Efectivo:Leo                       120 EUR
+    Income:Regalos
+
+2022-10-18 * "Forsti" #entierro-papa
+    Expenses:Otros
+    Assets:EUR:Banco:DKB                       -750.6 EUR
+
+2022-10-18 * "Coca-Cola"
+    Assets:EUR:Banco:DKB                        -2.48 EUR
+    Expenses:Lujo
+
+
+2022-10-15 * "Nextcloud Notes"
+    Assets:EUR:Banco:Abanca                     -2.99 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-10-17 * "Naturgy"
+    Assets:EUR:Banco:Abanca                    -70.31 EUR
+    Expenses:Gastos:Casa:Gas                     6.08 EUR
+    Expenses:Gastos:Casa:Luz                    64.23 EUR
+
+2022-10-17 * "Camisa Entierro"
+    Assets:EUR:Banco:DKB                       -69.99 EUR
+    Expenses:Compras:Ropa
+
+2022-10-17 * "Amazon Jana"
+    Assets:EUR:Banco:DKB                       -58.93 EUR
+    Expenses:Otros
+
+2022-10-17 * "Lowi"
+    Assets:EUR:Banco:Abanca                    -32.09 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+
+2022-10-19 * "Anlage" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        50 EUR
+    Income:Regalos
+
+2022-10-20 * "B+C" #entierro-papa
+    Assets:EUR:Efectivo:Leo                       140 EUR
+    Income:Regalos
+
+2022-10-20 * "Ewa" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        30 EUR
+    Income:Regalos
+
+2022-10-20 * "Perdido" #entierro-papa
+    Assets:EUR:Efectivo:Leo                       5.5 EUR
+    Income:Regalos
+
+2022-10-18 * "Lufthansa" #entierro-papa
+    Assets:EUR:Banco:Abanca                       -20 EUR
+    Expenses:Viaje:Otro
+2022-10-18 * "Transfer"
+    Assets:EUR:Banco:Abanca                      -800 EUR
+    Assets:EUR:Banco:Sabadell
+
+2022-10-19 * "Mesa ebay" #entierro-papa
+    Assets:EUR:Banco:DKB                           95 EUR
+    Income:Regalos
+
+2022-10-21 * "Mullvad"
+    Assets:EUR:Banco:DKB                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-10-21 * "Limpieza Coche" #entierro-papa
+    Assets:EUR:Banco:DKB                         -300 EUR
+    Expenses:Otros
+
+2022-10-22 * "Regale, Bücher" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        21 EUR
+    Income:Regalos
+
+2022-10-22 * "Perdido"
+    Assets:EUR:Efectivo:Leo                      -0.4 EUR
+    Expenses:Perdido
+
+2022-10-23 * "Casa Papá" #entierro-papa
+    Assets:EUR:Efectivo:Leo                       332 EUR
+    Income:Regalos
+
+2022-10-23 * "La Stalla"
+    Assets:EUR:Efectivo:Leo                      -110 EUR
+    Expenses:Salir:Restaurante
+
+2022-10-21 * "Yoga Jana"
+    Assets:EUR:Banco:Abanca                       -45 EUR
+    Expenses:Deporte
+
+2022-10-25 * "KN" #entierro-papa
+    Assets:EUR:Banco:DKB                      -548.77 EUR
+    Expenses:Otros
+
+2022-10-25 * "Lotería"
+    Assets:EUR:Banco:DKB                        -16.2 EUR
+    Expenses:Lujo
+
+2022-10-24 * "Silla Ewa" #entierro-papa
+    Assets:EUR:Efectivo:Leo                       150 EUR
+    Income:Regalos
+
+2022-10-24 * "Lavavajillas" #entierro-papa
+    Assets:EUR:Efectivo:Leo                       250 EUR
+    Income:Regalos
+
+2022-10-25 * "Klaus" #entierro-papa
+    Assets:EUR:Efectivo:Leo                       500 EUR
+    Income:Regalos
+
+2022-10-25 * "Ewa Stuhl" #entierro-papa
+    Assets:EUR:Efectivo:Leo                       100 EUR
+    Income:Regalos
+
+2022-10-25 * "Regale" #entierro-papa
+    Assets:EUR:Efectivo:Leo                        20 EUR
+    Income:Regalos
+
+2022-10-26 * "Venta Claudia" #entierro-papa
+    Assets:EUR:Banco:DKB                          145 EUR
+    Income:Regalos
+
+2022-10-27 * "Coche Papá" #entierro-papa
+    Assets:EUR:Banco:DKB                         2300 EUR
+    Income:Regalos
+
+2022-10-30 * "Vuelo"
+    Assets:EUR:Banco:Abanca                    -810.5 EUR
+    Expenses:Viaje:Avion
+
+2022-10-31 * "Paternidad"
+    Assets:EUR:Banco:Abanca                    220.36 EUR
+    Income:Salario:Leo
+
+2022-10-31 * "Momox" #entierro-papa
+    Assets:EUR:Banco:DKB                       139.82 EUR
+    Income:Regalos
+
+2022-10-31 * "Momox" #entierro-papa
+    Assets:EUR:Banco:DKB                         46.1 EUR
+    Income:Regalos
+
+2022-10-31 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell                -1291.06 EUR
+    Liabilities:Deudas:Banco                   969.73 EUR
+    Expenses:Compras:Piso:Intereses            321.33 EUR
+
+2022-11-01 * "Goiko"
+    Assets:EUR:Banco:Abanca                    -30.79 EUR
+    Expenses:Salir:Restaurante
+2022-11-01 * "Café Aeropuerto"
+    Assets:EUR:Banco:Abanca                        -2 EUR
+    Expenses:Salir:Cafe
+2022-11-01 * "Club del Mar"
+    Assets:EUR:Banco:Abanca                     -36.7 EUR
+    Expenses:Deporte
+2022-11-01 * "Yoga"
+    Assets:EUR:Banco:Abanca                       -45 EUR
+    Expenses:Deporte
+2022-11-01 * "Audible"
+    Assets:EUR:Banco:Abanca                     -9.99 EUR
+    Expenses:Compras:Medios:Libros
+2022-11-02 * "Pepita"
+    Assets:EUR:Banco:Abanca                    -35.47 EUR
+    Expenses:Salir:Restaurante
+2022-11-02 * "Victoria 3"
+    Assets:EUR:Banco:Abanca                    -45.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+2022-11-02 * "Concierto Morgan"
+    Assets:EUR:Banco:Abanca                     -28.6 EUR
+    Expenses:Salir:Conciertos
+
+2022-11-02 * "Bausparen Jana"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-11-02 * "BU"
+    Assets:EUR:Banco:DKB                       -49.11 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-11-02 * "Transfer"
+    Assets:EUR:Banco:DKB                        -1500 EUR
+    Assets:EUR:Banco:Sabadell
+
+2022-11-03 * "Bahncard" #entierro-papa
+    Assets:EUR:Banco:DKB                          117 EUR
+    Income:Regalos
+
+2022-11-04 * "Entierro" #entierro-papa
+    Assets:EUR:Banco:DKB                     -6148.11 EUR
+    Expenses:Otros
+
+2022-11-04 * "KN Papa" #entierro-papa
+    Assets:EUR:Banco:DKB                       -33.38 EUR
+    Expenses:Otros
+
+2022-11-05 * "Lentillas Jana"
+    Assets:EUR:Banco:Abanca                     -53.9 EUR
+    Expenses:Compras:Utilidades
+
+2022-11-06 * "Seul Soul"
+    Assets:EUR:Banco:Abanca                        20 EUR
+    Expenses:Salir:Restaurante
+
+2022-11-04 * "Burger King"
+    Assets:EUR:Banco:Sabadell                   -9.99 EUR
+    Expenses:Salir:Restaurante
+
+2022-11-07 * "Comunidad"
+    Assets:EUR:Banco:Sabadell                    -100 EUR
+    Expenses:Gastos:Casa:Comunidad
+
+2022-11-09 * "Jana"
+    Assets:EUR:Banco:DKB                         1000 EUR
+    Income:Salario:Jana
+
+2022-11-10 * "Móbil Leo"
+    Assets:EUR:Banco:DKB                        -5.22 EUR
+    Expenses:Gastos:Movil
+
+2022-11-14 * "Café avión"
+    Assets:EUR:Banco:DKB                           -3 EUR
+    Expenses:Salir:Cafe
+
+2022-11-11 * "Erbschein" #entierro-papa
+    Assets:EUR:Banco:DKB                         -438 EUR
+    Expenses:Otros
+
+2022-11-08 * "Naturgy Tui 4"
+    Assets:EUR:Banco:Abanca                    -22.61 EUR
+    Expenses:Gastos:Casa:Luz
+
+2022-11-10 * "Amazon calendarios de adviento"
+    Assets:EUR:Banco:Abanca                     -42.5 EUR
+    Expenses:Compras:Regalos
+
+2022-11-09 * "Pepita"
+    Assets:EUR:Banco:Abanca                    -38.88 EUR
+    Expenses:Salir:Restaurante
+
+2022-11-14 * "Naturgy San Fernando"
+    Assets:EUR:Banco:Abanca                    -58.29 EUR
+    Expenses:Gastos:Casa:Luz                    41.66 EUR
+    Expenses:Gastos:Casa:Gas                    16.63 EUR
+
+2022-11-14 * "Yoga Jana"
+    Assets:EUR:Banco:Abanca                       -15 EUR
+    Expenses:Deporte
+
+2022-11-14 * "Gadis"
+    Assets:EUR:Banco:Abanca                    -44.19 EUR
+    Expenses:Compras:Alimentos
+
+2022-11-15 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2022-11-15 * "Pepita"
+    Assets:EUR:Banco:Abanca                    -31.29 EUR
+    Expenses:Salir:Restaurante
+
+2022-11-16 * "Rimworld DLCs"
+    Assets:EUR:Banco:Abanca                    -57.57 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-11-16 * "Goiko"
+    Assets:EUR:Banco:Abanca                    -33.29 EUR
+    Expenses:Salir:Restaurante
+
+2022-11-16 * "Lowi"
+    Assets:EUR:Banco:Abanca                    -32.77 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+
+2022-11-15 * "Provinzial" #entierro-papa
+    Assets:EUR:Banco:DKB                        46.27 EUR
+    Income:Regalos
+
+2022-11-16 * "Provinzial" #entierro-papa
+    Assets:EUR:Banco:DKB                        20.75 EUR
+    Income:Regalos
+
+2022-11-16 * "Café avión"
+    Assets:EUR:Banco:DKB                           -3 EUR
+    Expenses:Salir:Cafe
+
+2022-11-13 * "100 Montaditos aeropuerto"
+    Assets:EUR:Banco:Sabadell                  -11.55 EUR
+    Expenses:Salir:Restaurante
+
+2022-11-13 * "Parking Coruña aeropuerto"
+    Liabilities:TC:Leo                            -22 EUR
+    Expenses:Gastos:Coche:Parking
+
+2022-11-16 * "Leo"
+    Assets:EUR:Banco:Abanca                      6000 EUR
+    Income:Salario:Leo
+
+2022-11-21 * "Iago"
+    Assets:EUR:Banco:Abanca                       500 EUR
+    Assets:EUR:Banco:Sabadell
+
+2022-11-21 * "Tintorería"
+    Assets:EUR:Banco:Abanca                       -19 EUR
+    Expenses:Otros
+
+2022-11-23 * "Rimworld DLC"
+    Assets:EUR:Banco:Abanca                     16.79 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-11-23 * "Rimworld DLC"
+    Assets:EUR:Banco:Abanca                     16.79 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-11-23 * "Rimworld DLC"
+    Assets:EUR:Banco:Abanca                     23.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-11-23 * "Stiftung Warentest"
+    Assets:EUR:Banco:Abanca                     -14.9 EUR
+    Expenses:Otros
+
+2022-11-23 * "Against the Storm"
+    Assets:EUR:Banco:Abanca                    -19.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-11-23 * "Burger King"
+    Assets:EUR:Banco:Abanca                       -12 EUR
+    Expenses:Salir:Restaurante
+
+2022-11-17 * "Wallapop lote"
+    Assets:EUR:Banco:DKB                       -21.45 EUR
+    Expenses:Compras:Bebe
+2022-11-17 * "Wallapop lote"
+    Assets:EUR:Banco:DKB                        21.45 EUR
+    Expenses:Compras:Bebe
+
+2022-11-17 * "Stiftung Warentest lavadora"
+    Assets:EUR:Banco:DKB                         -4.9 EUR
+    Expenses:Otros
+
+2022-11-17 * "Sparkasse" #entierro-papa
+    Assets:EUR:Banco:DKB                     10222.92 EUR
+    Income:Regalos
+
+2022-11-18 * "Wallapop Lote"
+    Assets:EUR:Banco:DKB                        -28.9 EUR
+    Expenses:Compras:Ropa
+
+2022-11-18 * "Wallapop Lote"
+    Assets:EUR:Banco:DKB                        -18.9 EUR
+    Expenses:Compras:Ropa
+
+2022-11-21 * "Provinzial Papa" #entierro-papa
+    Assets:EUR:Banco:DKB                        25.77 EUR
+    Income:Regalos
+
+2022-11-22 * "Paypal Mullvad"
+    Assets:EUR:Banco:DKB                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-11-22 * "Wallapop"
+    Assets:EUR:Banco:DKB                       -14.45 EUR
+    Expenses:Compras:Ropa
+
+2022-11-21 * "Ikea"
+    Assets:EUR:Banco:Sabadell                  -182.6 EUR
+    Expenses:Compras:Utilidades
+2022-11-21 * "Ikea"
+    Assets:EUR:Banco:Sabadell                     180 EUR
+    Expenses:Compras:Utilidades
+
+2022-11-29 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -33.29 EUR
+    Expenses:Salir:Restaurante
+
+2022-11-24 * "Amazon zapatos Iago"
+    Assets:EUR:Banco:DKB                        -18.7 EUR
+    Expenses:Compras:Ropa
+2022-11-25 * "Lotería"
+    Assets:EUR:Banco:DKB                         -6.8 EUR
+    Expenses:Lujo
+2022-11-28 * "Transferencia"
+    Assets:EUR:Banco:DKB                       -17000 EUR
+    Assets:EUR:Banco:Sabadell
+2022-11-29 * "Transferencia"
+    Assets:EUR:Banco:Sabadell                  -16000 EUR
+    Assets:EUR:Banco:Abanca
+2022-11-29 * "Uber Eats"
+    Assets:EUR:Banco:Abanca                     -34.9 EUR
+    Expenses:Salir:Restaurante
+2022-11-30 * "Leo"
+    Assets:EUR:Banco:Abanca                     12000 EUR
+    Income:Salario:Leo
+
+2022-11-30 * "Yoga Jana"
+    Assets:EUR:Banco:Abanca                       -45 EUR
+    Expenses:Deporte
+2022-11-30 * "Agua"
+    Assets:EUR:Banco:Abanca                    -42.84 EUR
+    Expenses:Gastos:Casa:Agua
+
+2022-11-30 * "Reforma" #extraordinario
+    Assets:EUR:Banco:Abanca                    -20000 EUR
+    Expenses:Gastos:Casa:Reforma
+
+2022-11-30 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell                -1291.06 EUR
+    Liabilities:Deudas:Banco                    970.9 EUR
+    Expenses:Compras:Piso:Intereses            320.16 EUR
+
+2022-11-30 * "TC Leo"
+    Assets:EUR:Banco:Sabadell                     -22 EUR
+    Liabilities:TC:Leo
+2022-09-20 * "Piso Comunidad"
+    Assets:EUR:Banco:Sabadell                 -173.56 EUR
+    Expenses:Gastos:Casa:Comunidad                100 EUR
+    Expenses:Gastos:Casa:Comunidad ; derrame - luz en portal
+
+2022-12-01 * "BU"
+    Assets:EUR:Banco:DKB                       -49.11 EUR
+    Expenses:Gastos:Seguros:BU
+
+2022-12-01 * "Nachsendeauftrag" #entierro-papa
+    Assets:EUR:Banco:DKB                        -23.9 EUR
+    Expenses:Otros
+
+2022-12-02 * "Dividendos"
+    Assets:EUR:Banco:DKB                        26.98 EUR
+    Income:Invest:Dividendos
+
+2022-12-02 * "Bausparen Jana"
+    Assets:EUR:Banco:DKB                          -50 EUR
+    Expenses:Invest
+
+2022-12-01 * "Audible"
+    Assets:EUR:Banco:Abanca                     -9.99 EUR
+    Expenses:Compras:Medios:Libros
+
+2022-12-01 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -32.29 EUR
+    Expenses:Salir:Restaurante
+
+2022-12-01 * "Club del Mar"
+    Assets:EUR:Banco:Abanca                     -36.7 EUR
+    Expenses:Deporte
+
+2022-12-02 * "Agua 2"
+    Assets:EUR:Banco:Abanca                    -38.94 EUR
+    Expenses:Gastos:Casa:Agua
+
+2022-12-01 * "Amazon Arbol navidad"
+    Assets:EUR:Banco:Abanca                    -54.95 EUR
+    Expenses:Compras:Regalos
+
+2022-12-02 * "Debeka" #entierro-papa
+    Assets:EUR:Banco:DKB                       175.55 EUR
+    Income:Regalos
+
+2022-12-05 * "Transfer"
+    Assets:EUR:Banco:Abanca                     -1200 EUR
+    Assets:EUR:Banco:Sabadell
+
+2022-12-08 * "Móvil Leo"
+    Assets:EUR:Banco:DKB                        -4.99 EUR
+    Expenses:Gastos:Movil
+
+2022-12-08 * "Papá" #entierro-papa
+    Assets:EUR:Banco:DKB                      56500.4 EUR
+    Income:Regalos
+
+2022-12-09 * "Regalo Lea"
+    Assets:EUR:Banco:DKB                       -78.74 EUR
+    Expenses:Compras:Regalos
+
+2022-12-05 * "Reforma" #extraordinario
+    Assets:EUR:Banco:Abanca                     -6400 EUR
+    Expenses:Gastos:Casa:Reforma
+
+2022-12-07 * "Ayuntamiento" #extraordinario
+    Assets:EUR:Banco:Abanca                      -570 EUR
+    Expenses:Gastos:Casa:Reforma
+
+2022-12-07 * "Ayuntamiento" #extraordinario
+    Assets:EUR:Banco:Abanca                    -40.19 EUR
+    Expenses:Gastos:Casa:Reforma
+
+2022-12-07 * "Ayuntamiento" #extraordinario
+    Assets:EUR:Banco:Abanca                    -40.19 EUR
+    Expenses:Gastos:Casa:Reforma
+
+2022-12-08 * "Game Pass"
+    Assets:EUR:Banco:Abanca                        -1 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-12-08 * "Uber"
+    Assets:EUR:Banco:Abanca                    -24.13 EUR
+    Expenses:Salir:Restaurante
+
+2022-12-09 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -27.65 EUR
+    Expenses:Salir:Restaurante
+2022-12-09 * "Intereses Abanca (hay que cerrar la cuenta)"
+    Assets:EUR:Banco:Abanca                     -0.01 EUR
+    Expenses:Gastos:Banco:Intereses
+2022-12-11 * "Bico Bar"
+    Assets:EUR:Banco:Abanca                     -14.5 EUR
+    Expenses:Salir:Restaurante
+
+2022-12-12 * "Naturgy Luz tui"
+    Assets:EUR:Banco:Abanca                    -15.84 EUR
+    Expenses:Gastos:Casa:Luz
+
+2022-12-13 * "Dwarf Fortress"
+    Assets:EUR:Banco:Abanca                    -28.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2022-12-13 * "Peajes"
+    Assets:EUR:Banco:Abanca                   -100.25 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2022-12-14 * "Amazon bloque de yoga"
+    Assets:EUR:Banco:Abanca                    -23.94 EUR
+    Expenses:Compras:Regalos
+
+2022-12-14 * "Just Eat Leo"
+    Assets:EUR:Banco:Abanca                     -14.8 EUR
+    Expenses:Salir:Restaurante
+
+2022-12-14 * "YT Music"
+    Assets:EUR:Banco:Abanca                    -17.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2022-12-14 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -33.29 EUR
+    Expenses:Salir:Restaurante
+
+2022-12-13 * "Nachlass Comdirect" #entierro-papa
+    Assets:EUR:Banco:DKB                       156.41 EUR
+    Income:Regalos
+
+2022-12-09 * "Comunidad Garajes"
+    Assets:EUR:Banco:Sabadell                 -171.18 EUR
+    Expenses:Gastos:Casa:Comunidad
+
+2022-12-11 * "Bolsas reutilizables flax and stitch"
+    Liabilities:TC:Leo                          -80.5 EUR
+    Expenses:Compras:Utilidades
+
+
+2022-12-16 * "Glovo Leo"
+    Assets:EUR:Banco:Abanca                    -13.25 EUR
+    Expenses:Salir:Restaurante
+2022-12-16 * "Bolsas reutilizables"
+    Assets:EUR:Banco:Abanca                    -30.97 EUR
+    Expenses:Compras:Utilidades
+2022-12-16 * "Lowi"
+    Assets:EUR:Banco:Abanca                     -31.9 EUR
+    Expenses:Gastos:Casa:Internet                  20 EUR
+    Expenses:Gastos:Movil
+
+
+2022-12-17 * "Amazon Sherlock Holmes Juego"
+    Assets:EUR:Banco:Abanca                    -59.72 EUR
+    Expenses:Compras:Medios:Juegos
+
+2022-12-18 * "Bico Bar"
+    Assets:EUR:Banco:Abanca                     -63.9 EUR
+    Expenses:Salir:Copas
+
+2022-12-20 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -35.69 EUR
+    Expenses:Salir:Restaurante
+
+2022-12-20 * "Naturgy"
+    Assets:EUR:Banco:Abanca                    -47.47 EUR
+    Expenses:Gastos:Casa:Luz                    41.37 EUR
+    Expenses:Gastos:Casa:Gas                      6.1 EUR
+
+2022-12-21 * "Just Eat Leo"
+    Assets:EUR:Banco:Abanca                    -18.49 EUR
+    Expenses:Salir:Restaurante
+
+2022-12-21 * "Licor Café Max"
+    Assets:EUR:Banco:Abanca                    -31.85 EUR
+    Expenses:Compras:Regalos
+
+2022-12-21 * "Café universal"
+    Assets:EUR:Banco:Abanca                      -4.7 EUR
+    Expenses:Salir:Cafe
+
+2022-12-23 * "Just Eat"
+    Assets:EUR:Banco:Abanca                    -19.47 EUR
+    Expenses:Salir:Restaurante
+
+2022-12-23 * "Golosía"
+    Assets:EUR:Banco:Abanca                       -55 EUR
+    Expenses:Salir:Restaurante
+
+2022-12-23 * "Corte Inglés Compra"
+    Assets:EUR:Banco:Abanca                   -189.68 EUR
+    Expenses:Compras:Alimentos
+
+2022-12-23 * "Photosync"
+    Assets:EUR:Banco:Abanca                     -3.99 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-12-28 * "Naturgy"
+    Assets:EUR:Banco:Abanca                     -0.55 EUR
+    Expenses:Gastos:Casa:Luz
+
+2022-12-29 * "Cuentacuentos Iago"
+    Assets:EUR:Banco:Abanca                       -22 EUR
+    Expenses:Gastos:Bebe
+
+2022-12-30 * "Yoga Jana"
+    Assets:EUR:Banco:Abanca                       -45 EUR
+    Expenses:Deporte
+
+2022-12-30 * "Cocina Economica"
+    Assets:EUR:Banco:Abanca                      -400 EUR
+    Expenses:Donaciones
+
+2022-12-30 * "Unicef"
+    Assets:EUR:Banco:Abanca                      -400 EUR
+    Expenses:Donaciones
+
+2022-12-30 * "TC Leo"
+    Assets:EUR:Banco:Sabadell                   -80.5 EUR
+    Liabilities:TC:Leo
+
+2022-12-21 * "Mullvad"
+    Assets:EUR:Banco:DKB                           -5 EUR
+    Expenses:Compras:Tecnología:Software
+
+2022-12-22 * "Lotería"
+    Assets:EUR:Banco:DKB                        -16.2 EUR
+    Expenses:Lujo
+
+2022-12-27 * "Regalo MuP"
+    Assets:EUR:Banco:DKB                          -60 EUR
+    Expenses:Compras:Regalos
+
+2022-12-30 * "Transfer"
+    Assets:EUR:Banco:DKB                        -1500 EUR
+    Assets:EUR:Banco:Sabadell
+
+2022-12-30 * "Transfer"
+    Assets:EUR:Banco:DKB                       -10000 EUR
+    Assets:EUR:Banco:Abanca
+
+2022-12-30 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell                -1291.06 EUR
+    Liabilities:Deudas:Banco                   972.08 EUR
+    Expenses:Compras:Piso:Intereses            318.98 EUR
+
+2022-12-31 * "Audible"
+    Assets:EUR:Banco:Abanca                     -9.99 EUR
+    Expenses:Compras:Medios:Libros

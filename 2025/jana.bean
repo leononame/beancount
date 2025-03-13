@@ -1,0 +1,300 @@
+
+2025-01-02 * "yoga Fede" #bot
+    Assets:EUR:Efectivo:Jana   -70.00 EUR
+    Expenses:Deporte
+
+2025-01-02 * "albi" #bot
+    Assets:EUR:Efectivo:Jana   -19.00 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-03 * "fisio Vanessa" #bot
+    Assets:EUR:Efectivo:Jana   -45.00 EUR
+    Expenses:Deporte
+
+2025-01-03 * "museo" #bot
+    Assets:EUR:Efectivo:Jana    -2.05 EUR
+    Expenses:Salir:Museo
+
+2025-01-07 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
+
+2025-01-07 * "fotos" #bot
+    Assets:EUR:Efectivo:Jana    -6.50 EUR
+    Expenses:Compras:Utilidades
+
+2025-01-07 * "castañas" #bot
+    Assets:EUR:Efectivo:Jana    -3.00 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-07 * "DNI iago" #bot
+    Assets:EUR:Efectivo:Jana   -12.00 EUR
+    Expenses:Compras:Utilidades
+
+2025-01-07 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana    -6.15 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-10 * "freni" #bot
+    Assets:EUR:Efectivo:Jana   -50.00 EUR
+    Expenses:Gastos:Casa:Limpieza
+
+2025-01-14 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana   -39.78 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-14 * "piscina" #bot
+    Assets:EUR:Efectivo:Jana    -3.50 EUR
+    Expenses:Gastos:Actividades
+
+2025-01-15 * "fisio Vanessa" #bot
+    Assets:EUR:Efectivo:Jana   -45.00 EUR
+    Expenses:Deporte
+
+2025-01-16 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana   -65.59 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-16 * "la aldea" #bot
+    Assets:EUR:Efectivo:Jana   -25.99 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-18 * "comida" #bot
+    Assets:EUR:Efectivo:Jana   -20.84 EUR
+    Expenses:Salir:Restaurante
+
+2025-01-20 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -1.05 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-23 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -7.00 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-25 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -2.60 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-25 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
+
+2025-01-27 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -1.63 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-27 * "Bazar cervezas" #bot
+    Assets:EUR:Efectivo:Jana    -5.40 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-28 * "copia" #bot
+    Assets:EUR:Efectivo:Jana    -0.40 EUR
+    Expenses:Compras:Utilidades
+
+2025-01-30 * "farmacia" #bot
+    Assets:EUR:Efectivo:Jana   -11.60 EUR
+    Expenses:Compras:Utilidades
+
+2025-01-31 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -4.65 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-31 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -1.05 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-03 * "freni" #bot
+    Assets:EUR:Efectivo:Jana   -50.00 EUR
+    Expenses:Gastos:Casa:Limpieza
+
+2025-02-03 * "freni" #bot
+    Assets:EUR:Efectivo:Jana   -50.00 EUR
+    Expenses:Gastos:Casa:Limpieza
+
+2025-02-03 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -4.86 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-03 * "Albi" #bot
+    Assets:EUR:Efectivo:Jana   -27.07 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-03 * "Albi" #bot
+    Assets:EUR:Efectivo:Jana    -9.68 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-03 * "froiz" #bot
+    Assets:EUR:Efectivo:Jana    -9.15 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-05 * "yoga Fede" #bot
+    Assets:EUR:Efectivo:Jana   -70.00 EUR
+    Expenses:Deporte
+
+2025-02-05 * "yoga Lele & Mama" #bot
+    Assets:EUR:Efectivo:Jana   -30.00 EUR
+    Expenses:Compras:Regalos
+
+2025-02-05 * "primaprix" #bot
+    Assets:EUR:Efectivo:Jana    -1.80 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-08 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
+
+2025-02-09 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -1.30 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-10 * "freni" #bot
+    Assets:EUR:Efectivo:Jana   -50.00 EUR
+    Expenses:Gastos:Casa:Limpieza
+
+2025-02-10 * "papelería" #bot
+    Assets:EUR:Efectivo:Jana   -13.95 EUR
+    Expenses:Compras:Utilidades
+
+2025-02-10 * "bazar" #bot
+    Assets:EUR:Efectivo:Jana    -6.75 EUR
+    Expenses:Compras:Utilidades
+
+2025-02-10 * "primaprix" #bot
+    Assets:EUR:Efectivo:Jana    -8.25 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-11 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -0.49 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-13 * "fisio" #bot
+    Assets:EUR:Efectivo:Jana   -60.00 EUR
+    Expenses:Deporte
+
+2025-02-13 * "yoga Mama" #bot
+    Assets:EUR:Efectivo:Jana   -15.00 EUR
+    Expenses:Deporte
+
+2025-02-13 * "desayuno" #bot
+    Assets:EUR:Efectivo:Jana    -2.70 EUR
+    Expenses:Salir:Restaurante
+
+2025-02-13 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -1.80 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-13 * "decathlon" #bot
+    Assets:EUR:Efectivo:Jana    -7.99 EUR
+    Expenses:Compras:Utilidades
+
+2025-02-13 * "envío" #bot
+    Assets:EUR:Efectivo:Jana    -4.30 EUR
+    Expenses:Compras:Utilidades
+
+2025-02-13 * "albi" #bot
+    Assets:EUR:Efectivo:Jana   -24.66 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-13 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana   -19.80 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-13 * "comida" #bot
+    Assets:EUR:Efectivo:Jana   -17.00 EUR
+    Expenses:Salir:Restaurante
+
+2025-02-14 * "matcha latte" #bot
+    Assets:EUR:Efectivo:Jana    -3.20 EUR
+    Expenses:Salir:Cafe
+
+2025-02-14 * "pelu" #bot
+    Assets:EUR:Efectivo:Jana   -62.00 EUR
+    Expenses:Gastos:Peluquero
+
+2025-02-14 * "pastel" #bot
+    Assets:EUR:Efectivo:Jana    -7.50 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-17 * "primaprix" #bot
+    Assets:EUR:Efectivo:Jana    -2.50 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-22 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
+
+2025-02-22 * "farmacia" #bot
+    Assets:EUR:Efectivo:Jana   -14.61 EUR
+    Expenses:Compras:Utilidades
+
+2025-02-22 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -5.75 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-22 * "lolandia" #bot
+    Assets:EUR:Efectivo:Jana   -11.00 EUR
+    Expenses:Gastos:Bebe
+
+2025-02-22 * "comida" #bot
+    Assets:EUR:Efectivo:Jana   -35.10 EUR
+    Expenses:Salir:Restaurante
+
+2025-02-23 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -7.50 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-26 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana   -68.80 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-26 * "papelería" #bot
+    Assets:EUR:Efectivo:Jana    -5.90 EUR
+    Expenses:Compras:Utilidades
+
+2025-02-26 * "primaprix" #bot
+    Assets:EUR:Efectivo:Jana    -9.20 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-26 * "bazar" #bot
+    Assets:EUR:Efectivo:Jana   -14.75 EUR
+    Expenses:Compras:Utilidades
+
+2025-02-26 * "zara" #bot
+    Assets:EUR:Efectivo:Jana   -19.95 EUR
+    Expenses:Compras:Regalos
+
+2025-02-26 * "freni" #bot
+    Assets:EUR:Efectivo:Jana   -50.00 EUR
+    Expenses:Gastos:Casa:Limpieza
+
+2025-02-26 * "perdido" #bot
+    Assets:EUR:Efectivo:Jana    -0.79 EUR
+    Expenses:Perdido
+
+2025-03-01 * "freni" #bot
+    Assets:EUR:Efectivo:Jana   -50.00 EUR
+    Expenses:Gastos:Casa:Limpieza
+
+2025-03-01 * "carusel" #bot
+    Assets:EUR:Efectivo:Jana    -2.00 EUR
+    Expenses:Gastos:Bebe
+
+2025-03-02 * "froiz" #bot
+    Assets:EUR:Efectivo:Jana   -21.78 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-02 * "albi" #bot
+    Assets:EUR:Efectivo:Jana    -4.75 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-02 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
+
+2025-03-04 * "café" #bot
+    Assets:EUR:Efectivo:Jana    -6.60 EUR
+    Expenses:Salir:Cafe
+
+2025-03-04 * "comida" #bot
+    Assets:EUR:Efectivo:Jana   -30.00 EUR
+    Expenses:Salir:Restaurante

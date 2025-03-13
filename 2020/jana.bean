@@ -1,0 +1,2001 @@
+
+2020-01-04 * "compras" #bot
+    Assets:EUR:Efectivo:Jana        -16.47 EUR
+    Expenses:Compras:Utilidades
+
+2020-01-05 * "micron pen" #bot
+    Assets:EUR:Efectivo:Jana          -4.0 EUR
+    Expenses:Lujo
+
+2020-01-08 * "panadería desayuno" #bot
+    Assets:EUR:Efectivo:Jana         -2.90 EUR
+    Expenses:Lujo
+
+2020-01-08 * "café Klatsch" #bot
+    Assets:EUR:Efectivo:Jana         -12.0 EUR
+    Expenses:Salir:Cafe
+
+2020-01-08 * "papel cumple abuela" #bot
+    Assets:EUR:Efectivo:Jana          -2.0 EUR
+    Expenses:Compras:Regalos
+
+2020-01-10 * "FfM visita Sturm" #bot
+    Assets:EUR:Efectivo:Jana         -5.50 EUR
+    Expenses:Transporte:Publico
+
+2020-01-11 * "pizza FfM" #bot
+    Assets:EUR:Efectivo:Jana         -17.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-01-11 * "Ubahn Jana Kalbach" #bot
+    Assets:EUR:Efectivo:Jana         -2.75 EUR
+    Expenses:Transporte:Publico
+
+2020-01-13 * "comida dliet Bistro ffm" #bot
+    Assets:EUR:Efectivo:Jana         -15.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-01-14 * "Geschenk Oma Jana"
+    Assets:EUR:Efectivo:Jana           350 EUR
+    Income:Regalos
+
+2020-01-14 * "Jana gibt Leo Geld"
+    Assets:EUR:Efectivo:Jana          -350 EUR
+    Assets:EUR:Efectivo:Leo
+
+2020-01-14 * "Compra Jana"
+    Assets:EUR:Efectivo:Jana         -12.7 EUR ; lo que gastó Jana
+    Assets:EUR:Efectivo:Jana          4.15 EUR ; lo que Ute le dio a Jana
+    Assets:EUR:Efectivo:Jana          2.35 EUR ; No se sabe de donde viene
+    Assets:EUR:Efectivo:Jana            15 EUR ; No se sabe de donde viene
+    Expenses:Compras:Alimentos
+
+2020-01-14 * "tanken Ines" #bot
+    Assets:EUR:Efectivo:Jana        -61.19 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2020-01-14 * "Rewe" #bot
+    Assets:EUR:Efectivo:Jana         -4.38 EUR
+    Expenses:Compras:Alimentos
+
+2020-01-16 * "Unknown"
+    Assets:EUR:Efectivo:Jana           100 EUR
+    Income:Regalos
+
+
+2020-01-16 * "Getränke, Rewe, Obst Dieter" #bot
+    Assets:EUR:Efectivo:Jana        -49.30 EUR
+    Expenses:Compras:Alimentos
+
+2020-01-17 * "Grünkohl" #bot
+    Assets:EUR:Efectivo:Jana         -8.54 EUR
+    Expenses:Compras:Alimentos
+
+2020-01-17 * "pastel Oma" #bot
+    Assets:EUR:Efectivo:Jana         -7.70 EUR
+    Expenses:Compras:Alimentos
+
+2020-01-17 * "dm líquido de lentillas etc." #bot
+    Assets:EUR:Efectivo:Jana         -9.80 EUR
+    Expenses:Compras:Utilidades
+
+2020-01-18 * "bebidas Mirka Mari" #bot
+    Assets:EUR:Efectivo:Jana        -19.80 EUR
+    Expenses:Compras:Alimentos
+
+2020-01-19 * "Geschenk Janas Eltern"
+    Assets:EUR:Efectivo:Jana            50 EUR
+    Income:Regalos
+
+2020-01-22 * "comida coco Kiel" #bot
+    Assets:EUR:Efectivo:Jana        -14.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-01-23 * "Apfelsaftschorle Lithaus" #bot
+    Assets:EUR:Efectivo:Jana          -3.0 EUR
+    Expenses:Salir:Cafe
+
+2020-01-28 * "Döner" #bot
+    Assets:EUR:Efectivo:Jana        -11.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-01-31 * "Feldsalat" #bot
+    Assets:EUR:Efectivo:Jana         -1.59 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-02 * "gofre" #bot
+    Assets:EUR:Efectivo:Jana          -8.0 EUR
+    Expenses:Salir:Cafe
+
+2020-02-02 * "La Stalla" #bot
+    Assets:EUR:Efectivo:Jana        -105.0 EUR
+    Expenses:Salir:Restaurante
+2020-02-05 * "Lassis" #bot
+    Assets:EUR:Efectivo:Jana         -1.58 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-06 * "ensalada freund" #bot
+    Assets:EUR:Efectivo:Jana         -8.10 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-06 * "pimiento etc" #bot
+    Assets:EUR:Efectivo:Jana         -1.24 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-07 * "Bus HH" #bot
+    Assets:EUR:Efectivo:Jana         -4.60 EUR
+    Expenses:Transporte:Publico
+
+2020-02-09 * "cervezas" #bot
+    Assets:EUR:Efectivo:Jana         -15.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-09 * "Frühstück HH" #bot
+    Assets:EUR:Efectivo:Jana         -48.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-09 * "Ubahn HH" #bot
+    Assets:EUR:Efectivo:Jana         -2.30 EUR
+    Expenses:Transporte:Publico
+
+2020-02-10 * "bus hbf" #bot
+    Assets:EUR:Efectivo:Jana         -2.30 EUR
+    Expenses:Transporte:Publico
+
+2020-02-10 * "Tee mit Lea" #bot
+    Assets:EUR:Efectivo:Jana          -7.0 EUR
+    Expenses:Salir:Cafe
+
+2020-02-11 * "compras bieli" #bot
+    Assets:EUR:Efectivo:Jana        -16.17 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-12 * "Idee kreativer Einkauf hihi" #bot
+    Assets:EUR:Efectivo:Jana        -15.75 EUR
+    Expenses:Lujo
+
+2020-02-12 * "Briefmarken" #bot
+    Assets:EUR:Efectivo:Jana         -1.60 EUR
+    Expenses:Compras:Utilidades
+
+2020-02-12 * "Rewe" #bot
+    Assets:EUR:Efectivo:Jana        -16.41 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-13 * "real Einkauf" #bot
+    Assets:EUR:Efectivo:Jana        -28.43 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-15 * "dm" #bot
+    Assets:EUR:Efectivo:Jana        -19.60 EUR
+    Expenses:Compras:Utilidades
+
+2020-02-15 * "Mate" #bot
+    Assets:EUR:Efectivo:Jana         -1.68 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-15 * "kino" #bot
+    Assets:EUR:Efectivo:Jana        -12.50 EUR
+    Expenses:Salir:Cine
+
+2020-02-16 * "shots" #bot
+    Assets:EUR:Efectivo:Jana         -7.50 EUR
+    Expenses:Salir:Copas
+
+2020-02-16 * "Bretzel" #bot
+    Assets:EUR:Efectivo:Jana         -1.70 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-19 * "Grieche Dortmund" #bot
+    Assets:EUR:Efectivo:Jana         -48.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-20 * "chicles + Haribo para negro" #bot
+    Assets:EUR:Efectivo:Jana         -1.78 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-20 * "cola con negro" #bot
+    Assets:EUR:Efectivo:Jana         -12.0 EUR
+    Expenses:Salir:Cafe
+
+2020-02-21 * "salir en Colonia" #bot
+    Assets:EUR:Efectivo:Jana        -26.50 EUR
+    Expenses:Salir:Copas
+
+2020-02-22 * "ronda cervezas" #bot
+    Assets:EUR:Efectivo:Jana          -8.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-22 * "hamburguesa cena" #bot
+    Assets:EUR:Efectivo:Jana         -16.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-22 * "cerveza" #bot
+    Assets:EUR:Efectivo:Jana          -3.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-23 * "para Chris" #bot
+    Assets:EUR:Efectivo:Jana         -10.0 EUR
+    Expenses:Salir:Copas
+
+2020-02-23 * "yufka" #bot
+    Assets:EUR:Efectivo:Jana          -6.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-24 * "Withdrawal" #bot
+    Assets:EUR:Banco:Jana           -100.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-02-24 * "edeka" #bot
+    Assets:EUR:Efectivo:Jana        -24.62 EUR
+    Expenses:Compras:Alimentos
+
+2020-02-24 * "blooms" #bot
+    Assets:EUR:Efectivo:Jana         -35.0 EUR
+    Expenses:Gastos:Peluquero
+
+2020-02-24 * "dm" #bot
+    Assets:EUR:Efectivo:Jana         -5.20 EUR
+    Expenses:Compras:Utilidades
+
+2020-02-24 * "Kaffee Leo" #bot
+    Assets:EUR:Efectivo:Jana         -2.30 EUR
+    Expenses:Salir:Cafe
+
+2020-02-25 * "cena" #bot
+    Assets:EUR:Efectivo:Jana         -20.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-26 * "Bahn nach Schwetzingen" #bot
+    Assets:EUR:Efectivo:Jana         -6.40 EUR
+    Expenses:Transporte:Publico
+
+2020-02-28 * "Cola" #bot
+    Assets:EUR:Efectivo:Jana         -1.80 EUR
+    Expenses:Salir:Cafe
+
+2020-02-28 * "Abendessen mit Verena" #bot
+    Assets:EUR:Efectivo:Jana        -11.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-02-29 * "Withdrawal" #bot
+    Assets:EUR:Banco:Jana           -100.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-02-29 * "Nelson" #bot
+    Assets:EUR:Efectivo:Jana         -17.0 EUR
+    Expenses:Salir:Copas
+
+2020-03-01 * "Türk sofrasi" #bot
+    Assets:EUR:Efectivo:Jana         -35.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-03-01 * "Tee" #bot
+    Assets:EUR:Efectivo:Jana          -6.0 EUR
+    Expenses:Salir:Cafe
+
+2020-03-01 * "Pizza" #bot
+    Assets:EUR:Efectivo:Jana         -26.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-03-03 * "chocos" #bot
+    Assets:EUR:Efectivo:Jana         -12.0 EUR
+    Expenses:Salir:Cafe
+
+2020-03-04 * "Mate" #bot
+    Assets:EUR:Efectivo:Jana         -1.94 EUR
+    Expenses:Compras:Alimentos
+
+2020-03-05 * "pan" #bot
+    Assets:EUR:Efectivo:Jana         -2.99 EUR
+    Expenses:Compras:Alimentos
+
+2020-03-05 * "tram" #bot
+    Assets:EUR:Efectivo:Jana         -3.30 EUR
+    Expenses:Transporte:Publico
+
+2020-03-08 * "bar csh" #bot
+    Assets:EUR:Efectivo:Jana          -7.0 EUR
+    Expenses:Salir:Copas
+
+2020-03-10 * "Withdrawal" #bot
+    Assets:EUR:Banco:Jana           -200.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-03-10 * "huevos" #bot
+    Assets:EUR:Efectivo:Jana         -3.50 EUR
+    Expenses:Compras:Alimentos
+
+2020-03-10 * "Gewerbeanmeldung" #bot
+    Assets:EUR:Efectivo:Jana         -36.0 EUR
+    Expenses:Otros
+
+2020-03-10 * "diario regalo Lea" #bot
+    Assets:EUR:Efectivo:Jana         -25.0 EUR
+    Expenses:Compras:Regalos
+
+2020-03-10 * "Abendessen FFM" #bot
+    Assets:EUR:Efectivo:Jana         -17.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-03-10 * "Bahn nach FFM" #bot
+    Assets:EUR:Efectivo:Jana         -6.50 EUR
+    Expenses:Transporte:Publico
+
+2020-03-11 * "huevos" #bot
+    Assets:EUR:Efectivo:Jana         -3.50 EUR
+    Expenses:Compras:Alimentos
+
+2020-03-11 * "Rewe" #bot
+    Assets:EUR:Efectivo:Jana        -52.48 EUR
+    Expenses:Compras:Alimentos
+
+2020-03-14 * "Baumarkt" #bot
+    Assets:EUR:Efectivo:Jana        -31.59 EUR
+    Expenses:Compras:Utilidades
+
+2020-03-27 * "Regalo Oma"
+    Assets:EUR:Efectivo:Jana            20 EUR
+    Income:Regalos
+
+2020-03-31 * "dm" #bot
+    Assets:EUR:Efectivo:Jana         -5.10 EUR
+    Expenses:Compras:Utilidades
+
+2020-04-07 * "Regalo Oma"
+    Assets:EUR:Efectivo:Jana            70 EUR
+    Income:Regalos
+2020-04-08 * "Pan Oma" #bot
+    Assets:EUR:Efectivo:Jana         -1.95 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-08 * "perdido" #bot
+    Assets:EUR:Efectivo:Jana          -1.2 EUR
+    Expenses:Perdido
+
+2020-04-08 * "perdido" #bot
+    Assets:EUR:Efectivo:Jana         -0.32 EUR
+    Expenses:Perdido
+
+2020-04-20 * "panadería" #bot
+    Assets:EUR:Efectivo:Jana         -5.87 EUR
+    Expenses:Salir:Restaurante
+
+2020-04-21 * "Döner" #bot
+    Assets:EUR:Efectivo:Jana          -8.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-04-21 * "Döner" #bot
+    Assets:EUR:Efectivo:Jana          -8.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-04-23 * "farmacia alergia" #bot
+    Assets:EUR:Efectivo:Jana         -16.4 EUR
+    Expenses:Compras:Utilidades
+
+2020-04-25 * "Biomarkt" #bot
+    Assets:EUR:Efectivo:Jana         -8.87 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-25 * "Eis" #bot
+    Assets:EUR:Efectivo:Jana         -6.90 EUR
+    Expenses:Salir:Cafe
+
+2020-04-26 * "Brötchen" #bot
+    Assets:EUR:Efectivo:Jana         -0.20 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-27 * "schrevenpark" #bot
+    Assets:EUR:Efectivo:Jana         -6.80 EUR
+    Expenses:Salir:Cafe
+
+2020-04-27 * "Freund" #bot
+    Assets:EUR:Efectivo:Jana        -33.91 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-28 * "Bäcker" #bot
+    Assets:EUR:Efectivo:Jana          -4.0 EUR
+    Expenses:Compras:Alimentos
+
+2020-04-29 * "Rewe" #bot
+    Assets:EUR:Efectivo:Jana          -0.3 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-04 * "Mittagessen Freund" #bot
+    Assets:EUR:Efectivo:Jana         -8.13 EUR
+    Expenses:Salir:Cafe
+
+2020-05-04 * "Mittagessen Freund" #bot
+    Assets:EUR:Efectivo:Jana         -8.13 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-04 * "super" #bot
+    Assets:EUR:Efectivo:Jana         -7.70 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-04 * "super" #bot
+    Assets:EUR:Efectivo:Jana         -4.88 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-05 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana         -0.72 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-07 * "Briefmarke" #bot
+    Assets:EUR:Efectivo:Jana         -1.55 EUR
+    Expenses:Compras:Utilidades
+
+2020-05-07 * "Rewe" #bot
+    Assets:EUR:Efectivo:Jana         -1.86 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-09 * "super" #bot
+    Assets:EUR:Efectivo:Jana          -4.3 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-09 * "peluquera" #bot
+    Assets:EUR:Efectivo:Jana          -3.0 EUR
+    Expenses:Gastos:Peluquero
+
+2020-05-11 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana          -2.9 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-12 * "Rewe" #bot
+    Assets:EUR:Efectivo:Jana        -11.50 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-14 * "panadería" #bot
+    Assets:EUR:Efectivo:Jana         -2.13 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-14 * "Rewe" #bot
+    Assets:EUR:Efectivo:Jana        -11.77 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-15 * "fresas" #bot
+    Assets:EUR:Efectivo:Jana         -4.90 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-17 * "Fischbrötchen" #bot
+    Assets:EUR:Efectivo:Jana        -12.20 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-18 * "dm" #bot
+    Assets:EUR:Efectivo:Jana         -4.20 EUR
+    Expenses:Compras:Utilidades
+
+2020-05-20 * "freund" #bot
+    Assets:EUR:Efectivo:Jana        -11.47 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-21 * "Withdrawal" #bot
+    Assets:EUR:Banco:Jana           -200.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-05-21 * "panadería" #bot
+    Assets:EUR:Efectivo:Jana         -3.11 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-22 * "La Stala" #bot
+    Assets:EUR:Efectivo:Jana         -50.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-05-24 * "super" #bot
+    Assets:EUR:Efectivo:Jana         -4.99 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-25 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana         -1.58 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-27 * "edeka" #bot
+    Assets:EUR:Efectivo:Jana        -15.25 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-28 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana        -15.35 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-29 * "cerveza moby" #bot
+    Assets:EUR:Efectivo:Jana          -9.0 EUR
+    Expenses:Salir:Copas
+
+2020-05-30 * "edeka" #bot
+    Assets:EUR:Efectivo:Jana        -24.96 EUR
+    Expenses:Compras:Alimentos
+
+2020-05-31 * "schiffercafé" #bot
+    Assets:EUR:Efectivo:Jana         -5.60 EUR
+    Expenses:Salir:Cafe
+
+2020-05-31 * "Fischbrötchen" #bot
+    Assets:EUR:Efectivo:Jana         -8.20 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-01 * "perdieo" #bot
+    Assets:EUR:Efectivo:Jana         -3.60 EUR
+    Expenses:Otros
+
+2020-06-01 * "cervezas" #bot
+    Assets:EUR:Efectivo:Jana         -7.20 EUR
+    Expenses:Salir:Copas
+
+2020-06-01 * "cervezas" #bot
+    Assets:EUR:Efectivo:Jana        -11.40 EUR
+    Expenses:Salir:Copas
+
+2020-06-02 * "super" #bot
+    Assets:EUR:Efectivo:Jana         -5.87 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-03 * "super" #bot
+    Assets:EUR:Efectivo:Jana          -7.5 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-03 * "patatas fritas" #bot
+    Assets:EUR:Efectivo:Jana         -2.80 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-06 * "perdido" #bot
+    Assets:EUR:Efectivo:Jana         -0.05 EUR
+    Expenses:Perdido
+
+2020-06-06 * "pan" #bot
+    Assets:EUR:Efectivo:Jana         -3.60 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-09 * "super" #bot
+    Assets:EUR:Efectivo:Jana         -7.46 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-11 * "Withdrawal" #bot
+    Assets:EUR:Banco:Jana           -200.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-06-11 * "peluquero" #bot
+    Assets:EUR:Efectivo:Jana         -45.0 EUR
+    Expenses:Gastos:Peluquero
+
+2020-06-11 * "pizza" #bot
+    Assets:EUR:Efectivo:Jana         -20.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-16 * "Pizza Lo" #bot
+    Assets:EUR:Efectivo:Jana         -10.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-18 * "Uhrenband" #bot
+    Assets:EUR:Efectivo:Jana        -20.60 EUR
+    Expenses:Compras:Ropa
+
+2020-06-20 * "schiffercafé" #bot
+    Assets:EUR:Efectivo:Jana         -2.50 EUR
+    Expenses:Salir:Cafe
+
+2020-06-20 * "super" #bot
+    Assets:EUR:Efectivo:Jana         -9.55 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-20 * "super" #bot
+    Assets:EUR:Efectivo:Jana         -1.39 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-20 * "dm" #bot
+    Assets:EUR:Efectivo:Jana         -3.99 EUR
+    Expenses:Compras:Utilidades
+
+2020-06-20 * "Achim super" #bot
+    Assets:EUR:Efectivo:Jana        -11.56 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-20 * "Café" #bot
+    Assets:EUR:Efectivo:Jana         -6.10 EUR
+    Expenses:Salir:Cafe
+
+2020-06-20 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana        -27.81 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-21 * "bebidas" #bot
+    Assets:EUR:Efectivo:Jana         -13.0 EUR
+    Expenses:Salir:Cafe
+
+2020-06-22 * "perdido" #bot
+    Assets:EUR:Efectivo:Jana         -0.42 EUR
+    Expenses:Perdido
+
+2020-06-22 * "la stalla" #bot
+    Assets:EUR:Efectivo:Jana         -15.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-23 * "Coca Cola" #bot
+    Assets:EUR:Efectivo:Jana          -5.0 EUR
+    Expenses:Salir:Cafe
+
+2020-06-23 * "fresas" #bot
+    Assets:EUR:Efectivo:Jana          -1.0 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-23 * "cerveza" #bot
+    Assets:EUR:Efectivo:Jana         -1.74 EUR
+    Expenses:Salir:Copas
+
+2020-06-24 * "moby" #bot
+    Assets:EUR:Efectivo:Jana         -9.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-24 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana         -1.88 EUR
+    Expenses:Compras:Alimentos
+
+2020-06-25 * "Withdrawal" #bot
+    Assets:EUR:Banco:Jana           -200.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-06-25 * "oblomow" #bot
+    Assets:EUR:Efectivo:Jana         -55.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-26 * "Döner" #bot
+    Assets:EUR:Efectivo:Jana          -7.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-06-27 * "Fischbrötchen" #bot
+    Assets:EUR:Efectivo:Jana        -12.20 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-02 * "Café klatsch" #bot
+    Assets:EUR:Efectivo:Jana         -17.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-03 * "Café Klatsch" #bot
+    Assets:EUR:Efectivo:Jana         -13.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-04 * "Getränke" #bot
+    Assets:EUR:Efectivo:Jana        -37.14 EUR
+    Expenses:Compras:Alimentos
+
+2020-07-04 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana         -4.49 EUR
+    Expenses:Compras:Alimentos
+
+2020-07-09 * "Café Klatsch" #bot
+    Assets:EUR:Efectivo:Jana         -22.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-10 * "sheabutter" #bot
+    Assets:EUR:Efectivo:Jana        -14.50 EUR
+    Expenses:Compras:Utilidades
+
+2020-07-10 * "panadería" #bot
+    Assets:EUR:Efectivo:Jana         -1.25 EUR
+    Expenses:Compras:Alimentos
+
+2020-07-10 * "Coca Cola" #bot
+    Assets:EUR:Efectivo:Jana          -6.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-10 * "wasser" #bot
+    Assets:EUR:Efectivo:Jana         -2.65 EUR
+    Expenses:Compras:Alimentos
+
+2020-07-10 * "cerveza" #bot
+    Assets:EUR:Efectivo:Jana         -3.50 EUR
+    Expenses:Salir:Copas
+
+2020-07-15 * "Café" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -8.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-15 * "Restaurant" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -35.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-15 * "Coca Cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -6.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-15 * "Taxi Avignon" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -8.0 EUR
+    Expenses:Transporte:Publico
+
+2020-07-16 * "Espresso Leo" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -1.80 EUR
+    Expenses:Salir:Cafe
+
+2020-07-16 * "desayuno" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -5.40 EUR
+    Expenses:Salir:Cafe
+
+2020-07-16 * "Coca Cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -6.60 EUR
+    Expenses:Salir:Cafe
+
+2020-07-16 * "comida" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -37.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-16 * "Café" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -4.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-16 * "Supermarkt" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana        -21.70 EUR
+    Expenses:Compras:Alimentos
+
+2020-07-16 * "vinos" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -6.0 EUR
+    Expenses:Salir:Copas
+
+2020-07-17 * "Café" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -1.50 EUR
+    Expenses:Salir:Cafe
+
+2020-07-17 * "Withdrawal" #bot #mudanza2020
+    Assets:EUR:Banco:Jana           -300.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-07-17 * "tour gastronómico avignon" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana        -140.0 EUR
+    Expenses:Viaje:Tour
+
+2020-07-17 * "Coca Cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -5.90 EUR
+    Expenses:Salir:Cafe
+
+2020-07-17 * "coca cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -5.90 EUR
+    Expenses:Salir:Cafe
+
+2020-07-17 * "Pizzas" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -45.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-18 * "Café" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -2.50 EUR
+    Expenses:Salir:Cafe
+
+2020-07-18 * "Papeterie" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -2.70 EUR
+    Expenses:Compras:Utilidades
+
+2020-07-18 * "imán avignon" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -3.0 EUR
+    Expenses:Viaje:Souvenirs
+
+2020-07-18 * "coca cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -5.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-18 * "comida" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -35.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-18 * "ropa segunda mano Jana" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -18.0 EUR
+    Expenses:Compras:Ropa
+
+2020-07-18 * "Coca Cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -3.60 EUR
+    Expenses:Salir:Cafe
+
+2020-07-18 * "pan" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -1.0 EUR
+    Expenses:Compras:Alimentos
+
+2020-07-19 * "Café" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -2.50 EUR
+    Expenses:Salir:Cafe
+
+2020-07-19 * "jugo y café" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -6.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-19 * "café y té" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -6.30 EUR
+    Expenses:Salir:Cafe
+
+2020-07-19 * "comida" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -60.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-19 * "impuesto hotel Avignon" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -1.80 EUR
+    Expenses:Viaje:Hotel
+
+2020-07-19 * "Coca Cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -2.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-19 * "hamburguesas" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana        -32.28 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-20 * "Café" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -2.60 EUR
+    Expenses:Salir:Cafe
+
+2020-07-20 * "bocadillo de tortilla Barcelona" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -7.90 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-20 * "Coca Cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -4.80 EUR
+    Expenses:Salir:Cafe
+
+2020-07-20 * "cañas" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -4.0 EUR
+    Expenses:Salir:Copas
+
+2020-07-20 * "bus pamplona" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -2.70 EUR
+    Expenses:Transporte:Publico
+
+2020-07-21 * "Café" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -1.25 EUR
+    Expenses:Salir:Cafe
+
+2020-07-21 * "droguería" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -9.55 EUR
+    Expenses:Compras:Utilidades
+
+2020-07-21 * "café & matcha" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -4.60 EUR
+    Expenses:Salir:Cafe
+
+2020-07-21 * "cañas" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -5.40 EUR
+    Expenses:Salir:Copas
+
+2020-07-21 * "menú del día" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana        -25.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-21 * "Withdrawal" #bot #mudanza2020
+    Assets:EUR:Banco:Jana
+    Assets:EUR:Efectivo:Jana           300 EUR
+    Expenses:Gastos:Banco:General     1.87 EUR
+
+2020-07-21 * "Withdrawal" #bot #mudanza2020
+    Assets:EUR:Banco:Jana           -120.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-07-21 * "gin tonics" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -17.0 EUR
+    Expenses:Salir:Copas
+
+2020-07-21 * "Pintxos y caña" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -10.0 EUR
+    Expenses:Salir:Copas
+
+2020-07-21 * "cena" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana        -26.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-22 * "Café" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -2.50 EUR
+    Expenses:Salir:Cafe
+
+2020-07-22 * "sello" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -1.45 EUR
+    Expenses:Compras:Utilidades
+
+2020-07-22 * "museo de Navarra" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -4.0 EUR
+    Expenses:Salir:Museo
+
+2020-07-22 * "coca cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -9.20 EUR
+    Expenses:Salir:Cafe
+
+2020-07-22 * "hamburguesas" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana        -26.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-22 * "Coca Cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -1.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-22 * "pintxos" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana        -20.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-23 * "Café y zumo" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -3.50 EUR
+    Expenses:Salir:Cafe
+
+2020-07-23 * "sandwiches" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -4.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-23 * "45 farmacia" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -18.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-07-23 * "farmacia" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -0.45 EUR
+    Expenses:Compras:Utilidades
+
+2020-07-23 * "Coca Cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -1.5 EUR
+    Expenses:Salir:Cafe
+
+2020-07-23 * "lavandería" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -4.50 EUR
+    Expenses:Otros
+
+2020-07-23 * "vino y tortilla" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -3.60 EUR
+    Expenses:Salir:Copas
+
+2020-07-23 * "vino y champis" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -4.60 EUR
+    Expenses:Salir:Copas
+
+2020-07-23 * "vino y champis" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -4.20 EUR
+    Expenses:Salir:Copas
+
+2020-07-23 * "vino & tapas" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -7.40 EUR
+    Expenses:Salir:Copas
+
+2020-07-23 * "vino y setas" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -7.40 EUR
+    Expenses:Salir:Copas
+
+2020-07-24 * "desayuno" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -4.60 EUR
+    Expenses:Salir:Cafe
+
+2020-07-24 * "Café y té" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -3.70 EUR
+    Expenses:Salir:Cafe
+
+2020-07-24 * "cañas" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -5.0 EUR
+    Expenses:Salir:Copas
+
+2020-07-24 * "perdido" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -5.55 EUR
+    Expenses:Perdido
+
+2020-07-24 * "comida" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -32.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-24 * "imanes" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -5.50 EUR
+    Expenses:Viaje:Souvenirs
+
+2020-07-24 * "Coca Cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -4.90 EUR
+    Expenses:Salir:Cafe
+
+2020-07-24 * "vino y champis" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -7.40 EUR
+    Expenses:Salir:Copas
+
+2020-07-24 * "vino y tapa" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -4.80 EUR
+    Expenses:Salir:Copas
+
+2020-07-24 * "vinos y tortilla" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -5.40 EUR
+    Expenses:Salir:Copas
+
+2020-07-24 * "vino y setas" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -7.80 EUR
+    Expenses:Salir:Copas
+
+2020-07-25 * "desayuno" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -4.80 EUR
+    Expenses:Salir:Cafe
+
+2020-07-25 * "Coca cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -5.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-25 * "comida" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana        -22.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-25 * "bus elciego" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -3.80 EUR
+    Expenses:Transporte:Publico
+
+2020-07-25 * "coca cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -4.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-25 * "Café" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -2.90 EUR
+    Expenses:Salir:Cafe
+
+2020-07-25 * "bus Logroño" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -3.80 EUR
+    Expenses:Transporte:Publico
+
+2020-07-25 * "100 montaditos" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -6.40 EUR
+    Expenses:Salir:Copas
+
+2020-07-25 * "cena udon" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana        -34.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-26 * "desayuno, comida, cañas" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana        -27.60 EUR
+    Expenses:Salir:Cafe
+
+2020-07-26 * "snacks" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana         -4.40 EUR
+    Expenses:Salir:Cafe
+
+2020-07-26 * "Coca Cola" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana          -6.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-26 * "Withdrawal" #bot #mudanza2020
+    Assets:EUR:Banco:Jana           -200.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-07-26 * "cena" #bot #mudanza2020
+    Assets:EUR:Efectivo:Jana        -35.40 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-27 * "Café" #bot #mudanza #mudanza
+    Assets:EUR:Efectivo:Jana         -2.80 EUR
+    Expenses:Salir:Cafe
+
+2020-07-27 * "catedral León" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -12.0 EUR
+    Expenses:Salir:Museo
+
+2020-07-27 * "comida" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -22.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-27 * "café" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -1.40 EUR
+    Expenses:Salir:Cafe
+
+2020-07-27 * "funda teléfono Leo" #bot #mudanza
+    Assets:EUR:Efectivo:Jana        -12.99 EUR
+    Expenses:Compras:Utilidades
+
+2020-07-27 * "Coca Cola" #bot #mudanza
+    Assets:EUR:Efectivo:Jana          -5.0 EUR
+    Expenses:Salir:Cafe
+
+2020-07-27 * "Cena" #bot #mudanza
+    Assets:EUR:Efectivo:Jana        -25.70 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-28 * "desayuno" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -4.70 EUR
+    Expenses:Salir:Cafe
+
+2020-07-28 * "Auris Leo" #bot #mudanza
+    Assets:EUR:Efectivo:Jana          -7.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-07-28 * "museo claustro" #bot #mudanza
+    Assets:EUR:Efectivo:Jana          -6.0 EUR
+    Expenses:Salir:Museo
+
+2020-07-28 * "Café" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -1.30 EUR
+    Expenses:Salir:Cafe
+
+2020-07-28 * "iman León" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -2.50 EUR
+    Expenses:Viaje:Souvenirs
+
+2020-07-28 * "Coca Cola" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -4.60 EUR
+    Expenses:Salir:Cafe
+
+2020-07-28 * "mc Donald's Leo" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -8.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-28 * "Coca Cola" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -3.60 EUR
+    Expenses:Salir:Cafe
+
+2020-07-28 * "cena" #bot #mudanza
+    Assets:EUR:Efectivo:Jana        -36.40 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-29 * "desayuno" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -4.40 EUR
+    Expenses:Salir:Cafe
+
+2020-07-29 * "museo de arte contemporáneo" #bot #mudanza
+    Assets:EUR:Efectivo:Jana          -6.0 EUR
+    Expenses:Salir:Museo
+
+2020-07-29 * "Café" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -3.50 EUR
+    Expenses:Salir:Cafe
+
+2020-07-29 * "snacks" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -5.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-29 * "Withdrawal" #bot #mudanza
+    Assets:EUR:Banco:Jana           -200.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-07-29 * "goiko" #bot #mudanza
+    Assets:EUR:Efectivo:Jana        -32.60 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-29 * "sprite" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -3.90 EUR
+    Expenses:Salir:Cafe
+
+2020-07-30 * "desayuno" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -6.50 EUR
+    Expenses:Salir:Cafe
+
+2020-07-30 * "catedral ourense" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -6.10 EUR
+    Expenses:Salir:Museo
+
+2020-07-30 * "café" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -3.70 EUR
+    Expenses:Salir:Cafe
+
+2020-07-30 * "comida italiana" #bot #mudanza
+    Assets:EUR:Efectivo:Jana        -38.65 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-30 * "Coca Cola" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -4.40 EUR
+    Expenses:Salir:Cafe
+
+2020-07-30 * "vinos" #bot #mudanza
+    Assets:EUR:Efectivo:Jana          -4.0 EUR
+    Expenses:Salir:Copas
+
+2020-07-30 * "propina" #bot #mudanza
+    Assets:EUR:Efectivo:Jana          -1.0 EUR
+    Expenses:Salir:Copas
+
+2020-07-30 * "cena" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -20.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-31 * "desayuno" #bot #mudanza
+    Assets:EUR:Efectivo:Jana          -5.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-31 * "Café" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -1.10 EUR
+    Expenses:Salir:Cafe
+
+2020-07-31 * "Coca Cola" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -4.50 EUR
+    Expenses:Salir:Cafe
+
+2020-07-31 * "comida" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -22.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-31 * "copas" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -5.80 EUR
+    Expenses:Salir:Copas
+
+2020-07-31 * "Cena" #bot #mudanza
+    Assets:EUR:Efectivo:Jana        -28.30 EUR
+    Expenses:Salir:Restaurante
+
+2020-07-31 * "helado" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -4.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-01 * "desayuno" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -4.40 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-01 * "bus estación de trenes" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -1.70 EUR
+    Expenses:Transporte:Publico
+
+2020-08-01 * "café" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -2.70 EUR
+    Expenses:Salir:Cafe
+
+2020-08-01 * "perdido" #bot #mudanza
+    Assets:EUR:Efectivo:Jana          -6.0 EUR
+    Expenses:Perdido
+
+2020-08-01 * "snacks" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -5.75 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-01 * "Bus Coru" #bot #mudanza
+    Assets:EUR:Efectivo:Jana         -2.40 EUR
+    Expenses:Transporte:Publico
+
+2020-08-01 * "Withdrawal" #bot
+    Assets:EUR:Banco:Jana           -200.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-08-01 * "comida italiana Coru" #bot
+    Assets:EUR:Efectivo:Jana        -23.90 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-02 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -99.67 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-02 * "fotocopias" #bot
+    Assets:EUR:Efectivo:Jana         -0.40 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-02 * "donación" #bot
+    Assets:EUR:Efectivo:Jana         -0.50 EUR
+    Expenses:Donaciones
+
+2020-08-05 * "merkadona" #bot
+    Assets:EUR:Efectivo:Jana        -40.33 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-09 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -11.66 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-10 * "pizzas" #bot
+    Assets:EUR:Efectivo:Jana         -25.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-10 * "trámite nie" #bot
+    Assets:EUR:Efectivo:Jana         -9.64 EUR
+    Expenses:Gastos:Administracion
+
+2020-08-10 * "fotocopias" #bot
+    Assets:EUR:Efectivo:Jana         -0.90 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-10 * "sellos" #bot
+    Assets:EUR:Efectivo:Jana         -2.60 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-10 * "panes y leche" #bot
+    Assets:EUR:Efectivo:Jana         -5.39 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-18 * "Withdrawal" #bot
+    Assets:EUR:Banco:Jana           -300.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-08-19 * "Coca Cola" #bot
+    Assets:EUR:Efectivo:Jana          -4.0 EUR
+    Expenses:Salir:Cafe
+
+2020-08-19 * "Cena Ayo" #bot
+    Assets:EUR:Efectivo:Jana         -31.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-21 * "vinos" #bot
+    Assets:EUR:Efectivo:Jana         -5.60 EUR
+    Expenses:Salir:Copas
+
+2020-08-21 * "copas" #bot
+    Assets:EUR:Efectivo:Jana          -8.0 EUR
+    Expenses:Salir:Copas
+
+2020-08-21 * "vinos" #bot
+    Assets:EUR:Efectivo:Jana        -14.10 EUR
+    Expenses:Salir:Copas
+
+2020-08-22 * "aparcar" #bot
+    Assets:EUR:Efectivo:Jana         -0.60 EUR
+    Expenses:Gastos:Coche:Parking
+
+2020-08-22 * "DGT+Residencia" #bot
+    Assets:EUR:Efectivo:Jana        -19.68 EUR
+    Expenses:Gastos:Administracion
+
+2020-08-22 * "Coca Cola" #bot
+    Assets:EUR:Efectivo:Jana          -4.0 EUR
+    Expenses:Salir:Cafe
+
+2020-08-22 * "Brillenputztuch" #bot
+    Assets:EUR:Efectivo:Jana          -7.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-22 * "vinos" #bot
+    Assets:EUR:Efectivo:Jana         -2.80 EUR
+    Expenses:Salir:Copas
+
+2020-08-22 * "copas y tapas" #bot
+    Assets:EUR:Efectivo:Jana         -6.40 EUR
+    Expenses:Salir:Copas
+
+2020-08-23 * "mascarillas" #bot
+    Assets:EUR:Efectivo:Jana         -30.0 EUR
+    Expenses:Compras:Ropa
+
+2020-08-23 * "crepe" #bot
+    Assets:EUR:Efectivo:Jana          -3.0 EUR
+    Expenses:Salir:Cafe
+
+2020-08-23 * "Cena y vinos" #bot
+    Assets:EUR:Efectivo:Jana        -28.10 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-24 * "tapita" #bot
+    Assets:EUR:Efectivo:Jana         -7.80 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-24 * "tapas" #bot
+    Assets:EUR:Efectivo:Jana        -11.40 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-24 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana         -4.93 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-24 * "perfido" #bot
+    Assets:EUR:Efectivo:Jana          -0.4 EUR
+    Expenses:Perdido
+
+2020-08-25 * "imprimir" #bot
+    Assets:EUR:Efectivo:Jana         -0.15 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-25 * "comida" #bot
+    Assets:EUR:Efectivo:Jana        -13.20 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-27 * "imprimir" #bot
+    Assets:EUR:Efectivo:Jana         -0.30 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-28 * "Goiko" #bot
+    Assets:EUR:Efectivo:Jana          -4.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-28 * "cena" #bot
+    Assets:EUR:Efectivo:Jana         -23.0 EUR
+    Expenses:Salir:Restaurante
+
+2020-08-28 * "copas" #bot
+    Assets:EUR:Efectivo:Jana         -8.60 EUR
+    Expenses:Salir:Copas
+
+2020-08-29 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -25.44 EUR
+    Expenses:Compras:Alimentos
+
+2020-08-29 * "perchas" #bot
+    Assets:EUR:Efectivo:Jana          -6.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-08-30 * "Café" #bot
+    Assets:EUR:Efectivo:Jana         -4.50 EUR
+    Expenses:Salir:Cafe
+
+2020-08-31 * "bocadillo Lo" #bot
+    Assets:EUR:Efectivo:Jana         -0.80 EUR
+    Expenses:Salir:Cafe
+
+2020-08-31 * "Aquarium" #bot
+    Assets:EUR:Efectivo:Jana          -8.0 EUR
+    Expenses:Salir:Museo
+
+2020-08-31 * "Coca Cola" #bot
+    Assets:EUR:Efectivo:Jana          -5.0 EUR
+    Expenses:Salir:Cafe
+
+2020-08-31 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca         -300.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-08-31 * "cena" #bot
+    Assets:EUR:Efectivo:Jana        -36.75 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-01 * "Taco bell" #bot
+    Assets:EUR:Efectivo:Jana        -15.20 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-01 * "Marco de corcho" #bot
+    Assets:EUR:Efectivo:Jana         -4.65 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-01 * "silla oficina corte inglés" #bot
+    Assets:EUR:Efectivo:Jana         -99.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-01 * "báscula" #bot
+    Assets:EUR:Efectivo:Jana         -12.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-02 * "fruta" #bot
+    Assets:EUR:Efectivo:Jana         -1.64 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-03 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca         -300.0 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-09-04 * "vinos" #bot
+    Assets:EUR:Efectivo:Jana         -10.0 EUR
+    Expenses:Salir:Copas
+
+2020-09-06 * "peaje" #bot
+    Assets:EUR:Efectivo:Jana         -9.40 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-09-08 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana         -2.14 EUR
+    Expenses:Compras:Alimentos
+
+2020-09-08 * "psicotecnico" #bot
+    Assets:EUR:Efectivo:Jana         -40.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-08 * "Fotos Carnet" #bot
+    Assets:EUR:Efectivo:Jana          -7.0 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-08 * "Tivoli cena" #bot
+    Assets:EUR:Efectivo:Jana        -24.20 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-09 * "peaje" #bot
+    Assets:EUR:Efectivo:Jana         -6.90 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-09-09 * "tita" #bot
+    Assets:EUR:Efectivo:Jana         -4.08 EUR
+    Expenses:Salir:Cafe
+
+2020-09-09 * "peaje" #bot
+    Assets:EUR:Efectivo:Jana         -6.90 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-09-10 * "Coca Cola" #bot
+    Assets:EUR:Efectivo:Jana         -0.20 EUR
+    Expenses:Salir:Cafe
+
+2020-09-10 * "cena" #bot
+    Assets:EUR:Efectivo:Jana        -18.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-11 * "copas" #bot
+    Assets:EUR:Efectivo:Jana         -6.50 EUR
+    Expenses:Salir:Copas
+
+2020-09-11 * "cena" #bot
+    Assets:EUR:Efectivo:Jana        -17.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-12 * "helado Lo" #bot
+    Assets:EUR:Efectivo:Jana         -2.50 EUR
+    Expenses:Salir:Cafe
+
+2020-09-13 * "peaje" #bot
+    Assets:EUR:Efectivo:Jana         -4.50 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-09-16 * "postres" #bot
+    Assets:EUR:Efectivo:Jana         -6.70 EUR
+    Expenses:Salir:Cafe
+
+2020-09-17 * "Café eléctrica" #bot
+    Assets:EUR:Efectivo:Jana         -5.50 EUR
+    Expenses:Salir:Cafe
+
+2020-09-18 * "farmacia" #bot
+    Assets:EUR:Efectivo:Jana         -6.00 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-18 * "cervezas" #bot
+    Assets:EUR:Efectivo:Jana         -4.40 EUR
+    Expenses:Salir:Copas
+
+2020-09-18 * "cócteles" #bot
+    Assets:EUR:Efectivo:Jana        -12.00 EUR
+    Expenses:Salir:Copas
+
+2020-09-18 * "copas" #bot
+    Assets:EUR:Efectivo:Jana         -7.00 EUR
+    Expenses:Salir:Copas
+
+2020-09-19 * "goiko" #bot
+    Assets:EUR:Efectivo:Jana        -32.60 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-21 * "gasolina" #bot
+    Assets:EUR:Efectivo:Jana        -56.00 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2020-09-25 * "cinta" #bot
+    Assets:EUR:Efectivo:Jana         -1.60 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-25 * "paquete papá" #bot
+    Assets:EUR:Efectivo:Jana        -30.00 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-25 * "cena" #bot
+    Assets:EUR:Efectivo:Jana        -22.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-25 * "copas" #bot
+    Assets:EUR:Efectivo:Jana        -16.00 EUR
+    Expenses:Salir:Copas
+
+2020-09-27 * "comida Santiago" #bot
+    Assets:EUR:Efectivo:Jana        -50.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-27 * "correos" #bot
+    Assets:EUR:Efectivo:Jana        -30.00 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-27 * "peaje" #bot
+    Assets:EUR:Efectivo:Jana         -9.40 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-09-27 * "Coca Cola" #bot
+    Assets:EUR:Efectivo:Jana         -3.80 EUR
+    Expenses:Salir:Cafe
+
+2020-09-29 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca        -300.00 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-09-29 * "café" #bot
+    Assets:EUR:Efectivo:Jana         -8.70 EUR
+    Expenses:Salir:Cafe
+
+2020-09-29 * "regaLo" #bot
+    Assets:EUR:Efectivo:Jana        -80.00 EUR
+    Expenses:Compras:Regalos
+
+2020-09-29 * "cordones" #bot
+    Assets:EUR:Efectivo:Jana         -2.00 EUR
+    Expenses:Compras:Utilidades
+
+2020-09-29 * "cena" #bot
+    Assets:EUR:Efectivo:Jana        -26.05 EUR
+    Expenses:Salir:Restaurante
+
+2020-09-30 * "comida" #bot
+    Assets:EUR:Efectivo:Jana        -20.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-01 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -12.87 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-03 * "regaLo" #bot
+    Assets:EUR:Efectivo:Jana        -23.00 EUR
+    Expenses:Compras:Regalos
+
+2020-10-04 * "té" #bot
+    Assets:EUR:Efectivo:Jana         -2.60 EUR
+    Expenses:Salir:Cafe
+
+2020-10-04 * "Coca Cola" #bot
+    Assets:EUR:Efectivo:Jana         -3.30 EUR
+    Expenses:Salir:Cafe
+
+2020-10-04 * "Tortilla y cerveza" #bot
+    Assets:EUR:Efectivo:Jana         -5.10 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-05 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana         -2.67 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-06 * "chino" #bot
+    Assets:EUR:Efectivo:Jana         -5.90 EUR
+    Expenses:Compras:Utilidades
+
+2020-10-06 * "chino" #bot
+    Assets:EUR:Efectivo:Jana         -1.65 EUR
+    Expenses:Compras:Utilidades
+
+2020-10-07 * "Crepes" #bot
+    Assets:EUR:Efectivo:Jana        -15.15 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-08 * "regaLo" #bot
+    Assets:EUR:Efectivo:Jana        -11.00 EUR
+    Expenses:Compras:Regalos
+
+2020-10-08 * "cócteles" #bot
+    Assets:EUR:Efectivo:Jana        -12.00 EUR
+    Expenses:Salir:Copas
+
+2020-10-09 * "lotería cruz roja" #bot
+    Assets:EUR:Efectivo:Jana         -5.00 EUR
+    Expenses:Lujo
+
+2020-10-09 * "cena" #bot
+    Assets:EUR:Efectivo:Jana        -11.40 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-10 * "Coca Cola" #bot
+    Assets:EUR:Efectivo:Jana         -2.00 EUR
+    Expenses:Salir:Cafe
+
+2020-10-10 * "cena" #bot
+    Assets:EUR:Efectivo:Jana        -20.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-12 * "pan" #bot
+    Assets:EUR:Efectivo:Jana         -2.30 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-12 * "peaje" #bot
+    Assets:EUR:Efectivo:Jana         -2.50 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-10-12 * "peaje" #bot
+    Assets:EUR:Efectivo:Jana         -6.90 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-10-12 * "cena" #bot
+    Assets:EUR:Efectivo:Jana        -20.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-13 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca        -300.00 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-10-13 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -17.30 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-14 * "regaLo" #bot
+    Assets:EUR:Efectivo:Jana         -6.95 EUR
+    Expenses:Compras:Regalos
+
+2020-10-14 * "churros" #bot
+    Assets:EUR:Efectivo:Jana         -4.00 EUR
+    Expenses:Salir:Cafe
+
+2020-10-16 * "desayuno" #bot
+    Assets:EUR:Efectivo:Jana         -6.40 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-16 * "sello" #bot
+    Assets:EUR:Efectivo:Jana         -1.45 EUR
+    Expenses:Compras:Utilidades
+
+2020-10-16 * "candelabro" #bot
+    Assets:EUR:Efectivo:Jana        -19.95 EUR
+    Expenses:Compras:Utilidades
+
+2020-10-16 * "cena" #bot
+    Assets:EUR:Efectivo:Jana        -21.50 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-16 * "copas" #bot
+    Assets:EUR:Efectivo:Jana         -6.80 EUR
+    Expenses:Salir:Copas
+
+2020-10-18 * "fnac" #bot
+    Assets:EUR:Efectivo:Jana        -49.35 EUR
+    Expenses:Compras:Medios:Juegos
+
+2020-10-19 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -14.63 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-19 * "jugo" #bot
+    Assets:EUR:Efectivo:Jana         -3.75 EUR
+    Expenses:Salir:Cafe
+
+2020-10-19 * "anti vaho" #bot
+    Assets:EUR:Efectivo:Jana         -7.00 EUR
+    Expenses:Compras:Utilidades
+
+2020-10-19 * "la aldea" #bot
+    Assets:EUR:Efectivo:Jana        -11.68 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-19 * "tiger" #bot
+    Assets:EUR:Efectivo:Jana        -14.00 EUR
+    Expenses:Compras:Utilidades
+
+2020-10-20 * "Café" #bot
+    Assets:EUR:Efectivo:Jana         -2.90 EUR
+    Expenses:Salir:Cafe
+
+2020-10-20 * "pizza" #bot
+    Assets:EUR:Efectivo:Jana        -14.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-10-20 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -15.97 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-21 * "perdido" #bot
+    Assets:EUR:Efectivo:Jana         -3.12 EUR
+    Expenses:Perdido
+
+2020-10-21 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana         -6.67 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-23 * "peaje" #bot
+    Assets:EUR:Efectivo:Jana         -7.20 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-10-23 * "peaje" #bot
+    Assets:EUR:Efectivo:Jana         -2.50 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-10-26 * "chino" #bot
+    Assets:EUR:Efectivo:Jana         -2.60 EUR
+    Expenses:Compras:Utilidades
+
+2020-10-26 * "líquido de lentillas" #bot
+    Assets:EUR:Efectivo:Jana         -5.99 EUR
+    Expenses:Compras:Utilidades
+
+2020-10-26 * "o recuncho" #bot
+    Assets:EUR:Efectivo:Jana         -3.30 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-26 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -16.40 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-28 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana         -5.19 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-28 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca        -300.00 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-10-30 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -22.48 EUR
+    Expenses:Compras:Alimentos
+
+2020-10-30 * "copas" #bot
+    Assets:EUR:Efectivo:Jana         -4.50 EUR
+    Expenses:Salir:Copas
+
+2020-10-31 * "ropa" #bot
+    Assets:EUR:Efectivo:Jana        -53.97 EUR
+    Expenses:Compras:Ropa
+
+2020-10-31 * "ropa" #bot
+    Assets:EUR:Efectivo:Jana        -49.90 EUR
+    Expenses:Compras:Ropa
+
+2020-10-31 * "calzoncillos" #bot
+    Assets:EUR:Efectivo:Jana        -19.99 EUR
+    Expenses:Compras:Ropa
+
+2020-10-31 * "café" #bot
+    Assets:EUR:Efectivo:Jana         -3.40 EUR
+    Expenses:Salir:Cafe
+
+2020-11-02 * "Decathlon" #bot
+    Assets:EUR:Efectivo:Jana        -14.97 EUR
+    Expenses:Compras:Ropa
+
+2020-11-02 * "Amelia" #bot
+    Assets:EUR:Efectivo:Jana         -2.35 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-02 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -10.66 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-03 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -15.51 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-05 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana         -6.87 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-06 * "café" #bot
+    Assets:EUR:Efectivo:Jana         -3.40 EUR
+    Expenses:Salir:Cafe
+
+2020-11-06 * "velas" #bot
+    Assets:EUR:Efectivo:Jana         -5.00 EUR
+    Expenses:Compras:Utilidades
+
+2020-11-06 * "goiko" #bot
+    Assets:EUR:Efectivo:Jana        -36.60 EUR
+    Expenses:Salir:Restaurante
+
+2020-11-06 * "correo" #bot
+    Assets:EUR:Efectivo:Jana         -6.70 EUR
+    Expenses:Compras:Regalos
+
+2020-11-07 * "amelia" #bot
+    Assets:EUR:Efectivo:Jana         -6.05 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-07 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -11.93 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-11 * "donuts" #bot
+    Assets:EUR:Efectivo:Jana         -4.15 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-12 * "café" #bot
+    Assets:EUR:Efectivo:Jana         -4.20 EUR
+    Expenses:Salir:Cafe
+
+2020-11-12 * "pan" #bot
+    Assets:EUR:Efectivo:Jana         -2.46 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-13 * "crepe" #bot
+    Assets:EUR:Efectivo:Jana         -2.00 EUR
+    Expenses:Salir:Cafe
+
+2020-11-16 * "sello" #bot
+    Assets:EUR:Efectivo:Jana         -1.75 EUR
+    Expenses:Compras:Utilidades
+
+2020-11-17 * "farmacia" #bot
+    Assets:EUR:Efectivo:Jana        -12.50 EUR
+    Expenses:Compras:Utilidades
+
+2020-11-17 * "perdido" #bot
+    Assets:EUR:Efectivo:Jana        -21.02 EUR
+    Expenses:Perdido
+
+2020-11-18 * "Café" #bot
+    Assets:EUR:Efectivo:Jana         -3.00 EUR
+    Expenses:Salir:Cafe
+
+2020-11-18 * "comida" #bot
+    Assets:EUR:Efectivo:Jana         -5.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-11-18 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca        -300.00 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-11-18 * "utilidades" #bot
+    Assets:EUR:Efectivo:Jana         -1.75 EUR
+    Expenses:Compras:Utilidades
+
+2020-11-19 * "Café" #bot
+    Assets:EUR:Efectivo:Jana         -4.00 EUR
+    Expenses:Salir:Cafe
+
+2020-11-19 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -11.25 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-20 * "desodorante" #bot
+    Assets:EUR:Efectivo:Jana         -9.85 EUR
+    Expenses:Compras:Utilidades
+
+2020-11-20 * "gafas de sol" #bot
+    Assets:EUR:Efectivo:Jana        -39.00 EUR
+    Expenses:Compras:Ropa
+
+2020-11-20 * "pantuflas Lo" #bot
+    Assets:EUR:Efectivo:Jana         -7.99 EUR
+    Expenses:Compras:Ropa
+
+2020-11-22 * "poke" #bot
+    Assets:EUR:Efectivo:Jana        -27.80 EUR
+    Expenses:Salir:Restaurante
+
+2020-11-22 * "coca cola" #bot
+    Assets:EUR:Efectivo:Jana         -2.20 EUR
+    Expenses:Salir:Cafe
+
+2020-11-22 * "gofre" #bot
+    Assets:EUR:Efectivo:Jana         -3.50 EUR
+    Expenses:Salir:Cafe
+
+2020-11-22 * "cerveza" #bot
+    Assets:EUR:Efectivo:Jana         -2.00 EUR
+    Expenses:Salir:Copas
+
+2020-11-23 * "Café" #bot
+    Assets:EUR:Efectivo:Jana         -2.87 EUR
+    Expenses:Salir:Cafe
+
+2020-11-23 * "o recuncho" #bot
+    Assets:EUR:Efectivo:Jana         -4.37 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-23 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -21.50 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-26 * "Café" #bot
+    Assets:EUR:Efectivo:Jana         -2.80 EUR
+    Expenses:Salir:Cafe
+
+2020-11-26 * "tintorería traje" #bot
+    Assets:EUR:Efectivo:Jana        -13.50 EUR
+    Expenses:Compras:Ropa
+
+2020-11-26 * "frutería" #bot
+    Assets:EUR:Efectivo:Jana         -0.29 EUR
+    Expenses:Compras:Alimentos
+
+2020-11-28 * "paraguas" #bot
+    Assets:EUR:Efectivo:Jana       -100.00 EUR
+    Expenses:Compras:Regalos
+
+2020-11-28 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca        -300.00 EUR
+    Assets:EUR:Efectivo:Jana
+
+2020-11-30 * "gafas" #bot
+    Assets:EUR:Efectivo:Jana       -129.00 EUR
+    Expenses:Compras:Ropa
+
+2020-12-01 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana        -10.37 EUR
+    Expenses:Compras:Alimentos
+
+2020-12-05 * "velas" #bot
+    Assets:EUR:Efectivo:Jana         -9.00 EUR
+    Expenses:Compras:Utilidades
+
+2020-12-05 * "peaje" #bot
+    Assets:EUR:Efectivo:Jana         -2.50 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2020-12-11 * "gamuzas anti-vaho" #bot
+    Assets:EUR:Efectivo:Jana        -18.00 EUR
+    Expenses:Compras:Utilidades
+
+2020-12-11 * "farmacia" #bot
+    Assets:EUR:Efectivo:Jana         -6.50 EUR
+    Expenses:Compras:Utilidades
+
+
+2020-12-27 * "gasolina" #bot
+    Assets:EUR:Efectivo:Jana        -56.62 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2020-12-27 * "Raststätte toi" #bot
+    Assets:EUR:Efectivo:Jana         -0.50 EUR
+    Expenses:Viaje:Otro
+
+2020-12-27 * "Raststätte toi" #bot
+    Assets:EUR:Efectivo:Jana         -0.70 EUR
+    Expenses:Viaje:Otro
+
+2020-12-27 * "Raststätte toi" #bot
+    Assets:EUR:Efectivo:Jana         -0.70 EUR
+    Expenses:Viaje:Otro
+
+2020-12-28 * "Fischbrötchen" #bot
+    Assets:EUR:Efectivo:Jana         -6.40 EUR
+    Expenses:Salir:Restaurante
+
+2020-12-28 * "Crepes" #bot
+    Assets:EUR:Efectivo:Jana         -5.00 EUR
+    Expenses:Salir:Restaurante
+
+2020-12-28 * "DM" #bot
+    Assets:EUR:Efectivo:Jana         -6.06 EUR
+    Expenses:Compras:Utilidades
+
+2020-12-24 * "Regalo"
+    Assets:EUR:Efectivo:Jana           300 EUR
+    Income:Regalos
+

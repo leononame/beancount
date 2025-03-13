@@ -1,0 +1,485 @@
+
+2025-01-02 * "Club del Mar"
+    Assets:EUR:Banco:Abanca            -41.43 EUR
+    Expenses:Gastos:Actividades
+
+2025-01-02 * "Katharina" #entierro-papa
+    Assets:EUR:Banco:Abanca              1000 EUR
+    Income:Regalos
+
+2025-01-03 * "Bausparen Jana"
+    Assets:EUR:Banco:Abanca              -100 EUR
+    Expenses:Invest
+
+2025-01-04 * "Uber Eats"
+    Assets:EUR:Banco:Abanca              9.86 EUR
+    Expenses:Salir:Restaurante
+
+2025-01-04 * "tailscale mullvad"
+    Assets:EUR:Banco:Abanca             -4.83 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-01-04 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -32.84 EUR
+    Expenses:Salir:Restaurante
+
+2025-01-02 * "BU"
+    Assets:EUR:Banco:Sabadell           -51.1 EUR
+    Expenses:Gastos:Seguros:BU
+
+2025-01-03 * "Comunidad"
+    Assets:EUR:Banco:Sabadell             -75 EUR
+    Expenses:Gastos:Casa:Comunidad
+
+2025-01-04 * "Transfer"
+    Assets:EUR:Banco:Abanca             -1000 EUR
+    Assets:EUR:Banco:Sabadell
+
+2025-01-04 * "Hidden Games Wallapop"
+    Assets:EUR:Efectivo:Leo                14 EUR
+    Expenses:Compras:Medios:Juegos
+
+2025-01-04 * "Perdido"
+    Assets:EUR:Efectivo:Leo             -1.93 EUR
+    Expenses:Perdido
+
+2025-01-08 * "Uber Eats"
+    Assets:EUR:Banco:Abanca              0.01 EUR
+    Expenses:Salir:Restaurante
+
+2025-01-08 * "Wallapop cosa Jana recuperacion embarazo"
+    Assets:EUR:Banco:Abanca            -19.23 EUR
+    Expenses:Compras:Utilidades
+
+2025-01-08 * "Iago"
+    Assets:EUR:Banco:Abanca               -50 EUR
+    Expenses:Compras:Regalos
+
+2025-01-08 * "Ali"
+    Assets:EUR:Banco:Abanca               -50 EUR
+    Expenses:Compras:Regalos
+
+2025-01-10 * "Need for Speed Heat difmark"
+    Assets:EUR:Banco:Abanca             -7.89 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2025-01-10 * "Guarde Ali"
+    Assets:EUR:Banco:Abanca            -89.44 EUR
+    Expenses:Gastos:Bebe:Guarde
+
+2025-01-10 * "Cumple???"
+    Assets:EUR:Banco:Abanca               -10 EUR
+    Expenses:Compras:Regalos
+
+2025-01-10 * "Psicóloga"
+    Assets:EUR:Banco:Abanca              -150 EUR
+    Expenses:Gastos:Actividades
+
+2025-01-10 * "Need for Speed Heat G2A"
+    Assets:EUR:Banco:Abanca              -2.5 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2025-01-12 * "Chy Jana"
+    Assets:EUR:Banco:Abanca               -64 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-07 * "Comunidad garajes"
+    Assets:EUR:Banco:Sabadell         -171.18 EUR
+    Expenses:Gastos:Casa:Comunidad
+
+2025-01-09 * "Móvil Leo"
+    Assets:EUR:Banco:Sabadell           -1.29 EUR
+    Expenses:Gastos:Movil
+
+2025-01-14 * "Lowi"
+    Assets:EUR:Banco:Abanca             -31.9 EUR
+    Expenses:Gastos:Casa:Internet          20 EUR
+    Expenses:Gastos:Movil
+
+2025-01-14 * "Intereses"
+    Assets:Invest:MyInvestor:Cash      103.08 EUR
+    Income:Invest:Intereses
+2025-01-09 * "Intereses"
+    Assets:Invest:MyInvestor:Cash        0.96 EUR
+    Income:Invest:Intereses
+
+2025-01-15 * "YT Music"
+    Assets:EUR:Banco:Abanca            -25.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2025-01-16 * "Adobe"
+    Assets:EUR:Banco:Abanca            -12.09 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-01-16 * "Zalando"
+    Assets:EUR:Banco:Abanca            -133.9 EUR
+    Expenses:Compras:Ropa
+
+2025-01-18 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -34.29 EUR
+    Expenses:Salir:Restaurante
+
+2025-01-19 * "A Nosa Terra"
+    Assets:EUR:Banco:Abanca            -10.25 EUR
+    Expenses:Salir:Cafe
+
+
+2025-01-22 * "vestakorn Laugenstangen"
+    Assets:EUR:Banco:Abanca            -53.35 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-22 * "Zalando"
+    Assets:EUR:Banco:Abanca           -335.65 EUR
+    Expenses:Compras:Ropa
+
+2025-01-22 * "Wallapop Patinete Carrito"
+    Assets:EUR:Banco:Abanca             -41.8 EUR
+    Expenses:Compras:Bebe
+
+2025-01-22 * "Gadis"
+    Assets:EUR:Banco:Abanca            -56.38 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-23 * "Amazon" "Colchón hinchable"
+    Assets:EUR:Banco:Abanca            -43.94 EUR
+    Expenses:Compras:Utilidades
+
+2025-01-23 * "Amazon" "Spray cámara, champu etc"
+    Assets:EUR:Banco:Abanca            -37.84 EUR
+    Expenses:Compras:Utilidades
+
+2025-01-23 * "Regalo Cumple Camila"
+    Assets:EUR:Banco:Abanca               -10 EUR
+    Expenses:Compras:Regalos
+
+2025-01-24 * "Forza Horizon"
+    Assets:EUR:Banco:Abanca            -39.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2025-01-24 * "Resie was auch immer Jana (regalo Lisa?)"
+    Assets:EUR:Banco:Abanca               -18 EUR
+    Expenses:Compras:Regalos
+
+2025-01-24 * "Salario leo"
+    Assets:EUR:Banco:Abanca           3104.41 EUR
+    Income:Salario:Leo
+
+2025-01-24 * "Vagalume"
+    Assets:EUR:Banco:Abanca             -20.2 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+2025-01-25 * "Porkbun aurelianix.com"
+    Assets:EUR:Banco:Abanca            -10.64 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-01-25 * "Gadis"
+    Assets:EUR:Banco:Abanca             -69.8 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-27 * "Hetzner"
+    Assets:EUR:Banco:Abanca            -13.19 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2025-01-27 * "MuP"
+    Assets:EUR:Banco:Abanca              1200 EUR
+    Liabilities:Deudas:Familia            600 EUR
+    Income:Regalos
+
+
+2025-01-28 * "Psicóloga"
+    Assets:EUR:Banco:Abanca              -150 EUR
+    Expenses:Gastos:Actividades
+
+2025-01-28 * "Kebab"
+    Assets:EUR:Banco:Abanca             -22.3 EUR
+    Expenses:Salir:Restaurante
+
+
+2025-01-29 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -37.44 EUR
+    Expenses:Salir:Restaurante
+
+2025-01-29 * "Ali"
+    Assets:EUR:Banco:Abanca              -300 EUR
+    Liabilities:Deudas:Familia
+
+2025-01-29 * "Iago"
+    Assets:EUR:Banco:Abanca              -300 EUR
+    Liabilities:Deudas:Familia
+
+2025-01-29 * "Gandaina"
+    Assets:EUR:Banco:Abanca               -54 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+2025-01-29 * "Gadis"
+    Assets:EUR:Banco:Abanca            -79.19 EUR
+    Expenses:Compras:Alimentos
+
+2025-01-30 * "Zalando"
+    Assets:EUR:Banco:Abanca                82 EUR
+    Expenses:Compras:Ropa
+
+2025-01-30 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -38.39 EUR
+    Expenses:Salir:Restaurante
+
+2025-01-30 * "Gandaina"
+    Assets:EUR:Banco:Abanca               9.8 EUR
+    Expenses:Gastos:Bebe:Actividades
+2025-01-30 * "Gandaina Camila"
+    Assets:EUR:Banco:Abanca                10 EUR
+    Expenses:Gastos:Bebe:Actividades
+2025-01-30 * "Gandaina"
+    Assets:EUR:Banco:Abanca               9.8 EUR
+    Expenses:Gastos:Bebe:Actividades
+2025-01-30 * "Gandaina Samuel"
+    Assets:EUR:Banco:Abanca               9.8 EUR
+    Expenses:Gastos:Bebe:Actividades
+2025-01-30 * "Gandaina"
+    Assets:EUR:Banco:Abanca               9.8 EUR
+    Expenses:Gastos:Bebe:Actividades
+2025-01-30 * "Gandaina India"
+    Assets:EUR:Banco:Abanca               9.8 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+2025-01-31 * "Zalando"
+    Assets:EUR:Banco:Abanca            173.01 EUR
+    Expenses:Compras:Ropa
+
+2025-01-31 * "Fianza Coworking"
+    Assets:EUR:Banco:Abanca              -150 EUR
+    Assets:EUR:Deudas
+
+2025-01-31 * "Gandaina"
+    Assets:EUR:Banco:Abanca               9.8 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+2025-01-31 * "Gandaina"
+    Assets:EUR:Banco:Abanca               9.8 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+2025-02-01 * "Amazon" "Soportes Pantalla"
+    Assets:EUR:Banco:Abanca           -228.25 EUR
+    Expenses:Compras:Utilidades
+
+2025-02-03 * "Club del Mar"
+    Assets:EUR:Banco:Abanca            -41.43 EUR
+    Expenses:Gastos:Actividades
+
+2025-02-03 * "Transferencia"
+    Assets:EUR:Banco:Abanca             -1500 EUR
+    Assets:EUR:Banco:Sabadell
+
+2025-02-04 * "Pagatelia"
+    Assets:EUR:Banco:Abanca           -100.25 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2025-02-04 * "Bausparen Jana"
+    Assets:EUR:Banco:Abanca              -100 EUR
+    Expenses:Invest
+
+2025-02-04 * "Coworking"
+    Assets:EUR:Banco:Abanca            -181.5 EUR
+    Income:Salario:Leo
+
+
+2025-01-31 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell        -1291.06 EUR
+    Liabilities:Deudas:Banco          1001.87 EUR
+    Expenses:Compras:Piso:Intereses    289.19 EUR
+
+2025-02-03 * "BU"
+    Assets:EUR:Banco:Sabadell           -51.1 EUR
+    Expenses:Gastos:Seguros:BU
+2025-02-04 * "Gadis"
+    Assets:EUR:Banco:Abanca            -27.34 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-05 * "Mullvad"
+    Assets:EUR:Banco:Abanca             -4.83 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-02-05 * "Luz"
+    Assets:EUR:Banco:Abanca            -87.88 EUR
+    Expenses:Gastos:Casa:Luz
+
+2025-02-06 * "Gasolina"
+    Assets:EUR:Banco:Abanca               -63 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2025-02-06 * "Mantenimiento Boris"
+    Assets:EUR:Banco:Abanca           -146.49 EUR
+    Expenses:Gastos:Coche:Taller
+
+2025-02-06 * "Gandaina"
+    Assets:EUR:Banco:Abanca                10 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+2025-02-07 * "Guarde Ali"
+    Assets:EUR:Banco:Abanca            -89.44 EUR
+    Expenses:Gastos:Bebe:Guarde
+
+2025-02-07 * "Jana"
+    Assets:EUR:Banco:Abanca              1500 EUR
+    Income:Salario:Jana
+
+2025-02-07 * "Iago"
+    Assets:EUR:Banco:Abanca               -50 EUR
+    Expenses:Compras:Regalos
+
+2025-02-07 * "Ali"
+    Assets:EUR:Banco:Abanca               -50 EUR
+    Expenses:Compras:Regalos
+
+2025-02-09 * "Intereses"
+    Assets:Invest:MyInvestor:Cash        2.14 EUR
+    Income:Invest:Intereses
+
+2025-02-11 * "Amazon" "Devo soportes pantala"
+    Assets:EUR:Banco:Abanca             55.65 EUR
+    Expenses:Compras:Utilidades
+
+2025-02-11 * "Amazon" "Devo soportes pantala"
+    Assets:EUR:Banco:Abanca            112.28 EUR
+    Expenses:Compras:Utilidades
+
+2025-02-11 * "Lotería"
+    Assets:EUR:Banco:Abanca                -1 EUR
+    Expenses:Lujo
+
+2025-02-11 * "Neumáticos Boris"
+    Assets:EUR:Banco:Abanca              -480 EUR
+    Expenses:Gastos:Coche:Taller
+
+2025-02-12 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -38.39 EUR
+    Expenses:Salir:Restaurante
+
+2025-02-12 * "Lowi"
+    Assets:EUR:Banco:Abanca             -31.9 EUR
+    Expenses:Gastos:Casa:Internet          20 EUR
+    Expenses:Gastos:Movil
+
+2025-02-13 * "YT Music"
+    Assets:EUR:Banco:Abanca            -25.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2025-02-13 * "Salario Jana"
+    Assets:EUR:Banco:Abanca              1500 EUR
+    Income:Salario:Jana
+
+2025-02-14 * "Steam"
+    Assets:EUR:Banco:Abanca             -5.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2025-02-18 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -37.64 EUR
+    Expenses:Salir:Restaurante
+
+2025-02-18 * "Adobe"
+    Assets:EUR:Banco:Abanca            -12.09 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-02-19 * "Arrabiata"
+    Assets:EUR:Banco:Abanca             -67.4 EUR
+    Expenses:Salir:Restaurante
+
+2025-02-19 * "Kebab"
+    Assets:EUR:Banco:Abanca             -22.6 EUR
+    Expenses:Salir:Restaurante
+
+2025-02-20 * "Albi"
+    Assets:EUR:Banco:Abanca               -17 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-21 * "Circular Ring Prelaunch"
+    Assets:EUR:Banco:Abanca             -2.87 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2025-02-21 * "Albi"
+    Assets:EUR:Banco:Abanca            -18.67 EUR
+    Expenses:Compras:Alimentos
+
+2025-02-22 * "Bus"
+    Assets:EUR:Banco:Abanca               -15 EUR
+    Expenses:Transporte:Publico
+
+2025-02-22 * "Café"
+    Assets:EUR:Banco:Abanca              -1.4 EUR
+    Expenses:Salir:Cafe
+
+2025-02-23 * "Burger King"
+    Assets:EUR:Banco:Abanca            -13.21 EUR
+    Expenses:Salir:Restaurante
+
+2025-02-25 * "Salario Leo"
+    Assets:EUR:Banco:Abanca           5022.73 EUR
+    Income:Salario:Leo
+
+2025-02-26 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -38.39 EUR
+    Expenses:Salir:Restaurante
+
+2025-02-27 * "Hetzner"
+    Assets:EUR:Banco:Abanca            -13.19 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2025-02-28 * "Murders On The Yangtse River"
+    Assets:EUR:Banco:Abanca            -14.79 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+
+2025-03-02 * "Bombona Mari Carmen"
+    Assets:EUR:Banco:Abanca            -18.15 EUR
+    Assets:EUR:Efectivo:Leo                18 EUR
+    Expenses:Compras:Regalos             0.15 EUR
+
+2025-03-02 * "Transferencia"
+    Assets:EUR:Banco:Abanca             -1500 EUR
+    Assets:EUR:Banco:Sabadell
+
+2025-03-03 * "Fiesta Gandaina"
+    Assets:EUR:Banco:Abanca               9.8 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+2025-03-04 * "Bausparen jana"
+    Assets:EUR:Banco:Abanca              -100 EUR
+    Expenses:Invest
+
+2025-03-05 * "Tailscale"
+    Assets:EUR:Banco:Abanca             -4.82 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-03-05 * "ITV"
+    Assets:EUR:Banco:Abanca            -51.18 EUR
+    Expenses:Gastos:Coche:Taller
+
+2025-03-05 * "Manillas ventana llave"
+    Assets:EUR:Banco:Abanca              -190 EUR
+    Expenses:Gastos:Casa:Reforma
+
+2025-03-06 * "vinted "
+    Assets:EUR:Banco:Abanca            -24.33 EUR
+    Expenses:Compras:Bebe
+
+2025-03-06 * "Coworking Leo"
+    Assets:EUR:Banco:Abanca            -181.5 EUR
+    Income:Salario:Leo
+
+2025-03-06 * "Alicia Anpa"
+    Assets:EUR:Banco:Abanca               -50 EUR
+    Expenses:Gastos:Bebe:Guarde
+
+2025-02-28 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell        -1291.06 EUR
+    Liabilities:Deudas:Banco          1003.08 EUR
+    Expenses:Compras:Piso:Intereses    287.98 EUR
+
+2025-03-03 * "BU"
+    Assets:EUR:Banco:Sabadell           -51.1 EUR
+    Expenses:Gastos:Seguros:BU
+;TODO
+2025-03-08 * "Vinted"
+    Assets:EUR:Banco:Abanca            -23.24 EUR
+    Expenses:Compras:Bebe
+
