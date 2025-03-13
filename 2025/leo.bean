@@ -510,3 +510,7 @@
 2025-03-05 * "café" #bot
     Assets:EUR:Efectivo:Leo    -1.70 EUR
     Expenses:Salir:Cafe
+
+2025-03-13 * "test" #bot
+    Assets:EUR:Efectivo:Leo    -1.00 EUR
+    Expenses:Compras:Bebe
