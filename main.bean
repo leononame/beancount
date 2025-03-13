@@ -9,6 +9,7 @@ include "*/jana.bean"
 include "*/leo.bean"
 include "*/otro.bean"
 include "*/invest.bean"
+include "*/beanhub.bean"
 include "prices.bean"
 
 ; Commodities
