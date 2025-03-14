@@ -478,8 +478,72 @@
 2025-03-03 * "BU"
     Assets:EUR:Banco:Sabadell           -51.1 EUR
     Expenses:Gastos:Seguros:BU
-;TODO
-2025-03-08 * "Vinted"
+
+2025-03-07 * "Prelaunch"
+    Assets:EUR:Banco:Abanca              2.89 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2025-03-07 * "Vinted"
     Assets:EUR:Banco:Abanca            -23.24 EUR
     Expenses:Compras:Bebe
 
+2025-03-07 * "Wallapop Hidden"
+    Assets:EUR:Banco:Abanca                10 EUR
+    Expenses:Compras:Medios:Juegos
+
+2025-03-07   * "Psicóloga"
+    Assets:EUR:Banco:Abanca              -150 EUR
+    Expenses:Gastos:Actividades
+
+2025-03-07 * "Iago"
+    Assets:EUR:Banco:Abanca               -50 EUR
+    Expenses:Compras:Regalos
+
+2025-03-07 * "Ali"
+    Assets:EUR:Banco:Abanca               -50 EUR
+    Expenses:Compras:Regalos
+
+2025-03-08 * "Corte Inglés"
+    Assets:EUR:Banco:Abanca            -15.95 EUR
+    Expenses:Compras:Casa:Decoracion
+
+2025-03-08 * "Corte Inglés Súper"
+    Assets:EUR:Banco:Abanca            -84.06 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-10 * "Agua"
+    Assets:EUR:Banco:Abanca            -56.11 EUR
+    Expenses:Gastos:Casa:Agua
+
+2025-03-11 * "Guarde Ali"
+    Assets:EUR:Banco:Abanca            -89.44 EUR
+    Expenses:Gastos:Bebe:Guarde
+
+2025-03-11 * "Gadis"
+    Assets:EUR:Banco:Abanca            -40.89 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-12 * "Vinted"
+    Assets:EUR:Banco:Abanca             -14.9 EUR
+    Expenses:Compras:Bebe
+
+2025-03-12 * "Lowi"
+    Assets:EUR:Banco:Abanca             -31.9 EUR
+    Expenses:Gastos:Casa:Internet          20 EUR
+    Expenses:Gastos:Movil                11.9 EUR
+
+2025-03-12 * "Luz"
+    Assets:EUR:Banco:Abanca            -79.62 EUR
+    Expenses:Gastos:Casa:Luz
+
+2025-03-13 * "Bici Iago"
+    Assets:EUR:Banco:Abanca             -3.99 EUR
+    Expenses:Compras:Bebe
+
+2025-03-13 * "YT Music"
+    Assets:EUR:Banco:Abanca            -25.99 EUR
+    Expenses:Compras:Medios:Musica
+;TODO
+2025-03-16 * "adobe"
+    Assets:EUR:Banco:Abanca            -12.09 EUR
+    Expenses:Compras:Tecnología:Software

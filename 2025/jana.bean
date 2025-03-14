@@ -299,6 +299,42 @@
     Assets:EUR:Efectivo:Jana   -30.00 EUR
     Expenses:Salir:Restaurante
 
+2025-03-07 * "yoga Fede" #bot
+    Assets:EUR:Efectivo:Jana   -60.00 EUR
+    Expenses:Deporte
+
+2025-03-07 * "albi" #bot
+    Assets:EUR:Efectivo:Jana    -4.75 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-07 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana   -44.64 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-07 * "freni" #bot
+    Assets:EUR:Efectivo:Jana   -50.00 EUR
+    Expenses:Gastos:Casa
+
+2025-03-07 * "local Gandaina" #bot
+    Assets:EUR:Efectivo:Jana   -54.00 EUR
+    Expenses:Gastos:Actividades
+
+2025-03-11 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
+
+2025-03-11 * "Albi" #bot
+    Assets:EUR:Efectivo:Jana   -30.99 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-11 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -5.62 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-11 * "pescado" #bot
+    Assets:EUR:Efectivo:Jana   -20.30 EUR
+    Expenses:Compras:Alimentos
+
 2025-03-14 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -50.00 EUR
     Expenses:Gastos:Casa

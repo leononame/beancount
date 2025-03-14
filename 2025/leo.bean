@@ -511,10 +511,38 @@
     Assets:EUR:Efectivo:Leo    -1.70 EUR
     Expenses:Salir:Cafe
 
-2025-03-13 * "test" #bot
-    Assets:EUR:Efectivo:Leo    -1.00 EUR
-    Expenses:Compras:Bebe
+2025-03-06 * "comida para llevar" #bot
+    Assets:EUR:Efectivo:Leo   -20.75 EUR
+    Expenses:Salir:Restaurante
 
-2025-03-13 * "test" #bot
-    Assets:EUR:Efectivo:Leo    -1.00 EUR
-    Expenses:Compras:Bebe
+2025-03-06 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo   -53.27 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-07 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -1.80 EUR
+    Expenses:Salir:Cafe
+
+2025-03-08 * "farinarium" #bot
+    Assets:EUR:Efectivo:Leo    -6.63 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-09 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -4.00 EUR
+    Expenses:Salir:Cafe
+
+2025-03-10 * "ferretería" #bot
+    Assets:EUR:Efectivo:Leo    -0.60 EUR
+    Expenses:Gastos:Casa
+
+2025-03-12 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo   -72.89 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-12 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo    -4.70 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-14 * "Perdido"
+    Assets:EUR:Efectivo:Leo       -3 EUR
+    Expenses:Perdido
