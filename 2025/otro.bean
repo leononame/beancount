@@ -543,6 +543,11 @@
 2025-03-13 * "YT Music"
     Assets:EUR:Banco:Abanca            -25.99 EUR
     Expenses:Compras:Medios:Musica
+
+2025-03-14 * "Comunidad"
+    Assets:EUR:Banco:Sabadell            -150 EUR
+    Expenses:Gastos:Casa:Comunidad
+
 ;TODO
 2025-03-16 * "adobe"
     Assets:EUR:Banco:Abanca            -12.09 EUR
