@@ -338,3 +338,6 @@
 2025-03-14 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -50.00 EUR
     Expenses:Gastos:Casa
+2025-03-15 * "Sicilia in bocca" #bot
+    Assets:EUR:Efectivo:Jana   -60.00 EUR
+    Expenses:Salir:Restaurante
