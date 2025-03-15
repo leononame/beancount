@@ -546,3 +546,6 @@
 2025-03-14 * "Perdido"
     Assets:EUR:Efectivo:Leo       -3 EUR
     Expenses:Perdido
+2025-03-15 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo   -15.22 EUR
+    Expenses:Compras:Alimentos
