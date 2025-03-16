@@ -341,3 +341,7 @@
 2025-03-15 * "Sicilia in bocca" #bot
     Assets:EUR:Efectivo:Jana   -60.00 EUR
     Expenses:Salir:Restaurante
+
+2025-03-16 * "Pan" #bot
+    Assets:EUR:Efectivo:Jana    -9.15 EUR
+    Expenses:Compras:Alimentos
