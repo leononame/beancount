@@ -345,3 +345,7 @@
 2025-03-16 * "Pan" #bot
     Assets:EUR:Efectivo:Jana    -9.15 EUR
     Expenses:Compras:Alimentos
+
+2025-03-18 * "propina" #bot
+    Assets:EUR:Efectivo:Jana    -1.00 EUR
+    Expenses:Salir:Restaurante
