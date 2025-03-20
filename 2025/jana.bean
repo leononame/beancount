@@ -357,3 +357,7 @@
 2025-03-20 * "nua" #bot
     Assets:EUR:Efectivo:Jana   -12.50 EUR
     Expenses:Salir:Restaurante
+
+2025-03-20 * "fisio" #bot
+    Assets:EUR:Efectivo:Jana   -60.00 EUR
+    Expenses:Deporte
