@@ -597,3 +597,7 @@
 2025-03-21 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca  -300.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2025-03-21 * "filloa" #bot
+    Assets:EUR:Efectivo:Leo   -20.00 EUR
+    Expenses:Salir:Conciertos
