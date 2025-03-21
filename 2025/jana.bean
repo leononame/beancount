@@ -361,3 +361,7 @@
 2025-03-20 * "fisio" #bot
     Assets:EUR:Efectivo:Jana   -60.00 EUR
     Expenses:Deporte
+
+2025-03-21 * "freni" #bot
+    Assets:EUR:Efectivo:Jana   -77.00 EUR
+    Expenses:Gastos:Casa
