@@ -381,3 +381,7 @@
 2025-03-21 * "gadis" #bot
     Assets:EUR:Efectivo:Jana   -60.73 EUR
     Expenses:Compras:Alimentos
+
+2025-03-21 * "perdido" #bot
+    Assets:EUR:Efectivo:Jana   -37.29 EUR
+    Expenses:Perdido
