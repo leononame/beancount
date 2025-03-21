@@ -585,3 +585,7 @@
 2025-03-20 * "perdido" #bot
     Assets:EUR:Efectivo:Leo    -1.10 EUR
     Expenses:Perdido
+
+2025-03-21 * "freni" #bot
+    Assets:EUR:Efectivo:Leo    -3.00 EUR
+    Expenses:Gastos:Casa
