@@ -369,3 +369,7 @@
 2025-03-21 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -4.36 EUR
     Expenses:Compras:Alimentos
+
+2025-03-21 * "la fonda" #bot
+    Assets:EUR:Efectivo:Jana   -14.45 EUR
+    Expenses:Salir:Restaurante
