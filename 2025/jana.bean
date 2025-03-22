@@ -389,3 +389,7 @@
 2025-03-22 * "vagalume" #bot
     Assets:EUR:Efectivo:Jana    -6.00 EUR
     Expenses:Salir:Cafe
+
+2025-03-22 * "bazar" #bot
+    Assets:EUR:Efectivo:Jana    -0.75 EUR
+    Expenses:Compras:Utilidades
