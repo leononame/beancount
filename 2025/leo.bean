@@ -613,3 +613,7 @@
 2025-03-22 * "restaurante" #bot
     Assets:EUR:Efectivo:Leo   -45.00 EUR
     Expenses:Salir:Restaurante
+
+2025-03-22 * "bazar" #bot
+    Assets:EUR:Efectivo:Leo    -3.50 EUR
+    Expenses:Compras:Utilidades
