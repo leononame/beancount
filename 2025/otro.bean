@@ -584,11 +584,31 @@
     Expenses:Compras:Utilidades              23.69 EUR
     Expenses:Compras:Bebe                    10.49 EUR
 
-;TODO
-2025-03-25 * "Amazon" "Ratón"
+2025-03-21 * "Kobo Clara B/W Ereader"
+    Assets:EUR:Banco:Abanca                   -149 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2025-03-22 * "Uber Eats"
+    Assets:EUR:Banco:Abanca                 -38.39 EUR
+    Expenses:Salir:Restaurante
+
+2025-03-22 * "Amazon" "Ratón"
     Assets:EUR:Banco:Abanca                 -72.06 EUR
     Expenses:Compras:Tecnología:Hardware
 
-2025-03-25 * "Uber Eats"
-    Assets:EUR:Banco:Abanca                 -38.39 EUR
+2025-03-23  * "Clue Hunter Escape Room"
+    Assets:EUR:Banco:Abanca                    -54 EUR
+    Expenses:Gastos:Actividades
+
+; TODO
+2025-03-25 * "Primark"
+    Assets:EUR:Banco:Abanca                     -7 EUR
+    Expenses:Compras:Bebe
+
+2025-03-25 * "Uber Eats Andrea"
+    Assets:EUR:Banco:Abanca                    -58 EUR
     Expenses:Salir:Restaurante
+
+2025-03-27 * "Amazon" "varios"
+    Assets:EUR:Banco:Abanca                 -79.84 EUR
+    Expenses:Compras:Utilidades
