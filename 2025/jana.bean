@@ -401,3 +401,7 @@
 2025-03-27 * "tortilla" #bot
     Assets:EUR:Efectivo:Jana    -7.20 EUR
     Expenses:Salir:Cafe
+
+2025-03-27 * "somier 190*90 restos de stock" #bot
+    Assets:EUR:Efectivo:Jana  -126.00 EUR
+    Expenses:Compras:Casa:Muebles
