@@ -397,3 +397,7 @@
 2025-03-27 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -50.00 EUR
     Expenses:Gastos:Casa
+
+2025-03-27 * "tortilla" #bot
+    Assets:EUR:Efectivo:Jana    -7.20 EUR
+    Expenses:Salir:Cafe
