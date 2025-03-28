@@ -417,3 +417,7 @@
 2025-03-28 * "albi" #bot
     Assets:EUR:Efectivo:Jana   -27.50 EUR
     Expenses:Compras:Alimentos
+
+2025-03-28 * "perdido" #bot
+    Assets:EUR:Efectivo:Jana    -2.65 EUR
+    Expenses:Perdido
