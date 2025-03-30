@@ -421,3 +421,7 @@
 2025-03-28 * "perdido" #bot
     Assets:EUR:Efectivo:Jana    -2.65 EUR
     Expenses:Perdido
+
+2025-03-30 * "Bubble tea" #bot
+    Assets:EUR:Efectivo:Jana    -5.50 EUR
+    Expenses:Salir:Cafe
