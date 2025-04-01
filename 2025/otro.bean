@@ -600,15 +600,87 @@
     Assets:EUR:Banco:Abanca                    -54 EUR
     Expenses:Gastos:Actividades
 
-; TODO
-2025-03-25 * "Primark"
-    Assets:EUR:Banco:Abanca                     -7 EUR
-    Expenses:Compras:Bebe
+2025-03-25 * "Salario"
+    Assets:EUR:Banco:Abanca                5022.26 EUR
+    Income:Salario:Leo
 
-2025-03-25 * "Uber Eats Andrea"
+2025-03-26 * "Uber Eats Andrea"
     Assets:EUR:Banco:Abanca                    -58 EUR
     Expenses:Salir:Restaurante
+
+2025-03-26 * "Primark"
+    Assets:EUR:Banco:Abanca                     -7 EUR
+    Expenses:Compras:Bebe
 
 2025-03-27 * "Amazon" "varios"
     Assets:EUR:Banco:Abanca                 -79.84 EUR
     Expenses:Compras:Utilidades
+
+2025-03-27 * "Hetzner"
+    Assets:EUR:Banco:Abanca                 -13.19 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2025-03-27 * "Arenal"
+    Assets:EUR:Banco:Abanca                    -15 EUR
+    Expenses:Compras:Utilidades
+
+2025-03-27 * "Jana"
+    Assets:EUR:Banco:Abanca                   2000 EUR
+    Income:Salario:Jana
+
+2025-03-28 * "Uber Eats"
+    Assets:EUR:Banco:Abanca                 -38.39 EUR
+    Expenses:Salir:Restaurante
+
+2025-03-28 * "Impuestos Coche"
+    Assets:EUR:Banco:Abanca                -132.19 EUR
+    Expenses:Gastos:Coche:Otros
+
+2025-03-29 * "Chifan"
+    Assets:EUR:Banco:Abanca                    -65 EUR
+    Expenses:Salir:Restaurante
+
+2025-03-30 * "Chenchu"
+    Assets:EUR:Banco:Abanca                   31.5 EUR
+    Expenses:Salir:Restaurante
+
+2025-03-31 * "Cuota Autónomos"
+    Assets:EUR:Banco:Abanca                 -97.21 EUR
+    Income:Salario:Jana
+
+2025-03-31 * "Lentillas Leo"
+    Assets:EUR:Banco:Abanca                 -63.92 EUR
+    Expenses:Compras:Utilidades
+
+2025-03-31 * "Crema SOlar"
+    Assets:EUR:Banco:Abanca                 -26.95 EUR
+    Expenses:Compras:Utilidades
+
+2025-03-31 * "Aceite de Oliva Rincón de la Subbética"
+    Assets:EUR:Banco:Abanca                -126.42 EUR
+    Expenses:Compras:Alimentos
+
+2025-03-31 * "Amazon Devo"
+    Assets:EUR:Banco:Abanca                     39 EUR
+    Expenses:Compras:Utilidades
+
+2025-03-31 * "Uber Eats"
+    Assets:EUR:Banco:Abanca                 -29.89 EUR
+    Expenses:Salir:Restaurante
+
+2025-03-31 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell             -1291.06 EUR
+    Liabilities:Deudas:Banco               1004.29 EUR
+    Expenses:Compras:Piso:Intereses         286.77 EUR
+
+2025-03-31 * "TC Leo"
+    Assets:EUR:Banco:Sabadell              -529.16 EUR
+    Liabilities:TC:Leo
+
+2025-04-01 * "BU"
+    Assets:EUR:Banco:Sabadell                -51.1 EUR
+    Expenses:Gastos:Seguros:BU
+
+2025-03-31 * "Transferencia"
+    Assets:EUR:Banco:Abanca                  -1500 EUR
+    Assets:EUR:Banco:Sabadell
