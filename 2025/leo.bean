@@ -701,3 +701,7 @@
 2025-03-31 * "café" #bot
     Assets:EUR:Efectivo:Leo    -2.20 EUR
     Expenses:Salir:Cafe
+
+2025-04-01 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo    -4.20 EUR
+    Expenses:Salir:Cafe
