@@ -660,14 +660,6 @@
     Assets:EUR:Banco:Abanca                -126.42 EUR
     Expenses:Compras:Alimentos
 
-2025-03-31 * "Amazon Devo"
-    Assets:EUR:Banco:Abanca                     39 EUR
-    Expenses:Compras:Utilidades
-
-2025-03-31 * "Uber Eats"
-    Assets:EUR:Banco:Abanca                 -29.89 EUR
-    Expenses:Salir:Restaurante
-
 2025-03-31 * "Hipoteca"
     Assets:EUR:Banco:Sabadell             -1291.06 EUR
     Liabilities:Deudas:Banco               1004.29 EUR
@@ -677,10 +669,46 @@
     Assets:EUR:Banco:Sabadell              -529.16 EUR
     Liabilities:TC:Leo
 
+2025-04-01 * "Amazon Devo"
+    Assets:EUR:Banco:Abanca                     39 EUR
+    Expenses:Compras:Utilidades
+
+2025-04-01 * "Uber Eats"
+    Assets:EUR:Banco:Abanca                 -29.89 EUR
+    Expenses:Salir:Restaurante
+
 2025-04-01 * "BU"
     Assets:EUR:Banco:Sabadell                -51.1 EUR
     Expenses:Gastos:Seguros:BU
 
-2025-03-31 * "Transferencia"
+2025-04-01 * "Transferencia"
     Assets:EUR:Banco:Abanca                  -1500 EUR
     Assets:EUR:Banco:Sabadell
+
+2025-04-01 * "Coworking"
+    Assets:EUR:Banco:Abanca                 -181.5 EUR
+    Income:Salario:Leo
+
+2025-04-02 * "Amazon"
+    Assets:EUR:Banco:Abanca                  27.82 EUR
+    Expenses:Compras:Utilidades
+2025-04-02 * "Amazon"
+    Assets:EUR:Banco:Abanca                 -27.82 EUR
+    Expenses:Compras:Utilidades
+
+2025-04-02 * "Bausparen"
+    Assets:EUR:Banco:Abanca                   -100 EUR
+    Expenses:Invest
+
+;todo
+2025-04-05 * "Uber Eats"
+    Assets:EUR:Banco:Abanca                 -30.99 EUR
+    Expenses:Salir:Restaurante
+
+2025-04-05 * "Amazon" "juntador de cama, usb, pattex"
+    Assets:EUR:Banco:Abanca                 -73.61 EUR
+    Expenses:Compras:Utilidades
+
+2025-04-05 * "tailscale"
+    Assets:EUR:Banco:Abanca                  -4.66 EUR
+    Expenses:Compras:Tecnología:Software
