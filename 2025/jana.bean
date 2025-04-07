@@ -441,3 +441,7 @@
 2025-04-05 * "tortilla" #bot
     Assets:EUR:Efectivo:Jana   -11.80 EUR
     Expenses:Salir:Cafe
+
+2025-04-07 * "Bus iago" #bot
+    Assets:EUR:Efectivo:Jana    -3.00 EUR
+    Expenses:Gastos:Bebe
