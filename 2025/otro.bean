@@ -728,7 +728,26 @@
     Assets:EUR:Banco:Abanca            -89.44 EUR
     Expenses:Gastos:Bebe:Guarde
 
-;TODO
-2025-04-10 * "Móvil Amazon"
+2025-04-08 * "Iago"
+    Assets:EUR:Banco:Abanca               -50 EUR
+    Expenses:Compras:Regalos
+
+2025-04-08 * "Ali"
+    Assets:EUR:Banco:Abanca               -50 EUR
+    Expenses:Compras:Regalos
+
+2025-04-10 * "Amazon regalo Calvin "
+    Assets:EUR:Banco:Abanca            -54.46 EUR
+    Expenses:Compras:Regalos
+
+2025-04-10 * "Uber One"
+    Assets:EUR:Banco:Abanca             -4.99 EUR
+    Expenses:Salir:Restaurante
+
+2025-04-04 * "Comunidad"
+    Assets:EUR:Banco:Sabadell             -75 EUR
+    Expenses:Gastos:Casa:Comunidad
+
+2025-04-04 * "Móvil Amazon"
     Liabilities:TC:Leo                 469.99 EUR
     Assets:EUR:Deudas
