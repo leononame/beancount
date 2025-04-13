@@ -805,3 +805,7 @@
 2025-04-12 * "café" #bot
     Assets:EUR:Efectivo:Leo    -3.95 EUR
     Expenses:Salir:Cafe
+
+2025-04-13 * "Brötchen" #bot
+    Assets:EUR:Efectivo:Leo    -5.05 EUR
+    Expenses:Salir:Restaurante
