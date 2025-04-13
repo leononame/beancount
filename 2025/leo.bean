@@ -809,3 +809,7 @@
 2025-04-13 * "Brötchen" #bot
     Assets:EUR:Efectivo:Leo    -5.05 EUR
     Expenses:Salir:Restaurante
+
+2025-04-13 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo    -1.50 EUR
+    Expenses:Compras:Alimentos
