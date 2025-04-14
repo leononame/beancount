@@ -825,3 +825,7 @@
 2025-04-13 * "taxi" #bot
     Assets:EUR:Efectivo:Leo   -25.00 EUR
     Expenses:Transporte:Publico
+
+2025-04-14 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo   -20.63 EUR
+    Expenses:Compras:Alimentos
