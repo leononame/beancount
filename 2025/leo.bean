@@ -829,3 +829,7 @@
 2025-04-14 * "Rewe" #bot
     Assets:EUR:Efectivo:Leo   -20.63 EUR
     Expenses:Compras:Alimentos
+
+2025-04-14 * "pommes" #bot
+    Assets:EUR:Efectivo:Leo   -26.60 EUR
+    Expenses:Salir:Restaurante
