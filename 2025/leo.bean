@@ -833,3 +833,7 @@
 2025-04-14 * "pommes" #bot
     Assets:EUR:Efectivo:Leo   -26.60 EUR
     Expenses:Salir:Restaurante
+
+2025-04-14 * "pommes" #bot
+    Assets:EUR:Efectivo:Leo    -3.80 EUR
+    Expenses:Salir:Restaurante
