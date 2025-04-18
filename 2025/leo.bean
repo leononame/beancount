@@ -861,3 +861,7 @@
 2025-04-16 * "agua" #bot
     Assets:EUR:Efectivo:Leo    -7.60 EUR
     Expenses:Compras:Alimentos
+
+2025-04-18 * "wc" #bot
+    Assets:EUR:Efectivo:Leo    -1.00 EUR
+    Expenses:Gastos:Coche:Otros
