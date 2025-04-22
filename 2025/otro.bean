@@ -751,3 +751,72 @@
 2025-04-04 * "Móvil Amazon"
     Liabilities:TC:Leo                 469.99 EUR
     Assets:EUR:Deudas
+
+2025-04-11 * "Leo Bajo"
+    Assets:EUR:Banco:Abanca              -100 EUR
+    Expenses:Gastos:Actividades
+
+2025-04-11 * "Batería Boris"
+    Assets:EUR:Banco:Abanca           -262.57 EUR
+    Expenses:Gastos:Coche:Taller
+
+2025-04-14 * "Lowi"
+    Assets:EUR:Banco:Abanca             -31.9 EUR
+    Expenses:Gastos:Casa:Internet          20 EUR
+    Expenses:Gastos:Movil                11.9 EUR
+
+2025-04-15 * "YT Music"
+    Assets:EUR:Banco:Abanca            -25.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2025-04-16 * "Adobe"
+    Assets:EUR:Banco:Abanca            -12.09 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-04-17 * "Maleta"
+    Assets:EUR:Banco:Abanca               -36 EUR
+    Expenses:Viaje:Avion
+
+2025-04-17 * "Günther Kiel"
+    Assets:EUR:Banco:Abanca              -3.9 EUR
+    Expenses:Salir:Cafe
+
+2025-04-17 * "Rewe"
+    Assets:EUR:Banco:Abanca             -7.09 EUR
+    Expenses:Compras:Alimentos
+
+2025-04-17 * "Maleta"
+    Assets:EUR:Banco:Abanca               -29 EUR
+    Expenses:Viaje:Avion
+
+2025-04-18 * "BahnCArd"
+    Assets:EUR:Banco:Abanca             -19.9 EUR
+    Expenses:Transporte:Tren
+
+2025-04-18 * "Berry aufladen"
+    Liabilities:TC:Leo                  -33.3 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2025-04-18 * "McDonald's"
+    Liabilities:TC:Leo                 -10.99 EUR
+    Expenses:Salir:Restaurante
+
+2025-04-21 * "Parking aeropuerto Coruña"
+    Liabilities:TC:Leo                    -36 EUR
+    Expenses:Gastos:Coche:Parking
+
+2025-04-22 * "Parking estrasburgo"
+    Liabilities:TC:Leo                  -10.4 EUR
+    Expenses:Gastos:Coche:Parking
+; TODO
+2025-04-25 * "Google Play"
+    Assets:EUR:Banco:Abanca             -5.49 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2025-04-25 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -38.79 EUR
+    Expenses:Salir:Restaurante
+
+2025-04-25 * "Amazon" "Rice Cooker, Cargadores móvil, Sabanas y protectores, Barreras Cama"
+    Assets:EUR:Banco:Abanca           -378.11 EUR
+    Expenses:Compras:Utilidades
