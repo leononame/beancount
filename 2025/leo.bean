@@ -909,3 +909,7 @@
 2025-04-23 * "Gadis" #bot
     Assets:EUR:Efectivo:Leo   -44.75 EUR
     Expenses:Compras:Alimentos
+
+2025-04-23 * "hamburguesa" #bot
+    Assets:EUR:Efectivo:Leo    -7.10 EUR
+    Expenses:Salir:Restaurante
