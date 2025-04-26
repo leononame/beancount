@@ -509,3 +509,7 @@
 2025-04-25 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -75.00 EUR
     Expenses:Gastos:Casa
+
+2025-04-26 * "café" #bot
+    Assets:EUR:Efectivo:Jana    -7.20 EUR
+    Expenses:Salir:Cafe
