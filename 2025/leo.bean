@@ -933,3 +933,7 @@
 2025-04-26 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca  -300.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2025-04-26 * "supermercado" #bot
+    Assets:EUR:Efectivo:Leo    -1.33 EUR
+    Expenses:Compras:Alimentos
