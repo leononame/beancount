@@ -925,3 +925,7 @@
 2025-04-26 * "filloa" #bot
     Assets:EUR:Efectivo:Leo   -20.00 EUR
     Expenses:Salir:Conciertos
+
+2025-04-26 * "farinarium" #bot
+    Assets:EUR:Efectivo:Leo    -6.30 EUR
+    Expenses:Compras:Alimentos
