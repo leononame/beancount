@@ -937,3 +937,7 @@
 2025-04-26 * "supermercado" #bot
     Assets:EUR:Efectivo:Leo    -1.33 EUR
     Expenses:Compras:Alimentos
+
+2025-04-26 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo   -29.28 EUR
+    Expenses:Compras:Alimentos
