@@ -945,3 +945,7 @@
 2025-04-27 * "libro ali" #bot
     Assets:EUR:Efectivo:Leo   -12.30 EUR
     Expenses:Compras:Medios:Libros
+
+2025-04-27 * "parking" #bot
+    Assets:EUR:Efectivo:Leo    -9.85 EUR
+    Expenses:Gastos:Coche:Parking
