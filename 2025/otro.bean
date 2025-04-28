@@ -808,15 +808,62 @@
 2025-04-22 * "Parking estrasburgo"
     Liabilities:TC:Leo                  -10.4 EUR
     Expenses:Gastos:Coche:Parking
-; TODO
-2025-04-25 * "Google Play"
+
+2025-04-22 * "Kebab"
+    Assets:EUR:Banco:Abanca             -11.7 EUR
+    Expenses:Salir:Restaurante
+
+2025-04-24 * "Google Play"
     Assets:EUR:Banco:Abanca             -5.49 EUR
     Expenses:Compras:Medios:Videojuegos
+
+2025-04-24 * "Psicóloga"
+    Assets:EUR:Banco:Abanca              -150 EUR
+    Expenses:Gastos:Actividades
 
 2025-04-25 * "Uber Eats"
     Assets:EUR:Banco:Abanca            -38.79 EUR
     Expenses:Salir:Restaurante
 
-2025-04-25 * "Amazon" "Rice Cooker, Cargadores móvil, Sabanas y protectores, Barreras Cama"
+2025-04-25 * "Hetzner"
+    Assets:EUR:Banco:Abanca            -13.19 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2025-04-25 * "Nómina"
+    Assets:EUR:Banco:Abanca           5022.35 EUR
+    Income:Salario:Leo
+
+2025-04-26 * "Renfe"
+    Assets:EUR:Banco:Abanca            -30.65 EUR
+    Expenses:Transporte:Tren
+
+2025-04-27 * "Salario"
+    Assets:EUR:Banco:Abanca              2000 EUR
+    Income:Salario:Jana
+;TODO
+2025-04-30 * "Amazon" "Rice Cooker, Cargadores móvil, Sabanas y protectores, Barreras Cama"
     Assets:EUR:Banco:Abanca           -378.11 EUR
+    Expenses:Compras:Utilidades
+2025-04-30 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -18.29 EUR
+    Expenses:Salir:Restaurante
+
+2025-04-30 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -40.28 EUR
+    Expenses:Salir:Restaurante
+
+2025-04-30 * "Vuelo Navidades"
+    Assets:EUR:Banco:Abanca           -938.99 EUR
+    Expenses:Viaje:Avion
+
+2025-04-30 * "Laugenstangen"
+    Assets:EUR:Banco:Abanca             -52.5 EUR
+    Expenses:Compras:Alimentos
+
+2025-04-30 * "Age of Empire 4"
+    Assets:EUR:Banco:Abanca            -15.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2025-04-30 * "Amazon" "Robot aspiradora, deshumificadores silica, calcetines"
+    Assets:EUR:Banco:Abanca           -774.79 EUR
     Expenses:Compras:Utilidades
