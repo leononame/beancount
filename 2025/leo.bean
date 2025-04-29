@@ -965,3 +965,7 @@
 2025-04-29 * "café" #bot
     Assets:EUR:Efectivo:Leo   -12.05 EUR
     Expenses:Salir:Cafe
+
+2025-04-29 * "tizas" #bot
+    Assets:EUR:Efectivo:Leo    -1.80 EUR
+    Expenses:Compras:Utilidades
