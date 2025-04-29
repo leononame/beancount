@@ -957,3 +957,7 @@
 2025-04-29 * "empanada" #bot
     Assets:EUR:Efectivo:Leo   -10.85 EUR
     Expenses:Compras:Alimentos
+
+2025-04-29 * "mini market" #bot
+    Assets:EUR:Efectivo:Leo    -8.65 EUR
+    Expenses:Compras:Alimentos
