@@ -953,3 +953,7 @@
 2025-04-28 * "Albi" #bot
     Assets:EUR:Efectivo:Leo   -25.28 EUR
     Expenses:Compras:Alimentos
+
+2025-04-29 * "empanada" #bot
+    Assets:EUR:Efectivo:Leo   -10.85 EUR
+    Expenses:Compras:Alimentos
