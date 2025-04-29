@@ -961,3 +961,7 @@
 2025-04-29 * "mini market" #bot
     Assets:EUR:Efectivo:Leo    -8.65 EUR
     Expenses:Compras:Alimentos
+
+2025-04-29 * "café" #bot
+    Assets:EUR:Efectivo:Leo   -12.05 EUR
+    Expenses:Salir:Cafe
