@@ -989,3 +989,7 @@
 2025-05-01 * "churros" #bot
     Assets:EUR:Efectivo:Leo    -3.00 EUR
     Expenses:Lujo
+
+2025-05-01 * "músico" #bot
+    Assets:EUR:Efectivo:Leo    -1.10 EUR
+    Expenses:Salir:Cafe
