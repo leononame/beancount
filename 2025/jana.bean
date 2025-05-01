@@ -521,3 +521,7 @@
 2025-04-28 * "comida" #bot
     Assets:EUR:Efectivo:Jana   -12.20 EUR
     Expenses:Salir:Restaurante
+
+2025-05-01 * "dm" #bot
+    Assets:EUR:Efectivo:Jana   -26.95 EUR
+    Expenses:Compras:Utilidades
