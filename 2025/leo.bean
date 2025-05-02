@@ -1009,3 +1009,7 @@
 2025-05-02 * "frutería" #bot
     Assets:EUR:Efectivo:Leo    -3.00 EUR
     Expenses:Compras:Alimentos
+
+2025-05-02 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo    -3.30 EUR
+    Expenses:Salir:Cafe
