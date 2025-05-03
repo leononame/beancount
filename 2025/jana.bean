@@ -537,3 +537,7 @@
 2025-05-03 * "parking" #bot
     Assets:EUR:Efectivo:Jana    -1.45 EUR
     Expenses:Gastos:Coche:Parking
+
+2025-05-03 * "desayuno" #bot
+    Assets:EUR:Efectivo:Jana   -20.00 EUR
+    Expenses:Salir:Restaurante
