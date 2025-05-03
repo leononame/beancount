@@ -533,3 +533,7 @@
 2025-05-02 * "aldea" #bot
     Assets:EUR:Efectivo:Jana   -17.20 EUR
     Expenses:Compras:Alimentos
+
+2025-05-03 * "parking" #bot
+    Assets:EUR:Efectivo:Jana    -1.45 EUR
+    Expenses:Gastos:Coche:Parking
