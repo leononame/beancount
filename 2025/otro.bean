@@ -840,30 +840,102 @@
 2025-04-27 * "Salario"
     Assets:EUR:Banco:Abanca              2000 EUR
     Income:Salario:Jana
-;TODO
-2025-04-30 * "Amazon" "Rice Cooker, Cargadores móvil, Sabanas y protectores, Barreras Cama"
-    Assets:EUR:Banco:Abanca           -378.11 EUR
-    Expenses:Compras:Utilidades
-2025-04-30 * "Uber Eats"
-    Assets:EUR:Banco:Abanca            -18.29 EUR
+
+2025-04-28 * "Comida"
+    Assets:EUR:Banco:Abanca               -48 EUR
     Expenses:Salir:Restaurante
+
+2025-04-28 * "Mercadona"
+    Assets:EUR:Banco:Abanca            -37.87 EUR
+    Expenses:Compras:Alimentos
 
 2025-04-30 * "Uber Eats"
     Assets:EUR:Banco:Abanca            -40.28 EUR
     Expenses:Salir:Restaurante
 
-2025-04-30 * "Vuelo Navidades"
-    Assets:EUR:Banco:Abanca           -938.99 EUR
-    Expenses:Viaje:Avion
-
 2025-04-30 * "Laugenstangen"
     Assets:EUR:Banco:Abanca             -52.5 EUR
     Expenses:Compras:Alimentos
+
+2025-04-30 * "Amazon" "Rice Cooker, Cargadores móvil, Sabanas y protectores, Barreras Cama"
+    Assets:EUR:Banco:Abanca           -378.11 EUR
+    Expenses:Compras:Utilidades
+
+2025-04-30 * "Vuelo Navidades"
+    Assets:EUR:Banco:Abanca           -938.99 EUR
+    Expenses:Viaje:Avion
 
 2025-04-30 * "Age of Empire 4"
     Assets:EUR:Banco:Abanca            -15.99 EUR
     Expenses:Compras:Medios:Videojuegos
 
-2025-04-30 * "Amazon" "Robot aspiradora, deshumificadores silica, calcetines"
+2025-04-30 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -18.29 EUR
+    Expenses:Salir:Restaurante
+
+2025-04-30 * "Autónomos Jana"
+    Assets:EUR:Banco:Abanca            -97.21 EUR
+    Income:Salario:Jana
+
+2025-04-30 * "Iago Paxariños"
+    Assets:EUR:Banco:Abanca               -30 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+
+2025-04-30 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell        -1291.06 EUR
+    Liabilities:Deudas:Banco          1005.51 EUR
+    Expenses:Compras:Piso:Intereses    285.55 EUR
+
+2025-04-30 * "TC"
+    Assets:EUR:Banco:Sabadell           379.3 EUR
+    Liabilities:TC:Leo
+
+2025-04-30 * "BU"
+    Assets:EUR:Banco:Sabadell           -51.1 EUR
+    Expenses:Gastos:Seguros:BU
+
+2025-05-01 * "Bus recarga"
+    Assets:EUR:Banco:Abanca               -20 EUR
+    Expenses:Transporte:Publico
+
+2025-05-01 * "Lotería"
+    Assets:EUR:Banco:Abanca               -20 EUR
+    Expenses:Lujo
+
+2025-05-01 * "Kebab"
+    Assets:EUR:Banco:Abanca             -16.4 EUR
+    Expenses:Salir:Restaurante
+
+2025-05-05 * "Bausparen"
+    Assets:EUR:Banco:Abanca              -100 EUR
+    Expenses:Invest
+
+2025-05-05 * "Coworking"
+    Assets:EUR:Banco:Abanca            -181.5 EUR
+    Income:Salario:Leo
+
+2025-05-05 * "Jana Yoga"
+    Assets:EUR:Banco:Abanca               -95 EUR
+    Expenses:Compras:Regalos
+
+2025-05-05 * "Licor Café"
+    Assets:EUR:Banco:Abanca            -31.85 EUR
+    Expenses:Compras:Alimentos
+
+2025-05-05 * "Transferencia"
+    Assets:EUR:Banco:Abanca             -1500 EUR
+    Assets:EUR:Banco:Sabadell
+
+; TODO
+2025-05-07 * "Amazon" "Robot aspiradora, deshumificadores silica, calcetines"
     Assets:EUR:Banco:Abanca           -774.79 EUR
     Expenses:Compras:Utilidades
+
+2025-05-07 * "Uber Eats"
+    Assets:EUR:Banco:Abanca            -40.28 EUR
+    Expenses:Salir:Restaurante
+
+2025-05-07 * "Tailscale"
+    Assets:EUR:Banco:Abanca             -4.44 EUR
+    Expenses:Compras:Tecnología:Software
