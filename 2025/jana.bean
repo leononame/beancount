@@ -549,3 +549,7 @@
 2025-05-08 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -4.30 EUR
     Expenses:Compras:Alimentos
+
+2025-05-08 * "primaprix" #bot
+    Assets:EUR:Efectivo:Jana    -1.50 EUR
+    Expenses:Compras:Alimentos
