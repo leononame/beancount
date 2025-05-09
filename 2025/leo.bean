@@ -1041,3 +1041,7 @@
 2025-05-09 * "gofre" #bot
     Assets:EUR:Efectivo:Leo    -7.80 EUR
     Expenses:Lujo
+
+2025-05-09 * "ramen" #bot
+    Assets:EUR:Efectivo:Leo   -12.10 EUR
+    Expenses:Compras:Alimentos
