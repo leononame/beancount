@@ -245,6 +245,7 @@ include "prices.bean"
 
 
 2023-09-15 open Assets:Invest:MyInvestor:Cash EUR
+2023-09-15 open Assets:Invest:MyInvestor:Cartera EUR
 2023-09-15 open Assets:Invest:MyInvestor:World IE00BYX5NX33
 2023-09-15 open Assets:Invest:MyInvestor:Europe IE0007987708
 2023-09-15 open Assets:Invest:MyInvestor:US IE00BYX5MX67
