@@ -1045,3 +1045,7 @@
 2025-05-09 * "ramen" #bot
     Assets:EUR:Efectivo:Leo   -12.10 EUR
     Expenses:Compras:Alimentos
+
+2025-05-10 * "tortilla" #bot
+    Assets:EUR:Efectivo:Leo   -30.00 EUR
+    Expenses:Salir:Restaurante
