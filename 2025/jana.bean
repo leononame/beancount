@@ -313,7 +313,7 @@
 
 2025-03-07 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -50.00 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Limpieza
 
 2025-03-07 * "local Gandaina" #bot
     Assets:EUR:Efectivo:Jana   -54.00 EUR
@@ -337,7 +337,7 @@
 
 2025-03-14 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -50.00 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Limpieza
 2025-03-15 * "Sicilia in bocca" #bot
     Assets:EUR:Efectivo:Jana   -60.00 EUR
     Expenses:Salir:Restaurante
@@ -364,7 +364,7 @@
 
 2025-03-21 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -77.00 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Limpieza
 
 2025-03-21 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -4.36 EUR
@@ -396,7 +396,7 @@
 
 2025-03-27 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -50.00 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Limpieza
 
 2025-03-27 * "tortilla" #bot
     Assets:EUR:Efectivo:Jana    -7.20 EUR
@@ -428,7 +428,7 @@
 
 2025-03-31 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -50.00 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Limpieza
 
 2025-04-03 * "yoga Fede" #bot
     Assets:EUR:Efectivo:Jana   -70.00 EUR
@@ -456,7 +456,7 @@
 
 2025-04-10 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -50.00 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Limpieza
 
 2025-04-11 * "café" #bot
     Assets:EUR:Efectivo:Jana    -7.10 EUR
@@ -508,7 +508,7 @@
 
 2025-04-25 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -75.00 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Limpieza
 
 2025-04-26 * "café" #bot
     Assets:EUR:Efectivo:Jana    -7.20 EUR
@@ -528,7 +528,7 @@
 
 2025-05-01 * "Freni" #bot
     Assets:EUR:Efectivo:Jana   -79.00 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Limpieza
 
 2025-05-02 * "aldea" #bot
     Assets:EUR:Efectivo:Jana   -17.20 EUR

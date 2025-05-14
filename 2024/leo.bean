@@ -1887,7 +1887,7 @@
 
 2024-09-05 * "ferretería" #bot
     Assets:EUR:Efectivo:Leo   -35.00 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Reforma
 
 2024-09-05 * "arenal" #bot
     Assets:EUR:Efectivo:Leo   -11.55 EUR
@@ -2255,7 +2255,7 @@
 
 2024-10-22 * "ferretería" #bot
     Assets:EUR:Efectivo:Leo   -11.80 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Reforma
 
 2024-10-22 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca  -300.00 EUR

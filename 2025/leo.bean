@@ -61,7 +61,7 @@
 
 2025-01-10 * "ferretería" #bot
     Assets:EUR:Efectivo:Leo    -0.30 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Reforma
 
 2025-01-10 * "Albi" #bot
     Assets:EUR:Efectivo:Leo   -15.17 EUR
@@ -533,7 +533,7 @@
 
 2025-03-10 * "ferretería" #bot
     Assets:EUR:Efectivo:Leo    -0.60 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Reforma
 
 2025-03-12 * "Gadis" #bot
     Assets:EUR:Efectivo:Leo   -72.89 EUR
@@ -588,7 +588,7 @@
 
 2025-03-21 * "freni" #bot
     Assets:EUR:Efectivo:Leo    -3.00 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Limpieza
 
 2025-03-21 * "hamburguesas" #bot
     Assets:EUR:Efectivo:Leo    -7.10 EUR
