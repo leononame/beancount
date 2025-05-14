@@ -1064,7 +1064,7 @@
 
 2025-05-12 * "freni" #bot
     Assets:EUR:Efectivo:Leo   -73.00 EUR
-    Expenses:Gastos:Casa
+    Expenses:Gastos:Casa:Limpieza
 
 2025-05-12 * "café" #bot
     Assets:EUR:Efectivo:Leo    -3.00 EUR
