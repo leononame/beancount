@@ -1069,3 +1069,7 @@
 2025-05-12 * "café" #bot
     Assets:EUR:Efectivo:Leo    -3.00 EUR
     Expenses:Salir:Cafe
+
+2025-05-16 * "escape room" #bot
+    Assets:EUR:Efectivo:Leo   -49.00 EUR
+    Expenses:Gastos:Actividades
