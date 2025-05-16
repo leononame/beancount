@@ -1077,3 +1077,7 @@
 2025-05-16 * "pilas coche" #bot
     Assets:EUR:Efectivo:Leo    -4.00 EUR
     Expenses:Compras:Utilidades
+
+2025-05-16 * "chino" #bot
+    Assets:EUR:Efectivo:Leo    -1.50 EUR
+    Expenses:Compras:Utilidades
