@@ -581,3 +581,7 @@
 2025-05-17 * "arenal" #bot
     Assets:EUR:Efectivo:Jana   -25.82 EUR
     Expenses:Compras:Utilidades
+
+2025-05-17 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana    -6.33 EUR
+    Expenses:Compras:Alimentos
