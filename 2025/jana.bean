@@ -601,3 +601,7 @@
 2025-05-17 * "sello" #bot
     Assets:EUR:Efectivo:Jana    -0.30 EUR
     Expenses:Compras:Utilidades
+
+2025-05-17 * "familia" #bot
+    Assets:EUR:Efectivo:Jana    -1.95 EUR
+    Expenses:Compras:Alimentos
