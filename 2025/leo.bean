@@ -1093,3 +1093,7 @@
 2025-05-17 * "café" #bot
     Assets:EUR:Efectivo:Leo    -2.10 EUR
     Expenses:Salir:Cafe
+
+2025-05-17 * "helado" #bot
+    Assets:EUR:Efectivo:Leo    -2.50 EUR
+    Expenses:Salir:Cafe
