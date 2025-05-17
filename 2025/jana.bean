@@ -593,3 +593,7 @@
 2025-05-17 * "familia" #bot
     Assets:EUR:Efectivo:Jana   -17.89 EUR
     Expenses:Compras:Alimentos
+
+2025-05-17 * "fonda" #bot
+    Assets:EUR:Efectivo:Jana   -23.39 EUR
+    Expenses:Salir:Restaurante
