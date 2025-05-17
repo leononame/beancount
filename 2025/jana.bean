@@ -573,3 +573,7 @@
 2025-05-17 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -1.20 EUR
     Expenses:Compras:Alimentos
+
+2025-05-17 * "yoga Fede" #bot
+    Assets:EUR:Efectivo:Jana   -70.00 EUR
+    Expenses:Deporte
