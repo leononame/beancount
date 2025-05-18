@@ -1101,3 +1101,7 @@
 2025-05-18 * "pan" #bot
     Assets:EUR:Efectivo:Leo    -4.15 EUR
     Expenses:Salir:Cafe
+
+2025-05-18 * "albi" #bot
+    Assets:EUR:Efectivo:Leo    -2.00 EUR
+    Expenses:Compras:Alimentos
