@@ -621,3 +621,7 @@
 2025-05-17 * "perdido" #bot
     Assets:EUR:Efectivo:Jana  -122.25 EUR
     Expenses:Perdido
+
+2025-05-19 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -4.15 EUR
+    Expenses:Compras:Alimentos
