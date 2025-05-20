@@ -1065,11 +1065,18 @@
     Assets:EUR:Banco:Abanca            -458.06 EUR
     Expenses:Compras:Utilidades
 
-; TODO
+2025-05-19 * "Restaurante"
+    Assets:EUR:Banco:Abanca                -34 EUR
+    Expenses:Salir:Restaurante
 
-2025-05-21 * "Uber Eats"
+2025-05-20 * "Uber Eats"
     Assets:EUR:Banco:Abanca             -40.47 EUR
     Expenses:Salir:Restaurante
+
+2025-05-20 * "Arkhé"
+    Assets:EUR:Banco:Abanca                -22 EUR
+    Expenses:Gastos:Actividades
+; TODO
 
 2025-05-21 * "Amazon" "Bolsas maxi"
     Assets:EUR:Banco:Abanca             -13.99 EUR
