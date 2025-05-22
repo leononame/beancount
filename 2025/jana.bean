@@ -637,3 +637,7 @@
 2025-05-22 * "excursión iago" #bot
     Assets:EUR:Efectivo:Jana   -22.00 EUR
     Expenses:Gastos:Bebe
+
+2025-05-22 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
