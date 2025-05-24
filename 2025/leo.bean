@@ -1149,3 +1149,7 @@
 2025-05-23 * "cervezas" #bot
     Assets:EUR:Efectivo:Leo    -3.00 EUR
     Expenses:Salir:Copas
+
+2025-05-24 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo   -29.30 EUR
+    Expenses:Compras:Alimentos
