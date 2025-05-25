@@ -649,3 +649,7 @@
 2025-05-24 * "gadis" #bot
     Assets:EUR:Efectivo:Jana   -66.84 EUR
     Expenses:Compras:Alimentos
+
+2025-05-25 * "desayuno" #bot
+    Assets:EUR:Efectivo:Jana   -15.50 EUR
+    Expenses:Salir:Restaurante
