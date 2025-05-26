@@ -1076,24 +1076,79 @@
 2025-05-20 * "Arkhé"
     Assets:EUR:Banco:Abanca                -22 EUR
     Expenses:Gastos:Actividades
-; TODO
 
-2025-05-21 * "Amazon" "Bolsas maxi"
-    Assets:EUR:Banco:Abanca             -13.99 EUR
+2025-05-20 * "Café"
+    Assets:EUR:Banco:Abanca               -1.7 EUR
+    Expenses:Salir:Cafe
+
+2025-05-20 * "BK"
+    Assets:EUR:Banco:Abanca              -3.81 EUR
+    Expenses:Lujo
+
+2025-05-20 * "Kebab"
+    Assets:EUR:Banco:Abanca              -21.6 EUR
+    Expenses:Salir:Restaurante
+
+2025-05-21  * "Amazon" "devo maxi"
+    Assets:EUR:Banco:Abanca              45.81 EUR
     Expenses:Compras:Utilidades
-
-2025-05-21 * "Wallapop"
-    Assets:EUR:Banco:Abanca             -13.18 EUR
-    Expenses:Compras:Bebe
 
 2025-05-21 * "Uber Eats"
     Assets:EUR:Banco:Abanca             -40.57 EUR
     Expenses:Salir:Restaurante
 
-2025-05-21 * "Amazon" "cascos iago"
-    Assets:EUR:Banco:Abanca             -28.49 EUR
+2025-05-21 * "Amazon" "Bolsas maxi"
+    Assets:EUR:Banco:Abanca             -13.99 EUR
     Expenses:Compras:Utilidades
 
 2025-05-21 * "Amazon" "Agua de pompas"
     Assets:EUR:Banco:Abanca              -6.99 EUR
     Expenses:Compras:Utilidades
+
+2025-05-21 * "Amazon" "cascos iago"
+    Assets:EUR:Banco:Abanca             -28.49 EUR
+    Expenses:Compras:Utilidades
+
+2025-05-22 * "Wallapop slipstops"
+    Assets:EUR:Banco:Abanca             -13.18 EUR
+    Expenses:Compras:Bebe
+
+2025-05-22 * "BK"
+    Assets:EUR:Banco:Abanca              -3.81 EUR
+    Expenses:Lujo
+
+2025-05-22 * "Kebab"
+    Assets:EUR:Banco:Abanca              -11.4 EUR
+    Expenses:Salir:Restaurante
+
+2025-05-23 * "Salario Leo"
+    Assets:EUR:Banco:Abanca            5022.51 EUR
+    Income:Salario:Leo
+
+2025-05-24 * "Amazon" "Devo"
+    Assets:EUR:Banco:Abanca                699 EUR
+    Assets:EUR:Deudas
+
+2025-05-24 * "Penela Chenchu Adri"
+    Assets:EUR:Banco:Abanca               -106 EUR
+    Expenses:Salir:Restaurante
+
+2025-05-24 * "Penela Chenchu Adri"
+    Assets:EUR:Banco:Abanca                 53 EUR
+    Expenses:Salir:Restaurante
+
+2025-05-25 * "Café"
+    Assets:EUR:Banco:Abanca               -1.5 EUR
+    Expenses:Salir:Cafe
+
+2025-05-25 * "Comida Miriam JAvi"
+    Assets:EUR:Banco:Abanca               37.9 EUR
+    Expenses:Salir:Restaurante
+
+2025-05-25 * "Clue Hunter"
+    Assets:EUR:Banco:Abanca                -60 EUR
+    Expenses:Gastos:Actividades
+
+2025-05-26 * "Hetzner"
+    Assets:EUR:Banco:Abanca             -13.19 EUR
+    Expenses:Compras:Tecnología:Hardware
