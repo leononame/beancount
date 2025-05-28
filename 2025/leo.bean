@@ -1197,3 +1197,7 @@
 2025-05-28 * "pan" #bot
     Assets:EUR:Efectivo:Leo    -1.05 EUR
     Expenses:Salir:Cafe
+
+2025-05-28 * "pan" #bot
+    Assets:EUR:Efectivo:Leo    -9.49 EUR
+    Expenses:Salir:Cafe
