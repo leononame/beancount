@@ -1152,3 +1152,37 @@
 2025-05-26 * "Hetzner"
     Assets:EUR:Banco:Abanca             -13.19 EUR
     Expenses:Compras:Tecnología:Hardware
+
+2025-05-27 * "Psicóloga"
+    Assets:EUR:Banco:Abanca               -150 EUR
+    Expenses:Gastos:Actividades
+
+; TODO
+
+2025-05-29 * "uber eats"
+    Assets:EUR:Banco:Abanca             -40.47 EUR
+    Expenses:Salir:Restaurante
+
+2025-05-29 * "Bañadores Iago"
+    Assets:EUR:Banco:Abanca              -9.59 EUR
+    Expenses:Compras:Bebe
+
+2025-05-29 * "chanclas jana"
+    Assets:EUR:Banco:Abanca             -12.18 EUR
+    Expenses:Compras:Bebe
+
+2025-05-29 * "chanclas iago"
+    Assets:EUR:Banco:Abanca              -7.18 EUR
+    Expenses:Compras:Bebe
+
+2025-05-29 * "sandalias iago"
+    Assets:EUR:Banco:Abanca              -7.18 EUR
+    Expenses:Compras:Bebe
+
+2025-05-29 * "Bitwarde"
+    Assets:EUR:Banco:Abanca              -8.85 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-05-29 * "Bikinis Jana"
+    Assets:EUR:Banco:Abanca            -542.99 EUR
+    Expenses:Compras:Ropa
