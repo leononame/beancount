@@ -669,3 +669,7 @@
 2025-05-31 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -300.00 EUR
     Assets:EUR:Efectivo:Jana
+
+2025-05-31 * "fisio" #bot
+    Assets:EUR:Efectivo:Jana   -60.00 EUR
+    Expenses:Deporte
