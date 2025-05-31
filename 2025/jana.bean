@@ -673,3 +673,7 @@
 2025-05-31 * "fisio" #bot
     Assets:EUR:Efectivo:Jana   -60.00 EUR
     Expenses:Deporte
+
+2025-05-31 * "parking" #bot
+    Assets:EUR:Efectivo:Jana    -0.60 EUR
+    Expenses:Gastos:Coche:Parking
