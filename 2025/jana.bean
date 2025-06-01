@@ -681,3 +681,7 @@
 2025-05-31 * "froiz" #bot
     Assets:EUR:Efectivo:Jana   -35.46 EUR
     Expenses:Compras:Alimentos
+
+2025-06-01 * "parking" #bot
+    Assets:EUR:Efectivo:Jana    -2.05 EUR
+    Expenses:Gastos:Coche:Parking
