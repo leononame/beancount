@@ -1157,32 +1157,113 @@
     Assets:EUR:Banco:Abanca               -150 EUR
     Expenses:Gastos:Actividades
 
-; TODO
-
-2025-05-29 * "uber eats"
-    Assets:EUR:Banco:Abanca             -40.47 EUR
+2025-05-28 * "BK"
+    Assets:EUR:Banco:Abanca             -13.21 EUR
     Expenses:Salir:Restaurante
 
 2025-05-29 * "Bañadores Iago"
     Assets:EUR:Banco:Abanca              -9.59 EUR
     Expenses:Compras:Bebe
 
-2025-05-29 * "chanclas jana"
+2025-05-29 * "Agua"
+    Assets:EUR:Banco:Abanca             -56.76 EUR
+    Expenses:Gastos:Casa:Agua
+
+2025-05-30 * "Bitwarden"
+    Assets:EUR:Banco:Abanca              -8.81 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-05-30 * "uber eats"
+    Assets:EUR:Banco:Abanca             -40.47 EUR
+    Expenses:Salir:Restaurante
+
+2025-05-30 * "Jana TGSS"
+    Assets:EUR:Banco:Abanca             -97.21 EUR
+    Income:Salario:Jana
+
+2025-05-30 * "Natación Iago"
+    Assets:EUR:Banco:Abanca              -18.9 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+2025-05-30  * "Leo Bajo"
+    Assets:EUR:Banco:Abanca               -100 EUR
+    Expenses:Gastos:Actividades
+
+2025-05-30 * "Cumple Oli"
+    Assets:EUR:Banco:Abanca                -10 EUR
+    Expenses:Compras:Regalos
+
+2025-05-31 * "Bikinis Jana"
+    Assets:EUR:Banco:Abanca            -542.99 EUR
+    Expenses:Compras:Ropa
+
+2025-05-31 * "chanclas iago"
+    Assets:EUR:Banco:Abanca              -7.18 EUR
+    Expenses:Compras:Bebe
+
+2025-05-31 * "Café"
+    Assets:EUR:Banco:Abanca              -18.6 EUR
+    Expenses:Salir:Cafe
+
+2025-06-01 * "Café"
+    Assets:EUR:Banco:Abanca               -1.5 EUR
+    Expenses:Salir:Cafe
+
+2025-06-01 * "Café"
+    Assets:EUR:Banco:Abanca               -1.5 EUR
+    Expenses:Salir:Cafe
+
+2025-06-01 * "Transferencia"
+    Assets:EUR:Banco:Abanca              -1700 EUR
+    Assets:EUR:Banco:Sabadell
+
+2025-06-02 * "MAtrícula Iago EMM"
+    Assets:EUR:Banco:Abanca             -71.61 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+2025-06-02 * "Coworking"
+    Assets:EUR:Banco:Abanca             -181.5 EUR
+    Income:Salario:Leo
+
+2025-06-03* "sandalias iago"
+    Assets:EUR:Banco:Abanca              -7.18 EUR
+    Expenses:Compras:Bebe
+
+2025-06-03 * "chanclas jana"
     Assets:EUR:Banco:Abanca             -12.18 EUR
     Expenses:Compras:Bebe
 
-2025-05-29 * "chanclas iago"
-    Assets:EUR:Banco:Abanca              -7.18 EUR
+2025-06-03 * "Bausparen"
+    Assets:EUR:Banco:Abanca               -100 EUR
+    Expenses:Invest
+
+2025-06-03 * "Regalo Valentina"
+    Assets:EUR:Banco:Abanca                -10 EUR
+    Expenses:Compras:Regalos
+
+2025-05-27 * "Seguro del hogar"
+    Assets:EUR:Banco:Sabadell          -335.31 EUR
+    Expenses:Gastos:Seguros:Hogar
+
+2025-05-31 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell         -1291.06 EUR
+    Liabilities:Deudas:Banco           1006.72 EUR
+    Expenses:Compras:Piso:Intereses     284.34 EUR
+
+2025-06-01 * "BU"
+    Assets:EUR:Banco:Sabadell            -51.1 EUR
+    Expenses:Gastos:Seguros:BU
+
+; TODO
+
+2025-06-06 * "Uber Eats"
+    Assets:EUR:Banco:Abanca             -40.47 EUR
+    Expenses:Salir:Restaurante
+
+2025-06-06 * "Amazon" "Bibes"
+    Assets:EUR:Banco:Abanca                -27 EUR
     Expenses:Compras:Bebe
 
-2025-05-29 * "sandalias iago"
-    Assets:EUR:Banco:Abanca              -7.18 EUR
-    Expenses:Compras:Bebe
-
-2025-05-29 * "Bitwarde"
-    Assets:EUR:Banco:Abanca              -8.85 EUR
+2025-06-06 * "Tailscale"
+    Assets:EUR:Banco:Abanca              -4.44 EUR
     Expenses:Compras:Tecnología:Software
-
-2025-05-29 * "Bikinis Jana"
-    Assets:EUR:Banco:Abanca            -542.99 EUR
-    Expenses:Compras:Ropa
