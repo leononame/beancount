@@ -1254,16 +1254,97 @@
     Assets:EUR:Banco:Sabadell            -51.1 EUR
     Expenses:Gastos:Seguros:BU
 
-; TODO
+2025-06-04 * "Tailscale"
+    Assets:EUR:Banco:Abanca              -4.42 EUR
+    Expenses:Compras:Tecnología:Software
 
-2025-06-06 * "Uber Eats"
+2025-06-04 * "Burger King"
+    Assets:EUR:Banco:Abanca              -3.56 EUR
+    Expenses:Salir:Restaurante
+
+2025-06-04 * "Filloa"
+    Assets:EUR:Banco:Abanca                 30 EUR
+    Expenses:Salir:Conciertos
+
+2025-06-05 * "Uber Eats"
     Assets:EUR:Banco:Abanca             -40.47 EUR
     Expenses:Salir:Restaurante
 
-2025-06-06 * "Amazon" "Bibes"
+2025-06-05 * "Amazon" "Bibes"
     Assets:EUR:Banco:Abanca                -27 EUR
     Expenses:Compras:Bebe
 
-2025-06-06 * "Tailscale"
-    Assets:EUR:Banco:Abanca              -4.44 EUR
-    Expenses:Compras:Tecnología:Software
+2025-06-05 * "Luz"
+    Assets:EUR:Banco:Abanca              -54.2 EUR
+    Expenses:Gastos:Casa:Luz
+
+2025-06-05 * "Jana"
+    Assets:EUR:Banco:Abanca               1500 EUR
+    Income:Salario:Jana
+
+2025-06-05 * "Iago Terapia Ocupacional"
+    Assets:EUR:Banco:Abanca               -315 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+2025-06-06 * "Iago"
+    Assets:EUR:Banco:Abanca                -50 EUR
+    Expenses:Compras:Regalos
+
+2025-06-06 * "Alicia"
+    Assets:EUR:Banco:Abanca                -50 EUR
+    Expenses:Compras:Regalos
+
+2025-06-06 * "Impuestos Piso"
+    Assets:EUR:Banco:Abanca            -281.65 EUR
+    Expenses:Gastos:Casa:Impuestos
+
+2025-06-07 * "Amazon" "Molino Melitta"
+    Assets:EUR:Banco:Abanca              -53.9 EUR
+    Expenses:Compras:Utilidades
+
+2025-06-09 * "Albi"
+    Assets:EUR:Banco:Abanca             -22.15 EUR
+    Expenses:Compras:Alimentos
+
+2025-06-10 * "Guarde Ali"
+    Assets:EUR:Banco:Abanca             -83.17 EUR
+    Expenses:Gastos:Bebe:Guarde
+
+2025-06-05 * "Comunidad"
+    Assets:EUR:Banco:Abanca                -75 EUR
+    Expenses:Gastos:Casa:Comunidad
+
+; TODO
+2025-06-15 * "zapatos ali"
+    Assets:EUR:Banco:Abanca             -23.14 EUR
+    Expenses:Compras:Bebe
+2025-06-15 * "camiseta iago"
+    Assets:EUR:Banco:Abanca              -5.65 EUR
+    Expenses:Compras:Bebe
+2025-06-15 * "Repuesto molino"
+    Assets:EUR:Banco:Abanca             -15.63 EUR
+    Expenses:Compras:Utilidades
+
+2025-06-15 * "Uber One"
+    Assets:EUR:Banco:Abanca              -4.99 EUR
+    Expenses:Salir:Restaurante
+
+2025-06-15 * "Jana Sandalias"
+    Assets:EUR:Banco:Abanca              -83.9 EUR
+    Expenses:Compras:Ropa
+
+2025-06-15 * "Amazon" "Teclado"
+    Assets:EUR:Banco:Abanca            -114.99 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2025-06-15 * "Bikinis Jana"
+    Assets:EUR:Banco:Abanca               -420 EUR
+    Expenses:Compras:Ropa
+
+2025-06-15 * "Ali EXpress teclado"
+    Assets:EUR:Banco:Abanca              -5.85 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2025-06-15 * "YT Music"
+    Assets:EUR:Banco:Abanca             -25.99 EUR
+    Expenses:Compras:Medios:Musica
