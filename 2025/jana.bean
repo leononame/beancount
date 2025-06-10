@@ -697,3 +697,7 @@
 2025-06-09 * "yoga Fede" #bot
     Assets:EUR:Efectivo:Jana   -70.00 EUR
     Expenses:Deporte
+
+2025-06-10 * "correos" #bot
+    Assets:EUR:Efectivo:Jana   -16.59 EUR
+    Expenses:Compras:Utilidades
