@@ -729,3 +729,7 @@
 2025-06-11 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -300.00 EUR
     Assets:EUR:Efectivo:Jana
+
+2025-06-11 * "copas" #bot
+    Assets:EUR:Efectivo:Jana   -11.50 EUR
+    Expenses:Salir:Copas
