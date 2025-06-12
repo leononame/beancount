@@ -1311,23 +1311,55 @@
     Expenses:Gastos:Bebe:Guarde
 
 2025-06-05 * "Comunidad"
-    Assets:EUR:Banco:Abanca                -75 EUR
+    Assets:EUR:Banco:Sabadell              -75 EUR
     Expenses:Gastos:Casa:Comunidad
 
-; TODO
-2025-06-15 * "zapatos ali"
-    Assets:EUR:Banco:Abanca             -23.14 EUR
-    Expenses:Compras:Bebe
-2025-06-15 * "camiseta iago"
+2025-06-10 * "Uñas Jana"
+    Assets:EUR:Banco:Abanca             -17.25 EUR
+    Expenses:Gastos:Peluquero
+
+2025-06-10 * "Familia"
+    Assets:EUR:Banco:Abanca             -30.32 EUR
+    Expenses:Compras:Alimentos
+
+2025-06-11 * "Uber One"
+    Assets:EUR:Banco:Abanca              -4.99 EUR
+    Expenses:Salir:Restaurante
+
+2025-06-11 * "Ali EXpress teclado"
+    Assets:EUR:Banco:Abanca              -5.85 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2025-06-11 * "camiseta iago"
     Assets:EUR:Banco:Abanca              -5.65 EUR
     Expenses:Compras:Bebe
+
+2025-06-11 * "zapatos ali"
+    Assets:EUR:Banco:Abanca             -23.14 EUR
+    Expenses:Compras:Bebe
+
+2025-06-11 * "Gadis"
+    Assets:EUR:Banco:Abanca             -32.51 EUR
+    Expenses:Compras:Alimentos
+
+2025-06-11 * "Libros"
+    Assets:EUR:Banco:Abanca             -95.18 EUR
+    Expenses:Compras:Medios:Libros
+
+2025-06-12 * "Lowi"
+    Assets:EUR:Banco:Abanca              -31.9 EUR
+    Expenses:Gastos:Casa:Internet           20 EUR
+    Expenses:Gastos:Movil
+
+2025-06-12 * "Fotos Familia Jana"
+    Assets:EUR:Banco:Abanca               -300 EUR
+    Expenses:Gastos:Actividades
+
+
+; TODO
 2025-06-15 * "Repuesto molino"
     Assets:EUR:Banco:Abanca             -15.63 EUR
     Expenses:Compras:Utilidades
-
-2025-06-15 * "Uber One"
-    Assets:EUR:Banco:Abanca              -4.99 EUR
-    Expenses:Salir:Restaurante
 
 2025-06-15 * "Jana Sandalias"
     Assets:EUR:Banco:Abanca              -83.9 EUR
@@ -1341,10 +1373,14 @@
     Assets:EUR:Banco:Abanca               -420 EUR
     Expenses:Compras:Ropa
 
-2025-06-15 * "Ali EXpress teclado"
-    Assets:EUR:Banco:Abanca              -5.85 EUR
-    Expenses:Compras:Tecnología:Hardware
+2025-06-15 * "Plugs"
+    Assets:EUR:Banco:Abanca              -72.7 EUR
+    Expenses:Compras:Utilidades
 
 2025-06-15 * "YT Music"
     Assets:EUR:Banco:Abanca             -25.99 EUR
     Expenses:Compras:Medios:Musica
+
+2025-06-15 * "Libros"
+    Assets:EUR:Banco:Abanca             -70.87 EUR
+    Expenses:Compras:Medios:Libros
