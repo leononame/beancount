@@ -1293,3 +1293,7 @@
 2025-06-14 * "Gadis" #bot
     Assets:EUR:Efectivo:Leo   -28.21 EUR
     Expenses:Compras:Alimentos
+
+2025-06-14 * "farmacia" #bot
+    Assets:EUR:Efectivo:Leo    -6.45 EUR
+    Expenses:Compras:Utilidades
