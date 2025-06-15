@@ -1305,3 +1305,7 @@
 2025-06-14 * "restaurante" #bot
     Assets:EUR:Efectivo:Leo   -74.75 EUR
     Expenses:Salir:Restaurante
+
+2025-06-15 * "pizza" #bot
+    Assets:EUR:Efectivo:Leo    -2.35 EUR
+    Expenses:Salir:Restaurante
