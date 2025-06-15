@@ -1309,3 +1309,7 @@
 2025-06-15 * "pizza" #bot
     Assets:EUR:Efectivo:Leo    -2.35 EUR
     Expenses:Salir:Restaurante
+
+2025-06-15 * "ferretería" #bot
+    Assets:EUR:Efectivo:Leo   -19.00 EUR
+    Expenses:Gastos:Casa
