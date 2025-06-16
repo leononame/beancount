@@ -745,3 +745,7 @@
 2025-06-13 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -2.35 EUR
     Expenses:Compras:Alimentos
+
+2025-06-16 * "Freni" #bot
+    Assets:EUR:Efectivo:Jana   -69.00 EUR
+    Expenses:Gastos:Casa
