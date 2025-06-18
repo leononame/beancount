@@ -1341,3 +1341,7 @@
 2025-06-18 * "pan" #bot
     Assets:EUR:Efectivo:Leo    -1.30 EUR
     Expenses:Compras:Alimentos
+
+2025-06-18 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo   -20.20 EUR
+    Expenses:Salir:Restaurante
