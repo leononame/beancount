@@ -1337,3 +1337,7 @@
 2025-06-17 * "farmacia" #bot
     Assets:EUR:Efectivo:Leo   -12.50 EUR
     Expenses:Compras:Utilidades
+
+2025-06-18 * "pan" #bot
+    Assets:EUR:Efectivo:Leo    -1.30 EUR
+    Expenses:Compras:Alimentos
