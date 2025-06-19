@@ -757,3 +757,7 @@
 2025-06-16 * "farmacia" #bot
     Assets:EUR:Efectivo:Jana   -22.52 EUR
     Expenses:Compras:Utilidades
+
+2025-06-19 * "albi" #bot
+    Assets:EUR:Efectivo:Jana   -19.00 EUR
+    Expenses:Compras:Alimentos
