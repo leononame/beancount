@@ -1361,3 +1361,7 @@
 2025-06-20 * "Mercadona" #bot
     Assets:EUR:Efectivo:Leo    -8.30 EUR
     Expenses:Compras:Alimentos
+
+2025-06-20 * "ferretería" #bot
+    Assets:EUR:Efectivo:Leo    -2.79 EUR
+    Expenses:Gastos:Casa
