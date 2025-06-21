@@ -1377,3 +1377,7 @@
 2025-06-21 * "café" #bot
     Assets:EUR:Efectivo:Leo    -1.40 EUR
     Expenses:Salir:Cafe
+
+2025-06-21 * "imán" #bot
+    Assets:EUR:Efectivo:Leo    -2.50 EUR
+    Expenses:Viaje:Souvenirs
