@@ -1365,3 +1365,7 @@
 2025-06-20 * "ferretería" #bot
     Assets:EUR:Efectivo:Leo    -2.79 EUR
     Expenses:Gastos:Casa
+
+2025-06-21 * "Café" #bot
+    Assets:EUR:Efectivo:Leo    -2.00 EUR
+    Expenses:Salir:Cafe
