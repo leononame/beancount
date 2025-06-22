@@ -1381,3 +1381,7 @@
 2025-06-21 * "imán" #bot
     Assets:EUR:Efectivo:Leo    -2.50 EUR
     Expenses:Viaje:Souvenirs
+
+2025-06-22 * "parking" #bot
+    Assets:EUR:Efectivo:Leo    -0.60 EUR
+    Expenses:Gastos:Coche:Parking
