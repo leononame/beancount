@@ -1385,3 +1385,7 @@
 2025-06-22 * "parking" #bot
     Assets:EUR:Efectivo:Leo    -0.60 EUR
     Expenses:Gastos:Coche:Parking
+
+2025-06-22 * "farmacia" #bot
+    Assets:EUR:Efectivo:Leo    -7.80 EUR
+    Expenses:Compras:Utilidades
