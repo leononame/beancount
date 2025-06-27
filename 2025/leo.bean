@@ -1397,3 +1397,7 @@
 2025-06-23 * "tourist tax" #bot
     Assets:EUR:Efectivo:Leo   -56.00 EUR
     Expenses:Viaje:Hotel
+
+2025-06-27 * "lavandería" #bot
+    Assets:EUR:Efectivo:Leo    -6.00 EUR
+    Expenses:Gastos:Casa
