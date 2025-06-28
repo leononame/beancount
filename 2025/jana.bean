@@ -777,3 +777,7 @@
 2025-06-20 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -4.85 EUR
     Expenses:Compras:Alimentos
+
+2025-06-28 * "pañales" #bot
+    Assets:EUR:Efectivo:Jana   -16.00 EUR
+    Expenses:Compras:Utilidades
