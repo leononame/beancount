@@ -797,3 +797,7 @@
 2025-07-01 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -1.93 EUR
     Expenses:Compras:Alimentos
+
+2025-07-01 * "prima prix" #bot
+    Assets:EUR:Efectivo:Jana   -34.30 EUR
+    Expenses:Compras:Alimentos
