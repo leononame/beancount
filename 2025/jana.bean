@@ -771,7 +771,7 @@
     Expenses:Compras:Utilidades
 
 2025-06-20 * "Withdrawal" #bot
-    Assets:EUR:Banco:Abanca   -309.00 EUR
+    Assets:EUR:Banco:Abanca   -300.00 EUR
     Assets:EUR:Efectivo:Jana
 
 2025-06-20 * "pan" #bot

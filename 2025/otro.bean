@@ -1399,23 +1399,128 @@
     Assets:EUR:Banco:Abanca               37.5 EUR
     Expenses:Salir:Restaurante
 
-; TODO
-2025-06-15 * "Amazon" "Teclado"
-    Assets:EUR:Banco:Abanca            -114.99 EUR
-    Expenses:Compras:Tecnología:Hardware
-
-2025-06-15 * "Libros"
+2025-06-17 * "Libros"
     Assets:EUR:Banco:Abanca             -70.87 EUR
     Expenses:Compras:Medios:Libros
 
-2025-06-16 * "Adobe"
+2025-06-17 * "Campamento Iago"
+    Assets:EUR:Banco:Abanca             -127.5 EUR
+    Expenses:Gastos:Bebe:Actividades
+
+2025-06-17 * "Lotería"
+    Assets:EUR:Banco:Abanca                -20 EUR
+    Expenses:Lujo
+
+2025-06-18 * "Adobe"
     Assets:EUR:Banco:Abanca             -12.09 EUR
     Expenses:Compras:Tecnología:Software
 
-2025-06-16 * "Lentillas Jana"
+2025-06-18 * "Lentillas Jana"
     Assets:EUR:Banco:Abanca              -45.2 EUR
     Expenses:Compras:Utilidades
 
-2025-06-16 * "Hotel Portugla"
+2025-06-19 * "Hotel Portugla"
     Assets:EUR:Banco:Abanca                -75 EUR
     Expenses:Viaje:Hotel
+
+2025-06-21 * "Pelu Leo"
+    Assets:EUR:Banco:Abanca                -21 EUR
+    Expenses:Gastos:Peluquero
+
+2025-06-21 * "Clue Hunters"
+    Assets:EUR:Banco:Abanca                -69 EUR
+    Expenses:Gastos:Actividades
+
+2025-06-23 * "Transferencia"
+    Assets:EUR:Banco:Abanca              -1000 EUR
+    Assets:EUR:Banco:Sabadell
+
+2025-06-24 * "Google Play?"
+    Assets:EUR:Banco:Abanca              -9.99 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-06-25 * "Devo bikinis"
+    Assets:EUR:Banco:Abanca                245 EUR
+    Expenses:Compras:Ropa
+
+2025-06-25 * "Devo bikinis"
+    Assets:EUR:Banco:Abanca             297.99 EUR
+    Expenses:Compras:Ropa
+
+2025-06-25 * "McDOnald's"
+    Assets:EUR:Banco:Abanca              -24.3 EUR
+    Expenses:Salir:Restaurante
+
+2025-06-25 * "Salario"
+    Assets:EUR:Banco:Abanca            5023.53 EUR
+    Income:Salario:Leo
+
+2025-06-26 * "Hetzner"
+    Assets:EUR:Banco:Abanca             -13.19 EUR
+    Expenses:Compras:Tecnología:Hardware
+
+2025-06-27 * "Lavandería"
+    Assets:EUR:Banco:Abanca                 -6 EUR
+    Expenses:Otros
+
+2025-06-28 * "Devo bikinis"
+    Assets:EUR:Banco:Abanca             130.66 EUR
+    Expenses:Compras:Ropa
+
+2025-06-28 * "Devo bikinis"
+    Assets:EUR:Banco:Abanca             168.01 EUR
+    Expenses:Compras:Ropa
+
+2025-06-30 * "Jana Autónomos"
+    Assets:EUR:Banco:Abanca             -97.21 EUR
+    Income:Salario:Jana
+
+2025-06-30 * "Transfrerencia"
+    Assets:EUR:Banco:Abanca               -800 EUR
+    Assets:EUR:Banco:Sabadell
+
+2025-06-30 * "Hipoteca"
+    Assets:EUR:Banco:Sabadell         -1291.06 EUR
+    Liabilities:Deudas:Banco           1007.94 EUR
+    Expenses:Compras:Piso:Intereses     283.12 EUR
+
+2025-06-30 * "TC Leo"
+    Assets:EUR:Banco:Sabadell             -8.2 EUR
+    Liabilities:TC:Leo
+
+2025-06-20 * "McDonald's"
+    Liabilities:TC:Leo                    -8.2 EUR
+    Expenses:Salir:Restaurante
+
+2025-06-28 * "CAfés viaje"
+    Liabilities:TC:Leo                    -9.6 EUR
+    Expenses:Compras:Alimentos
+
+2025-06-29 * "Viaje Portugal parada"
+    Liabilities:TC:Leo                  -11.45 EUR
+    Expenses:Salir:Cafe
+
+2025-06-29 * "Gasolina"
+    Liabilities:TC:Leo                   -70.4 EUR
+    Expenses:Gastos:Coche:Gasolina
+
+2025-07-01 * "BU"
+    Assets:EUR:Banco:Sabadell            -51.1 EUR
+    Expenses:Gastos:Seguros:BU
+
+; TODO
+2025-07-04 * "Peaje"
+    Assets:EUR:Banco:Abanca              -99.3 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2025-07-04 * "Hotel Hamburgo"
+    Assets:EUR:Banco:Abanca               -596 EUR
+    Expenses:Viaje:Hotel
+
+2025-07-04 * "Uber Eats"
+    Assets:EUR:Banco:Abanca             -40.47 EUR
+    Expenses:Salir:Restaurante
+
+2025-07-04 * "Uber One"
+    Assets:EUR:Banco:Abanca              -4.29 EUR
+    Expenses:Salir:Restaurante
