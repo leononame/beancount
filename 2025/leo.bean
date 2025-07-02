@@ -1425,3 +1425,7 @@
 2025-07-01 * "Albi" #bot
     Assets:EUR:Efectivo:Leo    -3.15 EUR
     Expenses:Compras:Alimentos
+
+2025-07-02 * "hamburguesa" #bot
+    Assets:EUR:Efectivo:Leo   -10.00 EUR
+    Expenses:Salir:Restaurante
