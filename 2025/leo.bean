@@ -1437,3 +1437,7 @@
 2025-07-03 * "pan" #bot
     Assets:EUR:Efectivo:Leo    -1.92 EUR
     Expenses:Compras:Alimentos
+
+2025-07-05 * "froiz" #bot
+    Assets:EUR:Efectivo:Leo    -1.12 EUR
+    Expenses:Compras:Alimentos
