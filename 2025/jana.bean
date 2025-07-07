@@ -821,3 +821,7 @@
 2025-07-05 * "barracas" #bot
     Assets:EUR:Efectivo:Jana   -12.00 EUR
     Expenses:Gastos:Bebe
+
+2025-07-07 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -1.30 EUR
+    Expenses:Compras:Alimentos
