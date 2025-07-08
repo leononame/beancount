@@ -833,3 +833,7 @@
 2025-07-07 * "freni" #bot
     Assets:EUR:Efectivo:Jana   -72.00 EUR
     Expenses:Gastos:Casa
+
+2025-07-08 * "pizza" #bot
+    Assets:EUR:Efectivo:Jana   -35.00 EUR
+    Expenses:Salir:Restaurante
