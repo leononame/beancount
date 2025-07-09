@@ -1508,19 +1508,50 @@
     Assets:EUR:Banco:Sabadell            -51.1 EUR
     Expenses:Gastos:Seguros:BU
 
-; TODO
-2025-07-04 * "Peaje"
+2025-07-02 * "Peaje"
     Assets:EUR:Banco:Abanca              -99.3 EUR
     Expenses:Gastos:Coche:Peaje
 
-2025-07-04 * "Hotel Hamburgo"
+2025-07-02 * "Hotel Hamburgo"
     Assets:EUR:Banco:Abanca               -596 EUR
     Expenses:Viaje:Hotel
 
-2025-07-04 * "Uber Eats"
+2025-07-02 * "Uber Eats"
     Assets:EUR:Banco:Abanca             -40.47 EUR
     Expenses:Salir:Restaurante
 
-2025-07-04 * "Uber One"
-    Assets:EUR:Banco:Abanca              -4.29 EUR
-    Expenses:Salir:Restaurante
+2025-07-02 * "Bausparen"
+    Assets:EUR:Banco:Abanca               -100 EUR
+    Expenses:Invest
+
+2025-07-03 * "Tailscale"
+    Assets:EUR:Banco:Abanca              -4.27 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-07-03 * "Coworking"
+    Assets:EUR:Banco:Abanca             -90.75 EUR
+    Income:Salario:Leo
+
+2025-07-05 * "Cervezas Filloa"
+    Assets:EUR:Banco:Abanca              -10.5 EUR
+    Expenses:Salir:Copas
+
+2025-07-07 * "Luz"
+    Assets:EUR:Banco:Abanca             -62.07 EUR
+    Expenses:Gastos:Casa:Luz
+
+2025-07-08 * "Molino Café"
+    Assets:EUR:Banco:Abanca               53.9 EUR
+    Expenses:Compras:Utilidades
+
+2025-07-08 * "Iago"
+    Assets:EUR:Banco:Abanca                -50 EUR
+    Expenses:Compras:Regalos
+
+2025-07-08 * "Ali"
+    Assets:EUR:Banco:Abanca                -50 EUR
+    Expenses:Compras:Regalos
+
+2025-07-04 * "Comunidad"
+    Assets:EUR:Banco:Sabadell              -75 EUR
+    Expenses:Gastos:Casa:Comunidad
