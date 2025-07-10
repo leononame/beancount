@@ -837,3 +837,7 @@
 2025-07-08 * "pizza" #bot
     Assets:EUR:Efectivo:Jana   -35.00 EUR
     Expenses:Salir:Restaurante
+
+2025-07-10 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -600.00 EUR
+    Assets:EUR:Efectivo:Jana
