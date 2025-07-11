@@ -1469,3 +1469,7 @@
 2025-07-11 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca  -600.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2025-07-11 * "pajitas" #bot
+    Assets:EUR:Efectivo:Leo    -9.95 EUR
+    Expenses:Compras:Utilidades
