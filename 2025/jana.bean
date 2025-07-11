@@ -849,3 +849,7 @@
 2025-07-11 * "café" #bot
     Assets:EUR:Efectivo:Jana    -4.00 EUR
     Expenses:Salir:Cafe
+
+2025-07-11 * "prima prix" #bot
+    Assets:EUR:Efectivo:Jana   -22.20 EUR
+    Expenses:Compras:Alimentos
