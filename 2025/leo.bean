@@ -1501,3 +1501,7 @@
 2025-07-12 * "perdido" #bot
     Assets:EUR:Efectivo:Leo   -24.93 EUR
     Expenses:Perdido
+
+2025-07-13 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo   -43.85 EUR
+    Expenses:Salir:Restaurante
