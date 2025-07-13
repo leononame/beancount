@@ -861,3 +861,7 @@
 2025-07-11 * "copias" #bot
     Assets:EUR:Efectivo:Jana    -0.50 EUR
     Expenses:Compras:Utilidades
+
+2025-07-13 * "prima prix" #bot
+    Assets:EUR:Efectivo:Jana   -22.20 EUR
+    Expenses:Compras:Alimentos
