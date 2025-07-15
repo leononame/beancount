@@ -1517,3 +1517,7 @@
 2025-07-15 * "regalo Johannes" #bot
     Assets:EUR:Efectivo:Leo   -26.00 EUR
     Expenses:Compras:Regalos
+
+2025-07-15 * "metro" #bot
+    Assets:EUR:Efectivo:Leo    -2.10 EUR
+    Expenses:Transporte:Publico
