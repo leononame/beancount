@@ -1537,3 +1537,7 @@
 2025-07-15 * "perdido" #bot
     Assets:EUR:Efectivo:Leo    -7.60 EUR
     Expenses:Perdido
+
+2025-07-15 * "supermercado" #bot
+    Assets:EUR:Efectivo:Leo    -9.21 EUR
+    Expenses:Compras:Alimentos
