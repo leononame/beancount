@@ -1513,3 +1513,7 @@
 2025-07-15 * "café" #bot
     Assets:EUR:Efectivo:Leo    -3.50 EUR
     Expenses:Salir:Cafe
+
+2025-07-15 * "regalo Johannes" #bot
+    Assets:EUR:Efectivo:Leo   -26.00 EUR
+    Expenses:Compras:Regalos
