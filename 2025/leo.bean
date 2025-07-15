@@ -1521,3 +1521,7 @@
 2025-07-15 * "metro" #bot
     Assets:EUR:Efectivo:Leo    -2.10 EUR
     Expenses:Transporte:Publico
+
+2025-07-15 * "supermercado" #bot
+    Assets:EUR:Efectivo:Leo    -8.67 EUR
+    Expenses:Compras:Alimentos
