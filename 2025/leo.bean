@@ -1561,3 +1561,7 @@
 2025-07-17 * "cervezas" #bot
     Assets:EUR:Efectivo:Leo    -6.01 EUR
     Expenses:Salir:Copas
+
+2025-07-18 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo    -5.10 EUR
+    Expenses:Compras:Alimentos
