@@ -1577,3 +1577,7 @@
 2025-07-19 * "Rewe" #bot
     Assets:EUR:Efectivo:Leo   -20.86 EUR
     Expenses:Compras:Alimentos
+
+2025-07-19 * "patatas fritas" #bot
+    Assets:EUR:Efectivo:Leo   -11.20 EUR
+    Expenses:Salir:Restaurante
