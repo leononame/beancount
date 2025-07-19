@@ -1569,3 +1569,7 @@
 2025-07-18 * "café" #bot
     Assets:EUR:Efectivo:Leo    -5.50 EUR
     Expenses:Salir:Cafe
+
+2025-07-19 * "penny" #bot
+    Assets:EUR:Efectivo:Leo   -23.15 EUR
+    Expenses:Compras:Alimentos
