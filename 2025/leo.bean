@@ -1573,3 +1573,7 @@
 2025-07-19 * "penny" #bot
     Assets:EUR:Efectivo:Leo   -23.15 EUR
     Expenses:Compras:Alimentos
+
+2025-07-19 * "Rewe" #bot
+    Assets:EUR:Efectivo:Leo   -20.86 EUR
+    Expenses:Compras:Alimentos
