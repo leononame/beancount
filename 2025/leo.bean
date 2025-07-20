@@ -1593,3 +1593,7 @@
 2025-07-20 * "freilichtmuseum" #bot
     Assets:EUR:Efectivo:Leo   -23.00 EUR
     Expenses:Salir:Museo
+
+2025-07-20 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo   -14.40 EUR
+    Expenses:Salir:Restaurante
