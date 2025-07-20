@@ -1581,3 +1581,7 @@
 2025-07-19 * "patatas fritas" #bot
     Assets:EUR:Efectivo:Leo   -11.20 EUR
     Expenses:Salir:Restaurante
+
+2025-07-20 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo    -5.80 EUR
+    Expenses:Compras:Alimentos
