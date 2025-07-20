@@ -1589,3 +1589,7 @@
 2025-07-20 * "panadería" #bot
     Assets:EUR:Efectivo:Leo    -4.10 EUR
     Expenses:Compras:Alimentos
+
+2025-07-20 * "freilichtmuseum" #bot
+    Assets:EUR:Efectivo:Leo   -23.00 EUR
+    Expenses:Salir:Museo
