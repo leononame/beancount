@@ -1609,3 +1609,7 @@
 2025-07-21 * "frozen yogurt" #bot
     Assets:EUR:Efectivo:Leo    -5.50 EUR
     Expenses:Lujo
+
+2025-07-21 * "bus" #bot
+    Assets:EUR:Efectivo:Leo    -2.70 EUR
+    Expenses:Transporte:Publico
