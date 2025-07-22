@@ -1629,3 +1629,7 @@
 2025-07-22 * "bus" #bot
     Assets:EUR:Efectivo:Leo    -1.90 EUR
     Expenses:Transporte:Publico
+
+2025-07-22 * "bizcocho" #bot
+    Assets:EUR:Efectivo:Leo    -2.30 EUR
+    Expenses:Lujo
