@@ -1649,3 +1649,7 @@
 2025-07-23 * "Rewe" #bot
     Assets:EUR:Efectivo:Leo   -19.35 EUR
     Expenses:Compras:Alimentos
+
+2025-07-23 * "rewe" #bot
+    Assets:EUR:Efectivo:Leo   -16.84 EUR
+    Expenses:Compras:Alimentos
