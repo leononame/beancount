@@ -917,3 +917,7 @@
 2025-07-23 * "penny" #bot
     Assets:EUR:Efectivo:Jana   -14.21 EUR
     Expenses:Compras:Alimentos
+
+2025-07-23 * "kaufland" #bot
+    Assets:EUR:Efectivo:Jana   -26.78 EUR
+    Expenses:Compras:Alimentos
