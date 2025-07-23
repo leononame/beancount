@@ -1633,3 +1633,7 @@
 2025-07-22 * "bizcocho" #bot
     Assets:EUR:Efectivo:Leo    -2.30 EUR
     Expenses:Lujo
+
+2025-07-23 * "farmacia" #bot
+    Assets:EUR:Efectivo:Leo    -5.20 EUR
+    Expenses:Compras:Utilidades
