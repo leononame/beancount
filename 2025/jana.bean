@@ -905,3 +905,7 @@
 2025-07-23 * "second hand laden" #bot
     Assets:EUR:Efectivo:Jana   -13.80 EUR
     Expenses:Compras:Bebe
+
+2025-07-23 * "Achim" #bot
+    Assets:EUR:Efectivo:Jana    -9.96 EUR
+    Expenses:Compras:Alimentos
