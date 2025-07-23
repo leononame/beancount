@@ -901,3 +901,7 @@
 2025-07-23 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -1.45 EUR
     Expenses:Compras:Alimentos
+
+2025-07-23 * "second hand laden" #bot
+    Assets:EUR:Efectivo:Jana   -13.80 EUR
+    Expenses:Compras:Bebe
