@@ -1572,15 +1572,68 @@
     Assets:EUR:Banco:Abanca              -10.7 EUR
     Expenses:Salir:Restaurante
 
-; TODO
-2025-07-15 * "Kleine Prints Maila Johannes"
-    Assets:EUR:Banco:Abanca                -40 EUR
-    Expenses:Compras:Regalos
+2025-07-14 * "Lowi"
+    Assets:EUR:Banco:Abanca              -31.9 EUR
+    Expenses:Gastos:Casa:Internet           20 EUR
+    Expenses:Gastos:Movil
 
 2025-07-15 * "YT Music"
     Assets:EUR:Banco:Abanca             -25.99 EUR
     Expenses:Compras:Medios:Musica
 
-2025-07-15 * "Peajes"
+2025-07-15 * "Kleine Prints Maila Johannes"
+    Assets:EUR:Banco:Abanca                -40 EUR
+    Expenses:Compras:Regalos
+
+2025-07-15 * "Impuestos Leo"
+    Assets:EUR:Banco:Abanca            5475.42 EUR
+    Income:Salario:Leo
+
+2025-07-16 * "Peajes"
     Assets:EUR:Banco:Abanca             -100.3 EUR
     Expenses:Gastos:Coche:Peaje
+
+2025-07-16 * "Adobe"
+    Assets:EUR:Banco:Abanca             -12.09 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-07-17 * "Comida Aeropuerto"
+    Assets:EUR:Banco:Abanca              -27.4 EUR
+    Expenses:Salir:Restaurante
+
+2025-07-17 * "McDonald's Aeropuerto"
+    Assets:EUR:Banco:Abanca             -12.99 EUR
+    Expenses:Salir:Restaurante
+
+2025-07-18 * "Lieferando"
+    Assets:EUR:Banco:Abanca             -42.68 EUR
+    Expenses:Salir:Restaurante
+
+2025-07-18 * "Ropa Iago"
+    Assets:EUR:Banco:Abanca                 -5 EUR
+    Expenses:Compras:Ropa
+
+2025-07-18 * "Audiolibro"
+    Assets:EUR:Banco:Abanca              -4.95 EUR
+    Expenses:Compras:Medios:Libros
+
+2025-07-19 * "Tiquet HH"
+    Assets:EUR:Banco:Abanca               -7.8 EUR
+    Expenses:Transporte:Publico
+
+2025-07-20 * "Lotería"
+    Assets:EUR:Banco:Abanca                -20 EUR
+    Expenses:Lujo
+
+2025-07-23 * "Tren HH Kiel"
+    Assets:EUR:Banco:Abanca                -38 EUR
+    Expenses:Transporte:Tren
+
+2025-07-14 * "Comunidad"
+    Assets:EUR:Banco:Sabadell          -499.87 EUR
+    Expenses:Gastos:Casa:Gas
+
+; TODO
+2025-07-26 * "Panadería"
+    Assets:EUR:Banco:Abanca               -4.4 EUR
+    Expenses:Compras:Alimentos
