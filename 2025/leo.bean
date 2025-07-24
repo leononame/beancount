@@ -1657,3 +1657,7 @@
 2025-07-24 * "farmacia" #bot
     Assets:EUR:Efectivo:Leo    -6.20 EUR
     Expenses:Compras:Utilidades
+
+2025-07-24 * "frozen yogurt" #bot
+    Assets:EUR:Efectivo:Leo    -5.50 EUR
+    Expenses:Lujo
