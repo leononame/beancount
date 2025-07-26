@@ -1681,3 +1681,7 @@
 2025-07-26 * "Rewe" #bot
     Assets:EUR:Efectivo:Leo    -6.95 EUR
     Expenses:Compras:Alimentos
+
+2025-07-26 * "Arche warder" #bot
+    Assets:EUR:Efectivo:Leo   -45.00 EUR
+    Expenses:Salir:Museo
