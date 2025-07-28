@@ -941,3 +941,7 @@
 2025-07-27 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -2.80 EUR
     Expenses:Compras:Alimentos
+
+2025-07-28 * "comida" #bot
+    Assets:EUR:Efectivo:Jana   -43.00 EUR
+    Expenses:Salir:Restaurante
