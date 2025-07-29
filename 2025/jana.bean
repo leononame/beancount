@@ -953,3 +953,7 @@
 2025-07-29 * "denns" #bot
     Assets:EUR:Efectivo:Jana   -17.79 EUR
     Expenses:Compras:Alimentos
+
+2025-07-29 * "Rewe" #bot
+    Assets:EUR:Efectivo:Jana   -50.34 EUR
+    Expenses:Compras:Alimentos
