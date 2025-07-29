@@ -1701,3 +1701,7 @@
 2025-07-28 * "frozen yogurt" #bot
     Assets:EUR:Efectivo:Leo    -5.50 EUR
     Expenses:Lujo
+
+2025-07-29 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo    -3.85 EUR
+    Expenses:Compras:Alimentos
