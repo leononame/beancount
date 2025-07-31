@@ -1733,3 +1733,7 @@
 2025-07-31 * "café" #bot
     Assets:EUR:Efectivo:Leo    -4.10 EUR
     Expenses:Salir:Cafe
+
+2025-07-31 * "juego" #bot
+    Assets:EUR:Efectivo:Leo   -14.99 EUR
+    Expenses:Compras:Medios:Juegos
