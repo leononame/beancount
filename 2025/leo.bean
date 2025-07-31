@@ -1725,3 +1725,7 @@
 2025-07-30 * "bus" #bot
     Assets:EUR:Efectivo:Leo    -1.90 EUR
     Expenses:Transporte:Publico
+
+2025-07-31 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo    -4.60 EUR
+    Expenses:Compras:Alimentos
