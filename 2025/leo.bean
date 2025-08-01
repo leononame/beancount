@@ -1745,3 +1745,7 @@
 2025-07-31 * "kebab" #bot
     Assets:EUR:Efectivo:Leo   -17.90 EUR
     Expenses:Salir:Restaurante
+
+2025-08-01 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo    -3.97 EUR
+    Expenses:Compras:Alimentos
