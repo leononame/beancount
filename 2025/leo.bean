@@ -1769,3 +1769,7 @@
 2025-08-02 * "cafe" #bot
     Assets:EUR:Efectivo:Leo   -14.40 EUR
     Expenses:Salir:Cafe
+
+2025-08-02 * "bus" #bot
+    Assets:EUR:Efectivo:Leo    -5.40 EUR
+    Expenses:Transporte:Publico
