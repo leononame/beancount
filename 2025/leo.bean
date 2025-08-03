@@ -1781,3 +1781,7 @@
 2025-08-03 * "gasolinera" #bot
     Assets:EUR:Efectivo:Leo   -49.64 EUR
     Expenses:Gastos:Coche:Gasolina
+
+2025-08-03 * "la stalla" #bot
+    Assets:EUR:Efectivo:Leo   -82.00 EUR
+    Expenses:Salir:Restaurante
