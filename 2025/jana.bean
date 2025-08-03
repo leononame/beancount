@@ -965,3 +965,7 @@
 2025-08-02 * "bus" #bot
     Assets:EUR:Efectivo:Jana    -2.40 EUR
     Expenses:Transporte:Publico
+
+2025-08-03 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -500.00 EUR
+    Assets:EUR:Efectivo:Jana
