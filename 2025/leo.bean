@@ -1789,3 +1789,7 @@
 2025-08-04 * "panadería" #bot
     Assets:EUR:Efectivo:Leo    -8.30 EUR
     Expenses:Compras:Alimentos
+
+2025-08-04 * "Achim" #bot
+    Assets:EUR:Efectivo:Leo   -19.47 EUR
+    Expenses:Compras:Alimentos
