@@ -977,3 +977,7 @@
 2025-08-04 * "Rossmann" #bot
     Assets:EUR:Efectivo:Jana   -29.18 EUR
     Expenses:Compras:Utilidades
+
+2025-08-04 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana   -40.65 EUR
+    Expenses:Compras:Alimentos
