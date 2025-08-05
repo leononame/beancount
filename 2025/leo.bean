@@ -1797,3 +1797,7 @@
 2025-08-05 * "panadería" #bot
     Assets:EUR:Efectivo:Leo    -4.60 EUR
     Expenses:Compras:Alimentos
+
+2025-08-05 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo    -3.79 EUR
+    Expenses:Salir:Cafe
