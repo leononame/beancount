@@ -993,3 +993,7 @@
 2025-08-06 * "agua" #bot
     Assets:EUR:Efectivo:Jana    -7.60 EUR
     Expenses:Compras:Alimentos
+
+2025-08-06 * "froyo" #bot
+    Assets:EUR:Efectivo:Jana    -7.00 EUR
+    Expenses:Salir:Cafe
