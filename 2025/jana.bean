@@ -989,3 +989,7 @@
 2025-08-04 * "Rewe" #bot
     Assets:EUR:Efectivo:Jana   -10.63 EUR
     Expenses:Compras:Alimentos
+
+2025-08-06 * "agua" #bot
+    Assets:EUR:Efectivo:Jana    -7.60 EUR
+    Expenses:Compras:Alimentos
