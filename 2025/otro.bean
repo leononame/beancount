@@ -1715,6 +1715,33 @@
     Assets:EUR:Banco:Abanca              -1700 EUR
     Assets:EUR:Banco:Sabadell
 
+2025-05-16 * "Depósito"
+    Assets:Invest:MyInvestor:Cash         19.7 EUR
+    Income:Invest:Intereses
+2025-05-18 * "Depósito"
+    Assets:Invest:MyInvestor:Cash        53.76 EUR
+    Income:Invest:Intereses
+
+2025-06-09 * "Intereses"
+    Assets:Invest:MyInvestor:Cash         1.96 EUR
+    Income:Invest:Intereses
+
+2025-06-19 * "Depósito"
+    Assets:Invest:MyInvestor:Cash        20.36 EUR
+    Income:Invest:Intereses
+
+2025-06-19 * "Depósito"
+    Assets:Invest:MyInvestor:Cash        20.36 EUR
+    Income:Invest:Intereses
+
+2025-07-09 * "Intereses"
+    Assets:Invest:MyInvestor:Cash         4.21 EUR
+    Income:Invest:Intereses
+
+2025-07-27 * "Depósito"
+    Assets:Invest:MyInvestor:Cash        32.08 EUR
+    Income:Invest:Intereses
+
 ; TODO
 2025-08-09 * "Amazon" "Legion Go"
     Assets:EUR:Banco:Abanca            -532.88 EUR
