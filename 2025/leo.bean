@@ -1833,3 +1833,7 @@
 2025-08-07 * "Rewe" #bot
     Assets:EUR:Efectivo:Leo   -56.02 EUR
     Expenses:Compras:Alimentos
+
+2025-08-09 * "parking" #bot
+    Assets:EUR:Efectivo:Leo    -5.00 EUR
+    Expenses:Gastos:Coche:Parking
