@@ -1837,3 +1837,7 @@
 2025-08-09 * "parking" #bot
     Assets:EUR:Efectivo:Leo    -5.00 EUR
     Expenses:Gastos:Coche:Parking
+
+2025-08-09 * "freibad" #bot
+    Assets:EUR:Efectivo:Leo    -9.00 EUR
+    Expenses:Gastos:Actividades
