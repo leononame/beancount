@@ -1001,3 +1001,7 @@
 2025-08-10 * "parking" #bot
     Assets:EUR:Efectivo:Jana    -1.00 EUR
     Expenses:Gastos:Coche:Parking
+
+2025-08-10 * "taxi" #bot
+    Assets:EUR:Efectivo:Jana   -84.00 EUR
+    Expenses:Transporte:Bus
