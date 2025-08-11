@@ -1013,3 +1013,7 @@
 2025-08-11 * "juguete" #bot
     Assets:EUR:Efectivo:Jana    -3.50 EUR
     Expenses:Compras:Bebe
+
+2025-08-11 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana   -28.04 EUR
+    Expenses:Compras:Alimentos
