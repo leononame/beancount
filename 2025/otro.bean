@@ -1742,7 +1742,35 @@
     Assets:Invest:MyInvestor:Cash        32.08 EUR
     Income:Invest:Intereses
 
-; TODO
-2025-08-09 * "Amazon" "Legion Go"
+2025-08-08 * "Amazon" "Legion Go"
     Assets:EUR:Banco:Abanca            -532.88 EUR
     Expenses:Compras:Tecnología:Hardware
+
+2025-08-09 * "Iago"
+    Assets:EUR:Banco:Abanca                -50 EUR
+    Expenses:Compras:Regalos
+
+2025-08-09 * "Ali"
+    Assets:EUR:Banco:Abanca                -50 EUR
+    Expenses:Compras:Regalos
+
+
+; TODO
+2025-08-13 * "Steam Hades 2"
+    Assets:EUR:Banco:Abanca             -28.99 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2025-08-13 * "Edeka Krosny"
+    Assets:EUR:Banco:Abanca             -44.92 EUR
+    Expenses:Compras:Alimentos
+2025-08-13 * "Edeka Krosny"
+    Assets:EUR:Banco:Abanca             -54.98 EUR
+    Expenses:Compras:Alimentos
+
+2025-08-13 * "Café"
+    Assets:EUR:Banco:Abanca             -10.10 EUR
+    Expenses:Salir:Cafe
+
+2025-08-13 * "YT Muisc"
+    Assets:EUR:Banco:Abanca             -25.99 EUR
+    Expenses:Compras:Medios:Musica
