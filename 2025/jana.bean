@@ -1005,3 +1005,7 @@
 2025-08-10 * "taxi" #bot
     Assets:EUR:Efectivo:Jana   -84.00 EUR
     Expenses:Transporte:Bus
+
+2025-08-11 * "bus" #bot
+    Assets:EUR:Efectivo:Jana    -2.80 EUR
+    Expenses:Transporte:Publico
