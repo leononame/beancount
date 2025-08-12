@@ -1025,3 +1025,7 @@
 2025-08-11 * "bus" #bot
     Assets:EUR:Efectivo:Jana    -2.80 EUR
     Expenses:Transporte:Publico
+
+2025-08-12 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana   -96.33 EUR
+    Expenses:Compras:Alimentos
