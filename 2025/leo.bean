@@ -1849,3 +1849,7 @@
 2025-08-16 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca  -500.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2025-08-16 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo   -22.90 EUR
+    Expenses:Perdido
