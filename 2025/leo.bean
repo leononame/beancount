@@ -1857,3 +1857,7 @@
 2025-08-16 * "restaurante" #bot
     Assets:EUR:Efectivo:Leo   -15.40 EUR
     Expenses:Salir:Restaurante
+
+2025-08-16 * "wc" #bot
+    Assets:EUR:Efectivo:Leo    -1.50 EUR
+    Expenses:Gastos:Coche:Otros
