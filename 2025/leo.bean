@@ -1873,3 +1873,7 @@
 2025-08-19 * "cafe" #bot
     Assets:EUR:Efectivo:Leo    -4.40 EUR
     Expenses:Salir:Cafe
+
+2025-08-19 * "toniebox alu" #bot
+    Assets:EUR:Efectivo:Leo   -45.00 EUR
+    Expenses:Compras:Regalos
