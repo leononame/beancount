@@ -1049,3 +1049,7 @@
 2025-08-19 * "comida" #bot
     Assets:EUR:Efectivo:Jana   -47.00 EUR
     Expenses:Salir:Restaurante
+
+2025-08-19 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana   -54.69 EUR
+    Expenses:Compras:Alimentos
