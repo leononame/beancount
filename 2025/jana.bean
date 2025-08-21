@@ -1077,3 +1077,7 @@
 2025-08-19 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -3.00 EUR
     Expenses:Compras:Alimentos
+
+2025-08-21 * "gasolina" #bot
+    Assets:EUR:Efectivo:Jana   -65.00 EUR
+    Expenses:Gastos:Coche:Gasolina
