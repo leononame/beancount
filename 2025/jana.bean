@@ -1093,3 +1093,7 @@
 2025-08-22 * "döner" #bot
     Assets:EUR:Efectivo:Jana    -9.00 EUR
     Expenses:Salir:Restaurante
+
+2025-08-22 * "comida" #bot
+    Assets:EUR:Efectivo:Jana   -38.00 EUR
+    Expenses:Salir:Restaurante
