@@ -1889,3 +1889,7 @@
 2025-08-23 * "café" #bot
     Assets:EUR:Efectivo:Leo    -3.70 EUR
     Expenses:Salir:Cafe
+
+2025-08-23 * "Flammkuchen" #bot
+    Assets:EUR:Efectivo:Leo   -18.00 EUR
+    Expenses:Salir:Restaurante
