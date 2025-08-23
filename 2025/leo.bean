@@ -1881,3 +1881,7 @@
 2025-08-23 * "lochmühle" #bot
     Assets:EUR:Efectivo:Leo   -86.00 EUR
     Expenses:Gastos:Bebe
+
+2025-08-23 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo   -34.40 EUR
+    Expenses:Salir:Restaurante
