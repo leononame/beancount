@@ -1109,3 +1109,7 @@
 2025-08-27 * "tanken" #bot
     Assets:EUR:Efectivo:Jana   -70.01 EUR
     Expenses:Gastos:Coche:Gasolina
+
+2025-08-27 * "dm" #bot
+    Assets:EUR:Efectivo:Jana   -34.95 EUR
+    Expenses:Compras:Utilidades
