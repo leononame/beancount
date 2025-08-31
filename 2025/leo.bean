@@ -1893,3 +1893,7 @@
 2025-08-23 * "Flammkuchen" #bot
     Assets:EUR:Efectivo:Leo   -18.00 EUR
     Expenses:Salir:Restaurante
+
+2025-08-31 * "taxi" #bot
+    Assets:EUR:Efectivo:Leo   -85.00 EUR
+    Expenses:Transporte:Publico
