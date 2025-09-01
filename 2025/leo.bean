@@ -1897,3 +1897,7 @@
 2025-08-31 * "taxi" #bot
     Assets:EUR:Efectivo:Leo   -85.00 EUR
     Expenses:Transporte:Publico
+
+2025-09-01 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -1.80 EUR
+    Expenses:Salir:Cafe
