@@ -1890,17 +1890,47 @@
     Assets:EUR:Banco:Sabadell              -51.1 EUR
     Expenses:Gastos:Seguros:BU
 
-; TODO
+2025-09-01 * "" "Coworking"
+    Assets:EUR:Banco:Abanca               -181.5 EUR
+    Income:Salario:Leo
 
-2025-09-04 * "" "DHL"
+2025-09-02 * "" "Bausparen"
+    Assets:EUR:Banco:Abanca                 -100 EUR
+    Expenses:Invest
+
+2025-09-03 * "" "DHL"
     Assets:EUR:Banco:Abanca               -28.49 EUR
     Expenses:Compras:Utilidades
 
-2025-09-04 * "" "Café"
+2025-09-03 * "" "Café"
     Assets:EUR:Banco:Abanca                 -4.9 EUR
     Expenses:Salir:Cafe
 
+2025-09-04 * "Amazon" "Devo "
+    Assets:EUR:Banco:Abanca                 9.35 EUR
+    Expenses:Compras:Utilidades
+
 2025-09-04 * "" "Tailscale"
-    Assets:EUR:Banco:Abanca                -4.31 EUR
+    Assets:EUR:Banco:Abanca                -4.29 EUR
     Expenses:Compras:Tecnología:Software
     
+2025-09-04 * "" "Comida vueloa"
+    Assets:EUR:Banco:Abanca                -21.3 EUR
+    Expenses:Salir:Restaurante
+
+2025-09-04 * "" "Stash"
+    Assets:EUR:Efectivo:Leo                 -700 EUR
+    Assets:EUR:Efectivo:Guardado
+
+2025-09-04 * "" "Comunidad"
+    Assets:EUR:Banco:Sabadell                -75 EUR
+    Expenses:Gastos:Casa:Comunidad
+; TODO
+
+2025-09-07 * "Amazon" "Alfombra, Champú, Botella Iago, Reloj de Arena"
+    Assets:EUR:Banco:Abanca              -159.27 EUR
+    Expenses:Compras:Utilidades
+
+2025-09-07 * "" "Wallapop"
+    Assets:EUR:Banco:Abanca               -12.18 EUR
+    Expenses:Compras:Bebe

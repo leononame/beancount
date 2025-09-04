@@ -94,6 +94,7 @@ include "prices.bean"
 ; Assets
 2000-01-01 open Assets:EUR:Efectivo:Leo EUR
 2000-01-01 open Assets:EUR:Efectivo:Jana EUR
+2000-01-01 open Assets:EUR:Efectivo:Guardado EUR
 2000-01-01 open Assets:EUR:Banco:DKB EUR
 2000-01-01 open Assets:EUR:Banco:Abanca EUR
 2000-01-01 open Assets:EUR:Cuenta:Leo EUR

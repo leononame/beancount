@@ -1910,9 +1910,9 @@
     Assets:EUR:Efectivo:Leo     -6.04 EUR
     Expenses:Salir:Cafe
 
-2025-09-04 * "café" #bot
+2025-09-04 * "café siboney" #bot
     Assets:EUR:Efectivo:Leo    -85.20 EUR
-    Expenses:Salir:Cafe
+    Expenses:Compras:Alimentos
 
 2025-09-04 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca  -1000.00 EUR
