@@ -1941,3 +1941,7 @@
 2025-09-06 * "atalaia" #bot
     Assets:EUR:Efectivo:Leo    -24.80 EUR
     Expenses:Salir:Restaurante
+
+2025-09-07 * "gasolinera" #bot
+    Assets:EUR:Efectivo:Leo    -72.00 EUR
+    Expenses:Gastos:Coche:Gasolina
