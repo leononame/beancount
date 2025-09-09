@@ -1953,3 +1953,7 @@
 2025-09-09 * "panadería" #bot
     Assets:EUR:Efectivo:Leo     -1.84 EUR
     Expenses:Compras:Alimentos
+
+2025-09-09 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo    -24.34 EUR
+    Expenses:Compras:Alimentos
