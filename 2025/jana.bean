@@ -1169,3 +1169,7 @@
 2025-09-10 * "gadis" #bot
     Assets:EUR:Efectivo:Jana   -53.55 EUR
     Expenses:Compras:Alimentos
+
+2025-09-10 * "caja de tomates" #bot
+    Assets:EUR:Efectivo:Jana   -30.00 EUR
+    Expenses:Compras:Alimentos
