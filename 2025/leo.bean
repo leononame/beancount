@@ -1977,3 +1977,7 @@
 2025-09-10 * "Cole Iago" #bot
     Assets:EUR:Efectivo:Leo    -55.00 EUR
     Expenses:Gastos:Bebe
+
+2025-09-12 * "tarjeta sd" #bot
+    Assets:EUR:Efectivo:Leo     -7.80 EUR
+    Expenses:Compras:Utilidades
