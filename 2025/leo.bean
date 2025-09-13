@@ -1985,3 +1985,7 @@
 2025-09-12 * "familia" #bot
     Assets:EUR:Efectivo:Leo     -9.60 EUR
     Expenses:Compras:Alimentos
+
+2025-09-13 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo    -15.65 EUR
+    Expenses:Compras:Alimentos
