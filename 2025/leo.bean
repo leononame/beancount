@@ -2017,3 +2017,7 @@
 2025-09-17 * "filloa" #bot
     Assets:EUR:Efectivo:Leo    -20.00 EUR
     Expenses:Salir:Conciertos
+
+2025-09-17 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo    -10.50 EUR
+    Expenses:Compras:Alimentos
