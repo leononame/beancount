@@ -2025,3 +2025,7 @@
 2025-09-18 * "café" #bot
     Assets:EUR:Efectivo:Leo     -4.20 EUR
     Expenses:Salir:Cafe
+
+2025-09-18 * "cervezas" #bot
+    Assets:EUR:Efectivo:Leo     -3.00 EUR
+    Expenses:Salir:Copas
