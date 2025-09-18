@@ -1189,3 +1189,7 @@
 2025-09-18 * "papelería" #bot
     Assets:EUR:Efectivo:Jana    -2.30 EUR
     Expenses:Compras:Utilidades
+
+2025-09-18 * "matcha latte" #bot
+    Assets:EUR:Efectivo:Jana    -3.20 EUR
+    Expenses:Salir:Cafe
