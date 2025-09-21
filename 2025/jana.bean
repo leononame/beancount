@@ -1193,3 +1193,7 @@
 2025-09-18 * "matcha latte" #bot
     Assets:EUR:Efectivo:Jana    -3.20 EUR
     Expenses:Salir:Cafe
+
+2025-09-21 * "women's circle" #bot
+    Assets:EUR:Efectivo:Jana   -10.00 EUR
+    Expenses:Gastos:Actividades
