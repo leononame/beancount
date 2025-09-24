@@ -1229,3 +1229,7 @@
 2025-09-24 * "copas" #bot
     Assets:EUR:Efectivo:Jana    -7.20 EUR
     Expenses:Salir:Copas
+
+2025-09-24 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -2.80 EUR
+    Expenses:Compras:Alimentos
