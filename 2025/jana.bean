@@ -1257,3 +1257,7 @@
 2025-09-27 * "calcetines" #bot
     Assets:EUR:Efectivo:Jana    -8.90 EUR
     Expenses:Compras:Ropa
+
+2025-09-27 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana   -35.44 EUR
+    Expenses:Compras:Alimentos
