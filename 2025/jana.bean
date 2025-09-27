@@ -1253,3 +1253,7 @@
 2025-09-27 * "albi" #bot
     Assets:EUR:Efectivo:Jana   -21.52 EUR
     Expenses:Compras:Alimentos
+
+2025-09-27 * "calcetines" #bot
+    Assets:EUR:Efectivo:Jana    -8.90 EUR
+    Expenses:Compras:Ropa
