@@ -2101,3 +2101,7 @@
 2025-09-29 * "bereket" #bot
     Assets:EUR:Efectivo:Leo   -110.00 EUR
     Expenses:Salir:Restaurante
+
+2025-09-29 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo    -14.03 EUR
+    Expenses:Compras:Alimentos
