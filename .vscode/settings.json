@@ -1,0 +1,9 @@
+{
+  "beanLsp.mainBeanFile": "main.bean",
+  "[plaintext]": {
+    "editor.suggest.showSnippets": false,
+    "editor.suggest.showWords": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "off"
+  },
+}
