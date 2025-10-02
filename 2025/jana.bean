@@ -1281,3 +1281,7 @@
 2025-10-02 * "baquetas iago" #bot
     Assets:EUR:Efectivo:Jana   -20.00 EUR
     Expenses:Compras:Bebe
+
+2025-10-02 * "arenal" #bot
+    Assets:EUR:Efectivo:Jana   -25.94 EUR
+    Expenses:Compras:Utilidades
