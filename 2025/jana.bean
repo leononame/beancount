@@ -1273,3 +1273,7 @@
 2025-10-02 * "fisioterapia" #bot
     Assets:EUR:Efectivo:Jana   -60.00 EUR
     Expenses:Deporte
+
+2025-10-02 * "regalo Xoel" #bot
+    Assets:EUR:Efectivo:Jana   -14.90 EUR
+    Expenses:Compras:Regalos
