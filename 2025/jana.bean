@@ -1269,3 +1269,7 @@
 2025-10-02 * "gadis" #bot
     Assets:EUR:Efectivo:Jana   -32.18 EUR
     Expenses:Compras:Alimentos
+
+2025-10-02 * "fisioterapia" #bot
+    Assets:EUR:Efectivo:Jana   -60.00 EUR
+    Expenses:Deporte
