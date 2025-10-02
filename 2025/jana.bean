@@ -1265,3 +1265,7 @@
 2025-10-01 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -300.00 EUR
     Assets:EUR:Efectivo:Jana
+
+2025-10-02 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana   -32.18 EUR
+    Expenses:Compras:Alimentos
