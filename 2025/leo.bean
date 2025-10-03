@@ -2117,3 +2117,7 @@
 2025-10-03 * "Albi" #bot
     Assets:EUR:Efectivo:Leo    -18.32 EUR
     Expenses:Compras:Alimentos
+
+2025-10-03 * "tortilla" #bot
+    Assets:EUR:Efectivo:Leo     -9.00 EUR
+    Expenses:Salir:Restaurante
