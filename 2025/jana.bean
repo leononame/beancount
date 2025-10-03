@@ -1289,3 +1289,7 @@
 2025-10-02 * "bijoux btigitte" #bot
     Assets:EUR:Efectivo:Jana   -10.90 EUR
     Expenses:Compras:Ropa
+
+2025-10-03 * "tortilla" #bot
+    Assets:EUR:Efectivo:Jana    -3.00 EUR
+    Expenses:Salir:Cafe
