@@ -2137,3 +2137,7 @@
 2025-10-04 * "vagalume café" #bot
     Assets:EUR:Efectivo:Leo    -18.00 EUR
     Expenses:Salir:Cafe
+
+2025-10-04 * "vagalume" #bot
+    Assets:EUR:Efectivo:Leo    -70.00 EUR
+    Expenses:Gastos:Bebe:Actividades
