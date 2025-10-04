@@ -2133,3 +2133,7 @@
 2025-10-04 * "farinarium" #bot
     Assets:EUR:Efectivo:Leo     -6.68 EUR
     Expenses:Compras:Alimentos
+
+2025-10-04 * "vagalume café" #bot
+    Assets:EUR:Efectivo:Leo    -18.00 EUR
+    Expenses:Salir:Cafe
