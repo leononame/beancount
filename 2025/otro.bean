@@ -2109,12 +2109,81 @@
     Assets:Invest:MyInvestor:Cash                   -20029.5 EUR
     Assets:Invest:MyInvestor:Deposito                 
 
-; TODO
+2025-10-01 * "" "Coworking"
+    Assets:EUR:Banco:Abanca                           -181.5 EUR
+    Income:Salario:Leo 
+2025-10-01 * "" "Bus Coruña"
+    Assets:EUR:Banco:Abanca                            -15 EUR
+    Expenses:Transporte:Publico 
 
-2025-10-04 * "" "Audible"
+2025-10-02 * "" "Bausparen"
+    Assets:EUR:Banco:Abanca                           -100 EUR
+    Expenses:Invest 
+
+2025-10-02 * "" "Regalo Xoel"
+    Assets:EUR:Banco:Abanca                              7.5 EUR
+    Expenses:Compras:Regalos 
+
+2025-10-03 * "" "Tailscale"
+    Assets:EUR:Banco:Abanca                             -4.27 EUR
+    Expenses:Compras:Tecnología:Software 
+
+2025-10-03 * "" "Audible"
     Assets:EUR:Banco:Abanca                             -4.95 EUR
     Expenses:Compras:Medios:Libros 
 
-2025-10-04 * "" "Tailscale"
-    Assets:EUR:Banco:Abanca                             -4.29 EUR
-    Expenses:Compras:Tecnología:Software 
+2025-10-04 * "" "Uber Eats"
+    Assets:EUR:Banco:Abanca                             -4.99 EUR
+    Expenses:Salir:Restaurante 
+
+2025-10-04 * "" "Transfer"
+    Assets:EUR:Banco:Abanca                          -1700 EUR
+    Assets:EUR:Banco:Sabadell 
+
+2025-10-06 * "" "Luz"
+    Assets:EUR:Banco:Abanca                            -56.6 EUR
+    Expenses:Gastos:Casa:Luz 
+
+2025-10-06 * "" "Yoga Ute"
+    Assets:EUR:Banco:Abanca                             50 EUR
+    Expenses:Gastos:Actividades 
+
+2025-10-06 * "" "Yoga Jana"
+    Assets:EUR:Banco:Abanca                           -110 EUR
+    Expenses:Gastos:Actividades 
+
+2025-10-07 * "" "Uber Eats"
+    Assets:EUR:Banco:Abanca                            -41.01 EUR
+    Expenses:Salir:Restaurante 
+
+2025-10-07 * "" "Leo Bajo"
+    Assets:EUR:Banco:Abanca                           -100 EUR
+    Expenses:Gastos:Actividades 
+2025-10-07 * "" "Leo Bajo"
+    Assets:EUR:Banco:Abanca                           -100 EUR
+    Expenses:Gastos:Actividades 
+
+2025-10-07  * "Amazon" "Devo"
+    Assets:EUR:Banco:Abanca                              7.49 EUR
+    Expenses:Compras:Utilidades 
+2025-10-07  * "Amazon" "Devo"
+    Assets:EUR:Banco:Abanca                             59.2 EUR
+    Expenses:Compras:Utilidades 
+
+2025-10-07 * "" "Comunidad"
+    Assets:EUR:Banco:Sabadell                          -75 EUR
+    Expenses:Gastos:Casa:Comunidad 
+2025-10-08 * "" "Toniebox RFID"
+    Assets:EUR:Banco:Abanca                            -30 EUR
+    Expenses:Compras:Regalos 
+
+2025-10-08 * "" "Depósito Fin"
+    Assets:Invest:MyInvestor:Cash                    11734.21 EUR
+    Assets:Invest:MyInvestor:Deposito               -11717.99 EUR
+    Income:Impuestos                                   -16.22 EUR
+    
+2025-10-08 * "" "Depósito Contratación"
+    Assets:Invest:MyInvestor:Cash                   -11734.21 EUR
+    Assets:Invest:MyInvestor:Deposito                11734.21 EUR
+    
+; 2025-10-09 balance Assets:EUR:Banco:Abanca            8058.57 EUR
