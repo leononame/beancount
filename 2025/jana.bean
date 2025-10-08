@@ -1305,3 +1305,7 @@
 2025-10-04 * "joyas" #bot
     Assets:EUR:Efectivo:Jana    -1.50 EUR
     Expenses:Compras:Ropa
+
+2025-10-08 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
