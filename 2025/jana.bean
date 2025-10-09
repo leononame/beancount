@@ -1313,3 +1313,7 @@
 2025-10-08 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -5.22 EUR
     Expenses:Compras:Alimentos
+
+2025-10-09 * "zapatos" #bot
+    Assets:EUR:Efectivo:Jana   -49.99 EUR
+    Expenses:Compras:Ropa
