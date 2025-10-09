@@ -1317,3 +1317,7 @@
 2025-10-09 * "zapatos" #bot
     Assets:EUR:Efectivo:Jana   -49.99 EUR
     Expenses:Compras:Ropa
+
+2025-10-09 * "regaLo" #bot
+    Assets:EUR:Efectivo:Jana  -151.00 EUR
+    Expenses:Compras:Regalos
