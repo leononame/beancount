@@ -2161,3 +2161,7 @@
 2025-10-09 * "farinarium" #bot
     Assets:EUR:Efectivo:Leo    -10.54 EUR
     Expenses:Compras:Alimentos
+
+2025-10-11 * "pan" #bot
+    Assets:EUR:Efectivo:Leo     -2.15 EUR
+    Expenses:Compras:Alimentos
