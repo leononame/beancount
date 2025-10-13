@@ -2185,5 +2185,41 @@
 2025-10-08 * "" "Depósito Contratación"
     Assets:Invest:MyInvestor:Cash                   -11734.21 EUR
     Assets:Invest:MyInvestor:Deposito                11734.21 EUR
-    
-; 2025-10-09 balance Assets:EUR:Banco:Abanca            8058.57 EUR
+
+2025-10-08 * "" "Iago"
+    Assets:EUR:Banco:Abanca                            -50 EUR
+    Expenses:Compras:Regalos 
+
+2025-10-08 * "" "Alicia"
+    Assets:EUR:Banco:Abanca                            -50 EUR
+    Expenses:Compras:Regalos 
+
+2025-10-09 balance Assets:EUR:Banco:Abanca            7658.57 EUR
+
+2025-10-09 * "" "Guarde Ali"
+    Assets:EUR:Banco:Abanca                            -74.05 EUR
+    Expenses:Gastos:Bebe:Guarde 
+
+2025-10-10 * "" "Música Iago"
+    Assets:EUR:Banco:Abanca                            -45.58 EUR
+    Expenses:Gastos:Actividades 
+
+2025-10-10 * "Lowi" ""
+    Assets:EUR:Banco:Abanca                            -31.9 EUR
+    Expenses:Gastos:Casa:Internet                       20 EUR
+    Expenses:Gastos:Movil
+
+2025-10-10 * "" "Cumple Mateo"
+    Assets:EUR:Banco:Abanca                             -8 EUR
+    Expenses:Compras:Regalos 
+
+;TODO
+2025-10-15 * "" "YT Music"
+    Assets:EUR:Banco:Abanca                            -25.99 EUR
+    Expenses:Compras:Medios:Musica
+
+2025-10-15 * "" "Wallapop"
+    Assets:EUR:Banco:Abanca                            -21.68 EUR
+    Expenses:Compras:Bebe 
+  
+  
