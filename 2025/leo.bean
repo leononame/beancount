@@ -2189,3 +2189,7 @@
 2025-10-15 * "parking" #bot
     Assets:EUR:Efectivo:Leo     -3.25 EUR
     Expenses:Gastos:Coche:Parking
+
+2025-10-15 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo    -49.91 EUR
+    Expenses:Compras:Alimentos
