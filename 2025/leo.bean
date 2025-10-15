@@ -2185,3 +2185,7 @@
 2025-10-14 * "Albi" #bot
     Assets:EUR:Efectivo:Leo    -15.00 EUR
     Expenses:Compras:Alimentos
+
+2025-10-15 * "parking" #bot
+    Assets:EUR:Efectivo:Leo     -3.25 EUR
+    Expenses:Gastos:Coche:Parking
