@@ -2197,3 +2197,7 @@
 2025-10-15 * "goiko" #bot
     Assets:EUR:Efectivo:Leo     -2.00 EUR
     Expenses:Salir:Restaurante
+
+2025-10-16 * "farinarium" #bot
+    Assets:EUR:Efectivo:Leo     -1.55 EUR
+    Expenses:Compras:Alimentos
