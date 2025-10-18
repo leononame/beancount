@@ -1325,3 +1325,7 @@
 2025-10-17 * "aceite Boris" #bot
     Assets:EUR:Efectivo:Jana   -16.95 EUR
     Expenses:Compras:Coche
+
+2025-10-18 * "cumpleaños" #bot
+    Assets:EUR:Efectivo:Jana    -1.80 EUR
+    Expenses:Compras:Utilidades
