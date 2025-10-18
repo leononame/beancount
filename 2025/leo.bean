@@ -2221,3 +2221,7 @@
 2025-10-18 * "froiz" #bot
     Assets:EUR:Efectivo:Leo    -41.12 EUR
     Expenses:Compras:Alimentos
+
+2025-10-18 * "parking" #bot
+    Assets:EUR:Efectivo:Leo     -0.90 EUR
+    Expenses:Gastos:Coche:Parking
