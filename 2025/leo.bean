@@ -2225,3 +2225,7 @@
 2025-10-18 * "parking" #bot
     Assets:EUR:Efectivo:Leo     -0.90 EUR
     Expenses:Gastos:Coche:Parking
+
+2025-10-19 * "pan" #bot
+    Assets:EUR:Efectivo:Leo     -6.21 EUR
+    Expenses:Compras:Alimentos
