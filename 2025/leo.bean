@@ -2241,3 +2241,7 @@
 2025-10-21 * "arrabiata" #bot
     Assets:EUR:Efectivo:Leo    -76.80 EUR
     Expenses:Salir:Restaurante
+
+2025-10-21 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo     -9.08 EUR
+    Expenses:Compras:Alimentos
