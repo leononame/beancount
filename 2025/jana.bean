@@ -1333,3 +1333,7 @@
 2025-10-21 * "gadis" #bot
     Assets:EUR:Efectivo:Jana   -32.80 EUR
     Expenses:Compras:Alimentos
+
+2025-10-21 * "prima prix" #bot
+    Assets:EUR:Efectivo:Jana    -8.20 EUR
+    Expenses:Compras:Alimentos
