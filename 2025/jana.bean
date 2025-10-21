@@ -1365,3 +1365,7 @@
 2025-10-21 * "Freni" #bot
     Assets:EUR:Efectivo:Jana   -72.00 EUR
     Expenses:Gastos:Casa
+
+2025-10-21 * "perdidos" #bot
+    Assets:EUR:Efectivo:Jana   -14.21 EUR
+    Expenses:Perdido
