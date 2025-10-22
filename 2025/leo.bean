@@ -2249,3 +2249,7 @@
 2025-10-22 * "café" #bot
     Assets:EUR:Efectivo:Leo     -1.40 EUR
     Expenses:Salir:Cafe
+
+2025-10-22 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Leo
