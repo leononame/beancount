@@ -2261,3 +2261,7 @@
 2025-10-22 * "restaurante" #bot
     Assets:EUR:Efectivo:Leo    -30.00 EUR
     Expenses:Salir:Restaurante
+
+2025-10-22 * "filloa" #bot
+    Assets:EUR:Efectivo:Leo    -30.00 EUR
+    Expenses:Salir:Conciertos
