@@ -2257,3 +2257,7 @@
 2025-10-22 * "vagalume" #bot
     Assets:EUR:Efectivo:Leo    -18.00 EUR
     Expenses:Gastos:Bebe:Actividades
+
+2025-10-22 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo    -30.00 EUR
+    Expenses:Salir:Restaurante
