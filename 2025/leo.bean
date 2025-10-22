@@ -2253,3 +2253,7 @@
 2025-10-22 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -300.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2025-10-22 * "vagalume" #bot
+    Assets:EUR:Efectivo:Leo    -18.00 EUR
+    Expenses:Gastos:Bebe:Actividades
