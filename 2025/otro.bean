@@ -2284,8 +2284,36 @@
 2025-10-23 * "" "Filloa"
     Assets:EUR:Banco:Abanca                             30 EUR
     Expenses:Salir:Conciertos
-; TODO
 
-2025-10-25 * "" "Uber Eats"
+2025-10-23 * "" "Psicóloga"
+    Assets:EUR:Banco:Abanca                           -150 EUR
+    Expenses:Gastos:Actividades 
+
+2025-10-24 * "" "Uber Eats"
     Assets:EUR:Banco:Abanca                            -41.01 EUR
     Expenses:Salir:Restaurante
+
+2025-10-24 * "" "Salario Leo"
+    Assets:EUR:Banco:Abanca                           5022.9 EUR
+    Income:Salario:Leo 
+
+2025-10-24 * "" "Transferencia"
+    Assets:EUR:Banco:Abanca                          -5000 EUR
+    Assets:EUR:Banco:Sabadell
+
+; TODO
+
+2025-10-27 * "" "Peajes"
+    Assets:EUR:Banco:Abanca                           -100.3 EUR
+    Expenses:Gastos:Coche:Peaje 
+
+2025-10-27 * "" "Jetbrains"
+    Assets:EUR:Banco:Abanca                           -216.59 EUR
+    Expenses:Compras:Tecnología:Software 
+
+2025-10-27 * "" "Tasacion Piso Faro 35"
+    Assets:EUR:Banco:Abanca                           -275.05 EUR
+    Expenses:Compras:Piso 
+
+
+  
