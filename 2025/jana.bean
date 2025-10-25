@@ -1393,3 +1393,7 @@
 2025-10-25 * "Kelly's" #bot
     Assets:EUR:Efectivo:Jana    -5.00 EUR
     Expenses:Compras:Alimentos
+
+2025-10-25 * "chai latte" #bot
+    Assets:EUR:Efectivo:Jana    -2.80 EUR
+    Expenses:Salir:Cafe
