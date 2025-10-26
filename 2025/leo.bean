@@ -2285,3 +2285,7 @@
 2025-10-25 * "castañas" #bot
     Assets:EUR:Efectivo:Leo     -5.00 EUR
     Expenses:Lujo
+
+2025-10-26 * "café" #bot
+    Assets:EUR:Efectivo:Leo     -8.00 EUR
+    Expenses:Salir:Cafe
