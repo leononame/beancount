@@ -2301,19 +2301,32 @@
     Assets:EUR:Banco:Abanca                          -5000 EUR
     Assets:EUR:Banco:Sabadell
 
-; TODO
-
-2025-10-27 * "" "Peajes"
-    Assets:EUR:Banco:Abanca                           -100.3 EUR
-    Expenses:Gastos:Coche:Peaje 
-
-2025-10-27 * "" "Jetbrains"
-    Assets:EUR:Banco:Abanca                           -216.59 EUR
+2025-10-27 * "" "Storage Box"
+    Assets:EUR:Banco:Abanca                            -13.19 EUR
     Expenses:Compras:Tecnología:Software 
 
-2025-10-27 * "" "Tasacion Piso Faro 35"
+2025-10-27 * "" "Lentillas de contacto"
+    Assets:EUR:Banco:Sabadell                          -63.92 EUR
+    Expenses:Compras:Utilidades 
+
+2025-10-27 * "" "Caretera"
+    Assets:Invest:MyInvestor:Cash                    -5000 EUR
+    Assets:Invest:MyInvestor:Cartera
+
+; TODO
+
+2025-10-28 * "" "Peajes"
+    Assets:EUR:Banco:Abanca                           -100.3 EUR
+    Expenses:Gastos:Coche:Peaje
+
+2025-10-28 * "" "Jetbrains"
+    Assets:EUR:Banco:Abanca                           -216.59 EUR
+    Expenses:Compras:Tecnología:Software
+
+2025-10-28 * "" "Tasacion Piso Faro 35"
     Assets:EUR:Banco:Abanca                           -275.05 EUR
-    Expenses:Compras:Piso 
+    Expenses:Compras:Piso
 
-
-  
+2025-10-28 * "" "Uber Eats"
+    Assets:EUR:Banco:Abanca                            -41.01 EUR
+    Expenses:Salir:Restaurante
