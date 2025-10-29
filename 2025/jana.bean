@@ -1397,3 +1397,7 @@
 2025-10-25 * "chai latte" #bot
     Assets:EUR:Efectivo:Jana    -2.80 EUR
     Expenses:Salir:Cafe
+
+2025-10-29 * "papelería" #bot
+    Assets:EUR:Efectivo:Jana    -2.70 EUR
+    Expenses:Compras:Utilidades
