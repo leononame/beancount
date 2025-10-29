@@ -1405,3 +1405,7 @@
 2025-10-29 * "croissant" #bot
     Assets:EUR:Efectivo:Jana    -1.60 EUR
     Expenses:Compras:Alimentos
+
+2025-10-29 * "prima prix" #bot
+    Assets:EUR:Efectivo:Jana    -1.00 EUR
+    Expenses:Compras:Alimentos
