@@ -2341,3 +2341,7 @@
 2025-10-31 * "MAHI" #bot
     Assets:EUR:Efectivo:Leo    -20.00 EUR
     Expenses:Salir:Museo
+
+2025-10-31 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Leo
