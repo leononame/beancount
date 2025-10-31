@@ -2333,3 +2333,7 @@
 2025-10-30 * "café" #bot
     Assets:EUR:Efectivo:Leo     -1.60 EUR
     Expenses:Salir:Cafe
+
+2025-10-31 * "tortilla" #bot
+    Assets:EUR:Efectivo:Leo    -16.00 EUR
+    Expenses:Salir:Restaurante
