@@ -2337,3 +2337,7 @@
 2025-10-31 * "tortilla" #bot
     Assets:EUR:Efectivo:Leo    -16.00 EUR
     Expenses:Salir:Restaurante
+
+2025-10-31 * "MAHI" #bot
+    Assets:EUR:Efectivo:Leo    -20.00 EUR
+    Expenses:Salir:Museo
