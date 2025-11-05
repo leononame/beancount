@@ -2369,3 +2369,7 @@
 2025-11-04 * "café" #bot
     Assets:EUR:Efectivo:Leo     -1.60 EUR
     Expenses:Salir:Cafe
+
+2025-11-05 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo    -39.57 EUR
+    Expenses:Compras:Alimentos
