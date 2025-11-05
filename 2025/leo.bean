@@ -2381,3 +2381,7 @@
 2025-11-05 * "hamburguesa" #bot
     Assets:EUR:Efectivo:Leo    -15.80 EUR
     Expenses:Salir:Restaurante
+
+2025-11-05 * "cervezas" #bot
+    Assets:EUR:Efectivo:Leo     -7.00 EUR
+    Expenses:Salir:Copas
