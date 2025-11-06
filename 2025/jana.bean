@@ -1473,3 +1473,7 @@
 2025-11-05 * "café" #bot
     Assets:EUR:Efectivo:Jana    -6.50 EUR
     Expenses:Salir:Cafe
+
+2025-11-06 * "pizza" #bot
+    Assets:EUR:Efectivo:Jana    -9.20 EUR
+    Expenses:Salir:Restaurante
