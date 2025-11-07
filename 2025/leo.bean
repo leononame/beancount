@@ -2393,3 +2393,7 @@
 2025-11-07 * "Gadis" #bot
     Assets:EUR:Efectivo:Leo     -1.98 EUR
     Expenses:Compras:Alimentos
+
+2025-11-07 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo    -37.80 EUR
+    Expenses:Salir:Restaurante
