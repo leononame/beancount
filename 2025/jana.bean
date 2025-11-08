@@ -1481,3 +1481,7 @@
 2025-11-08 * "froiz" #bot
     Assets:EUR:Efectivo:Jana   -34.70 EUR
     Expenses:Compras:Alimentos
+
+2025-11-08 * "arenal" #bot
+    Assets:EUR:Efectivo:Jana    -8.89 EUR
+    Expenses:Compras:Utilidades
