@@ -2401,3 +2401,7 @@
 2025-11-08 * "gasolinera" #bot
     Assets:EUR:Efectivo:Leo    -90.23 EUR
     Expenses:Gastos:Coche:Gasolina
+
+2025-11-08 * "Café" #bot
+    Assets:EUR:Efectivo:Leo    -16.00 EUR
+    Expenses:Salir:Cafe
