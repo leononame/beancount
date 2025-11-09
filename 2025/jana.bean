@@ -1489,3 +1489,7 @@
 2025-11-08 * "perdido" #bot
     Assets:EUR:Efectivo:Jana   -18.65 EUR
     Expenses:Perdido
+
+2025-11-09 * "parking" #bot
+    Assets:EUR:Efectivo:Jana    -1.45 EUR
+    Expenses:Gastos:Coche:Parking
