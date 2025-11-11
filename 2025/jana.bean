@@ -1493,3 +1493,7 @@
 2025-11-09 * "parking" #bot
     Assets:EUR:Efectivo:Jana    -1.45 EUR
     Expenses:Gastos:Coche:Parking
+
+2025-11-11 * "papelería" #bot
+    Assets:EUR:Efectivo:Jana    -3.12 EUR
+    Expenses:Compras:Utilidades
