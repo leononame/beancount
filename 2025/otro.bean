@@ -2389,3 +2389,55 @@
     Expenses:Gastos:Casa:Comunidad 
 
 2025-11-05 balance Assets:EUR:Banco:Sabadell          6207.91 EUR
+
+2025-11-07 * "" "Iago"
+    Assets:EUR:Banco:Abanca                            -50 EUR
+    Expenses:Compras:Regalos 
+
+2025-11-07 * "" "Alicia"
+    Assets:EUR:Banco:Abanca                            -50 EUR
+    Expenses:Compras:Regalos 
+
+2025-11-10 * "" "Comedor Ali"
+    Assets:EUR:Banco:Abanca                            -82.53 EUR
+    Expenses:Gastos:Bebe:Guarde 
+
+2025-11-10 * "" "Gadis"
+    Assets:EUR:Banco:Abanca                            -77.63 EUR
+    Expenses:Compras:Alimentos 
+
+2025-11-12 * "Lowi" ""
+    Assets:EUR:Banco:Abanca                            -31.9 EUR
+    Expenses:Gastos:Casa:Internet                       20 EUR
+    Expenses:Gastos:Movil
+
+2025-11-01 * "" "Depósito Fin"
+    Assets:Invest:MyInvestor:Cash                    20058.16 EUR
+    Assets:Invest:MyInvestor:Deposito               -20029.5 EUR
+    Income:Invest:Intereses                            -28.66 EUR
+
+2025-11-01 * "" "Depósito Contratación"
+    Assets:Invest:MyInvestor:Cash                   -20058.16 EUR
+    Assets:Invest:MyInvestor:Deposito
+
+2025-11-08 * "" "Depósito Fin"
+    Assets:Invest:MyInvestor:Cash                    11751 EUR
+    Assets:Invest:MyInvestor:Deposito               -11734.21 EUR
+    Income:Invest:Intereses                            -16.79 EUR
+
+2025-11-08 * "" "Contratación Depósito"
+    Assets:Invest:MyInvestor:Cash                     -11751 EUR
+    Assets:Invest:MyInvestor:Deposito 
+
+2025-11-09 * "" "Intereses"
+    Assets:Invest:MyInvestor:Cash                          0.83 EUR
+    Income:Invest:Intereses 
+; TODO
+
+2025-11-15 * "" "Uber Eats"
+    Assets:EUR:Banco:Abanca                            -41.25 EUR
+    Expenses:Salir:Restaurante 
+
+2025-11-15 * "" "YT Music"
+    Assets:EUR:Banco:Abanca                            -25.99 EUR
+    Expenses:Compras:Medios:Musica
