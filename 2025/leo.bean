@@ -2441,3 +2441,7 @@
 2025-11-13 * "dulce" #bot
     Assets:EUR:Efectivo:Leo     -1.50 EUR
     Expenses:Lujo
+
+2025-11-13 * "café" #bot
+    Assets:EUR:Efectivo:Leo     -1.60 EUR
+    Expenses:Salir:Cafe
