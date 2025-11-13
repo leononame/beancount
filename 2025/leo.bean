@@ -2437,3 +2437,7 @@
 2025-11-13 * "Marconi" #bot
     Assets:EUR:Efectivo:Leo     -1.00 EUR
     Expenses:Compras:Utilidades
+
+2025-11-13 * "dulce" #bot
+    Assets:EUR:Efectivo:Leo     -1.50 EUR
+    Expenses:Lujo
