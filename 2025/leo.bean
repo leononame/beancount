@@ -2445,3 +2445,7 @@
 2025-11-13 * "café" #bot
     Assets:EUR:Efectivo:Leo     -1.60 EUR
     Expenses:Salir:Cafe
+
+2025-11-13 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo    -20.00 EUR
+    Expenses:Compras:Alimentos
