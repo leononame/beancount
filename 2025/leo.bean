@@ -2485,3 +2485,7 @@
 2025-11-15 * "paraguas bebos" #bot
     Assets:EUR:Efectivo:Leo    -11.90 EUR
     Expenses:Compras:Bebe
+
+2025-11-15 * "pizza" #bot
+    Assets:EUR:Efectivo:Leo     -7.05 EUR
+    Expenses:Salir:Restaurante
