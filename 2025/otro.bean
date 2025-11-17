@@ -2446,20 +2446,24 @@
     Expenses:Gastos:Peluquero 
 
 
-; TODO
+2025-11-14 * "" "Bico Jana Miria"
+    Assets:EUR:Banco:Abanca                            -33.3 EUR
+    Expenses:Salir:Restaurante
 
 2025-11-15 * "" "Uber Eats"
     Assets:EUR:Banco:Abanca                            -41.25 EUR
     Expenses:Salir:Restaurante 
 
-2025-11-15 * "" "Just Eat"
+; TODO 
+
+2025-11-17 * "" "Just Eat"
     Assets:EUR:Banco:Abanca                            -39.14 EUR
     Expenses:Salir:Restaurante 
 
-2025-11-15 * "" "Imprimir Fotos"
+2025-11-17 * "" "Imprimir Fotos"
     Assets:EUR:Banco:Abanca                            -30.6 EUR
     Expenses:Compras:Utilidades 
 
-2025-11-15 * "Amazon" "Baliza V16 Coche, Zapatillas, Termostato, USB para ratón"
+2025-11-17 * "Amazon" "Baliza V16 Coche, Zapatillas, Termostato, USB para ratón"
     Assets:EUR:Banco:Abanca                           -119.09 EUR
     Expenses:Compras:Utilidades
