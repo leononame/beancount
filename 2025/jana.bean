@@ -1525,3 +1525,7 @@
 2025-11-19 * "roll de canela" #bot
     Assets:EUR:Efectivo:Jana    -6.25 EUR
     Expenses:Salir:Cafe
+
+2025-11-19 * "platos niños" #bot
+    Assets:EUR:Efectivo:Jana   -40.00 EUR
+    Expenses:Compras:Regalos
