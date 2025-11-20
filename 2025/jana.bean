@@ -1529,3 +1529,7 @@
 2025-11-19 * "platos niños" #bot
     Assets:EUR:Efectivo:Jana   -40.00 EUR
     Expenses:Compras:Regalos
+
+2025-11-20 * "farmacia" #bot
+    Assets:EUR:Efectivo:Jana    -4.17 EUR
+    Expenses:Compras:Utilidades
