@@ -2505,3 +2505,7 @@
 2025-11-21 * "chocolate" #bot
     Assets:EUR:Efectivo:Leo     -2.00 EUR
     Expenses:Compras:Alimentos
+
+2025-11-21 * "lotería" #bot
+    Assets:EUR:Efectivo:Leo    -20.00 EUR
+    Expenses:Lujo
