@@ -1537,3 +1537,7 @@
 2025-11-21 * "croissant" #bot
     Assets:EUR:Efectivo:Jana    -1.60 EUR
     Expenses:Compras:Alimentos
+
+2025-11-21 * "correos" #bot
+    Assets:EUR:Efectivo:Jana    -7.05 EUR
+    Expenses:Compras:Utilidades
