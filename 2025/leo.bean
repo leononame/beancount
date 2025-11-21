@@ -2501,3 +2501,7 @@
 2025-11-21 * "fiesta anpa" #bot
     Assets:EUR:Efectivo:Leo     -2.00 EUR
     Expenses:Gastos:Bebe
+
+2025-11-21 * "chocolate" #bot
+    Assets:EUR:Efectivo:Leo     -2.00 EUR
+    Expenses:Compras:Alimentos
