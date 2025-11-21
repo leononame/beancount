@@ -2454,16 +2454,23 @@
     Assets:EUR:Banco:Abanca                            -41.25 EUR
     Expenses:Salir:Restaurante 
 
-; TODO 
-
-2025-11-17 * "" "Just Eat"
+2025-11-18 * "" "Just Eat"
     Assets:EUR:Banco:Abanca                            -39.14 EUR
     Expenses:Salir:Restaurante 
 
-2025-11-17 * "" "Imprimir Fotos"
+2025-11-18 * "" "Imprimir Fotos"
     Assets:EUR:Banco:Abanca                            -30.6 EUR
     Expenses:Compras:Utilidades 
 
-2025-11-17 * "Amazon" "Baliza V16 Coche, Zapatillas, Termostato, USB para ratón"
+2025-11-19 * "" "Lotería"
+    Assets:EUR:Banco:Abanca                            -20 EUR
+    Expenses:Lujo 
+
+2025-11-21 * "Amazon" "Baliza V16 Coche, Zapatillas, Termostato, USB para ratón"
     Assets:EUR:Banco:Abanca                           -119.09 EUR
     Expenses:Compras:Utilidades
+
+2025-11-21 * "" "Tickets Concierto Jana"
+    Assets:EUR:Banco:Abanca                            -16.8 EUR
+    Expenses:Salir:Conciertos
+    
