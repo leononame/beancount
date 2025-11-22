@@ -2517,3 +2517,7 @@
 2025-11-22 * "desayuno" #bot
     Assets:EUR:Efectivo:Leo    -32.40 EUR
     Expenses:Salir:Restaurante
+
+2025-11-22 * "concierto felix" #bot
+    Assets:EUR:Efectivo:Leo     -5.00 EUR
+    Expenses:Gastos:Bebe
