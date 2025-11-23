@@ -2521,3 +2521,7 @@
 2025-11-22 * "concierto felix" #bot
     Assets:EUR:Efectivo:Leo     -5.00 EUR
     Expenses:Gastos:Bebe
+
+2025-11-23 * "vagalume" #bot
+    Assets:EUR:Efectivo:Leo    -15.20 EUR
+    Expenses:Gastos:Bebe:Actividades
