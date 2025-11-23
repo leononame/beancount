@@ -2529,3 +2529,7 @@
 2025-11-23 * "women's circle Jana" #bot
     Assets:EUR:Efectivo:Leo    -15.00 EUR
     Expenses:Gastos:Actividades
+
+2025-11-23 * "farinarium" #bot
+    Assets:EUR:Efectivo:Leo     -6.60 EUR
+    Expenses:Compras:Alimentos
