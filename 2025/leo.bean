@@ -2537,3 +2537,7 @@
 2025-11-24 * "pan" #bot
     Assets:EUR:Efectivo:Leo     -1.05 EUR
     Expenses:Compras:Alimentos
+
+2025-11-24 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo     -5.91 EUR
+    Expenses:Compras:Alimentos
