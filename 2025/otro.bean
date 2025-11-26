@@ -2473,4 +2473,38 @@
 2025-11-21 * "" "Tickets Concierto Jana"
     Assets:EUR:Banco:Abanca                            -16.8 EUR
     Expenses:Salir:Conciertos
-    
+
+2025-11-21 * "" "Tickets Concierto Jana"
+    Assets:EUR:Banco:Abanca                              8 EUR
+    Expenses:Salir:Conciertos 
+
+2025-11-21 * "" "Jana"
+    Assets:EUR:Banco:Abanca                           2500 EUR
+    Income:Salario:Jana 
+
+2025-11-25 * "" "Agua"
+    Assets:EUR:Banco:Abanca                            -53.83 EUR
+    Expenses:Gastos:Casa:Agua 
+
+2025-11-15 * "" "Leo"
+    Assets:EUR:Banco:Abanca                           4842.21 EUR
+    Income:Salario:Leo 
+
+2025-11-24 * "" "Regalo Jana"
+    Assets:EUR:Banco:Sabadell                          -18.5 EUR
+    Expenses:Compras:Regalos 
+
+2025-11-26 balance Assets:EUR:Banco:Abanca            8063.85 EUR
+
+2025-11-26 * "" "Uber Eats"
+    Assets:EUR:Banco:Abanca                            -37.22 EUR
+    Expenses:Salir:Restaurante 
+
+2025-11-26 * "" "Civ 7"
+    Assets:EUR:Banco:Abanca                            -65.51 EUR
+    Expenses:Compras:Medios:Videojuegos
+
+2025-11-26 * "" "Transfer"
+    Assets:EUR:Banco:Abanca                          -4000 EUR
+    Assets:EUR:Banco:Sabadell
+
