@@ -2377,7 +2377,7 @@
 
 2025-10-31 * "" "Hipoteca"
     Assets:EUR:Banco:Sabadell                        -1291.06 EUR
-    Liabilities:Deudas:Banco                          1012.81 EUR
+    Liabilities:Deudas:Banco                          1012.82 EUR
     Expenses:Compras:Piso:Intereses                    278.24 EUR
   
 2025-11-03 * "" "BU"
@@ -2508,3 +2508,48 @@
     Assets:EUR:Banco:Abanca                          -4000 EUR
     Assets:EUR:Banco:Sabadell
 
+2025-11-27 * "" "Hetzner"
+    Assets:EUR:Banco:Abanca                            -13.19 EUR
+    Expenses:Compras:Tecnología:Hardware 
+
+2025-11-27 * "" "Fabi"
+    Assets:EUR:Banco:Abanca                           -235 EUR
+    Expenses:Gastos:Bebe:Actividades 
+
+2025-11-27 * "" "Gadis"
+    Assets:EUR:Banco:Abanca                            -49.64 EUR
+    Expenses:Compras:Alimentos 
+
+2025-11-27 * "" "Circo"
+    Assets:EUR:Banco:Abanca                             40 EUR
+    Expenses:Gastos:Bebe:Actividades 
+
+2025-11-28 * "" "Jana TGSS"
+    Assets:EUR:Banco:Abanca                            -97.21 EUR
+    Income:Salario:Jana 
+
+2025-11-27 * "" "Circo"
+    Assets:EUR:Banco:Sabadell                          -92.4 EUR
+    Expenses:Gastos:Bebe:Actividades 
+
+2025-11-27 * "" "Albi"
+    Liabilities:TC:Leo                                 -23.96 EUR
+    Expenses:Compras:Alimentos 
+
+2025-11-28 * "" "TC Leo"
+    Assets:EUR:Banco:Sabadell                         -491.4 EUR
+    Liabilities:TC:Leo
+
+2025-11-28 * "" "Hipoteca"
+    Assets:EUR:Banco:Sabadell                        -1291.06 EUR
+    Liabilities:Deudas:Banco                          1014.04 EUR
+    Expenses:Compras:Piso:Intereses                    277.02 EUR
+  
+; TODO
+2025-12-01 * "Amazon" "Jana"
+    Assets:EUR:Banco:Abanca                            -45.92 EUR
+    Expenses:Compras:Utilidades 
+
+2025-12-01 * "" "Uber Eats"
+    Assets:EUR:Banco:Abanca                            -41.01 EUR
+    Expenses:Salir:Restaurante
