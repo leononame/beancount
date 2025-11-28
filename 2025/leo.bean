@@ -2565,3 +2565,7 @@
 2025-11-28 * "castañas" #bot
     Assets:EUR:Efectivo:Leo     -3.00 EUR
     Expenses:Lujo
+
+2025-11-28 * "pizza" #bot
+    Assets:EUR:Efectivo:Leo    -10.50 EUR
+    Expenses:Salir:Restaurante
