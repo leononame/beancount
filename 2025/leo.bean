@@ -2573,3 +2573,7 @@
 2025-11-29 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -400.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2025-11-29 * "farinarium" #bot
+    Assets:EUR:Efectivo:Leo     -4.90 EUR
+    Expenses:Compras:Alimentos
