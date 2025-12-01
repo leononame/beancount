@@ -2605,3 +2605,7 @@
 2025-11-30 * "barracas" #bot
     Assets:EUR:Efectivo:Leo    -20.00 EUR
     Expenses:Gastos:Bebe
+
+2025-12-01 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo     -4.10 EUR
+    Expenses:Salir:Cafe
