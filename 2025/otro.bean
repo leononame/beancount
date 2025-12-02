@@ -2558,7 +2558,7 @@
     Expenses:Invest 
 
 2025-12-01 * "" "BU"
-    Assets:EUR:Banco:Sabadell                            -52.12 EUR
+    Assets:EUR:Banco:Sabadell                          -52.12 EUR
     Expenses:Gastos:Seguros:BU 
 ; TODO
 2025-12-04 * "Amazon" "Jana"
