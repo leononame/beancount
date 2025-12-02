@@ -2528,6 +2528,14 @@
     Assets:EUR:Banco:Abanca                            -97.21 EUR
     Income:Salario:Jana 
 
+2025-11-28 * "" "Lotería"
+    Assets:EUR:Banco:Abanca                             -2.5 EUR
+    Expenses:Lujo 
+
+2025-11-28 * "" "Kebab"
+    Assets:EUR:Banco:Abanca                            -21.8 EUR
+    Expenses:Salir:Restaurante 
+
 2025-11-27 * "" "Circo"
     Assets:EUR:Banco:Sabadell                          -92.4 EUR
     Expenses:Gastos:Bebe:Actividades 
@@ -2544,12 +2552,31 @@
     Assets:EUR:Banco:Sabadell                        -1291.06 EUR
     Liabilities:Deudas:Banco                          1014.04 EUR
     Expenses:Compras:Piso:Intereses                    277.02 EUR
-  
+
+2025-12-02 * "" "Bausparen"
+    Assets:EUR:Banco:Abanca                           -100 EUR
+    Expenses:Invest 
+
+2025-12-01 * "" "BU"
+    Assets:EUR:Banco:Sabadell                            -52.12 EUR
+    Expenses:Gastos:Seguros:BU 
 ; TODO
-2025-12-01 * "Amazon" "Jana"
+2025-12-04 * "Amazon" "Jana"
     Assets:EUR:Banco:Abanca                            -45.92 EUR
     Expenses:Compras:Utilidades 
 
-2025-12-01 * "" "Uber Eats"
+2025-12-04 * "" "Uber Eats"
     Assets:EUR:Banco:Abanca                            -41.01 EUR
     Expenses:Salir:Restaurante
+
+2025-12-04 * "" "Wallapop zapatos"
+    Assets:EUR:Banco:Abanca                             -7.48 EUR
+    Expenses:Compras:Bebe
+
+2025-12-04 * "" "Uber ne"
+    Assets:EUR:Banco:Abanca                             -4.99 EUR
+    Expenses:Salir:Restaurante 
+
+2025-12-04 * "" "Tailscale"
+    Assets:EUR:Banco:Abanca                             -4.35 EUR
+    Expenses:Compras:Tecnología:Software 
