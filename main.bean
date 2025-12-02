@@ -5,6 +5,9 @@ option "inferred_tolerance_default" "*:0.0000000001"
 option "inferred_tolerance_default" "EUR:0.01"
 option "infer_tolerance_from_cost" "True"
 
+; enable fava dashboards
+2010-01-01 custom "fava-extension" "fava_dashboards"
+
 include "*/jana.bean"
 include "*/leo.bean"
 include "*/otro.bean"
@@ -89,151 +92,151 @@ include "prices.bean"
 ; 2012-01-01 custom "budget" Expenses:Gastos:Seguros "monthly" 50 EUR
 
 ; Accounts
-2000-01-01 open Equity:Opening-Balances EUR
+2000-01-01 open Equity:Opening-Balances                         EUR
 
 ; Assets
-2000-01-01 open Assets:EUR:Efectivo:Leo EUR
-2000-01-01 open Assets:EUR:Efectivo:Jana EUR
-2000-01-01 open Assets:EUR:Efectivo:Guardado EUR
-2000-01-01 open Assets:EUR:Banco:DKB EUR
-2000-01-01 open Assets:EUR:Banco:Abanca EUR
-2000-01-01 open Assets:EUR:Cuenta:Leo EUR
-2000-01-01 open Assets:EUR:Cuenta:Jana EUR ; DKB Jana
-2000-01-01 open Assets:EUR:Tagesgeld:Comun EUR
-2000-01-01 open Assets:EUR:Tagesgeld:Leo EUR
-2000-01-01 open Assets:EUR:Tagesgeld:Jana EUR ; DiBa Sparkonto
-2000-01-01 open Assets:EUR:Deudas EUR ; Dinero que me deben
-2000-01-01 open Assets:EUR:Banco:Sabadell EUR
+2000-01-01 open Assets:EUR:Efectivo:Leo                         EUR
+2000-01-01 open Assets:EUR:Efectivo:Jana                        EUR
+2000-01-01 open Assets:EUR:Efectivo:Guardado                    EUR
+2000-01-01 open Assets:EUR:Banco:DKB                            EUR
+2000-01-01 open Assets:EUR:Banco:Abanca                         EUR
+2000-01-01 open Assets:EUR:Cuenta:Leo                           EUR
+2000-01-01 open Assets:EUR:Cuenta:Jana                          EUR ; DKB Jana
+2000-01-01 open Assets:EUR:Tagesgeld:Comun                      EUR
+2000-01-01 open Assets:EUR:Tagesgeld:Leo                        EUR
+2000-01-01 open Assets:EUR:Tagesgeld:Jana                       EUR ; DiBa Sparkonto
+2000-01-01 open Assets:EUR:Deudas                               EUR ; Dinero que me deben
+2000-01-01 open Assets:EUR:Banco:Sabadell                       EUR
 
-2000-01-01 open Assets:Piso:Tui EUR
+2000-01-01 open Assets:Piso:Tui                                 EUR
 
-2020-02-01 open Assets:EUR:Banco:Leo EUR
-2020-02-01 open Assets:EUR:Banco:Jana EUR
+2020-02-01 open Assets:EUR:Banco:Leo                            EUR
+2020-02-01 open Assets:EUR:Banco:Jana                           EUR
 2022-08-01 close Assets:EUR:Banco:Leo
 2023-08-01 close Assets:EUR:Banco:Jana
 
 
-2000-01-01 open Assets:Invest:VLJana EUR ; DiBa VL-Sparen
+2000-01-01 open Assets:Invest:VLJana                            EUR ; DiBa VL-Sparen
 2024-03-22 close Assets:Invest:VLJana
-2000-01-01 open Assets:Invest:Bausparen EUR
-2000-01-01 open Assets:Invest:Depot EUR
-2000-01-01 open Assets:Invest:Depot:MSCI A2H59Q
-2000-01-01 open Assets:Invest:Depot:DAX DBX1DA
-2000-01-01 open Assets:Invest:Depot:CleanEnergy A0MW0M
-2000-01-01 open Assets:Invest:Depot:NewEnergy LYX0CB
-2000-01-01 open Assets:Invest:Depot:TECDAX TECDAX
-2000-01-01 open Assets:Invest:Depot:Beyond A2N7XQ
-2000-01-01 open Assets:Invest:Depot:Xiaomi A2JNY1Z
+2000-01-01 open Assets:Invest:Bausparen                         EUR
+2000-01-01 open Assets:Invest:Depot                             EUR
+2000-01-01 open Assets:Invest:Depot:MSCI                        A2H59Q
+2000-01-01 open Assets:Invest:Depot:DAX                         DBX1DA
+2000-01-01 open Assets:Invest:Depot:CleanEnergy                 A0MW0M
+2000-01-01 open Assets:Invest:Depot:NewEnergy                   LYX0CB
+2000-01-01 open Assets:Invest:Depot:TECDAX                      TECDAX
+2000-01-01 open Assets:Invest:Depot:Beyond                      A2N7XQ
+2000-01-01 open Assets:Invest:Depot:Xiaomi                      A2JNY1Z
 
-2000-01-01 open Assets:Invest:Crypto:BTC BTC
-2000-01-01 open Assets:Invest:Crypto:XRP XRP
+2000-01-01 open Assets:Invest:Crypto:BTC                        BTC
+2000-01-01 open Assets:Invest:Crypto:XRP                        XRP
 
 ; Income
-2000-01-01 open Income:Salario:Leo EUR
-2000-01-01 open Income:Salario:Jana EUR
-2000-01-01 open Income:Regalos EUR
-2000-01-01 open Income:Impuestos EUR
-2000-01-01 open Income:Invest:Intereses EUR
-2000-01-01 open Income:Invest:Dividendos EUR
-2000-01-01 open Income:Invest:Tagesgeld EUR
-2000-01-01 open Income:Invest:Krypto:BTC EUR
-2000-01-01 open Income:Invest:Krypto:XRP EUR
+2000-01-01 open Income:Salario:Leo                              EUR
+2000-01-01 open Income:Salario:Jana                             EUR
+2000-01-01 open Income:Regalos                                  EUR
+2000-01-01 open Income:Impuestos                                EUR
+2000-01-01 open Income:Invest:Intereses                         EUR
+2000-01-01 open Income:Invest:Dividendos                        EUR
+2000-01-01 open Income:Invest:Tagesgeld                         EUR
+2000-01-01 open Income:Invest:Krypto:BTC                        EUR
+2000-01-01 open Income:Invest:Krypto:XRP                        EUR
 
 ; Expenses
-2000-01-01 open Expenses:Viaje:Hotel EUR
-2000-01-01 open Expenses:Viaje:Otro EUR
-2000-01-01 open Expenses:Viaje:Avion EUR
-2000-01-01 open Expenses:Viaje:Tour EUR
-2000-01-01 open Expenses:Viaje:Souvenirs EUR
+2000-01-01 open Expenses:Viaje:Hotel                            EUR
+2000-01-01 open Expenses:Viaje:Otro                             EUR
+2000-01-01 open Expenses:Viaje:Avion                            EUR
+2000-01-01 open Expenses:Viaje:Tour                             EUR
+2000-01-01 open Expenses:Viaje:Souvenirs                        EUR
 
-2000-01-01 open Expenses:Invest EUR
+2000-01-01 open Expenses:Invest                                 EUR
 
-2000-01-01 open Expenses:Compras:Bebe EUR
-2000-01-01 open Expenses:Compras:Bitpiraten EUR
-2000-01-01 open Expenses:Compras:Ropa EUR
-2000-01-01 open Expenses:Compras:Coche EUR
-2000-01-01 open Expenses:Compras:Casa:Muebles EUR
-2000-01-01 open Expenses:Compras:Casa:Decoracion EUR
-2000-01-01 open Expenses:Compras:Casa:Utilidades EUR
-2000-01-01 open Expenses:Compras:Alimentos EUR
-2000-01-01 open Expenses:Compras:Utilidades EUR
-2000-01-01 open Expenses:Compras:Regalos EUR
-2000-01-01 open Expenses:Compras:Tecnología:Hardware EUR
-2000-01-01 open Expenses:Compras:Tecnología:Software EUR
-2000-01-01 open Expenses:Compras:Medios:Cursos EUR
-2000-01-01 open Expenses:Compras:Medios:Libros EUR
-2000-01-01 open Expenses:Compras:Medios:Musica EUR
-2000-01-01 open Expenses:Compras:Medios:Pelis EUR
-2000-01-01 open Expenses:Compras:Medios:Periodico EUR
-2000-01-01 open Expenses:Compras:Medios:Juegos EUR
-2000-01-01 open Expenses:Compras:Medios:Videojuegos EUR
+2000-01-01 open Expenses:Compras:Bebe                           EUR
+2000-01-01 open Expenses:Compras:Bitpiraten                     EUR
+2000-01-01 open Expenses:Compras:Ropa                           EUR
+2000-01-01 open Expenses:Compras:Coche                          EUR
+2000-01-01 open Expenses:Compras:Casa:Muebles                   EUR
+2000-01-01 open Expenses:Compras:Casa:Decoracion                EUR
+2000-01-01 open Expenses:Compras:Casa:Utilidades                EUR
+2000-01-01 open Expenses:Compras:Alimentos                      EUR
+2000-01-01 open Expenses:Compras:Utilidades                     EUR
+2000-01-01 open Expenses:Compras:Regalos                        EUR
+2000-01-01 open Expenses:Compras:Tecnología:Hardware            EUR
+2000-01-01 open Expenses:Compras:Tecnología:Software            EUR
+2000-01-01 open Expenses:Compras:Medios:Cursos                  EUR
+2000-01-01 open Expenses:Compras:Medios:Libros                  EUR
+2000-01-01 open Expenses:Compras:Medios:Musica                  EUR
+2000-01-01 open Expenses:Compras:Medios:Pelis                   EUR
+2000-01-01 open Expenses:Compras:Medios:Periodico               EUR
+2000-01-01 open Expenses:Compras:Medios:Juegos                  EUR
+2000-01-01 open Expenses:Compras:Medios:Videojuegos             EUR
 
-2000-01-01 open Expenses:Deporte EUR
-2000-01-01 open Expenses:Donaciones EUR
+2000-01-01 open Expenses:Deporte                                EUR
+2000-01-01 open Expenses:Donaciones                             EUR
 
-2000-01-01 open Expenses:Salir:Copas EUR
-2000-01-01 open Expenses:Salir:Cafe EUR
-2000-01-01 open Expenses:Salir:Restaurante EUR
-2000-01-01 open Expenses:Salir:Cine EUR
-2000-01-01 open Expenses:Salir:Conciertos EUR
-2000-01-01 open Expenses:Salir:Museo EUR
-2000-01-01 open Expenses:Salir:Teatro EUR
+2000-01-01 open Expenses:Salir:Copas                            EUR
+2000-01-01 open Expenses:Salir:Cafe                             EUR
+2000-01-01 open Expenses:Salir:Restaurante                      EUR
+2000-01-01 open Expenses:Salir:Cine                             EUR
+2000-01-01 open Expenses:Salir:Conciertos                       EUR
+2000-01-01 open Expenses:Salir:Museo                            EUR
+2000-01-01 open Expenses:Salir:Teatro                           EUR
 
-2000-01-01 open Expenses:Trabajo EUR
+2000-01-01 open Expenses:Trabajo                                EUR
 
-2000-01-01 open Expenses:Transporte:Avion EUR
-2000-01-01 open Expenses:Transporte:Tren EUR
-2000-01-01 open Expenses:Transporte:Barco EUR
-2000-01-01 open Expenses:Transporte:Bus EUR
-2000-01-01 open Expenses:Gastos:Coche:Gasolina EUR
-2000-01-01 open Expenses:Gastos:Coche:Otros EUR
-2000-01-01 open Expenses:Gastos:Coche:Parking EUR
-2000-01-01 open Expenses:Gastos:Coche:Peaje EUR
-2000-01-01 open Expenses:Gastos:Coche:Seguro EUR
-2000-01-01 open Expenses:Gastos:Coche:Taller EUR
-2000-01-01 open Expenses:Gastos:Administracion EUR
-2000-01-01 open Expenses:Transporte:Publico EUR
+2000-01-01 open Expenses:Transporte:Avion                       EUR
+2000-01-01 open Expenses:Transporte:Tren                        EUR
+2000-01-01 open Expenses:Transporte:Barco                       EUR
+2000-01-01 open Expenses:Transporte:Bus                         EUR
+2000-01-01 open Expenses:Gastos:Coche:Gasolina                  EUR
+2000-01-01 open Expenses:Gastos:Coche:Otros                     EUR
+2000-01-01 open Expenses:Gastos:Coche:Parking                   EUR
+2000-01-01 open Expenses:Gastos:Coche:Peaje                     EUR
+2000-01-01 open Expenses:Gastos:Coche:Seguro                    EUR
+2000-01-01 open Expenses:Gastos:Coche:Taller                    EUR
+2000-01-01 open Expenses:Gastos:Administracion                  EUR
+2000-01-01 open Expenses:Transporte:Publico                     EUR
 
-2000-01-01 open Expenses:Lujo EUR ; Compras innecesarias
+2000-01-01 open Expenses:Lujo                                   EUR ; Compras innecesarias
 
-2000-01-01 open Expenses:Gastos:Alquiler EUR
-2000-01-01 open Expenses:Gastos:Casa:Comunidad EUR
-2000-01-01 open Expenses:Gastos:Casa:Impuestos EUR
-2000-01-01 open Expenses:Gastos:Casa:Reforma EUR
-2000-01-01 open Expenses:Gastos:Banco:General EUR
-2000-01-01 open Expenses:Gastos:Banco:Fondos EUR
-2000-01-01 open Expenses:Gastos:Banco:Intereses EUR
-2000-01-01 open Expenses:Gastos:Bebe EUR
-2000-01-01 open Expenses:Gastos:Bebe:Actividades EUR
-2000-01-01 open Expenses:Gastos:Actividades EUR
-2000-01-01 open Expenses:Gastos:Bebe:Fisio EUR
-2000-01-01 open Expenses:Gastos:Bebe:Guarde EUR
-2000-01-01 open Expenses:Gastos:Casa EUR
-2000-01-01 open Expenses:Gastos:Casa:Luz EUR
-2000-01-01 open Expenses:Gastos:Casa:Gas EUR
-2000-01-01 open Expenses:Gastos:Casa:Agua EUR
-2000-01-01 open Expenses:Gastos:Casa:Internet EUR
-2000-01-01 open Expenses:Gastos:Casa:Limpieza EUR
-2000-01-01 open Expenses:Gastos:Movil EUR
-2000-01-01 open Expenses:Gastos:Peluquero EUR
-2000-01-01 open Expenses:Gastos:Seguros:BU EUR
-2000-01-01 open Expenses:Gastos:Seguros:Rente EUR
-2000-01-01 open Expenses:Gastos:Seguros:Haftpflicht EUR
-2000-01-01 open Expenses:Gastos:Seguros:Medico EUR
-2000-01-01 open Expenses:Gastos:Seguros:Viaje EUR
-2000-01-01 open Expenses:Gastos:Seguros:Unfall EUR
-2000-01-01 open Expenses:Gastos:Seguros:Hogar EUR
+2000-01-01 open Expenses:Gastos:Alquiler                        EUR
+2000-01-01 open Expenses:Gastos:Casa:Comunidad                  EUR
+2000-01-01 open Expenses:Gastos:Casa:Impuestos                  EUR
+2000-01-01 open Expenses:Gastos:Casa:Reforma                    EUR
+2000-01-01 open Expenses:Gastos:Banco:General                   EUR
+2000-01-01 open Expenses:Gastos:Banco:Fondos                    EUR
+2000-01-01 open Expenses:Gastos:Banco:Intereses                 EUR
+2000-01-01 open Expenses:Gastos:Bebe                            EUR
+2000-01-01 open Expenses:Gastos:Bebe:Actividades                EUR
+2000-01-01 open Expenses:Gastos:Actividades                     EUR
+2000-01-01 open Expenses:Gastos:Bebe:Fisio                      EUR
+2000-01-01 open Expenses:Gastos:Bebe:Guarde                     EUR
+2000-01-01 open Expenses:Gastos:Casa                            EUR
+2000-01-01 open Expenses:Gastos:Casa:Luz                        EUR
+2000-01-01 open Expenses:Gastos:Casa:Gas                        EUR
+2000-01-01 open Expenses:Gastos:Casa:Agua                       EUR
+2000-01-01 open Expenses:Gastos:Casa:Internet                   EUR
+2000-01-01 open Expenses:Gastos:Casa:Limpieza                   EUR
+2000-01-01 open Expenses:Gastos:Movil                           EUR
+2000-01-01 open Expenses:Gastos:Peluquero                       EUR
+2000-01-01 open Expenses:Gastos:Seguros:BU                      EUR
+2000-01-01 open Expenses:Gastos:Seguros:Rente                   EUR
+2000-01-01 open Expenses:Gastos:Seguros:Haftpflicht             EUR
+2000-01-01 open Expenses:Gastos:Seguros:Medico                  EUR
+2000-01-01 open Expenses:Gastos:Seguros:Viaje                   EUR
+2000-01-01 open Expenses:Gastos:Seguros:Unfall                  EUR
+2000-01-01 open Expenses:Gastos:Seguros:Hogar                   EUR
 
-2000-01-01 open Expenses:Compras:Piso EUR
-2000-01-01 open Expenses:Compras:Piso:Intereses EUR
-2000-01-01 open Expenses:Perdido EUR
-2000-01-01 open Expenses:Otros EUR
+2000-01-01 open Expenses:Compras:Piso                           EUR
+2000-01-01 open Expenses:Compras:Piso:Intereses                 EUR
+2000-01-01 open Expenses:Perdido                                EUR
+2000-01-01 open Expenses:Otros                                  EUR
 
 
-2000-01-01 open Liabilities:Deudas:Banco EUR
-2000-01-01 open Liabilities:Deudas:Familia EUR
-2000-01-01 open Liabilities:TC:Leo EUR
-2000-01-01 open Liabilities:TC:Jana EUR
+2000-01-01 open Liabilities:Deudas:Banco                        EUR
+2000-01-01 open Liabilities:Deudas:Familia                      EUR
+2000-01-01 open Liabilities:TC:Leo                              EUR
+2000-01-01 open Liabilities:TC:Jana                             EUR
 
 
 
@@ -245,88 +248,88 @@ include "prices.bean"
 
 
 
-2023-09-15 open Assets:Invest:MyInvestor:Cash EUR
-2023-09-15 open Assets:Invest:MyInvestor:Deposito EUR
-2023-09-15 open Assets:Invest:MyInvestor:Cartera EUR
-2023-09-15 open Assets:Invest:MyInvestor:World IE00BYX5NX33
-2023-09-15 open Assets:Invest:MyInvestor:Europe IE0007987708
-2023-09-15 open Assets:Invest:MyInvestor:US IE00BYX5MX67
-2023-09-15 open Assets:Invest:MyInvestor:Emerging IE00BYWYCC39
-2023-09-15 open Assets:Invest:MyInvestor:Pacific IE0007201266
-2023-09-15 open Assets:Invest:MyInvestor:Japan IE00BYX5N771
+2023-09-15 open Assets:Invest:MyInvestor:Cash                   EUR
+2023-09-15 open Assets:Invest:MyInvestor:Deposito               EUR
+2023-09-15 open Assets:Invest:MyInvestor:Cartera                EUR
+2023-09-15 open Assets:Invest:MyInvestor:World                  IE00BYX5NX33
+2023-09-15 open Assets:Invest:MyInvestor:Europe                 IE0007987708
+2023-09-15 open Assets:Invest:MyInvestor:US                     IE00BYX5MX67
+2023-09-15 open Assets:Invest:MyInvestor:Emerging               IE00BYWYCC39
+2023-09-15 open Assets:Invest:MyInvestor:Pacific                IE0007201266
+2023-09-15 open Assets:Invest:MyInvestor:Japan                  IE00BYX5N771
 
 
 ; Fondos, etc. antes de que empecé con la contabilidad aquí
 2019-12-29 * "BTC"
-    Assets:EUR:Cuenta:Leo                     -10060.96 EUR
-    Assets:Invest:Crypto:BTC                       1.00 BTC {10060.96 EUR} @@ 10060.96 EUR
+    Assets:EUR:Cuenta:Leo                           -10060.96 EUR
+    Assets:Invest:Crypto:BTC                             1.00 BTC {10060.96 EUR} @@ 10060.96 EUR
 
 2019-12-29 * "XRP"
     Assets:EUR:Cuenta:Leo
-    Assets:Invest:Crypto:XRP                   263.3922 XRP {0.278 EUR} @@ 73.22 EUR
+    Assets:Invest:Crypto:XRP                           263.3922 XRP {0.278 EUR} @@ 73.22 EUR
 
 2019-12-29 * "Tabea Tren"
-    Assets:EUR:Deudas                             127.3 EUR
+    Assets:EUR:Deudas                                  127.3 EUR
     Equity:Opening-Balances
 
 2019-12-29 * "Tabea"
-    Assets:EUR:Deudas                               100 EUR
+    Assets:EUR:Deudas                                  100 EUR
     Equity:Opening-Balances
 
 2019-12-29 * "Buy Amundi ETF MSCI World"
-    Assets:Invest:Depot:MSCI                         13 A2H59Q {2019-12-29} @@ 3196.41 EUR
-    Assets:EUR:Cuenta:Leo                      -3196.41 EUR
+    Assets:Invest:Depot:MSCI                            13 A2H59Q {2019-12-29} @@ 3196.41 EUR
+    Assets:EUR:Cuenta:Leo                            -3196.41 EUR
 
 2019-12-29 * "Buy TecDAX"
-    Assets:Invest:Depot:TECDAX                       50 TECDAX {2019-12-29} @@ 1178.45 EUR
-    Assets:EUR:Cuenta:Leo                      -1178.45 EUR
+    Assets:Invest:Depot:TECDAX                          50 TECDAX {2019-12-29} @@ 1178.45 EUR
+    Assets:EUR:Cuenta:Leo                            -1178.45 EUR
 
 2019-12-29 * "Buy Gloal Clean Energy"
-    Assets:Invest:Depot:CleanEnergy                 330 A0MW0M {2019-12-29} @@ 1483.02 EUR
-    Assets:EUR:Cuenta:Leo                      -1483.02 EUR
+    Assets:Invest:Depot:CleanEnergy                    330 A0MW0M {2019-12-29} @@ 1483.02 EUR
+    Assets:EUR:Cuenta:Leo                            -1483.02 EUR
 
 2019-12-29 * "Buy Global Clean Energy"
-    Assets:Invest:Depot:CleanEnergy                 223 A0MW0M {2019-12-29} @@ 999.49 EUR
-    Assets:EUR:Cuenta:Leo                       -999.49 EUR
+    Assets:Invest:Depot:CleanEnergy                    223 A0MW0M {2019-12-29} @@ 999.49 EUR
+    Assets:EUR:Cuenta:Leo                             -999.49 EUR
 
 2019-12-29 * "Buy Lyxor New Energy"
-    Assets:Invest:Depot:NewEnergy                    25 LYX0CB {2019-12-29} @@ 535.98 EUR
-    Assets:EUR:Cuenta:Leo                       -535.98 EUR
+    Assets:Invest:Depot:NewEnergy                       25 LYX0CB {2019-12-29} @@ 535.98 EUR
+    Assets:EUR:Cuenta:Leo                             -535.98 EUR
 
 2019-12-29 * "Buy DAX"
-    Assets:Invest:Depot:DAX                           4 DBX1DA {2019-12-29} @@ 500.92 EUR
-    Assets:EUR:Cuenta:Leo                       -500.92 EUR
+    Assets:Invest:Depot:DAX                              4 DBX1DA {2019-12-29} @@ 500.92 EUR
+    Assets:EUR:Cuenta:Leo                             -500.92 EUR
 
 2019-12-29 * "Buy DAX"
-    Assets:Invest:Depot:DAX                           1 DBX1DA {2019-12-29 } @@ 121.26 EUR
-    Assets:EUR:Cuenta:Leo                       -121.26 EUR
+    Assets:Invest:Depot:DAX                              1 DBX1DA {2019-12-29 } @@ 121.26 EUR
+    Assets:EUR:Cuenta:Leo                             -121.26 EUR
 
 2019-12-30 pad Assets:EUR:Efectivo:Jana Equity:Opening-Balances
-2019-12-31 balance Assets:EUR:Efectivo:Jana      583.63 EUR
+2019-12-31 balance Assets:EUR:Efectivo:Jana            583.63 EUR
 
 2019-12-30 pad Assets:EUR:Efectivo:Leo Equity:Opening-Balances
-2019-12-31 balance Assets:EUR:Efectivo:Leo       123.42 EUR
+2019-12-31 balance Assets:EUR:Efectivo:Leo             123.42 EUR
 
 2019-12-30 pad Assets:EUR:Tagesgeld:Leo Equity:Opening-Balances
-2019-12-31 balance Assets:EUR:Tagesgeld:Leo     7077.45 EUR
+2019-12-31 balance Assets:EUR:Tagesgeld:Leo           7077.45 EUR
 
 2019-12-30 pad Assets:EUR:Tagesgeld:Jana Equity:Opening-Balances
-2019-12-31 balance Assets:EUR:Tagesgeld:Jana   14176.89 EUR
+2019-12-31 balance Assets:EUR:Tagesgeld:Jana         14176.89 EUR
 
 2019-12-30 pad Assets:Invest:VLJana Equity:Opening-Balances
-2019-12-31 balance Assets:Invest:VLJana         1064.05 EUR
+2019-12-31 balance Assets:Invest:VLJana               1064.05 EUR
 
 2019-12-30 pad Assets:Invest:Bausparen Equity:Opening-Balances
-2019-12-31 balance Assets:Invest:Bausparen      4740.93 EUR
+2019-12-31 balance Assets:Invest:Bausparen            4740.93 EUR
 
 2019-12-30 pad Assets:EUR:Cuenta:Leo Equity:Opening-Balances
-2019-12-31 balance Assets:EUR:Cuenta:Leo        1134.32 EUR
+2019-12-31 balance Assets:EUR:Cuenta:Leo              1134.32 EUR
 
 2019-12-30 pad Assets:EUR:Cuenta:Jana Equity:Opening-Balances
-2019-12-31 balance Assets:EUR:Cuenta:Jana        391.45 EUR
+2019-12-31 balance Assets:EUR:Cuenta:Jana              391.45 EUR
 
 2019-12-30 pad Assets:EUR:Banco:DKB Equity:Opening-Balances
-2019-12-31 balance Assets:EUR:Banco:DKB         3144.05 EUR
+2019-12-31 balance Assets:EUR:Banco:DKB               3144.05 EUR
 
 ; Close accounts
 2020-02-10 close Assets:EUR:Tagesgeld:Comun
