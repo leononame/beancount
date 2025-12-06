@@ -1593,3 +1593,7 @@
 2025-12-05 * "familia" #bot
     Assets:EUR:Efectivo:Jana    -6.95 EUR
     Expenses:Compras:Alimentos
+
+2025-12-06 * "parking" #bot
+    Assets:EUR:Efectivo:Jana    -0.60 EUR
+    Expenses:Gastos:Coche:Parking
