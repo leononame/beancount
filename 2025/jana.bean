@@ -1597,3 +1597,7 @@
 2025-12-06 * "parking" #bot
     Assets:EUR:Efectivo:Jana    -0.60 EUR
     Expenses:Gastos:Coche:Parking
+
+2025-12-07 * "parking" #bot
+    Assets:EUR:Efectivo:Jana    -1.65 EUR
+    Expenses:Gastos:Coche:Parking
