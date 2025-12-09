@@ -2560,23 +2560,68 @@
 2025-12-01 * "" "BU"
     Assets:EUR:Banco:Sabadell                          -52.12 EUR
     Expenses:Gastos:Seguros:BU 
-; TODO
-2025-12-04 * "Amazon" "Jana"
-    Assets:EUR:Banco:Abanca                            -45.92 EUR
-    Expenses:Compras:Utilidades 
 
-2025-12-04 * "" "Uber Eats"
+2025-12-03 * "" "Uber Eats"
+    Assets:EUR:Banco:Abanca                            -41.01 EUR
+    Expenses:Salir:Restaurante                          41.01 EUR
+
+2025-12-03 * "" "Tailscale"
+    Assets:EUR:Banco:Abanca                             -4.33 EUR
+    Expenses:Compras:Tecnología:Software                 4.33 EUR
+
+2025-12-03* "Amazon" "Jana"
+    Assets:EUR:Banco:Abanca                            -45.92 EUR
+    Expenses:Compras:Utilidades                         45.92 EUR
+
+2025-12-03 * "" "Wallapop zapatos"
+    Assets:EUR:Banco:Abanca                             -7.48 EUR
+    Expenses:Compras:Bebe                                7.48 EUR
+
+2025-12-04 * "" "Uber one"
+    Assets:EUR:Banco:Abanca                             -4.99 EUR
+    Expenses:Salir:Restaurante                           4.99 EUR
+
+2025-12-05 * "" "Guarde"
+    Assets:EUR:Banco:Abanca                            -74.05 EUR
+    Expenses:Gastos:Bebe:Guarde                         74.05 EUR
+
+2025-12-05 * "" "Iago"
+    Assets:EUR:Banco:Abanca                            -50 EUR
+    Expenses:Compras:Regalos 
+
+2025-12-05 * "" "Ali"
+    Assets:EUR:Banco:Abanca                            -50 EUR
+    Expenses:Compras:Regalos 
+
+2025-12-06 * "" "Uber Eats"
     Assets:EUR:Banco:Abanca                            -41.01 EUR
     Expenses:Salir:Restaurante
 
-2025-12-04 * "" "Wallapop zapatos"
-    Assets:EUR:Banco:Abanca                             -7.48 EUR
-    Expenses:Compras:Bebe
+2025-12-06 * "" "Froiz"
+    Assets:EUR:Banco:Abanca                            -66.16 EUR
+    Expenses:Compras:Alimentos
 
-2025-12-04 * "" "Uber ne"
-    Assets:EUR:Banco:Abanca                             -4.99 EUR
-    Expenses:Salir:Restaurante 
+2025-12-04 * "" "Chocolate regalo Ute"
+    Assets:EUR:Banco:Sabadell                          -33.45 EUR
+    Expenses:Compras:Regalos 
 
-2025-12-04 * "" "Tailscale"
-    Assets:EUR:Banco:Abanca                             -4.35 EUR
-    Expenses:Compras:Tecnología:Software 
+2025-12-04 * "" "Regalo Ute"
+    Assets:EUR:Banco:Sabadell                          -21.64 EUR
+    Expenses:Compras:Regalos 
+
+2025-12-05 * "" "Comunidad"
+    Assets:EUR:Banco:Sabadell                          -75 EUR
+    Expenses:Gastos:Casa:Comunidad 
+
+2025-12-09 * "" "Intereses"
+    Assets:Invest:MyInvestor:Cash                          0.39 EUR
+    Income:Invest:Intereses
+
+; TODO
+2025-12-10 * "Amazon" "Regalos navidad"
+    Assets:EUR:Banco:Abanca                           -256.88 EUR
+    Expenses:Compras:Regalos 
+
+2025-12-10 * "" "Uber Eats"
+    Assets:EUR:Banco:Abanca                            -41.01 EUR
+    Expenses:Salir:Restaurante
