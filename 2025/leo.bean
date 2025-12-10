@@ -2697,3 +2697,7 @@
 2025-12-10 * "Seoul Soul" #bot
     Assets:EUR:Efectivo:Leo    -41.60 EUR
     Expenses:Salir:Restaurante
+
+2025-12-10 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Leo
