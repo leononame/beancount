@@ -2709,3 +2709,7 @@
 2025-12-10 * "cervezas" #bot
     Assets:EUR:Efectivo:Leo     -5.60 EUR
     Expenses:Salir:Copas
+
+2025-12-11 * "café" #bot
+    Assets:EUR:Efectivo:Leo     -2.80 EUR
+    Expenses:Salir:Cafe
