@@ -2745,3 +2745,7 @@
 2025-12-13 * "castañas" #bot
     Assets:EUR:Efectivo:Leo     -3.00 EUR
     Expenses:Lujo
+
+2025-12-13 * "barracas" #bot
+    Assets:EUR:Efectivo:Leo    -10.00 EUR
+    Expenses:Gastos:Bebe
