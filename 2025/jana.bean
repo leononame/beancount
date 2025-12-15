@@ -1621,3 +1621,7 @@
 2025-12-14 * "visionboard" #bot
     Assets:EUR:Efectivo:Jana   -28.00 EUR
     Expenses:Gastos:Actividades
+
+2025-12-15 * "bazar" #bot
+    Assets:EUR:Efectivo:Jana    -8.00 EUR
+    Expenses:Compras:Utilidades
