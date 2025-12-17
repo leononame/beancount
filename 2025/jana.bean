@@ -1641,3 +1641,7 @@
 2025-12-17 * "cerámica regalo Papa" #bot
     Assets:EUR:Efectivo:Jana   -20.00 EUR
     Expenses:Compras:Regalos
+
+2025-12-17 * "bazar" #bot
+    Assets:EUR:Efectivo:Jana    -8.00 EUR
+    Expenses:Compras:Utilidades
