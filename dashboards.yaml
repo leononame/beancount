@@ -6,7 +6,7 @@ dashboards:
     height: 80px
     link: ../../balance_sheet/
     queries:
-    - bql: SELECT CONVERT(SUM(position), '{{ledger.ccy}}') AS value WHERE account ~ '^Assets:'
+    - bql: SELECT CONVERT(COST(SUM(COST(position))), '{{ledger.ccy}}') AS value WHERE account ~ '^Assets:'
     type: html
     script: |
       const currencyFormatter = utils.currencyFormatter(ledger.ccy);
@@ -19,7 +19,7 @@ dashboards:
     height: 80px
     link: ../../balance_sheet/
     queries:
-    - bql: SELECT CONVERT(SUM(position), '{{ledger.ccy}}') AS value WHERE account ~ '^Liabilities:'
+    - bql: SELECT CONVERT(COST(SUM(COST(position))), '{{ledger.ccy}}') AS value WHERE account ~ '^Liabilities:'
     type: html
     script: |
       const currencyFormatter = utils.currencyFormatter(ledger.ccy);
@@ -34,49 +34,56 @@ dashboards:
     - name: Income
       stack: income
       bql: |
-        SELECT year, month, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
+        SELECT year, month, CONVERT(COST(SUM(COST(position))), '{{ledger.ccy}}', LAST(date)) AS value
         WHERE account ~ '^Income:'
         GROUP BY year, month
       link: ../../account/Income/?time={time}
-    - name: Housing
+    - name: Expenses
       stack: expenses
       bql: |
-        SELECT year, month, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
-        WHERE account ~ '^Expenses:Housing:' AND NOT 'travel' IN tags
+        SELECT year, month, CONVERT(COST(SUM(COST(position))), '{{ledger.ccy}}', LAST(date)) AS value
+        WHERE account ~ '^Expenses:'
         GROUP BY year, month
-      link: ../../account/Expenses:Housing/?filter=-#travel&time={time}
-    - name: Food
-      stack: expenses
+      link: ../../account/Expenses
+    - name: Profit
+      stack: profit
       bql: |
-        SELECT year, month, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
-        WHERE account ~ '^Expenses:Food:' AND NOT 'travel' IN tags
+        SELECT year, month, CONVERT(COST(SUM(NEG(position))), '{{ledger.ccy}}', LAST(date)) AS value
+        WHERE (account ~ '^Expenses:' OR account ~ '^Income:')
         GROUP BY year, month
-      link: ../../account/Expenses:Food/?filter=-#travel&time={time}
-    - name: Shopping
-      stack: expenses
-      bql: |
-        SELECT year, month, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
-        WHERE account ~ '^Expenses:Shopping:' AND NOT 'travel' IN tags
-        GROUP BY year, month
-      link: ../../account/Expenses:Shopping/?filter=-#travel&time={time}
-    - name: Travel
-      stack: expenses
-      bql: |
-        SELECT year, month, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
-        WHERE account ~ '^Expenses:' AND 'travel' IN tags
-        GROUP BY year, month
-      link: ../../account/Expenses/?filter=#travel&time={time}
-    - name: Other
-      stack: expenses
-      bql: |
-        SELECT year, month, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
-        WHERE account ~ '^Expenses:' AND NOT account ~ '^Expenses:(Housing|Food|Shopping):' AND NOT 'travel' IN tags
-        GROUP BY year, month
-      link: ../../account/Expenses/?filter=all(-account:"^Expenses:(Housing|Food|Shopping)") -#travel&time={time}
+      link: ../../account/Expenses
+    # - name: Food
+    #   stack: expenses
+    #   bql: |
+    #     SELECT year, month, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
+    #     WHERE account ~ '^Expenses:Food:' AND NOT 'travel' IN tags
+    #     GROUP BY year, month
+    #   link: ../../account/Expenses:Food/?filter=-#travel&time={time}
+    # - name: Shopping
+    #   stack: expenses
+    #   bql: |
+    #     SELECT year, month, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
+    #     WHERE account ~ '^Expenses:Shopping:' AND NOT 'travel' IN tags
+    #     GROUP BY year, month
+    #   link: ../../account/Expenses:Shopping/?filter=-#travel&time={time}
+    # - name: Travel
+    #   stack: expenses
+    #   bql: |
+    #     SELECT year, month, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
+    #     WHERE account ~ '^Expenses:' AND 'travel' IN tags
+    #     GROUP BY year, month
+    #   link: ../../account/Expenses/?filter=#travel&time={time}
+    # - name: Other
+    #   stack: expenses
+    #   bql: |
+    #     SELECT year, month, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
+    #     WHERE account ~ '^Expenses:' AND NOT account ~ '^Expenses:(Housing|Food|Shopping):' AND NOT 'travel' IN tags
+    #     GROUP BY year, month
+    #   link: ../../account/Expenses/?filter=all(-account:"^Expenses:(Housing|Food|Shopping)") -#travel&time={time}
     type: echarts
     script: |
       const currencyFormatter = utils.currencyFormatter(ledger.ccy);
-      const months = utils.iterateMonths(ledger.dateFirst, ledger.dateLast).map((m) => `${m.month}/${m.year}`);
+      const months = utils.iterateMonths(ledger.filterFirst ?? ledger.dateFirst, ledger.filterLast ?? ledger.dateLast).map((m) => `${m.month}/${m.year}`);
 
       // the beancount query only returns months where there was at least one matching transaction, therefore we group by month
       const amounts = {};
@@ -125,7 +132,7 @@ dashboards:
     width: 50%
     queries:
     - bql: |
-        SELECT currency, CONVERT(SUM(position), '{{ledger.ccy}}') as market_value
+        SELECT currency, CONVERT(SUM(COST(position)), '{{ledger.ccy}}') as market_value
         WHERE account_sortkey(account) ~ '^[01]'
         GROUP BY currency
         ORDER BY market_value
@@ -382,7 +389,7 @@ dashboards:
     width: 50%
     queries:
     - bql: &assets_bql |
-        SELECT currency, CONVERT(SUM(position), '{{ledger.ccy}}') as market_value
+        SELECT currency, CONVERT(SUM(COST(position)), '{{ledger.ccy}}') as market_value
         WHERE account_sortkey(account) ~ '^[01]'
         GROUP BY currency
         ORDER BY market_value
@@ -434,7 +441,7 @@ dashboards:
     width: 50%
     queries:
     - bql: &investments_bql |
-        SELECT currency, CONVERT(SUM(position), '{{ledger.ccy}}') as market_value
+        SELECT currency, CONVERT(SUM(COST(position)), '{{ledger.ccy}}') as market_value
         WHERE account_sortkey(account) ~ '^[01]' AND currency != '{{ledger.ccy}}'
         GROUP BY currency
         ORDER BY market_value
@@ -516,7 +523,7 @@ dashboards:
     height: 80px
     link: ../../account/Income/?r=changes
     queries:
-    - bql: SELECT CONVERT(SUM(position), '{{ledger.ccy}}') AS value WHERE account ~ '^Income:'
+    - bql: SELECT CONVERT(SUM(COST(position)), '{{ledger.ccy}}') AS value WHERE account ~ '^Income:'
     type: html
     script: |
       const currencyFormatter = utils.currencyFormatter(ledger.ccy);
@@ -531,7 +538,7 @@ dashboards:
     height: 80px
     link: ../../account/Expenses/?r=changes
     queries:
-    - bql: SELECT CONVERT(SUM(position), '{{ledger.ccy}}') AS value WHERE account ~ '^Expenses:'
+    - bql: SELECT CONVERT(SUM(COST(position)), '{{ledger.ccy}}') AS value WHERE account ~ '^Expenses:'
     type: html
     script: |
       const currencyFormatter = utils.currencyFormatter(ledger.ccy);
@@ -546,8 +553,8 @@ dashboards:
     height: 80px
     link: ../../income_statement/
     queries:
-    - bql: SELECT CONVERT(SUM(position), '{{ledger.ccy}}') AS value WHERE account ~ '^Income:'
-    - bql: SELECT CONVERT(SUM(position), '{{ledger.ccy}}') AS value WHERE account ~ '^Expenses:'
+    - bql: SELECT CONVERT(SUM(COST(position)), '{{ledger.ccy}}') AS value WHERE account ~ '^Income:'
+    - bql: SELECT CONVERT(SUM(COST(position)), '{{ledger.ccy}}') AS value WHERE account ~ '^Expenses:'
     type: html
     script: |
       const currencyFormatter = utils.currencyFormatter(ledger.ccy);
@@ -568,7 +575,7 @@ dashboards:
     link: ../../income_statement/
     queries:
     - bql: |
-        SELECT year, month, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
+        SELECT year, month, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
         WHERE account ~ '^(Income|Expenses):'
         GROUP BY year, month
       link: ../../income_statement/?time={time}
@@ -665,7 +672,7 @@ dashboards:
     height: 450px
     queries:
       - bql: |
-          SELECT date, root(account, 2) AS account, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
+          SELECT date, root(account, 2) AS account, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
           WHERE account ~ "^Expenses:"
           GROUP BY account, date
         link: ../../journal/?time={time}
@@ -781,7 +788,7 @@ dashboards:
     link: ../../account/Income/?r=changes
     queries:
     - bql: |
-        SELECT root(account, 4) AS account, CONVERT(SUM(position), '{{ledger.ccy}}') AS value
+        SELECT root(account, 4) AS account, CONVERT(SUM(COST(position)), '{{ledger.ccy}}') AS value
         WHERE account ~ '^Income:'
         GROUP BY account
       link: ../../account/{account}/?r=changes
@@ -825,7 +832,7 @@ dashboards:
     link: ../../account/Expenses/?r=changes
     queries:
     - bql: |
-        SELECT root(account, 3) AS account, CONVERT(SUM(position), '{{ledger.ccy}}') AS value
+        SELECT root(account, 3) AS account, CONVERT(SUM(COST(position)), '{{ledger.ccy}}') AS value
         WHERE account ~ '^Expenses:'
         GROUP BY account
       link: ../../account/{account}/?r=changes
@@ -864,25 +871,70 @@ dashboards:
         },
       };
 
+  - title: Expenses Categories (per month) 💸
+    width: 50%
+    link: ../../account/Expenses/?r=changes
+    queries:
+    - bql: |
+        SELECT root(account, 4) AS account, CONVERT(SUM(COST(position)), '{{ledger.ccy}}') AS value
+        WHERE account ~ '^Expenses:'
+        GROUP BY account
+      link: ../../account/{account}/?r=changes
+    type: echarts
+    script: |
+      const currencyFormatter = utils.currencyFormatter(ledger.ccy);
+      const days = (new Date(ledger.dateLast) - new Date(ledger.dateFirst)) / (1000 * 60 * 60 * 24) + 1;
+      const divisor = days / (365 / 12);
+      const accountTree = utils.buildAccountTree(
+        panel.queries[0].result,
+        (row) => (row.value[ledger.ccy] ?? 0) / divisor,
+        (parts, i) => parts[i],
+      );
+      // use click event on desktop, dblclick on mobile
+      const clickEvt = window.screen.width < 800 ? "onDblClick" : "onClick";
+
+      return {
+        tooltip: {
+          valueFormatter: currencyFormatter,
+        },
+        series: [
+          {
+            type: "sunburst",
+            radius: "100%",
+            label: {
+              minAngle: 20,
+            },
+            nodeClick: false,
+            data: accountTree.children[0]?.children ?? [],
+          },
+        ],
+        [clickEvt]: (event) => {
+          const account = "Expenses" + event.treePathInfo.map((i) => i.name).join(":");
+          const link = panel.queries[0].link.replace("{account}", account);
+          window.open(helpers.urlFor(link));
+        },
+      };
+
+
   - title: Recurring, Regular and Irregular Expenses 🔁
     width: 50%
     link: ../../income_statement/
     queries:
     - name: Recurring
       bql: |
-        SELECT year, month, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
+        SELECT year, month, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
         WHERE account ~ '^Expenses:' AND 'recurring' IN tags
         GROUP BY year, month
       link: ../../account/Expenses/?filter=#recurring&time={time}
     - name: Regular
       bql: |
-        SELECT year, month, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
+        SELECT year, month, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
         WHERE account ~ '^Expenses:' AND NOT 'recurring' IN tags AND NOT 'irregular' IN tags
         GROUP BY year, month
       link: ../../account/Expenses/?filter=-#recurring -#irregular&time={time}
     - name: Irregular
       bql: |
-        SELECT year, month, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
+        SELECT year, month, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
         WHERE account ~ '^Expenses:' AND 'irregular' IN tags
         GROUP BY year, month
       link: ../../account/Expenses/?filter=#irregular&time={time}
@@ -936,7 +988,7 @@ dashboards:
     link: ../../account/Expenses:Food/
     queries:
     - bql: |
-        SELECT year, month, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
+        SELECT year, month, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
         WHERE account ~ '^Expenses:Food:'
         GROUP BY year, month
       link: ../../account/Expenses:Food/?time={time}
@@ -982,7 +1034,7 @@ dashboards:
     height: 700px
     queries:
     - bql: |
-        SELECT year, root(account, 3) AS account, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
+        SELECT year, root(account, 3) AS account, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
         WHERE account ~ "^Income:"
         GROUP BY account, year
       link: ../../account/{account}/?time={time}
@@ -1050,7 +1102,7 @@ dashboards:
     height: 700px
     queries:
     - bql: |
-        SELECT year, root(account, 2) AS account, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
+        SELECT year, root(account, 2) AS account, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
         WHERE account ~ "^Expenses:"
         GROUP BY account, year
       link: ../../account/{account}/?time={time}
@@ -1071,7 +1123,7 @@ dashboards:
     link: ../../income_statement/?filter=#travel
     queries:
     - bql: |
-        SELECT year, CONVERT(SUM(position), '{{ledger.ccy}}', LAST(date)) AS value
+        SELECT year, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
         WHERE account ~ '^Expenses:' AND 'travel' IN tags
         GROUP BY year
       link: ../../account/Expenses/?filter=#travel&time={time}
@@ -1178,7 +1230,7 @@ dashboards:
     link: ../../income_statement/
     queries:
     - bql: |
-        SELECT account, CONVERT(SUM(position), '{{ledger.ccy}}') AS value
+        SELECT account, CONVERT(SUM(COST(position)), '{{ledger.ccy}}') AS value
         WHERE account ~ '^(Income|Expenses):'
         GROUP BY account
       link: ../../account/{account}/
@@ -1255,14 +1307,14 @@ dashboards:
     queries:
     - bql: |
         SELECT year, month,
-        CONVERT(LAST(balance), '{{ledger.ccy}}', DATE_TRUNC('month', FIRST(date)) + INTERVAL('1 month') - INTERVAL('1 day')) AS value
+        CONVERT(LAST(cost(balance)), '{{ledger.ccy}}', DATE_TRUNC('month', FIRST(date)) + INTERVAL('1 month') - INTERVAL('1 day')) AS value
         WHERE account_sortkey(account) ~ '^[01]'
         GROUP BY year, month
       link: ../../balance_sheet/?time={time}
     # ignore onetime income and expenses, for example winning the lottery or wedding expenses
     - bql: |
         SELECT year, month,
-        CONVERT(LAST(balance), '{{ledger.ccy}}', DATE_TRUNC('month', FIRST(date)) + INTERVAL('1 month') - INTERVAL('1 day')) AS value
+        CONVERT(LAST(cost(balance)), '{{ledger.ccy}}', DATE_TRUNC('month', FIRST(date)) + INTERVAL('1 month') - INTERVAL('1 day')) AS value
         WHERE account_sortkey(account) ~ '^[01]' AND NOT 'wedding' IN tags AND NOT 'weddinggift' IN tags
         GROUP BY year, month
     type: echarts
