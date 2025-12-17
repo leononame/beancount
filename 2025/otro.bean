@@ -2658,6 +2658,24 @@
     Assets:EUR:Banco:Abanca                            -41.49 EUR
     Expenses:Transporte:Tren                            41.49 EUR
 
+2025-12-03 * "" "Depósito Fin"
+    Assets:Invest:MyInvestor:Cash                    20091.17 EUR
+    Assets:Invest:MyInvestor:Deposito               -20058.16 EUR
+    Income:Invest:Intereses                            -33.01 EUR
+
+2025-12-03 * "" "Depósito Contratación"
+    Assets:Invest:MyInvestor:Cash                   -20092 EUR
+    Assets:Invest:MyInvestor:Deposito                20092.00 EUR
+
+2025-12-10 * "" "Depósito Fin"
+    Assets:Invest:MyInvestor:Cash                    11769.57 EUR
+    Assets:Invest:MyInvestor:Deposito               -11751 EUR
+    Income:Invest:Intereses                            -18.57 EUR
+
+2025-12-10 * "" "Depósito Contratación"
+    Assets:Invest:MyInvestor:Cash                   -11769.96 EUR
+    Assets:Invest:MyInvestor:Deposito                11769.96 EUR
+    
 ; TODO
 2025-12-19 * "" "Lentillas Jana"
     Assets:EUR:Banco:Abanca                            -45.2 EUR
