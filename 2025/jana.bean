@@ -1649,3 +1649,7 @@
 2025-12-17 * "mercadillo" #bot
     Assets:EUR:Efectivo:Jana   -15.00 EUR
     Expenses:Compras:Bebe
+
+2025-12-17 * "perdido" #bot
+    Assets:EUR:Efectivo:Jana    -1.84 EUR
+    Expenses:Perdido
