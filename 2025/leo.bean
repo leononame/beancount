@@ -2777,3 +2777,7 @@
 2025-12-18 * "farmacia" #bot
     Assets:EUR:Efectivo:Leo     -5.50 EUR
     Expenses:Compras:Utilidades
+
+2025-12-18 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Leo
