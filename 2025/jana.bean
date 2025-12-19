@@ -1669,3 +1669,7 @@
 2025-12-17 * "cena" #bot
     Assets:EUR:Efectivo:Jana   -25.00 EUR
     Expenses:Salir:Restaurante
+
+2025-12-19 * "desayuno" #bot
+    Assets:EUR:Efectivo:Jana    -4.20 EUR
+    Expenses:Salir:Restaurante
