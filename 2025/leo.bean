@@ -2821,3 +2821,7 @@
 2025-12-21 * "castañas" #bot
     Assets:EUR:Efectivo:Leo    -10.00 EUR
     Expenses:Lujo
+
+2025-12-21 * "Weihnachtsmarkt" #bot
+    Assets:EUR:Efectivo:Leo    -16.00 EUR
+    Expenses:Salir:Restaurante
