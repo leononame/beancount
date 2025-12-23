@@ -2825,3 +2825,7 @@
 2025-12-21 * "Weihnachtsmarkt" #bot
     Assets:EUR:Efectivo:Leo    -16.00 EUR
     Expenses:Salir:Restaurante
+
+2025-12-23 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Leo
