@@ -2676,14 +2676,47 @@
     Assets:Invest:MyInvestor:Cash                   -11769.96 EUR
     Assets:Invest:MyInvestor:Deposito                11769.96 EUR
     
-; TODO
-2025-12-19 * "" "Lentillas Jana"
+2025-12-17 * "" "Kebab"
+    Assets:EUR:Banco:Abanca                            -11.4 EUR
+    Expenses:Salir:Restaurante
+
+2025-12-18 * "" "Lentillas Jana"
     Assets:EUR:Banco:Abanca                            -45.2 EUR
     Expenses:Compras:Utilidades                         45.20 EUR
 
-2025-12-19 * "" "Uber Eats"
+2025-12-19 * "" "Leo"
+    Assets:EUR:Banco:Abanca                           5135.68 EUR
+    Income:Salario:Leo 
+
+2025-12-19 * "" "Transfer"
+    Assets:EUR:Banco:Abanca                          -2000 EUR
+    Assets:EUR:Banco:Sabadell 
+
+2025-12-20 * "" "Uber Eats"
     Assets:EUR:Banco:Abanca                            -41.01 EUR
     Expenses:Salir:Restaurante                          41.01 EUR
 
-  
+2025-12-20 * "" "Café"
+    Assets:EUR:Banco:Abanca                             -3.65 EUR
+    Expenses:Salir:Cafe
+
+2025-12-22 * "" "Regalo Kim"
+    Assets:EUR:Banco:Abanca                            -35 EUR
+    Expenses:Donaciones
+
+2025-12-23 * "" "Tren Kiel"
+    Assets:EUR:Banco:Abanca                           -140.48 EUR
+    Expenses:Transporte:Tren
+
+2025-12-23 * "" "BC Jana"
+    Assets:EUR:Banco:Abanca                            -19.9 EUR
+    Expenses:Transporte:Tren
+
+2025-12-24 * "" "Hotel FRA"
+    Assets:EUR:Banco:Abanca                           -116.77 EUR
+    Expenses:Viaje:Hotel
+
+2025-12-24 * "" "Luz"
+    Assets:EUR:Banco:Abanca                            -73.39 EUR
+    Expenses:Gastos:Casa:Luz
   
