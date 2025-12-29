@@ -1709,3 +1709,7 @@
 2025-12-29 * "comida" #bot
     Assets:EUR:Efectivo:Jana   -65.00 EUR
     Expenses:Salir:Restaurante
+
+2025-12-29 * "keramiktraum" #bot
+    Assets:EUR:Efectivo:Jana   -71.00 EUR
+    Expenses:Otros
