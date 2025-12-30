@@ -1737,3 +1737,7 @@
 2025-12-30 * "gadis" #bot
     Assets:EUR:Efectivo:Jana   -73.12 EUR
     Expenses:Compras:Alimentos
+
+2025-12-30 * "eureka kids" #bot
+    Assets:EUR:Efectivo:Jana   -39.99 EUR
+    Expenses:Compras:Regalos
