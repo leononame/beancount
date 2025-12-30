@@ -1741,3 +1741,7 @@
 2025-12-30 * "eureka kids" #bot
     Assets:EUR:Efectivo:Jana   -39.99 EUR
     Expenses:Compras:Regalos
+
+2025-12-30 * "dinydon barbie iago" #bot
+    Assets:EUR:Efectivo:Jana   -11.99 EUR
+    Expenses:Compras:Regalos
