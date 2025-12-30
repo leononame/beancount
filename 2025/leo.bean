@@ -2885,3 +2885,7 @@
 2025-12-30 * "regalo" #bot
     Assets:EUR:Efectivo:Leo    -11.99 EUR
     Expenses:Compras:Regalos
+
+2025-12-30 * "Achim" #bot
+    Assets:EUR:Efectivo:Leo    -41.33 EUR
+    Expenses:Compras:Alimentos
