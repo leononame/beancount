@@ -2897,3 +2897,7 @@
 2025-12-30 * "bus" #bot
     Assets:EUR:Efectivo:Leo     -3.80 EUR
     Expenses:Transporte:Publico
+
+2025-12-30 * "cervezas" #bot
+    Assets:EUR:Efectivo:Leo     -3.00 EUR
+    Expenses:Salir:Copas
