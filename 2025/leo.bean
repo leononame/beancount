@@ -2905,3 +2905,7 @@
 2025-12-31 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -500.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2025-12-31 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo    -26.80 EUR
+    Expenses:Compras:Alimentos
