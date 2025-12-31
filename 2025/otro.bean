@@ -182,7 +182,7 @@
 
 2025-01-27 * "MuP"
     Assets:EUR:Banco:Abanca                           1200 EUR
-    Liabilities:Deudas:Familia                         600 EUR
+    Liabilities:Deudas:Familia                        -600 EUR
     Income:Regalos
 
 
