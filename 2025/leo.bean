@@ -2913,3 +2913,7 @@
 2025-12-31 * "panadería" #bot
     Assets:EUR:Efectivo:Leo    -14.05 EUR
     Expenses:Compras:Alimentos
+
+2025-12-31 * "pizza" #bot
+    Assets:EUR:Efectivo:Leo    -34.00 EUR
+    Expenses:Salir:Restaurante
