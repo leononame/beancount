@@ -2720,3 +2720,55 @@
     Assets:EUR:Banco:Abanca                            -73.39 EUR
     Expenses:Gastos:Casa:Luz
   
+2025-12-25 * "" "Lotería"
+    Assets:EUR:Banco:Abanca                            -20 EUR
+    Expenses:Lujo 
+
+2025-12-29 * "" "Hetzner"
+    Assets:EUR:Banco:Abanca                            -13.19 EUR
+    Expenses:Compras:Tecnología:Hardware 
+
+2025-12-29 * "" "Regalos"
+    Assets:EUR:Banco:Abanca                           1200 EUR
+    Income:Regalos                                    -300 EUR ;Leo
+    Income:Regalos                                    -300 EUR ;Jana
+    Liabilities:Deudas:Familia                        -300 EUR ;Iago
+    Liabilities:Deudas:Familia                        -300 EUR ;Ali
+
+2025-12-31 * "" "Luz"
+    Assets:EUR:Banco:Abanca                            -64.01 EUR
+    Expenses:Gastos:Casa:Luz                            64.01 EUR
+
+2025-12-31 * "" "TGSS"
+    Assets:EUR:Banco:Abanca                            -97.21 EUR
+    Income:Salario:Jana                                 97.21 EUR
+
+2025-12-31 * "" "Regalo Iago: tren"
+    Liabilities:Deudas:Familia                          89 EUR
+    Expenses:Compras:Utilidades                        -89.00 EUR
+2025-12-31 * "" "Regalo Iago: Barbie"
+    Liabilities:Deudas:Familia                          11.99 EUR
+    Expenses:Compras:Utilidades                        -11.99 EUR
+2025-12-31 * "" "Regalo Iago: Transferencia"
+    Assets:EUR:Banco:Abanca                           -199.01 EUR
+    Liabilities:Deudas:Familia                         199.01 EUR
+
+2025-12-31 * "" "Regalo Ali"
+    Liabilities:Deudas:Familia                           7.29 EUR
+    Liabilities:Deudas:Familia                          10.6 EUR
+    Liabilities:Deudas:Familia                          25.42 EUR
+    Expenses:Compras:Utilidades                        -43.31 EUR
+
+2025-12-31 * "" "Regalo Ali: Transferencia"
+    Assets:EUR:Banco:Abanca                           -256.69 EUR
+    Liabilities:Deudas:Familia
+  
+
+; TODO
+2025-12-31 * "" "Rewe"
+    Assets:EUR:Banco:Abanca                            -32.62 EUR
+    Expenses:Compras:Alimentos                          32.62 EUR
+
+; Iago 89 Zug, 11,99 Barbie
+; Ali  7,29, 10,6 , 25,42
+
