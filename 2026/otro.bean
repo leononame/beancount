@@ -1,0 +1,10 @@
+
+; TODO
+  
+2025-12-31 * "" "Rewe"
+    Assets:EUR:Banco:Abanca                         -32.62 EUR
+    Expenses:Compras:Alimentos                       32.62 EUR
+
+2026-01-01 * "" "Wubbke"
+    Liabilities:TC:Leo                              -30.6 EUR
+    Expenses:Salir:Copas 

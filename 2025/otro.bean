@@ -2763,11 +2763,22 @@
     Assets:EUR:Banco:Abanca                           -256.69 EUR
     Liabilities:Deudas:Familia
   
+2025-12-30 * "" "Tagesticket FRA"
+    Assets:EUR:Banco:Sabadell                          -14.1 EUR
+    Expenses:Transporte:Publico
 
-; TODO
-2025-12-31 * "" "Rewe"
-    Assets:EUR:Banco:Abanca                            -32.62 EUR
-    Expenses:Compras:Alimentos                          32.62 EUR
+2025-12-31 * "" "TC Leo"
+    Assets:EUR:Banco:Sabadell                          -23.96 EUR
+    Liabilities:TC:Leo 
+
+2025-12-31 * "" "Hipoteca"
+    Assets:EUR:Banco:Sabadell                        -1291.06 EUR
+    Liabilities:Deudas:Banco                          1015.27 EUR
+    Expenses:Compras:Piso:Intereses                    275.79 EUR
+
+2025-12-25 * "" "McDonald's"
+    Liabilities:TC:Leo                                 -20.97 EUR
+    Expenses:Salir:Restaurante 
 
 ; Iago 89 Zug, 11,99 Barbie
 ; Ali  7,29, 10,6 , 25,42
