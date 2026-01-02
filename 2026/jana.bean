@@ -2,3 +2,7 @@
 2026-01-02 * "rewe" #bot
     Assets:EUR:Efectivo:Jana  -12.95 EUR
     Expenses:Compras:Alimentos
+
+2026-01-02 * "ropa niños" #bot
+    Assets:EUR:Efectivo:Jana  -41.20 EUR
+    Expenses:Compras:Ropa
