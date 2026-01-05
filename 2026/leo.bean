@@ -30,3 +30,7 @@
 2026-01-05 * "panadería" #bot
     Assets:EUR:Efectivo:Leo   -2.90 EUR
     Expenses:Compras:Alimentos
+
+2026-01-05 * "schweinske" #bot
+    Assets:EUR:Efectivo:Leo  -53.00 EUR
+    Expenses:Salir:Restaurante
