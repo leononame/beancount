@@ -42,3 +42,7 @@
 2026-01-06 * "bus" #bot
     Assets:EUR:Efectivo:Leo   -5.40 EUR
     Expenses:Transporte:Publico
+
+2026-01-06 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo   -4.20 EUR
+    Expenses:Salir:Cafe
