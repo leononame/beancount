@@ -22,3 +22,7 @@
 2026-01-05 * "farmacia" #bot
     Assets:EUR:Efectivo:Jana   -9.98 EUR
     Expenses:Compras:Utilidades
+
+2026-01-06 * "shuttle" #bot
+    Assets:EUR:Efectivo:Jana  -18.00 EUR
+    Expenses:Transporte:Bus
