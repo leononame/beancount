@@ -34,3 +34,7 @@
 2026-01-08 * "albi" #bot
     Assets:EUR:Efectivo:Jana  -11.29 EUR
     Expenses:Compras:Alimentos
+
+2026-01-08 * "pan" #bot
+    Assets:EUR:Efectivo:Jana   -4.05 EUR
+    Expenses:Compras:Alimentos
