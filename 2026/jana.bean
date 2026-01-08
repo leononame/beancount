@@ -38,3 +38,7 @@
 2026-01-08 * "pan" #bot
     Assets:EUR:Efectivo:Jana   -4.05 EUR
     Expenses:Compras:Alimentos
+
+2026-01-08 * "cine" #bot
+    Assets:EUR:Efectivo:Jana  -10.00 EUR
+    Expenses:Salir:Cine
