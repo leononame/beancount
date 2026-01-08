@@ -30,3 +30,7 @@
 2026-01-06 * "hotel" #bot
     Assets:EUR:Efectivo:Jana   -4.00 EUR
     Expenses:Viaje:Hotel
+
+2026-01-08 * "albi" #bot
+    Assets:EUR:Efectivo:Jana  -11.29 EUR
+    Expenses:Compras:Alimentos
