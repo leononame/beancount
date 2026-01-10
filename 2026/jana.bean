@@ -46,3 +46,7 @@
 2026-01-10 * "Vagalume" #bot
     Assets:EUR:Efectivo:Jana  -10.20 EUR
     Expenses:Salir:Cafe
+
+2026-01-10 * "snacks" #bot
+    Assets:EUR:Efectivo:Jana   -7.20 EUR
+    Expenses:Salir:Restaurante
