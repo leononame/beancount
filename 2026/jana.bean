@@ -50,3 +50,7 @@
 2026-01-10 * "snacks" #bot
     Assets:EUR:Efectivo:Jana   -7.20 EUR
     Expenses:Salir:Restaurante
+
+2026-01-10 * "arenal" #bot
+    Assets:EUR:Efectivo:Jana  -37.93 EUR
+    Expenses:Compras:Utilidades
