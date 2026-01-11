@@ -102,3 +102,7 @@
 2026-01-11 * "cafe" #bot
     Assets:EUR:Efectivo:Leo    -1.60 EUR
     Expenses:Salir:Cafe
+
+2026-01-11 * "freni" #bot
+    Assets:EUR:Efectivo:Leo    -8.00 EUR
+    Expenses:Gastos:Casa
