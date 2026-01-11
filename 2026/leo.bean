@@ -98,3 +98,7 @@
 2026-01-11 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca  -100.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2026-01-11 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo    -1.60 EUR
+    Expenses:Salir:Cafe
