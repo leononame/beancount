@@ -54,3 +54,7 @@
 2026-01-10 * "arenal" #bot
     Assets:EUR:Efectivo:Jana  -37.93 EUR
     Expenses:Compras:Utilidades
+
+2026-01-11 * "tortilla" #bot
+    Assets:EUR:Efectivo:Jana  -14.90 EUR
+    Expenses:Salir:Cafe
