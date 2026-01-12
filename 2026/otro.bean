@@ -51,15 +51,65 @@
   Liabilities:TC:Leo                                 -15.36 EUR
   Expenses:Compras:Alimentos
 
-; TODO
-2026-01-10 * "" "McDonald's"
-  Liabilities:TC:Leo                                 -29.31 EUR
-  Expenses:Compras:Alimentos
+2026-01-11 * "Venta Carrito bugaboo"
+  Assets:EUR:Efectivo:Leo                            100.00 EUR
+  Assets:EUR:Efectivo:Jana                           300.00 EUR
+  Expenses:Compras:Bebe 
+
+2026-01-08 * "" "Iago"
+  Assets:EUR:Banco:Abanca                            -50 EUR
+  Expenses:Compras:Regalos 
+
+2026-01-08 * "" "Ali"
+  Assets:EUR:Banco:Abanca                            -50 EUR
+  Expenses:Compras:Regalos
+
+2026-01-08 * "" "Kebab"
+  Assets:EUR:Banco:Abanca                            -11.4 EUR
+  Expenses:Salir:Restaurante
+
+2026-01-09 * "" "Comedor Ali"
+  Assets:EUR:Banco:Abanca                            -54.99 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-01-09 * "" "Deutsche Bahn"
+  Assets:EUR:Banco:Abanca                            154 EUR
+  Expenses:Transporte:Tren
 
 2026-01-10 * "" "Uber One"
   Assets:EUR:Banco:Abanca                             -4.99 EUR
   Expenses:Salir:Restaurante 
 
-2026-01-10 * "" "Uber Eats"
+2026-01-08 * "" "Tomates San Marzano 42 Market Casa Italia"
+  Assets:EUR:Banco:Sabadell                          -94.5 EUR
+  Expenses:Compras:Alimentos
+
+2026-01-08 * "" "BahnCard"
+  Assets:EUR:Banco:Sabadell                          -19.9 EUR
+  Expenses:Transporte:Tren
+
+2026-01-12 * "" "Comunidad Garajes"
+  Assets:EUR:Banco:Sabadell                         -171.18 EUR
+  Expenses:Gastos:Casa:Comunidad
+
+; TODO
+  
+2026-01-14 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                            -41.01 EUR
   Expenses:Salir:Restaurante 
+
+2026-01-14 * "" "YT Music"
+  Assets:EUR:Banco:Abanca                            -25.99 EUR
+  Expenses:Compras:Medios:Musica
+
+2026-01-14 * "Amazon" "Replacements Ecovacs"
+  Assets:EUR:Banco:Abanca                            -44.75 EUR
+  Expenses:Compras:Utilidades
+
+2026-01-14 * "" "Encarrilador Aufgleishilfe"
+  Assets:EUR:Banco:Abanca                             -8.74 EUR
+  Expenses:Compras:Regalos
+
+2026-01-10 * "" "McDonald's"
+  Liabilities:TC:Leo                                 -29.31 EUR
+  Expenses:Compras:Alimentos
