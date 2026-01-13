@@ -1,64 +1,68 @@
 
 2026-01-02 * "rewe" #bot
-    Assets:EUR:Efectivo:Jana                        -12.95 EUR
+    Assets:EUR:Efectivo:Jana   -12.95 EUR
     Expenses:Compras:Alimentos
 
 2026-01-02 * "ropa niños" #bot
-    Assets:EUR:Efectivo:Jana                        -41.20 EUR
+    Assets:EUR:Efectivo:Jana   -41.20 EUR
     Expenses:Compras:Ropa
 
 2026-01-03 * "achim" #bot
-    Assets:EUR:Efectivo:Jana                        -10.41 EUR
+    Assets:EUR:Efectivo:Jana   -10.41 EUR
     Expenses:Compras:Alimentos
 
 2026-01-04 * "pan" #bot
-    Assets:EUR:Efectivo:Jana                        -12.30 EUR
+    Assets:EUR:Efectivo:Jana   -12.30 EUR
     Expenses:Compras:Alimentos
 
 2026-01-05 * "pan" #bot
-    Assets:EUR:Efectivo:Jana                         -5.60 EUR 
+    Assets:EUR:Efectivo:Jana    -5.60 EUR 
     Expenses:Compras:Alimentos
 
 2026-01-05 * "farmacia" #bot
-    Assets:EUR:Efectivo:Jana                         -9.98 EUR
+    Assets:EUR:Efectivo:Jana    -9.98 EUR
     Expenses:Compras:Utilidades
 
 2026-01-06 * "shuttle" #bot
-    Assets:EUR:Efectivo:Jana                        -18.00 EUR
+    Assets:EUR:Efectivo:Jana   -18.00 EUR
     Expenses:Transporte:Bus
 
 2026-01-06 * "hotel" #bot
-    Assets:EUR:Efectivo:Jana                         -4.00 EUR
+    Assets:EUR:Efectivo:Jana    -4.00 EUR
     Expenses:Viaje:Hotel
 
 2026-01-08 * "albi" #bot
-    Assets:EUR:Efectivo:Jana                        -11.29 EUR
+    Assets:EUR:Efectivo:Jana   -11.29 EUR
     Expenses:Compras:Alimentos
 
 2026-01-08 * "pan" #bot
-    Assets:EUR:Efectivo:Jana                         -4.05 EUR
+    Assets:EUR:Efectivo:Jana    -4.05 EUR
     Expenses:Compras:Alimentos
 
 2026-01-08 * "cine" #bot
-    Assets:EUR:Efectivo:Jana                        -10.00 EUR
+    Assets:EUR:Efectivo:Jana   -10.00 EUR
     Expenses:Salir:Cine
 
 2026-01-10 * "Vagalume" #bot
-    Assets:EUR:Efectivo:Jana                        -10.20 EUR
+    Assets:EUR:Efectivo:Jana   -10.20 EUR
     Expenses:Salir:Cafe
 
 2026-01-10 * "snacks" #bot
-    Assets:EUR:Efectivo:Jana                         -7.20 EUR
+    Assets:EUR:Efectivo:Jana    -7.20 EUR
     Expenses:Salir:Restaurante
 
 2026-01-10 * "arenal" #bot
-    Assets:EUR:Efectivo:Jana                        -37.93 EUR
+    Assets:EUR:Efectivo:Jana   -37.93 EUR
     Expenses:Compras:Utilidades
 
 2026-01-11 * "tortilla" #bot
-    Assets:EUR:Efectivo:Jana                        -14.90 EUR
+    Assets:EUR:Efectivo:Jana   -14.90 EUR
     Expenses:Salir:Cafe
 
 2026-01-11 * "snacks" #bot
-    Assets:EUR:Efectivo:Jana                         -1.20 EUR
+    Assets:EUR:Efectivo:Jana    -1.20 EUR
     Expenses:Salir:Restaurante
+
+2026-01-13 * "yoga fede" #bot
+    Assets:EUR:Efectivo:Jana  -100.00 EUR
+    Expenses:Deporte
