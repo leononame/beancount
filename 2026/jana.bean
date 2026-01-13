@@ -74,3 +74,7 @@
 2026-01-13 * "fotos" #bot
     Assets:EUR:Efectivo:Jana    -3.95 EUR
     Expenses:Compras:Utilidades
+
+2026-01-13 * "cookies" #bot
+    Assets:EUR:Efectivo:Jana    -9.00 EUR
+    Expenses:Salir:Cafe
