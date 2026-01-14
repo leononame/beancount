@@ -118,3 +118,7 @@
 2026-01-14 * "restaurante" #bot
     Assets:EUR:Efectivo:Leo   -40.10 EUR
     Expenses:Salir:Restaurante
+
+2026-01-14 * "farinarium" #bot
+    Assets:EUR:Efectivo:Leo    -2.97 EUR
+    Expenses:Compras:Alimentos
