@@ -86,3 +86,7 @@
 2026-01-14 * "mercería" #bot
     Assets:EUR:Efectivo:Jana   -14.80 EUR
     Expenses:Compras:Utilidades
+
+2026-01-15 * "matcha" #bot
+    Assets:EUR:Efectivo:Jana    -4.50 EUR
+    Expenses:Salir:Cafe
