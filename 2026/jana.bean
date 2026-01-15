@@ -94,3 +94,7 @@
 2026-01-15 * "fisio" #bot
     Assets:EUR:Efectivo:Jana   -60.00 EUR
     Expenses:Deporte
+
+2026-01-15 * "batería" #bot
+    Assets:EUR:Efectivo:Jana    -2.00 EUR
+    Expenses:Compras:Utilidades
