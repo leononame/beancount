@@ -142,3 +142,7 @@
 2026-01-17 * "Albi" #bot
     Assets:EUR:Efectivo:Leo   -30.32 EUR
     Expenses:Compras:Alimentos
+
+2026-01-17 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca  -300.00 EUR
+    Assets:EUR:Efectivo:Leo
