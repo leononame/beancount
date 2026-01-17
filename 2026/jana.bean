@@ -118,3 +118,7 @@
 2026-01-17 * "gadis" #bot
     Assets:EUR:Efectivo:Jana   -18.43 EUR
     Expenses:Compras:Alimentos
+
+2026-01-17 * "cena" #bot
+    Assets:EUR:Efectivo:Jana   -24.00 EUR
+    Expenses:Salir:Restaurante
