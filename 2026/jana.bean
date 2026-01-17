@@ -98,3 +98,7 @@
 2026-01-15 * "batería" #bot
     Assets:EUR:Efectivo:Jana    -2.00 EUR
     Expenses:Compras:Utilidades
+
+2026-01-17 * "tortilla" #bot
+    Assets:EUR:Efectivo:Jana   -10.00 EUR
+    Expenses:Salir:Cafe
