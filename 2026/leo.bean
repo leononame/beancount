@@ -130,3 +130,7 @@
 2026-01-16 * "cole" #bot
     Assets:EUR:Efectivo:Leo    -5.00 EUR
     Expenses:Gastos:Bebe
+
+2026-01-17 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo   -63.51 EUR
+    Expenses:Compras:Alimentos
