@@ -162,3 +162,7 @@
 2026-01-18 * "vagalume" #bot
     Assets:EUR:Efectivo:Leo   -14.30 EUR
     Expenses:Gastos:Bebe:Actividades
+
+2026-01-19 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -5.50 EUR
+    Expenses:Salir:Cafe
