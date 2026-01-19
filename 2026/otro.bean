@@ -113,10 +113,16 @@
 2026-01-10 * "" "Depósito Contratación"
   Assets:Invest:MyInvestor:Cash                     -11788.65 EUR
   Assets:Invest:MyInvestor:Deposito
-  
-; TODO
-  
-2026-01-14 * "" "Uber Eats"
+
+2026-01-12 * "" "Psicóloga"
+  Assets:EUR:Banco:Abanca                             -150 EUR
+  Expenses:Gastos:Actividades
+
+2026-01-12 * "" "Jana Yoga"
+  Assets:EUR:Banco:Abanca                               25 EUR
+  Expenses:Gastos:Actividades
+
+2026-01-13 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante 
 
@@ -124,14 +130,33 @@
   Assets:EUR:Banco:Abanca                              -25.99 EUR
   Expenses:Compras:Medios:Musica
 
-2026-01-14 * "Amazon" "Replacements Ecovacs"
-  Assets:EUR:Banco:Abanca                              -44.75 EUR
-  Expenses:Compras:Utilidades
+2026-01-14 * "Lowi" ""
+  Assets:EUR:Banco:Abanca                              -31.9 EUR
+  Expenses:Gastos:Casa:Internet                         20 EUR
+  Expenses:Gastos:Movil                                 11.90 EUR
 
-2026-01-14 * "" "Encarrilador Aufgleishilfe"
+2026-01-15 * "" "Encarrilador Aufgleishilfe"
   Assets:EUR:Banco:Abanca                               -8.74 EUR
   Expenses:Compras:Regalos
 
-2026-01-10 * "" "McDonald's"
+2026-01-16 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.01 EUR
+  Expenses:Salir:Restaurante
+
+2026-01-16 * "" "Iago TO"
+  Assets:EUR:Banco:Abanca                             -240 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+2026-01-17 * "Amazon" "Replacements Ecovacs"
+  Assets:EUR:Banco:Abanca                              -44.75 EUR
+  Expenses:Compras:Utilidades
+
+2026-01-06 * "" "McDonald's"
   Liabilities:TC:Leo                                   -29.31 EUR
   Expenses:Compras:Alimentos
+
+; TODO
+2026-01-21 * "Amazon" "Alfombra Tren Iago"
+  Assets:EUR:Banco:Abanca                              -62.99 EUR
+  Expenses:Compras:Utilidades
+
