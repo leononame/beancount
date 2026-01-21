@@ -155,8 +155,27 @@
   Liabilities:TC:Leo                                   -29.31 EUR
   Expenses:Compras:Alimentos
 
+2026-01-19 * "" "Cumple Valeria"
+  Assets:EUR:Banco:Abanca                              -10 EUR
+  Expenses:Compras:Regalos
+
+2026-01-19 * "" "Jana"
+  Assets:EUR:Banco:Abanca                             2500 EUR
+  Income:Salario:Jana
+
+2026-01-20 * "" "Leo claes de bajo"
+  Assets:EUR:Banco:Abanca                             -100 EUR
+  Expenses:Gastos:Actividades
+
+2026-01-21 * "" "Iago Música"
+  Assets:EUR:Banco:Abanca                              -45.58 EUR
+  Expenses:Gastos:Bebe:Actividades 
+
 ; TODO
-2026-01-21 * "Amazon" "Alfombra Tren Iago"
+2026-01-23 * "Amazon" "Alfombra Tren Iago"
   Assets:EUR:Banco:Abanca                              -62.99 EUR
   Expenses:Compras:Utilidades
 
+2026-01-23 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.01 EUR
+  Expenses:Salir:Restaurante
