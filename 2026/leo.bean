@@ -186,3 +186,7 @@
 2026-01-23 * "pan" #bot
     Assets:EUR:Efectivo:Leo    -5.70 EUR
     Expenses:Compras:Alimentos
+
+2026-01-23 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -2.10 EUR
+    Expenses:Salir:Cafe
