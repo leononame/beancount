@@ -126,3 +126,7 @@
 2026-01-17 * "coctel" #bot
     Assets:EUR:Efectivo:Jana   -10.00 EUR
     Expenses:Salir:Copas
+
+2026-01-23 * "albi" #bot
+    Assets:EUR:Efectivo:Jana   -17.05 EUR
+    Expenses:Compras:Alimentos
