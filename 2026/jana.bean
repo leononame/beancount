@@ -134,3 +134,7 @@
 2026-01-24 * "taller fede" #bot
     Assets:EUR:Efectivo:Jana   -25.00 EUR
     Expenses:Deporte
+
+2026-01-24 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -5.28 EUR
+    Expenses:Compras:Alimentos
