@@ -138,3 +138,7 @@
 2026-01-24 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -5.28 EUR
     Expenses:Compras:Alimentos
+
+2026-01-25 * "Vagalume" #bot
+    Assets:EUR:Efectivo:Jana   -77.50 EUR
+    Expenses:Salir:Cafe
