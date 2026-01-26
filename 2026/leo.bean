@@ -202,3 +202,7 @@
 2026-01-26 * "café" #bot
     Assets:EUR:Efectivo:Leo    -1.70 EUR
     Expenses:Salir:Cafe
+
+2026-01-26 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -1.50 EUR
+    Expenses:Salir:Cafe
