@@ -238,3 +238,7 @@
 2026-01-28 * "cervezas" #bot
     Assets:EUR:Efectivo:Leo    -6.40 EUR
     Expenses:Salir:Copas
+
+2026-01-29 * "arrabiata" #bot
+    Assets:EUR:Efectivo:Leo   -82.00 EUR
+    Expenses:Salir:Restaurante
