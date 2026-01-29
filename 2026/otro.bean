@@ -171,11 +171,48 @@
   Assets:EUR:Banco:Abanca                              -45.58 EUR
   Expenses:Gastos:Bebe:Actividades 
 
-; TODO
-2026-01-23 * "Amazon" "Alfombra Tren Iago"
+2026-01-22 * "Amazon" "Alfombra Tren Iago"
   Assets:EUR:Banco:Abanca                              -62.99 EUR
   Expenses:Compras:Utilidades
 
 2026-01-23 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante
+
+2026-01-23 * "" "Leo"
+  Assets:EUR:Banco:Abanca                             7855.79 EUR
+  Income:Salario:Leo 
+
+2026-01-23 * "" "Transferencia"
+  Assets:EUR:Banco:Abanca                            -6500 EUR
+  Assets:EUR:Banco:Sabadell
+  
+2026-01-27 * "" "Hetzner"
+  Assets:EUR:Banco:Abanca                              -13.19 EUR
+  Expenses:Compras:Tecnología:Software
+  
+2026-01-28 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.01 EUR
+  Expenses:Salir:Restaurante
+  
+2026-01-28 * "" "Lotería"
+  Assets:EUR:Banco:Abanca                              -10.5 EUR
+  Expenses:Lujo
+  
+2026-01-28 * "" "Moshi Chen"
+  Assets:EUR:Banco:Abanca                              -30 EUR
+  Expenses:Salir:Restaurante
+
+2026-01-29 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -39.38 EUR
+  Expenses:Salir:Restaurante
+
+2026-01-26 * "" "Worms WMD"
+  Assets:EUR:Banco:Sabadell                             -4.49 EUR
+  Expenses:Compras:Medios:Videojuegos
+
+2026-01-26 * "" "Worms WMD Max"
+  Assets:EUR:Banco:Sabadell                             -4.49 EUR
+  Expenses:Compras:Medios:Videojuegos
+
+2026-01-29 balance Assets:EUR:Banco:Abanca            4446.88 EUR
