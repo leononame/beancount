@@ -154,3 +154,7 @@
 2026-01-28 * "café" #bot
     Assets:EUR:Efectivo:Jana    -2.90 EUR
     Expenses:Salir:Cafe
+
+2026-01-29 * "bazar" #bot
+    Assets:EUR:Efectivo:Jana    -6.10 EUR
+    Expenses:Compras:Utilidades
