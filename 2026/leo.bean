@@ -246,3 +246,7 @@
 2026-01-30 * "Gadis" #bot
     Assets:EUR:Efectivo:Leo   -59.39 EUR
     Expenses:Compras:Alimentos
+
+2026-01-30 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca  -300.00 EUR
+    Assets:EUR:Efectivo:Leo
