@@ -266,3 +266,7 @@
 2026-01-30 * "pan" #bot
     Assets:EUR:Efectivo:Leo    -3.03 EUR
     Expenses:Compras:Alimentos
+
+2026-01-31 * "gasolinera" #bot
+    Assets:EUR:Efectivo:Leo   -57.00 EUR
+    Expenses:Gastos:Coche:Gasolina
