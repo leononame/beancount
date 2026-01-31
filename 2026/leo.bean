@@ -270,3 +270,7 @@
 2026-01-31 * "gasolinera" #bot
     Assets:EUR:Efectivo:Leo   -57.00 EUR
     Expenses:Gastos:Coche:Gasolina
+
+2026-01-31 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo   -64.10 EUR
+    Expenses:Salir:Restaurante
