@@ -274,3 +274,7 @@
 2026-01-31 * "restaurante" #bot
     Assets:EUR:Efectivo:Leo   -64.10 EUR
     Expenses:Salir:Restaurante
+
+2026-02-01 * "matinal" #bot
+    Assets:EUR:Efectivo:Leo   -18.50 EUR
+    Expenses:Salir:Restaurante
