@@ -278,3 +278,7 @@
 2026-02-01 * "matinal" #bot
     Assets:EUR:Efectivo:Leo   -18.50 EUR
     Expenses:Salir:Restaurante
+
+2026-02-01 * "compra mari Carmen" #bot
+    Assets:EUR:Efectivo:Leo    -6.00 EUR
+    Expenses:Compras:Alimentos
