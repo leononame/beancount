@@ -170,3 +170,7 @@
 2026-01-31 * "froiz" #bot
     Assets:EUR:Efectivo:Jana   -32.02 EUR
     Expenses:Compras:Alimentos
+
+2026-02-01 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -2.55 EUR
+    Expenses:Compras:Alimentos
