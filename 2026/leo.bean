@@ -286,3 +286,7 @@
 2026-02-02 * "café" #bot
     Assets:EUR:Efectivo:Leo    -3.40 EUR
     Expenses:Salir:Cafe
+
+2026-02-02 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo   -19.24 EUR
+    Expenses:Compras:Alimentos
