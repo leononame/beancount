@@ -282,3 +282,7 @@
 2026-02-01 * "compra mari Carmen" #bot
     Assets:EUR:Efectivo:Leo    -6.00 EUR
     Expenses:Compras:Alimentos
+
+2026-02-02 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -3.40 EUR
+    Expenses:Salir:Cafe
