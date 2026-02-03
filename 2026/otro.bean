@@ -216,3 +216,51 @@
   Expenses:Compras:Medios:Videojuegos
 
 2026-01-29 balance Assets:EUR:Banco:Abanca            4446.88 EUR
+
+2026-01-30 * "" "Hipoteca"
+  Assets:EUR:Banco:Sabadell                          -1291.06 EUR
+  Liabilities:Deudas:Banco                            1016.49 EUR
+  Expenses:Compras:Piso:Intereses                      274.57 EUR
+
+2026-01-30 * "" "TC Leo"
+  Assets:EUR:Banco:Sabadell                           -238.77 EUR
+  Liabilities:TC:Leo
+
+2026-02-01 * "" "ANPA Iago"
+  Assets:EUR:Banco:Sabadell                            -25 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-02-01 * "" "Outer Wilds"
+  Assets:EUR:Banco:Sabadell                            -16.2 EUR
+  Expenses:Compras:Medios:Videojuegos
+
+2026-02-02 * "" "BU"
+  Assets:EUR:Banco:Sabadell                            -52.12 EUR
+  Expenses:Gastos:Seguros:BU
+
+2026-01-29 * "" "Chy"
+  Assets:EUR:Banco:Abanca                              -64 EUR
+  Expenses:Compras:Alimentos
+
+2026-01-30 * "" "TGSS Jana"
+  Assets:EUR:Banco:Abanca                             -297.12 EUR
+  Income:Salario:Jana
+
+2026-02-02 * "" "Jana"
+  Assets:EUR:Banco:Abanca                             1000 EUR
+  Income:Salario:Jana
+
+2026-02-03 * "" "Bausparen"
+  Assets:EUR:Banco:Abanca                             -100 EUR
+  Expenses:Invest
+
+; TODO
+
+2026-02-05 * "Amazon" "Alarmas, pantuflas etc"
+  Assets:EUR:Banco:Abanca                              -65.97 EUR
+  Expenses:Compras:Utilidades 
+
+2026-02-05 * "" "Tailscale"
+  Assets:EUR:Banco:Abanca                               -4.23 EUR
+  Expenses:Compras:Tecnología:Software
+
