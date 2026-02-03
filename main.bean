@@ -70,6 +70,11 @@ include "prices.bean"
     class: "Stock"
     type: "Share"
     quote: EUR
+2000-01-01 commodity XAU ; Gold
+    name: "Gold"
+
+2000-01-01 commodity XAG ; Gold
+    name: "Silver"
 
 ;Budgets
 ; 2012-01-01 custom "budget" Expenses:Salir:Restaurante "monthly" 300 EUR
@@ -127,6 +132,8 @@ include "prices.bean"
 2000-01-01 open Assets:Invest:Depot:TECDAX                      TECDAX
 2000-01-01 open Assets:Invest:Depot:Beyond                      A2N7XQ
 2000-01-01 open Assets:Invest:Depot:Xiaomi                      A2JNY1Z
+2000-01-01 open Assets:Invest:Stash:Gold                        XAU
+2000-01-01 open Assets:Invest:Stash:Silver                      XAG
 
 2000-01-01 open Assets:Invest:Crypto:BTC                        BTC
 2000-01-01 open Assets:Invest:Crypto:XRP                        XRP

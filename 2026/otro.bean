@@ -254,6 +254,18 @@
   Assets:EUR:Banco:Abanca                             -100 EUR
   Expenses:Invest
 
+2026-02-03 * "" "Compra Oro"
+  Assets:EUR:Banco:Sabadell                          -1422.8 EUR
+  Assets:Invest:Stash:Gold                               0.321507466 XAU {2026-02-03} @@ 1341.6 EUR
+  Expenses:Compras:Utilidades                           81.20 EUR
+2026-02-03 * "" "Compra Plata"
+  Assets:EUR:Banco:Sabadell                          -1339.62 EUR
+  Assets:Invest:Stash:Silver                             9.645223971 XAG {2026-02-03} @@ 691.08 EUR
+  Expenses:Compras:Utilidades                          648.54 EUR
+2026-02-03 * "" "Compra Oro plata envio"
+  Assets:EUR:Banco:Sabadell                            -39.95 EUR
+  Expenses:Compras:Utilidades
+  
 ; TODO
 
 2026-02-05 * "Amazon" "Alarmas, pantuflas etc"
