@@ -198,3 +198,7 @@
 2026-02-04 * "albi" #bot
     Assets:EUR:Efectivo:Jana   -17.05 EUR
     Expenses:Compras:Alimentos
+
+2026-02-04 * "arenal" #bot
+    Assets:EUR:Efectivo:Jana    -6.24 EUR
+    Expenses:Compras:Utilidades
