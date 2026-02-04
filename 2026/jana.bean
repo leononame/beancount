@@ -178,3 +178,7 @@
 2026-02-01 * "café" #bot
     Assets:EUR:Efectivo:Jana    -9.54 EUR
     Expenses:Salir:Cafe
+
+2026-02-04 * "Freni" #bot
+    Assets:EUR:Efectivo:Jana   -72.00 EUR
+    Expenses:Gastos:Casa
