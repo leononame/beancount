@@ -266,13 +266,36 @@
   Assets:EUR:Banco:Sabadell                            -39.95 EUR
   Expenses:Compras:Utilidades
   
-; TODO
+2026-02-04 * "" "Tailscale"
+  Assets:EUR:Banco:Abanca                               -4.21 EUR
+  Expenses:Compras:Tecnología:Software
 
-2026-02-05 * "Amazon" "Alarmas, pantuflas etc"
+2026-02-04 * "Amazon" "Alarmas, pantuflas etc"
   Assets:EUR:Banco:Abanca                              -65.97 EUR
   Expenses:Compras:Utilidades 
 
-2026-02-05 * "" "Tailscale"
-  Assets:EUR:Banco:Abanca                               -4.23 EUR
-  Expenses:Compras:Tecnología:Software
+2026-02-05 * "" "Vacaciones Adri+Chen"
+  Assets:EUR:Banco:Abanca                              310 EUR
+  Expenses:Viaje:Hotel
 
+2026-02-05 * "" "Luz"
+  Assets:EUR:Banco:Abanca                              -84.34 EUR
+  Expenses:Gastos:Casa:Luz
+
+2026-02-05 * "" "Comunidad"
+  Assets:EUR:Banco:Sabadell                            -75 EUR
+  Expenses:Gastos:Casa:Comunidad
+
+2026-02-05 * "" "Depósito Fin"
+  Assets:Invest:MyInvestor:Deposito                 -20122.78 EUR
+  Assets:Invest:MyInvestor:Cash                      20153.61 EUR
+  Income:Invest:Intereses                              -30.83 EUR
+
+2026-02-05 * "" "Depósito Contratación"
+  Assets:Invest:MyInvestor:Cash                     -20153.61 EUR
+  Assets:Invest:MyInvestor:Deposito
+
+; TODO
+2026-02-08 * "" "Vacaciones Adri+Chen"
+  Assets:EUR:Banco:Abanca                             -618.19 EUR
+  Expenses:Viaje:Hotel
