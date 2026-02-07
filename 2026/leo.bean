@@ -330,3 +330,7 @@
 2026-02-07 * "bazar" #bot
     Assets:EUR:Efectivo:Leo   -16.90 EUR
     Expenses:Compras:Utilidades
+
+2026-02-07 * "ropa bebos" #bot
+    Assets:EUR:Efectivo:Leo   -19.98 EUR
+    Expenses:Compras:Bebe
