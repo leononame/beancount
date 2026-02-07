@@ -310,3 +310,7 @@
 2026-02-06 * "farmacia" #bot
     Assets:EUR:Efectivo:Leo    -5.00 EUR
     Expenses:Compras:Utilidades
+
+2026-02-07 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo   -70.05 EUR
+    Expenses:Compras:Alimentos
