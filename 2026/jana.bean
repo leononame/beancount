@@ -206,3 +206,7 @@
 2026-02-08 * "cena" #bot
     Assets:EUR:Efectivo:Jana    -1.84 EUR
     Expenses:Salir:Restaurante
+
+2026-02-08 * "paga iago" #bot
+    Assets:EUR:Efectivo:Jana    -0.48 EUR
+    Expenses:Gastos:Bebe
