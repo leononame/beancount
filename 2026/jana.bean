@@ -202,3 +202,7 @@
 2026-02-04 * "arenal" #bot
     Assets:EUR:Efectivo:Jana    -6.24 EUR
     Expenses:Compras:Utilidades
+
+2026-02-08 * "cena" #bot
+    Assets:EUR:Efectivo:Jana    -1.84 EUR
+    Expenses:Salir:Restaurante
