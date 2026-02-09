@@ -342,3 +342,7 @@
 2026-02-09 * "moshi moshi" #bot
     Assets:EUR:Efectivo:Leo   -41.00 EUR
     Expenses:Salir:Restaurante
+
+2026-02-09 * "primaprix" #bot
+    Assets:EUR:Efectivo:Leo    -5.95 EUR
+    Expenses:Compras:Alimentos
