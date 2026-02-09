@@ -334,3 +334,7 @@
 2026-02-07 * "ropa bebos" #bot
     Assets:EUR:Efectivo:Leo   -19.98 EUR
     Expenses:Compras:Bebe
+
+2026-02-09 * "freni" #bot
+    Assets:EUR:Efectivo:Leo  -100.00 EUR
+    Expenses:Gastos:Casa
