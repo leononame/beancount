@@ -338,3 +338,7 @@
 2026-02-09 * "freni" #bot
     Assets:EUR:Efectivo:Leo  -100.00 EUR
     Expenses:Gastos:Casa
+
+2026-02-09 * "moshi moshi" #bot
+    Assets:EUR:Efectivo:Leo   -41.00 EUR
+    Expenses:Salir:Restaurante
