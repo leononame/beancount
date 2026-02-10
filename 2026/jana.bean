@@ -210,3 +210,7 @@
 2026-02-08 * "paga iago" #bot
     Assets:EUR:Efectivo:Jana    -0.48 EUR
     Expenses:Gastos:Bebe
+
+2026-02-10 * "Café" #bot
+    Assets:EUR:Efectivo:Jana    -4.70 EUR
+    Expenses:Salir:Cafe
