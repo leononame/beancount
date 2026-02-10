@@ -295,7 +295,43 @@
   Assets:Invest:MyInvestor:Cash                     -20153.61 EUR
   Assets:Invest:MyInvestor:Deposito
 
-; TODO
-2026-02-08 * "" "Vacaciones Adri+Chen"
+2026-02-05 * "" "Comedor Iago"
+  Assets:EUR:Banco:Abanca                              -12.2 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-02-05 * "" "Jana"
+  Assets:EUR:Banco:Abanca                             2000 EUR
+  Income:Salario:Jana
+
+2026-02-06 * "" "Comedor Ali"
+  Assets:EUR:Banco:Abanca                              -74.05 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-02-06 * "" "Iago"
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-02-06 * "" "Ali"
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-02-07 * "" "Vacaciones Adri+Chen"
   Assets:EUR:Banco:Abanca                             -618.19 EUR
   Expenses:Viaje:Hotel
+
+2026-02-09 * "" "Hotel Chiclana"
+  Assets:EUR:Banco:Abanca                             -109 EUR
+  Expenses:Viaje:Hotel
+
+2026-02-09 * "" "Intereses"
+  Assets:Invest:MyInvestor:Cash                          0.39 EUR
+  Income:Invest:Intereses
+; TODO
+
+2026-02-11 * "" "Hotel Camino Chiclana"
+  Assets:EUR:Banco:Abanca                              -60 EUR
+  Expenses:Viaje:Hotel
+
+2026-02-11 * "" "Uber One"
+  Assets:EUR:Banco:Abanca                               -4.99 EUR
+  Expenses:Salir:Restaurante
