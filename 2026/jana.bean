@@ -218,3 +218,7 @@
 2026-02-10 * "bazar" #bot
     Assets:EUR:Efectivo:Jana   -20.25 EUR
     Expenses:Compras:Utilidades
+
+2026-02-12 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
