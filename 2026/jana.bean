@@ -234,3 +234,7 @@
 2026-02-13 * "café" #bot
     Assets:EUR:Efectivo:Jana    -3.23 EUR
     Expenses:Salir:Cafe
+
+2026-02-13 * "barracas" #bot
+    Assets:EUR:Efectivo:Jana    -8.00 EUR
+    Expenses:Gastos:Bebe
