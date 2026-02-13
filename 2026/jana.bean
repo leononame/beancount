@@ -238,3 +238,7 @@
 2026-02-13 * "barracas" #bot
     Assets:EUR:Efectivo:Jana    -8.00 EUR
     Expenses:Gastos:Bebe
+
+2026-02-13 * "cena" #bot
+    Assets:EUR:Efectivo:Jana   -14.00 EUR
+    Expenses:Salir:Restaurante
