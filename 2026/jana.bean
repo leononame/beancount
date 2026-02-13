@@ -242,3 +242,7 @@
 2026-02-13 * "cena" #bot
     Assets:EUR:Efectivo:Jana   -14.00 EUR
     Expenses:Salir:Restaurante
+
+2026-02-13 * "cola cao" #bot
+    Assets:EUR:Efectivo:Jana    -2.00 EUR
+    Expenses:Salir:Cafe
