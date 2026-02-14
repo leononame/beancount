@@ -246,3 +246,7 @@
 2026-02-13 * "cola cao" #bot
     Assets:EUR:Efectivo:Jana    -2.00 EUR
     Expenses:Salir:Cafe
+
+2026-02-14 * "dia" #bot
+    Assets:EUR:Efectivo:Jana   -33.31 EUR
+    Expenses:Compras:Alimentos
