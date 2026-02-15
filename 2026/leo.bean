@@ -366,3 +366,7 @@
 2026-02-13 * "alimerka" #bot
     Assets:EUR:Efectivo:Leo    -5.70 EUR
     Expenses:Compras:Bebe
+
+2026-02-15 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca  -300.00 EUR
+    Assets:EUR:Efectivo:Leo
