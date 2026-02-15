@@ -374,3 +374,7 @@
 2026-02-15 * "super" #bot
     Assets:EUR:Efectivo:Leo    -1.35 EUR
     Expenses:Compras:Alimentos
+
+2026-02-15 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo    -1.80 EUR
+    Expenses:Salir:Cafe
