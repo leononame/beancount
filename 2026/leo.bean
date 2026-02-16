@@ -394,3 +394,7 @@
 2026-02-15 * "restaurante" #bot
     Assets:EUR:Efectivo:Leo  -106.60 EUR
     Expenses:Salir:Restaurante
+
+2026-02-16 * "lavandería" #bot
+    Assets:EUR:Efectivo:Leo    -6.00 EUR
+    Expenses:Gastos:Casa
