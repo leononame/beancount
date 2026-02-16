@@ -258,3 +258,7 @@
 2026-02-16 * "helado" #bot
     Assets:EUR:Efectivo:Jana   -16.00 EUR
     Expenses:Salir:Restaurante
+
+2026-02-16 * "cena" #bot
+    Assets:EUR:Efectivo:Jana   -45.00 EUR
+    Expenses:Salir:Restaurante
