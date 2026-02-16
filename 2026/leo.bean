@@ -402,3 +402,7 @@
 2026-02-16 * "desayuno" #bot
     Assets:EUR:Efectivo:Leo   -24.05 EUR
     Expenses:Salir:Restaurante
+
+2026-02-16 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca  -300.00 EUR
+    Assets:EUR:Efectivo:Leo
