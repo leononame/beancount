@@ -398,3 +398,7 @@
 2026-02-16 * "lavandería" #bot
     Assets:EUR:Efectivo:Leo    -6.00 EUR
     Expenses:Gastos:Casa
+
+2026-02-16 * "desayuno" #bot
+    Assets:EUR:Efectivo:Leo   -24.05 EUR
+    Expenses:Salir:Restaurante
