@@ -406,3 +406,7 @@
 2026-02-16 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca  -300.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2026-02-16 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo   -63.50 EUR
+    Expenses:Salir:Restaurante
