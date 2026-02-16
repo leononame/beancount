@@ -250,3 +250,7 @@
 2026-02-14 * "dia" #bot
     Assets:EUR:Efectivo:Jana   -33.31 EUR
     Expenses:Compras:Alimentos
+
+2026-02-16 * "super" #bot
+    Assets:EUR:Efectivo:Jana    -3.25 EUR
+    Expenses:Compras:Alimentos
