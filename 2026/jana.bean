@@ -254,3 +254,7 @@
 2026-02-16 * "super" #bot
     Assets:EUR:Efectivo:Jana    -3.25 EUR
     Expenses:Compras:Alimentos
+
+2026-02-16 * "helado" #bot
+    Assets:EUR:Efectivo:Jana   -16.00 EUR
+    Expenses:Salir:Restaurante
