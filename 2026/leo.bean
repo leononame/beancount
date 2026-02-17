@@ -438,3 +438,7 @@
 2026-02-17 * "hotel" #bot
     Assets:EUR:Efectivo:Leo   -83.00 EUR
     Expenses:Viaje:Hotel
+
+2026-02-17 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -1.70 EUR
+    Expenses:Salir:Cafe
