@@ -458,3 +458,7 @@
 2026-02-17 * "restaurante" #bot
     Assets:EUR:Efectivo:Leo   -70.00 EUR
     Expenses:Salir:Restaurante
+
+2026-02-17 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo   -50.00 EUR
+    Expenses:Perdido
