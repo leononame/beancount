@@ -274,3 +274,7 @@
 2026-02-17 * "cena" #bot
     Assets:EUR:Efectivo:Jana   -60.00 EUR
     Expenses:Salir:Restaurante
+
+2026-02-17 * "parking" #bot
+    Assets:EUR:Efectivo:Jana   -19.50 EUR
+    Expenses:Gastos:Coche:Parking
