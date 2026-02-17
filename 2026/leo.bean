@@ -450,3 +450,7 @@
 2026-02-17 * "imán" #bot
     Assets:EUR:Efectivo:Leo    -1.50 EUR
     Expenses:Viaje:Souvenirs
+
+2026-02-17 * "café" #bot
+    Assets:EUR:Efectivo:Leo   -14.50 EUR
+    Expenses:Salir:Cafe
