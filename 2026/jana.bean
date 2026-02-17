@@ -262,3 +262,7 @@
 2026-02-16 * "cena" #bot
     Assets:EUR:Efectivo:Jana   -45.00 EUR
     Expenses:Salir:Restaurante
+
+2026-02-17 * "matcha" #bot
+    Assets:EUR:Efectivo:Jana    -5.40 EUR
+    Expenses:Salir:Cafe
