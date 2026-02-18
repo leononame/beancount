@@ -278,3 +278,7 @@
 2026-02-17 * "parking" #bot
     Assets:EUR:Efectivo:Jana   -19.50 EUR
     Expenses:Gastos:Coche:Parking
+
+2026-02-18 * "farmacia" #bot
+    Assets:EUR:Efectivo:Jana    -6.85 EUR
+    Expenses:Compras:Utilidades
