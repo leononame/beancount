@@ -486,3 +486,7 @@
 2026-02-18 * "lavandería" #bot
     Assets:EUR:Efectivo:Leo    -4.00 EUR
     Expenses:Gastos:Casa
+
+2026-02-18 * "cervezas" #bot
+    Assets:EUR:Efectivo:Leo    -2.00 EUR
+    Expenses:Salir:Copas
