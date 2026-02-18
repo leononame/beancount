@@ -482,3 +482,7 @@
 2026-02-18 * "dulces" #bot
     Assets:EUR:Efectivo:Leo    -8.50 EUR
     Expenses:Lujo
+
+2026-02-18 * "lavandería" #bot
+    Assets:EUR:Efectivo:Leo    -4.00 EUR
+    Expenses:Gastos:Casa
