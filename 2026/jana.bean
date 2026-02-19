@@ -286,3 +286,7 @@
 2026-02-19 * "pan" #bot
     Assets:EUR:Efectivo:Jana   -15.80 EUR
     Expenses:Compras:Alimentos
+
+2026-02-19 * "super" #bot
+    Assets:EUR:Efectivo:Jana    -3.24 EUR
+    Expenses:Compras:Alimentos
