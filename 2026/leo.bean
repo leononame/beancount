@@ -506,3 +506,7 @@
 2026-02-21 * "museo" #bot
     Assets:EUR:Efectivo:Leo    -5.40 EUR
     Expenses:Salir:Museo
+
+2026-02-21 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca  -500.00 EUR
+    Assets:EUR:Efectivo:Leo
