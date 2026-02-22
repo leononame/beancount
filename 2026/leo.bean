@@ -522,3 +522,7 @@
 2026-02-22 * "paga" #bot
     Assets:EUR:Efectivo:Leo    -1.00 EUR
     Expenses:Gastos:Bebe
+
+2026-02-22 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo    -1.00 EUR
+    Expenses:Perdido
