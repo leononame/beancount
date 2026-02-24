@@ -546,3 +546,7 @@
 2026-02-24 * "Aldi" #bot
     Assets:EUR:Efectivo:Leo   -19.57 EUR
     Expenses:Compras:Alimentos
+
+2026-02-24 * "cervezas" #bot
+    Assets:EUR:Efectivo:Leo    -3.00 EUR
+    Expenses:Salir:Copas
