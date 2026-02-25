@@ -378,8 +378,61 @@
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante
 
-; TODO
-2026-02-21 * "" "hotel Conil"
+2026-02-20 * "" "hotel Conil"
   Assets:EUR:Banco:Abanca                             -235 EUR
   Expenses:Viaje:Hotel
 
+2026-02-20 * "" "Regalo Cumple Katia"
+  Assets:EUR:Banco:Abanca                               -5.77 EUR
+  Expenses:Compras:Regalos
+
+2026-02-22 * "" "Jardanay"
+  Assets:EUR:Banco:Abanca                              -12.2 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-02-24 * "" "Regalo Cumple Erea"
+  Assets:EUR:Banco:Abanca                              -15 EUR
+  Expenses:Compras:Regalos
+
+2026-02-25 * "" "Leo"
+  Assets:EUR:Banco:Abanca                             5964.36 EUR
+  Income:Salario:Leo
+
+2026-02-19 * "" "Hotel CHiclana"
+  Liabilities:TC:Leo                                  -131.5 EUR
+  Expenses:Viaje:Hotel
+
+2026-02-20 * "" "Burger"
+  Liabilities:TC:Leo                                   -10.7 EUR
+  Expenses:Salir:Restaurante
+
+2026-02-20 * "" "Gasolinera"
+  Liabilities:TC:Leo                                   -35.36 EUR
+  Expenses:Gastos:Coche:Gasolina
+
+2026-02-21 * "" "Gasolinera"
+  Liabilities:TC:Leo                                   -84.28 EUR
+  Expenses:Gastos:Coche:Gasolina
+
+2026-02-21 * "" "McDonald's"
+  Liabilities:TC:Leo                                   -31.86 EUR
+  Expenses:Salir:Restaurante
+
+2026-02-24 * "" "Taller Boris"
+  Liabilities:TC:Leo                                  -926.55 EUR
+  Expenses:Gastos:Coche:Taller
+
+2026-02-25 * "" "Libros Casa del Libro"
+  Assets:EUR:Banco:Sabadell                            -79.32 EUR
+  Expenses:Compras:Medios:Libros
+
+; TODO
+2026-02-28 * "" "Wallapop"
+  Assets:EUR:Banco:Abanca                              -28.88 EUR
+  Expenses:Compras:Bebe
+2026-02-28 * "" "Wallapop"
+  Assets:EUR:Banco:Abanca                              -10.85 EUR
+  Expenses:Compras:Bebe
+2026-02-28 * "" "Ube Eats"
+  Assets:EUR:Banco:Abanca                              -39.38 EUR
+  Expenses:Salir:Restaurante
