@@ -294,3 +294,7 @@
 2026-02-26 * "Vagalume" #bot
     Assets:EUR:Efectivo:Jana    -5.05 EUR
     Expenses:Salir:Cafe
+
+2026-02-26 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
