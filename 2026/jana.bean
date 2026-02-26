@@ -290,3 +290,7 @@
 2026-02-19 * "super" #bot
     Assets:EUR:Efectivo:Jana    -3.24 EUR
     Expenses:Compras:Alimentos
+
+2026-02-26 * "Vagalume" #bot
+    Assets:EUR:Efectivo:Jana    -5.05 EUR
+    Expenses:Salir:Cafe
