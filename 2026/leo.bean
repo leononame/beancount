@@ -566,3 +566,7 @@
 2026-02-27 * "cerveza" #bot
     Assets:EUR:Efectivo:Leo    -4.00 EUR
     Expenses:Compras:Alimentos
+
+2026-02-27 * "cervezas" #bot
+    Assets:EUR:Efectivo:Leo   -10.00 EUR
+    Expenses:Salir:Copas
