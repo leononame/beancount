@@ -426,6 +426,31 @@
   Assets:EUR:Banco:Sabadell                            -79.32 EUR
   Expenses:Compras:Medios:Libros
 
+2026-02-26 * "" "Ube Eats"
+  Assets:EUR:Banco:Abanca                              -39.38 EUR
+  Expenses:Salir:Restaurante
+
+2026-02-26 * "" "Storage Box"
+  Assets:EUR:Banco:Abanca                              -13.19 EUR
+  Expenses:Compras:Tecnología:Software
+
+2026-02-26 * "" "Transferencia"
+  Assets:EUR:Banco:Abanca                            -4500 EUR
+  Assets:EUR:Banco:Sabadell
+
+2026-02-26 * "" "TGSS Jana"
+  Assets:EUR:Banco:Abanca                             -358.44 EUR
+  Income:Salario:Jana
+
+2026-02-27 * "" "Hipoteca"
+  Assets:EUR:Banco:Sabadell                          -1291.06 EUR
+  Liabilities:Deudas:Banco                            1017.72 EUR
+  Expenses:Compras:Piso:Intereses                      273.34 EUR
+
+2026-02-27 * "" "TC Leo"
+  Liabilities:TC:Leo                                  1220.25 EUR
+  Assets:EUR:Banco:Sabadell
+
 ; TODO
 2026-02-28 * "" "Wallapop"
   Assets:EUR:Banco:Abanca                              -28.88 EUR
@@ -433,6 +458,21 @@
 2026-02-28 * "" "Wallapop"
   Assets:EUR:Banco:Abanca                              -10.85 EUR
   Expenses:Compras:Bebe
-2026-02-28 * "" "Ube Eats"
+2026-02-28 * "Amazon" "Desatornilladores"
+  Assets:EUR:Banco:Abanca                              -14.72 EUR
+  Expenses:Compras:Utilidades
+2026-02-28 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -39.38 EUR
   Expenses:Salir:Restaurante
+
+2026-02-28 * "" "Too Good To GO"
+  Assets:EUR:Banco:Abanca                               -5.39 EUR
+  Expenses:Salir:Restaurante
+
+2026-02-28 * "" "Too Good To GO"
+  Assets:EUR:Banco:Abanca                               -7.98 EUR
+  Expenses:Salir:Restaurante
+
+2026-02-28 * "Amazon" "Jana Compra"
+  Assets:EUR:Banco:Abanca                              -26.86 EUR
+  Expenses:Compras:Utilidades
