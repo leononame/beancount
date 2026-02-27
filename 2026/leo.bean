@@ -558,3 +558,7 @@
 2026-02-27 * "café" #bot
     Assets:EUR:Efectivo:Leo    -4.10 EUR
     Expenses:Salir:Cafe
+
+2026-02-27 * "filloa" #bot
+    Assets:EUR:Efectivo:Leo   -10.00 EUR
+    Expenses:Salir:Conciertos
