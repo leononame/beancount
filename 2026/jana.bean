@@ -302,3 +302,7 @@
 2026-02-28 * "albi" #bot
     Assets:EUR:Efectivo:Jana   -17.07 EUR
     Expenses:Compras:Alimentos
+
+2026-02-28 * "café" #bot
+    Assets:EUR:Efectivo:Jana   -11.60 EUR
+    Expenses:Salir:Cafe
