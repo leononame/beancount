@@ -310,3 +310,7 @@
 2026-02-28 * "gadis" #bot
     Assets:EUR:Efectivo:Jana   -75.87 EUR
     Expenses:Compras:Alimentos
+
+2026-02-28 * "super" #bot
+    Assets:EUR:Efectivo:Jana    -7.54 EUR
+    Expenses:Compras:Alimentos
