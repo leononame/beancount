@@ -326,3 +326,7 @@
 2026-02-28 * "aldi" #bot
     Assets:EUR:Efectivo:Jana    -9.10 EUR
     Expenses:Compras:Alimentos
+
+2026-02-28 * "perdido" #bot
+    Assets:EUR:Efectivo:Jana    -2.60 EUR
+    Expenses:Perdido
