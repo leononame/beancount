@@ -298,3 +298,7 @@
 2026-02-26 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -300.00 EUR
     Assets:EUR:Efectivo:Jana
+
+2026-02-28 * "albi" #bot
+    Assets:EUR:Efectivo:Jana   -17.07 EUR
+    Expenses:Compras:Alimentos
