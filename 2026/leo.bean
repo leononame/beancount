@@ -586,3 +586,7 @@
 2026-02-28 * "helado" #bot
     Assets:EUR:Efectivo:Leo    -3.20 EUR
     Expenses:Salir:Cafe
+
+2026-03-01 * "paga Iago" #bot
+    Assets:EUR:Efectivo:Leo    -1.00 EUR
+    Expenses:Gastos:Bebe
