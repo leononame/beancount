@@ -614,3 +614,7 @@
 2026-03-04 * "fer" #bot
     Assets:EUR:Efectivo:Leo  -100.00 EUR
     Expenses:Gastos:Actividades
+
+2026-03-04 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo   -24.00 EUR
+    Expenses:Salir:Restaurante
