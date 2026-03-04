@@ -610,3 +610,7 @@
 2026-03-03 * "bazar" #bot
     Assets:EUR:Efectivo:Leo   -23.80 EUR
     Expenses:Compras:Utilidades
+
+2026-03-04 * "fer" #bot
+    Assets:EUR:Efectivo:Leo  -100.00 EUR
+    Expenses:Gastos:Actividades
