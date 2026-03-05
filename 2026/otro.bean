@@ -477,7 +477,8 @@
 
 2026-03-01 * "" "Comunidad"
   Assets:EUR:Banco:Sabadell                           -159.07 EUR
-  Expenses:Gastos:Casa:Comunidad
+  Expenses:Gastos:Casa:Comunidad                        75.00 EUR
+  Expenses:Gastos:Casa:Gas                              84.07 EUR
 
 2026-03-01 * "" "Lotería"
   Assets:EUR:Banco:Abanca                               -2.5 EUR
