@@ -451,28 +451,106 @@
   Liabilities:TC:Leo                                  1220.25 EUR
   Assets:EUR:Banco:Sabadell
 
-; TODO
-2026-02-28 * "" "Wallapop"
-  Assets:EUR:Banco:Abanca                              -28.88 EUR
-  Expenses:Compras:Bebe
-2026-02-28 * "" "Wallapop"
+2026-02-27 * "" "Cumple Erea"
+  Assets:EUR:Banco:Abanca                                5 EUR
+  Expenses:Compras:Regalos
+
+2026-02-28 * "" "Devo Amazon"
+  Assets:EUR:Banco:Abanca                               16.99 EUR
+  Expenses:Compras:Utilidades
+
+2026-02-27 * "" "Libros Bender"
+  Assets:EUR:Banco:Sabadell                           -105.9 EUR
+  Expenses:Compras:Medios:Libros
+
+2026-03-01 * "" "Iago Huerto"
+  Assets:EUR:Banco:Sabadell                            -30 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+2026-03-01 * "" "BU"
+  Assets:EUR:Banco:Sabadell                            -52.12 EUR
+  Expenses:Gastos:Seguros:BU
+
+2026-03-01 * "" "Master PDF Editor"
+  Assets:EUR:Banco:Sabadell                            -36.12 EUR
+  Expenses:Compras:Tecnología:Software
+
+2026-03-01 * "" "Comunidad"
+  Assets:EUR:Banco:Sabadell                           -159.07 EUR
+  Expenses:Gastos:Casa:Comunidad
+
+2026-03-01 * "" "Lotería"
+  Assets:EUR:Banco:Abanca                               -2.5 EUR
+  Expenses:Lujo
+
+2026-03-01 * "" "Restaurante Valdoviño Chen"
+  Assets:EUR:Banco:Abanca                             -100 EUR
+  Expenses:Salir:Restaurante
+
+2026-03-01 * "" "Wallapop Ropa Iago/Ali"
   Assets:EUR:Banco:Abanca                              -10.85 EUR
   Expenses:Compras:Bebe
-2026-02-28 * "Amazon" "Desatornilladores"
+
+2026-03-01 * "" "Wallapop"
+  Assets:EUR:Banco:Abanca                              -28.88 EUR
+  Expenses:Compras:Bebe
+  
+2026-03-03 * "Amazon" "Desatornilladores"
   Assets:EUR:Banco:Abanca                              -14.72 EUR
   Expenses:Compras:Utilidades
-2026-02-28 * "" "Uber Eats"
-  Assets:EUR:Banco:Abanca                              -39.38 EUR
-  Expenses:Salir:Restaurante
 
-2026-02-28 * "" "Too Good To GO"
-  Assets:EUR:Banco:Abanca                               -5.39 EUR
-  Expenses:Salir:Restaurante
-
-2026-02-28 * "" "Too Good To GO"
+2026-03-03* "" "Too Good To GO"
   Assets:EUR:Banco:Abanca                               -7.98 EUR
   Expenses:Salir:Restaurante
 
-2026-02-28 * "Amazon" "Jana Compra"
+2026-03-03 * "" "Bausparen"
+  Assets:EUR:Banco:Abanca                             -100 EUR
+  Expenses:Invest
+
+2026-03-03 * "" "Bus Millenium"
+  Assets:EUR:Banco:Abanca                              -20 EUR
+  Expenses:Transporte:Publico
+
+2026-03-03 * "" "Iago Paxariños"
+  Assets:EUR:Banco:Abanca                             -168 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+2026-03-04 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -39.38 EUR
+  Expenses:Salir:Restaurante
+
+2026-03-04 * "" "Tailscale"
+  Assets:EUR:Banco:Abanca                               -4.25 EUR
+  Expenses:Compras:Tecnología:Software
+
+2026-03-04 * "" "Too Good To GO"
+  Assets:EUR:Banco:Abanca                               -5.39 EUR
+  Expenses:Salir:Restaurante
+
+2026-03-04 * "" "Aceite de Oliva"
+  Assets:EUR:Banco:Abanca                             -125.7 EUR
+  Expenses:Compras:Alimentos
+
+2026-03-05 balance Assets:EUR:Banco:Abanca            2874.20 EUR
+
+2026-03-05 * "Anazon" "??"
   Assets:EUR:Banco:Abanca                              -26.86 EUR
   Expenses:Compras:Utilidades
+
+2026-03-05 * "" "Vinted Ropa Iago"
+  Assets:EUR:Banco:Abanca                              -23.6 EUR
+  Expenses:Compras:Bebe
+
+2026-03-05 * "" "Luz"
+  Assets:EUR:Banco:Abanca                              -70.86 EUR
+  Expenses:Gastos:Casa:Luz
+
+2026-03-05 * "" "Depósito Fin"
+  Assets:Invest:MyInvestor:Cash                      20181.5 EUR
+  Assets:Invest:MyInvestor:Deposito                 -20153.61 EUR
+  Income:Invest:Intereses                              -27.89 EUR
+
+2026-03-05 * "" "Depósito Contratación"
+  Assets:Invest:MyInvestor:Cash                     -20181.5 EUR
+  Assets:Invest:MyInvestor:Deposito
+
