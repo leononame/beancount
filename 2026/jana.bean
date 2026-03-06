@@ -338,3 +338,7 @@
 2026-03-06 * "café" #bot
     Assets:EUR:Efectivo:Jana    -3.00 EUR
     Expenses:Salir:Cafe
+
+2026-03-06 * "chuches" #bot
+    Assets:EUR:Efectivo:Jana    -1.10 EUR
+    Expenses:Compras:Alimentos
