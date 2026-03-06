@@ -346,3 +346,7 @@
 2026-03-06 * "concierto" #bot
     Assets:EUR:Efectivo:Jana   -15.00 EUR
     Expenses:Salir:Conciertos
+
+2026-03-06 * "copas" #bot
+    Assets:EUR:Efectivo:Jana    -4.70 EUR
+    Expenses:Salir:Copas
