@@ -634,3 +634,7 @@
 2026-03-05 * "cervezas" #bot
     Assets:EUR:Efectivo:Leo    -5.40 EUR
     Expenses:Salir:Copas
+
+2026-03-06 * "domus" #bot
+    Assets:EUR:Efectivo:Leo    -5.00 EUR
+    Expenses:Salir:Museo
