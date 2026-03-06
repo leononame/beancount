@@ -342,3 +342,7 @@
 2026-03-06 * "chuches" #bot
     Assets:EUR:Efectivo:Jana    -1.10 EUR
     Expenses:Compras:Alimentos
+
+2026-03-06 * "concierto" #bot
+    Assets:EUR:Efectivo:Jana   -15.00 EUR
+    Expenses:Salir:Conciertos
