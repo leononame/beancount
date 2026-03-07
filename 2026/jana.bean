@@ -350,3 +350,7 @@
 2026-03-06 * "copas" #bot
     Assets:EUR:Efectivo:Jana    -4.70 EUR
     Expenses:Salir:Copas
+
+2026-03-07 * "calzoncillos iago" #bot
+    Assets:EUR:Efectivo:Jana   -19.99 EUR
+    Expenses:Compras:Ropa
