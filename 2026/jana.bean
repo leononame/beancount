@@ -366,3 +366,7 @@
 2026-03-08 * "cerámica" #bot
     Assets:EUR:Efectivo:Jana   -20.00 EUR
     Expenses:Gastos:Actividades
+
+2026-03-08 * "Vagalume" #bot
+    Assets:EUR:Efectivo:Jana   -10.30 EUR
+    Expenses:Salir:Cafe
