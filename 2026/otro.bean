@@ -455,7 +455,7 @@
   Assets:EUR:Banco:Abanca                                5 EUR
   Expenses:Compras:Regalos
 
-2026-02-28 * "" "Devo Amazon"
+2026-02-28 * "Amazon" "Devo"
   Assets:EUR:Banco:Abanca                               16.99 EUR
   Expenses:Compras:Utilidades
 
@@ -554,4 +554,60 @@
 2026-03-05 * "" "Depósito Contratación"
   Assets:Invest:MyInvestor:Cash                     -20181.5 EUR
   Assets:Invest:MyInvestor:Deposito
+
+2026-03-06 * "" "Iago" 
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-03-06 * "" "Ali"
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-03-07 * "" "Aldi"
+  Assets:EUR:Banco:Abanca                              -67.24 EUR
+  Expenses:Compras:Alimentos 
+
+2026-03-07 * "" "Goiko"
+  Assets:EUR:Banco:Abanca                              -54.5 EUR
+  Expenses:Salir:Restaurante
+
+2026-03-07 * "" "Ikea"
+  Assets:EUR:Banco:Abanca                              -16.97 EUR
+  Expenses:Compras:Utilidades
+
+2026-03-07 * "" "comedor Ali"
+  Assets:EUR:Banco:Abanca                              -74.05 EUR
+  Expenses:Gastos:Bebe:Guarde 
+
+2026-03-08 * "" "Wallapop"
+  Assets:EUR:Efectivo:Leo                               29.88 EUR
+  Expenses:Compras:Utilidades
+
+2026-03-07 * "" "Lotería"
+  Assets:EUR:Banco:Sabadell                             -2.5 EUR
+  Expenses:Lujo
+2026-03-09 * "" "Lotería"
+  Assets:EUR:Banco:Sabadell                             -2.5 EUR
+  Expenses:Lujo
+; TODO
+
+2026-03-13 * "" "Just Eat"
+  Assets:EUR:Banco:Abanca                              -20.15 EUR
+  Expenses:Salir:Restaurante
+
+2026-03-13 * "" "Uger One"
+  Assets:EUR:Banco:Abanca                               -4.99 EUR
+  Expenses:Salir:Restaurante
+
+2026-03-13 * "" "Vuelo Jana"
+  Assets:EUR:Banco:Abanca                             -255 EUR
+  Expenses:Viaje:Avion
+
+2026-03-13 * "Amazon" "??"
+  Assets:EUR:Banco:Abanca                              -31.94 EUR 
+  Expenses:Compras:Utilidades
+
+2026-03-13 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.01 EUR
+  Expenses:Salir:Restaurante
 
