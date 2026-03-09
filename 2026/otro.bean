@@ -534,7 +534,7 @@
 
 2026-03-05 balance Assets:EUR:Banco:Abanca            2874.20 EUR
 
-2026-03-05 * "Anazon" "??"
+2026-03-05 * "Anazon" "Fidget Spinner, Nagelbrett"
   Assets:EUR:Banco:Abanca                              -26.86 EUR
   Expenses:Compras:Utilidades
 
@@ -603,7 +603,7 @@
   Assets:EUR:Banco:Abanca                             -255 EUR
   Expenses:Viaje:Avion
 
-2026-03-13 * "Amazon" "??"
+2026-03-13 * "Amazon" "Cascos Iago"
   Assets:EUR:Banco:Abanca                              -31.94 EUR 
   Expenses:Compras:Utilidades
 
