@@ -654,3 +654,7 @@
 2026-03-09 * "dia" #bot
     Assets:EUR:Efectivo:Leo    -2.34 EUR
     Expenses:Compras:Alimentos
+
+2026-03-10 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo   -31.39 EUR
+    Expenses:Compras:Alimentos
