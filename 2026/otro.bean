@@ -589,25 +589,51 @@
 2026-03-09 * "" "Lotería"
   Assets:EUR:Banco:Sabadell                             -2.5 EUR
   Expenses:Lujo
-; TODO
 
-2026-03-13 * "" "Just Eat"
-  Assets:EUR:Banco:Abanca                              -20.15 EUR
-  Expenses:Salir:Restaurante
+2026-03-09 * "" "Jana"
+  Assets:EUR:Banco:Abanca                             2000 EUR
+  Income:Salario:Jana 
 
-2026-03-13 * "" "Uger One"
+2026-03-11 * "" "Uger One"
   Assets:EUR:Banco:Abanca                               -4.99 EUR
   Expenses:Salir:Restaurante
 
-2026-03-13 * "" "Vuelo Jana"
+2026-03-11 * "" "Just Eat"
+  Assets:EUR:Banco:Abanca                              -20.15 EUR
+  Expenses:Salir:Restaurante
+
+2026-03-11 * "" "Vuelo Jana"
   Assets:EUR:Banco:Abanca                             -255 EUR
   Expenses:Viaje:Avion
 
-2026-03-13 * "Amazon" "Cascos Iago"
+2026-03-12 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.01 EUR
+  Expenses:Salir:Restaurante
+
+2026-03-12 * "Amazon" "Cascos Iago"
   Assets:EUR:Banco:Abanca                              -31.94 EUR 
   Expenses:Compras:Utilidades
 
-2026-03-13 * "" "Uber Eats"
-  Assets:EUR:Banco:Abanca                              -41.01 EUR
-  Expenses:Salir:Restaurante
+2026-03-12 * "" "Música Iago"
+  Assets:EUR:Banco:Abanca                              -45.58 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+2026-03-12 * "" "Lotería"
+  Assets:EUR:Banco:Abanca                              -20 EUR
+  Expenses:Lujo
+
+2026-03-12 * "" "Depósito Fin"
+  Assets:Invest:MyInvestor:Cash                      11823.44 EUR
+  Assets:Invest:MyInvestor:Deposito                 -11807.1 EUR
+  Income:Invest:Intereses                              -16.34 EUR
+
+2026-03-12 * "" "Transferencia"
+  Assets:Invest:MyInvestor:Cash                     -11823.44 EUR
+  Assets:EUR:Banco:Sabadell
+
+; TODO
+
+2026-03-15 * "" "YT Music"
+  Assets:EUR:Banco:Abanca                              -25.99 EUR
+  Expenses:Compras:Medios:Musica
 
