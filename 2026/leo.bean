@@ -662,3 +662,7 @@
 2026-03-12 * "filloa" #bot
     Assets:EUR:Efectivo:Leo   -10.00 EUR
     Expenses:Salir:Conciertos
+
+2026-03-12 * "cerveza" #bot
+    Assets:EUR:Efectivo:Leo    -3.50 EUR
+    Expenses:Compras:Alimentos
