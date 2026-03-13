@@ -670,3 +670,7 @@
 2026-03-13 * "paxariños" #bot
     Assets:EUR:Efectivo:Leo   -14.00 EUR
     Expenses:Gastos:Bebe
+
+2026-03-13 * "cables" #bot
+    Assets:EUR:Efectivo:Leo   -12.00 EUR
+    Expenses:Compras:Tecnología:Hardware
