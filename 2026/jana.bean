@@ -378,3 +378,7 @@
 2026-03-09 * "freni" #bot
     Assets:EUR:Efectivo:Jana  -100.00 EUR
     Expenses:Gastos:Casa
+
+2026-03-13 * "envío" #bot
+    Assets:EUR:Efectivo:Jana   -46.60 EUR
+    Expenses:Compras:Utilidades
