@@ -382,3 +382,7 @@
 2026-03-13 * "envío" #bot
     Assets:EUR:Efectivo:Jana   -46.60 EUR
     Expenses:Compras:Utilidades
+
+2026-03-13 * "vale Lea" #bot
+    Assets:EUR:Efectivo:Jana   -25.00 EUR
+    Expenses:Compras:Regalos
