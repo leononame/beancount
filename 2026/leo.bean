@@ -674,3 +674,7 @@
 2026-03-13 * "cables" #bot
     Assets:EUR:Efectivo:Leo   -12.00 EUR
     Expenses:Compras:Tecnología:Hardware
+
+2026-03-14 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo   -14.52 EUR
+    Expenses:Compras:Alimentos
