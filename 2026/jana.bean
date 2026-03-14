@@ -390,3 +390,7 @@
 2026-03-14 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -300.00 EUR
     Assets:EUR:Efectivo:Jana
+
+2026-03-14 * "roll se canela" #bot
+    Assets:EUR:Efectivo:Jana    -3.50 EUR
+    Expenses:Compras:Alimentos
