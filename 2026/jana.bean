@@ -386,3 +386,7 @@
 2026-03-13 * "vale Lea" #bot
     Assets:EUR:Efectivo:Jana   -25.00 EUR
     Expenses:Compras:Regalos
+
+2026-03-14 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
