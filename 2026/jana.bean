@@ -394,3 +394,7 @@
 2026-03-14 * "roll se canela" #bot
     Assets:EUR:Efectivo:Jana    -3.50 EUR
     Expenses:Compras:Alimentos
+
+2026-03-16 * "primaprix" #bot
+    Assets:EUR:Efectivo:Jana   -41.05 EUR
+    Expenses:Compras:Alimentos
