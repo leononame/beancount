@@ -422,3 +422,7 @@
 2026-03-16 * "Albi" #bot
     Assets:EUR:Efectivo:Jana   -15.53 EUR
     Expenses:Compras:Alimentos
+
+2026-03-16 * "gasolina" #bot
+    Assets:EUR:Efectivo:Jana   -76.30 EUR
+    Expenses:Gastos:Coche:Gasolina
