@@ -418,3 +418,7 @@
 2026-03-16 * "Iago excursión" #bot
     Assets:EUR:Efectivo:Jana    -3.00 EUR
     Expenses:Gastos:Bebe
+
+2026-03-16 * "Albi" #bot
+    Assets:EUR:Efectivo:Jana   -15.53 EUR
+    Expenses:Compras:Alimentos
