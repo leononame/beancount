@@ -414,3 +414,7 @@
 2026-03-16 * "parking" #bot
     Assets:EUR:Efectivo:Jana    -5.20 EUR
     Expenses:Gastos:Coche:Parking
+
+2026-03-16 * "Iago excursión" #bot
+    Assets:EUR:Efectivo:Jana    -3.00 EUR
+    Expenses:Gastos:Bebe
