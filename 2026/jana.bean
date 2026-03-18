@@ -434,3 +434,7 @@
 2026-03-17 * "gadis" #bot
     Assets:EUR:Efectivo:Jana   -29.78 EUR
     Expenses:Compras:Alimentos
+
+2026-03-18 * "primaprix" #bot
+    Assets:EUR:Efectivo:Jana   -15.15 EUR
+    Expenses:Compras:Alimentos
