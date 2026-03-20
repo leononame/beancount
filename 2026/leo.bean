@@ -718,3 +718,7 @@
 2026-03-19 * "restaurante" #bot
     Assets:EUR:Efectivo:Leo   -81.30 EUR
     Expenses:Salir:Restaurante
+
+2026-03-20 * "cable" #bot
+    Assets:EUR:Efectivo:Leo    -2.99 EUR
+    Expenses:Compras:Tecnología:Hardware
