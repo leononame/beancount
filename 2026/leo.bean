@@ -722,3 +722,7 @@
 2026-03-20 * "cable" #bot
     Assets:EUR:Efectivo:Leo    -2.99 EUR
     Expenses:Compras:Tecnología:Hardware
+
+2026-03-20 * "supermercado" #bot
+    Assets:EUR:Efectivo:Leo    -5.22 EUR
+    Expenses:Compras:Alimentos
