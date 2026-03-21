@@ -438,3 +438,7 @@
 2026-03-18 * "primaprix" #bot
     Assets:EUR:Efectivo:Jana   -15.15 EUR
     Expenses:Compras:Alimentos
+
+2026-03-21 * "queso asturiano" #bot
+    Assets:EUR:Efectivo:Jana   -12.50 EUR
+    Expenses:Compras:Alimentos
