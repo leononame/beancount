@@ -450,3 +450,7 @@
 2026-03-21 * "primaprix" #bot
     Assets:EUR:Efectivo:Jana   -15.15 EUR
     Expenses:Compras:Alimentos
+
+2026-03-21 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
