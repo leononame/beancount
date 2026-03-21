@@ -726,3 +726,7 @@
 2026-03-20 * "supermercado" #bot
     Assets:EUR:Efectivo:Leo    -5.22 EUR
     Expenses:Compras:Alimentos
+
+2026-03-21 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo   -70.00 EUR
+    Expenses:Salir:Restaurante
