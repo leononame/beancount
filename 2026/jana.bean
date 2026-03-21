@@ -446,3 +446,7 @@
 2026-03-21 * "alcampo" #bot
     Assets:EUR:Efectivo:Jana    -9.48 EUR
     Expenses:Compras:Alimentos
+
+2026-03-21 * "primaprix" #bot
+    Assets:EUR:Efectivo:Jana   -15.15 EUR
+    Expenses:Compras:Alimentos
