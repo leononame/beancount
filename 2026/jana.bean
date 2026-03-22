@@ -454,3 +454,7 @@
 2026-03-21 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -300.00 EUR
     Assets:EUR:Efectivo:Jana
+
+2026-03-22 * "paga iago" #bot
+    Assets:EUR:Efectivo:Jana    -1.00 EUR
+    Expenses:Gastos:Bebe
