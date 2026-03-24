@@ -466,3 +466,7 @@
 2026-03-24 * "coruñasia" #bot
     Assets:EUR:Efectivo:Jana    -3.95 EUR
     Expenses:Compras:Alimentos
+
+2026-03-24 * "papelería" #bot
+    Assets:EUR:Efectivo:Jana    -5.45 EUR
+    Expenses:Compras:Utilidades
