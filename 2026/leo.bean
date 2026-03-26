@@ -750,3 +750,7 @@
 2026-03-26 * "restaurante" #bot
     Assets:EUR:Efectivo:Leo   -15.60 EUR
     Expenses:Salir:Restaurante
+
+2026-03-26 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo   -18.55 EUR
+    Expenses:Compras:Alimentos
