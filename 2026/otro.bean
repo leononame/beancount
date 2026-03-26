@@ -672,14 +672,32 @@
   Liabilities:TC:Leo                                    -2.65 EUR
   Expenses:Gastos:Coche:Parking
 
-; TODO
-
-2026-03-26 * "" "Peajes"
+2026-03-25 * "" "Peajes"
   Assets:EUR:Banco:Abanca                             -100.3 EUR
   Expenses:Gastos:Coche:Peaje
-  
+
+2026-03-25 * "" "Leo"
+  Assets:EUR:Banco:Abanca                             5830.88 EUR
+  Income:Salario:Leo
+
+2026-03-26 balance Assets:EUR:Banco:Abanca            7258.35 EUR
+
 2026-03-26 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante
 
-  
+2026-03-26 * "" "Airbnb O Grove"
+  Assets:EUR:Banco:Abanca                             -490.5 EUR
+  Expenses:Viaje:Hotel
+
+2026-03-26 * "Amazon" "Libros Tiptoi"
+  Assets:EUR:Banco:Abanca                              -23.98 EUR
+  Expenses:Compras:Regalos
+
+2026-03-26 * "" "Hetzner"
+  Assets:EUR:Banco:Abanca                              -13.19 EUR
+  Expenses:Compras:Tecnología:Hardware 
+
+2026-03-25 * "" "Barco Ons"
+  Assets:EUR:Banco:Sabadell                            -55.5 EUR
+  Expenses:Viaje:Tour 
