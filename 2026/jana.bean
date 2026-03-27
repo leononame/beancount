@@ -494,3 +494,7 @@
 2026-03-27 * "ropa" #bot
     Assets:EUR:Efectivo:Jana   -32.98 EUR
     Expenses:Compras:Ropa
+
+2026-03-27 * "gafas de sol Jana" #bot
+    Assets:EUR:Efectivo:Jana   -14.95 EUR
+    Expenses:Compras:Ropa
