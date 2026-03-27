@@ -478,3 +478,7 @@
 2026-03-27 * "bus" #bot
     Assets:EUR:Efectivo:Jana    -1.30 EUR
     Expenses:Transporte:Publico
+
+2026-03-27 * "música Ali" #bot
+    Assets:EUR:Efectivo:Jana   -20.00 EUR
+    Expenses:Gastos:Bebe
