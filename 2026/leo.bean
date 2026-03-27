@@ -754,3 +754,7 @@
 2026-03-26 * "Gadis" #bot
     Assets:EUR:Efectivo:Leo   -18.55 EUR
     Expenses:Compras:Alimentos
+
+2026-03-27 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -3.89 EUR
+    Expenses:Salir:Cafe
