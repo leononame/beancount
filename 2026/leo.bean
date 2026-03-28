@@ -770,3 +770,7 @@
 2026-03-28 * "café" #bot
     Assets:EUR:Efectivo:Leo   -13.30 EUR
     Expenses:Salir:Cafe
+
+2026-03-28 * "gafas Alicia" #bot
+    Assets:EUR:Efectivo:Leo    -3.50 EUR
+    Expenses:Compras:Bebe
