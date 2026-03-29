@@ -502,3 +502,7 @@
 2026-03-28 * "gafas iago" #bot
     Assets:EUR:Efectivo:Jana    -4.00 EUR
     Expenses:Compras:Bebe
+
+2026-03-29 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -3.34 EUR
+    Expenses:Compras:Alimentos
