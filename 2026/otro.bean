@@ -701,3 +701,32 @@
 2026-03-25 * "" "Barco Ons"
   Assets:EUR:Banco:Sabadell                            -55.5 EUR
   Expenses:Viaje:Tour 
+
+2026-03-27 * "" "Vinted Devo"
+  Assets:EUR:Banco:Abanca                                9.98 EUR
+  Expenses:Compras:Bebe
+
+2026-03-27 * "" "Jardanay"
+  Assets:EUR:Banco:Abanca                              -49.17 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-03-27 * "" "Bus Urbano"
+  Assets:EUR:Banco:Abanca                              -20 EUR
+  Expenses:Transporte:Publico
+
+2026-03-28 * "" "Restaurante Mirian y Javi"
+  Assets:EUR:Banco:Abanca                              -53.9 EUR
+  Expenses:Salir:Restaurante
+
+2026-03-30 * "" "Hotel O Grove"
+  Assets:EUR:Banco:Abanca                              250 EUR
+  Expenses:Viaje:Hotel
+
+2026-03-30 * "" "Iago Fabi"
+  Assets:EUR:Banco:Abanca                             -190 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+; TODO
+2026-03-31 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.01 EUR
+  Expenses:Salir:Restaurante
