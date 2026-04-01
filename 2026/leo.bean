@@ -794,3 +794,7 @@
 2026-04-01 * "cruasán" #bot
     Assets:EUR:Efectivo:Leo    -1.80 EUR
     Expenses:Compras:Alimentos
+
+2026-04-01 * "farmacia" #bot
+    Assets:EUR:Efectivo:Leo   -27.95 EUR
+    Expenses:Compras:Utilidades
