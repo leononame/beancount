@@ -11,7 +11,7 @@
   Assets:EUR:Efectivo:Leo                             -150 EUR
   Assets:EUR:Efectivo:Jana                             150.00 EUR
 
-2026-01-05 * "" "Bausparen"
+2026-01-05 * "" "Bausparen" #recurring
   Assets:EUR:Banco:Abanca                             -100 EUR
   Expenses:Invest
 
@@ -23,11 +23,11 @@
   Assets:EUR:Banco:Abanca                               -4.27 EUR
   Expenses:Compras:Tecnología:Software
 
-2026-01-02 * "" "BU"
+2026-01-02 * "" "BU" #recurring
   Assets:EUR:Banco:Sabadell                            -52.12 EUR
   Expenses:Gastos:Seguros:BU
 
-2026-01-05 * "" "Comunidad"
+2026-01-05 * "" "Comunidad" #recurring
   Assets:EUR:Banco:Sabadell                            -75 EUR
   Expenses:Gastos:Casa:Comunidad
 
@@ -88,7 +88,7 @@
   Assets:EUR:Banco:Sabadell                            -19.9 EUR
   Expenses:Transporte:Tren
 
-2026-01-12 * "" "Comunidad Garajes"
+2026-01-12 * "" "Comunidad Garajes" #recurring
   Assets:EUR:Banco:Sabadell                           -171.18 EUR
   Expenses:Gastos:Casa:Comunidad
 
@@ -114,7 +114,7 @@
   Assets:Invest:MyInvestor:Cash                     -11788.65 EUR
   Assets:Invest:MyInvestor:Deposito
 
-2026-01-12 * "" "Psicóloga"
+2026-01-12 * "" "Psicóloga" #recurring
   Assets:EUR:Banco:Abanca                             -150 EUR
   Expenses:Gastos:Actividades
 
@@ -126,7 +126,7 @@
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante 
 
-2026-01-14 * "" "YT Music"
+2026-01-14 * "" "YT Music" #recurring
   Assets:EUR:Banco:Abanca                              -25.99 EUR
   Expenses:Compras:Medios:Musica
 
@@ -143,7 +143,7 @@
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante
 
-2026-01-16 * "" "Iago TO"
+2026-01-16 * "" "Iago TO" #recurring
   Assets:EUR:Banco:Abanca                             -240 EUR
   Expenses:Gastos:Bebe:Actividades
 
@@ -163,11 +163,11 @@
   Assets:EUR:Banco:Abanca                             2500 EUR
   Income:Salario:Jana
 
-2026-01-20 * "" "Leo claes de bajo"
+2026-01-20 * "" "Leo claes de bajo" #recurring
   Assets:EUR:Banco:Abanca                             -100 EUR
   Expenses:Gastos:Actividades
 
-2026-01-21 * "" "Iago Música"
+2026-01-21 * "" "Iago Música" #recurring
   Assets:EUR:Banco:Abanca                              -45.58 EUR
   Expenses:Gastos:Bebe:Actividades 
 
@@ -217,7 +217,7 @@
 
 2026-01-29 balance Assets:EUR:Banco:Abanca            4446.88 EUR
 
-2026-01-30 * "" "Hipoteca"
+2026-01-30 * "" "Hipoteca" #recurring
   Assets:EUR:Banco:Sabadell                          -1291.06 EUR
   Liabilities:Deudas:Banco                            1016.49 EUR
   Expenses:Compras:Piso:Intereses                      274.57 EUR
@@ -226,7 +226,7 @@
   Assets:EUR:Banco:Sabadell                           -238.77 EUR
   Liabilities:TC:Leo
 
-2026-02-01 * "" "ANPA Iago"
+2026-02-01 * "" "ANPA Iago" #recurring
   Assets:EUR:Banco:Sabadell                            -25 EUR
   Expenses:Gastos:Bebe:Guarde
 
@@ -234,7 +234,7 @@
   Assets:EUR:Banco:Sabadell                            -16.2 EUR
   Expenses:Compras:Medios:Videojuegos
 
-2026-02-02 * "" "BU"
+2026-02-02 * "" "BU" #recurring
   Assets:EUR:Banco:Sabadell                            -52.12 EUR
   Expenses:Gastos:Seguros:BU
 
@@ -250,19 +250,19 @@
   Assets:EUR:Banco:Abanca                             1000 EUR
   Income:Salario:Jana
 
-2026-02-03 * "" "Bausparen"
+2026-02-03 * "" "Bausparen" #recurring
   Assets:EUR:Banco:Abanca                             -100 EUR
   Expenses:Invest
 
-2026-02-03 * "" "Compra Oro"
+2026-02-03 * "" "Compra Oro" #irregular
   Assets:EUR:Banco:Sabadell                          -1422.8 EUR
   Assets:Invest:Stash:Gold                               0.321507466 XAU {2026-02-03} @@ 1341.6 EUR
   Expenses:Compras:Utilidades                           81.20 EUR
-2026-02-03 * "" "Compra Plata"
+2026-02-03 * "" "Compra Plata" #irregular
   Assets:EUR:Banco:Sabadell                          -1339.62 EUR
   Assets:Invest:Stash:Silver                             9.645223971 XAG {2026-02-03} @@ 691.08 EUR
   Expenses:Compras:Utilidades                          648.54 EUR
-2026-02-03 * "" "Compra Oro plata envio"
+2026-02-03 * "" "Compra Oro plata envio" #irregular
   Assets:EUR:Banco:Sabadell                            -39.95 EUR
   Expenses:Compras:Utilidades
   
@@ -278,11 +278,11 @@
   Assets:EUR:Banco:Abanca                              310 EUR
   Expenses:Viaje:Hotel
 
-2026-02-05 * "" "Luz"
+2026-02-05 * "" "Luz" #recurring
   Assets:EUR:Banco:Abanca                              -84.34 EUR
   Expenses:Gastos:Casa:Luz
 
-2026-02-05 * "" "Comunidad"
+2026-02-05 * "" "Comunidad" #recurring
   Assets:EUR:Banco:Sabadell                            -75 EUR
   Expenses:Gastos:Casa:Comunidad
 
@@ -295,7 +295,7 @@
   Assets:Invest:MyInvestor:Cash                     -20153.61 EUR
   Assets:Invest:MyInvestor:Deposito
 
-2026-02-05 * "" "Comedor Iago"
+2026-02-05 * "" "Comedor Iago" #recurring
   Assets:EUR:Banco:Abanca                              -12.2 EUR
   Expenses:Gastos:Bebe:Guarde
 
@@ -303,7 +303,7 @@
   Assets:EUR:Banco:Abanca                             2000 EUR
   Income:Salario:Jana
 
-2026-02-06 * "" "Comedor Ali"
+2026-02-06 * "" "Comedor Ali" #recurring
   Assets:EUR:Banco:Abanca                              -74.05 EUR
   Expenses:Gastos:Bebe:Guarde
 
@@ -341,7 +341,7 @@
   Assets:EUR:Banco:Abanca                               -4.99 EUR
   Expenses:Salir:Restaurante
 
-2026-02-11 * "" "Mesas de Oficina"
+2026-02-11 * "" "Mesas de Oficina" #irregular
   Assets:EUR:Banco:Abanca                             -739.34 EUR
   Expenses:Compras:Casa:Muebles
 
@@ -349,11 +349,11 @@
   Assets:EUR:Banco:Abanca                              -60 EUR
   Expenses:Viaje:Hotel
 
-2026-02-13 * "" "YT Music"
+2026-02-13 * "" "YT Music" #recurring
   Assets:EUR:Banco:Abanca                              -25.99 EUR
   Expenses:Compras:Medios:Musica
 
-2026-02-13 * "" "Lowi"
+2026-02-13 * "" "Lowi" #recurring
   Assets:EUR:Banco:Abanca                              -32.33 EUR
   Expenses:Gastos:Casa:Internet                         20 EUR
   Expenses:Gastos:Movil      
@@ -370,7 +370,7 @@
   Assets:EUR:Banco:Abanca                               -5 EUR
   Expenses:Salir:Cafe
 
-2026-02-16 * "" "Iago Música"
+2026-02-16 * "" "Iago Música" #recurring
   Assets:EUR:Banco:Abanca                              -45.58 EUR
   Expenses:Gastos:Bebe:Actividades
 
@@ -386,7 +386,7 @@
   Assets:EUR:Banco:Abanca                               -5.77 EUR
   Expenses:Compras:Regalos
 
-2026-02-22 * "" "Jardanay"
+2026-02-22 * "" "Jardanay" #recurring
   Assets:EUR:Banco:Abanca                              -12.2 EUR
   Expenses:Gastos:Bebe:Guarde
 
@@ -418,7 +418,7 @@
   Liabilities:TC:Leo                                   -31.86 EUR
   Expenses:Salir:Restaurante
 
-2026-02-24 * "" "Taller Boris"
+2026-02-24 * "" "Taller Boris" #irregular
   Liabilities:TC:Leo                                  -926.55 EUR
   Expenses:Gastos:Coche:Taller
 
@@ -442,7 +442,7 @@
   Assets:EUR:Banco:Abanca                             -358.44 EUR
   Income:Salario:Jana
 
-2026-02-27 * "" "Hipoteca"
+2026-02-27 * "" "Hipoteca" #recurring
   Assets:EUR:Banco:Sabadell                          -1291.06 EUR
   Liabilities:Deudas:Banco                            1017.72 EUR
   Expenses:Compras:Piso:Intereses                      273.34 EUR
@@ -463,11 +463,11 @@
   Assets:EUR:Banco:Sabadell                           -105.9 EUR
   Expenses:Compras:Medios:Libros
 
-2026-03-01 * "" "Iago Huerto"
+2026-03-01 * "" "Iago Huerto" #recurring
   Assets:EUR:Banco:Sabadell                            -30 EUR
   Expenses:Gastos:Bebe:Actividades
 
-2026-03-01 * "" "BU"
+2026-03-01 * "" "BU" #recurring
   Assets:EUR:Banco:Sabadell                            -52.12 EUR
   Expenses:Gastos:Seguros:BU
 
@@ -475,7 +475,7 @@
   Assets:EUR:Banco:Sabadell                            -36.12 EUR
   Expenses:Compras:Tecnología:Software
 
-2026-03-01 * "" "Comunidad"
+2026-03-01 * "" "Comunidad" #recurring
   Assets:EUR:Banco:Sabadell                           -159.07 EUR
   Expenses:Gastos:Casa:Comunidad                        75.00 EUR
   Expenses:Gastos:Casa:Gas                              84.07 EUR
@@ -504,7 +504,7 @@
   Assets:EUR:Banco:Abanca                               -7.98 EUR
   Expenses:Salir:Restaurante
 
-2026-03-03 * "" "Bausparen"
+2026-03-03 * "" "Bausparen" #recurring
   Assets:EUR:Banco:Abanca                             -100 EUR
   Expenses:Invest
 
@@ -542,7 +542,7 @@
   Assets:EUR:Banco:Abanca                              -23.6 EUR
   Expenses:Compras:Bebe
 
-2026-03-05 * "" "Luz"
+2026-03-05 * "" "Luz" #recurring
   Assets:EUR:Banco:Abanca                              -70.86 EUR
   Expenses:Gastos:Casa:Luz
 
@@ -555,11 +555,11 @@
   Assets:Invest:MyInvestor:Cash                     -20181.5 EUR
   Assets:Invest:MyInvestor:Deposito
 
-2026-03-06 * "" "Iago" 
+2026-03-06 * "" "Iago" #recurring
   Assets:EUR:Banco:Abanca                              -50 EUR
   Expenses:Compras:Regalos
 
-2026-03-06 * "" "Ali"
+2026-03-06 * "" "Ali" #recurring
   Assets:EUR:Banco:Abanca                              -50 EUR
   Expenses:Compras:Regalos
 
@@ -575,7 +575,7 @@
   Assets:EUR:Banco:Abanca                              -16.97 EUR
   Expenses:Compras:Utilidades
 
-2026-03-07 * "" "comedor Ali"
+2026-03-07 * "" "comedor Ali" #recurring
   Assets:EUR:Banco:Abanca                              -74.05 EUR
   Expenses:Gastos:Bebe:Guarde 
 
@@ -602,7 +602,7 @@
   Assets:EUR:Banco:Abanca                              -20.15 EUR
   Expenses:Salir:Restaurante
 
-2026-03-11 * "" "Vuelo Jana"
+2026-03-11 * "" "Vuelo Jana" #irregular
   Assets:EUR:Banco:Abanca                             -255 EUR
   Expenses:Viaje:Avion
 
@@ -614,7 +614,7 @@
   Assets:EUR:Banco:Abanca                              -31.94 EUR 
   Expenses:Compras:Utilidades
 
-2026-03-12 * "" "Música Iago"
+2026-03-12 * "" "Música Iago" #recurring
   Assets:EUR:Banco:Abanca                              -45.58 EUR
   Expenses:Gastos:Bebe:Actividades
 
@@ -631,16 +631,16 @@
   Assets:Invest:MyInvestor:Cash                     -11823.44 EUR
   Assets:EUR:Banco:Sabadell
 
-2026-03-13 * "" "YT Music"
+2026-03-13 * "" "YT Music" #recurring
   Assets:EUR:Banco:Abanca                              -25.99 EUR
   Expenses:Compras:Medios:Musica
 
-2026-03-13 * "" "Lowi"
+2026-03-13 * "" "Lowi" #recurring
   Assets:EUR:Banco:Abanca                              -32.04 EUR
   Expenses:Gastos:Casa:Internet                         20 EUR
   Expenses:Gastos:Movil      
 
-2026-03-17 * "" "Agua"
+2026-03-17 * "" "Agua" #recurring
   Assets:EUR:Banco:Abanca                              -51.88 EUR
   Expenses:Gastos:Casa:Agua
 
@@ -656,7 +656,7 @@
   Assets:EUR:Banco:Abanca                              -37.41 EUR
   Expenses:Salir:Restaurante
 
-2026-03-19 * "" "Seguro Coche"
+2026-03-19 * "" "Seguro Coche" #recurring
   Assets:EUR:Banco:Abanca                             -744.36 EUR
   Expenses:Gastos:Coche:Seguro
 
@@ -706,7 +706,7 @@
   Assets:EUR:Banco:Abanca                                9.98 EUR
   Expenses:Compras:Bebe
 
-2026-03-27 * "" "Jardanay"
+2026-03-27 * "" "Jardanay" #recurring
   Assets:EUR:Banco:Abanca                              -49.17 EUR
   Expenses:Gastos:Bebe:Guarde
 
@@ -722,7 +722,7 @@
   Assets:EUR:Banco:Abanca                              250 EUR
   Expenses:Viaje:Hotel
 
-2026-03-30 * "" "Iago Fabi"
+2026-03-30 * "" "Iago Fabi" #recurring
   Assets:EUR:Banco:Abanca                             -190 EUR
   Expenses:Gastos:Bebe:Actividades
 
@@ -730,11 +730,11 @@
   Assets:EUR:Banco:Abanca                             -501.54 EUR
   Income:Salario:Jana
 
-2026-03-31 * "" "Bajo Leo"
+2026-03-31 * "" "Bajo Leo" #recurring
   Assets:EUR:Banco:Abanca                             -100 EUR
   Expenses:Gastos:Actividades
 
-2026-03-31 * "" "Coche Impuestos"
+2026-03-31 * "" "Coche Impuestos" #recurring
   Assets:EUR:Banco:Abanca                             -132.19 EUR
   Expenses:Gastos:Coche:Otros 
 
@@ -750,12 +750,12 @@
   Assets:EUR:Banco:Sabadell                             -2.65 EUR
   Liabilities:TC:Leo
 
-2026-03-31 * "" "Hipoteca"
+2026-03-31 * "" "Hipoteca" #recurring
   Assets:EUR:Banco:Sabadell                          -1291.06 EUR
   Liabilities:Deudas:Banco                            1018.95 EUR
   Expenses:Compras:Piso:Intereses                      272.11 EUR
 
-2026-04-01 * "" "BU"
+2026-04-01 * "" "BU" #recurring
   Assets:EUR:Banco:Sabadell                            -52.12 EUR
   Expenses:Gastos:Seguros:BU
   
@@ -764,6 +764,6 @@
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante
 
-2026-04-03 * "" "Tailscale"
+2026-04-03 * "" "Tailscale" #recurring
   Assets:EUR:Banco:Abanca                               -4.39 EUR
   Expenses:Compras:Tecnología:Software

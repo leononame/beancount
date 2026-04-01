@@ -985,13 +985,59 @@ dashboards:
 
   - title: Food Expenses 🥐
     width: 50%
-    link: ../../account/Expenses:Food/
+    link: ../../account/Expenses:Compras:Alimentos/
     queries:
     - bql: |
         SELECT year, month, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
-        WHERE account ~ '^Expenses:Food:'
+        WHERE account ~ '^Expenses:Compras:Alimentos'
         GROUP BY year, month
-      link: ../../account/Expenses:Food/?time={time}
+      link: ../../account/Expenses:Compras:Alimentos/?time={time}
+    type: echarts
+    script: |
+      const currencyFormatter = utils.currencyFormatter(ledger.ccy);
+      const months = utils.iterateMonths(ledger.dateFirst, ledger.dateLast).map((m) => `${m.month}/${m.year}`);
+      const amounts = {};
+
+      // the beancount query only returns months where there was at least one matching transaction, therefore we group by month
+      for (let row of panel.queries[0].result) {
+        amounts[`${row.month}/${row.year}`] = row.value[ledger.ccy];
+      }
+
+      return {
+        tooltip: {
+          valueFormatter: currencyFormatter,
+        },
+        xAxis: {
+          data: months,
+        },
+        yAxis: {
+          axisLabel: {
+            formatter: currencyFormatter,
+          },
+        },
+        series: [
+          {
+            type: "line",
+            smooth: true,
+            data: months.map((month) => amounts[month] ?? 0),
+          },
+        ],
+        onClick: (event) => {
+          const [month, year] = event.name.split("/");
+          const link = panel.queries[0].link.replace("{time}", `${year}-${month.padStart(2, "0")}`);
+          window.open(helpers.urlFor(link));
+        },
+      };
+
+  - title: Going Out Expenses
+    width: 50%
+    link: ../../account/Expenses:Salir/
+    queries:
+    - bql: |
+        SELECT year, month, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
+        WHERE account ~ '^Expenses:Salir:'
+        GROUP BY year, month
+      link: ../../account/Expenses:Salir/?time={time}
     type: echarts
     script: |
       const currencyFormatter = utils.currencyFormatter(ledger.ccy);
