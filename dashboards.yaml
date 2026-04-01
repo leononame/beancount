@@ -1166,13 +1166,13 @@ dashboards:
   panels:
   - title: Travel Costs per Year 📅
     # Note: Holidays over New Year's Eve are counted in both years aliquot.
-    link: ../../income_statement/?filter=#travel
+    link: ../../income_statement/?filter=#viaje
     queries:
     - bql: |
         SELECT year, CONVERT(SUM(COST(position)), '{{ledger.ccy}}', LAST(date)) AS value
-        WHERE account ~ '^Expenses:' AND 'travel' IN tags
+        WHERE account ~ '^Expenses:' AND 'viaje' IN tags
         GROUP BY year
-      link: ../../account/Expenses/?filter=#travel&time={time}
+      link: ../../account/Expenses/?filter=#viaje&time={time}
     type: echarts
     script: |
       const currencyFormatter = utils.currencyFormatter(ledger.ccy);
@@ -1211,13 +1211,13 @@ dashboards:
 
   - title: Destinations ✈️
     height: 300px
-    link: ../../income_statement/?filter=#travel
+    link: ../../income_statement/?filter=#viaje
     queries:
     - bql: |
         SELECT tags, CONVERT(position, '{{ledger.ccy}}', date) AS value
-        WHERE account ~ '^Expenses:' AND 'travel' IN tags
+        WHERE account ~ '^Expenses:' AND 'viaje' IN tags
         ORDER BY date ASC
-      link: ../../account/Expenses/?filter=#{travel}
+      link: ../../account/Expenses/?filter=#{tag}
     type: echarts
     script: |
       const currencyFormatter = utils.currencyFormatter(ledger.ccy);
@@ -1264,7 +1264,7 @@ dashboards:
           },
         ],
         onClick: (event) => {
-          const link = panel.queries[0].link.replace("{travel}", event.name);
+          const link = panel.queries[0].link.replace("{tag}", event.name);
           window.open(helpers.urlFor(link));
         },
       };

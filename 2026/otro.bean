@@ -274,7 +274,7 @@
   Assets:EUR:Banco:Abanca                              -65.97 EUR
   Expenses:Compras:Utilidades 
 
-2026-02-05 * "" "Vacaciones Adri+Chen"
+2026-02-05 * "" "Vacaciones Adri+Chen" #viaje #asturias-2026
   Assets:EUR:Banco:Abanca                              310 EUR
   Expenses:Viaje:Hotel
 
@@ -315,11 +315,11 @@
   Assets:EUR:Banco:Abanca                              -50 EUR
   Expenses:Compras:Regalos
 
-2026-02-07 * "" "Vacaciones Adri+Chen"
+2026-02-07 * "" "Vacaciones Adri+Chen" #viaje #asturias-2026
   Assets:EUR:Banco:Abanca                             -618.19 EUR
   Expenses:Viaje:Hotel
 
-2026-02-09 * "" "Hotel Chiclana"
+2026-02-09 * "" "Hotel Chiclana" #viaje #chiclana-2026
   Assets:EUR:Banco:Abanca                             -109 EUR
   Expenses:Viaje:Hotel
 
@@ -345,7 +345,7 @@
   Assets:EUR:Banco:Abanca                             -739.34 EUR
   Expenses:Compras:Casa:Muebles
 
-2026-02-12 * "" "Hotel Camino Chiclana"
+2026-02-12 * "" "Hotel Camino Chiclana" #viaje #chiclana-2026
   Assets:EUR:Banco:Abanca                              -60 EUR
   Expenses:Viaje:Hotel
 
@@ -358,15 +358,15 @@
   Expenses:Gastos:Casa:Internet                         20 EUR
   Expenses:Gastos:Movil      
 
-2026-02-13 * "" "Gasolina"
+2026-02-13 * "" "Gasolina"#viaje #chiclana-2026
   Assets:EUR:Banco:Abanca                              -61.7 EUR
   Expenses:Gastos:Coche:Gasolina
 
-2026-02-14   * "" "Hotel Chiclana"
+2026-02-14   * "" "Hotel Chiclana" #viaje #chiclana-2026
   Assets:EUR:Banco:Abanca                             -178 EUR
   Expenses:Viaje:Hotel
 
-2026-02-14 * "" "Café"
+2026-02-14 * "" "Café" #viaje #chiclana-2026
   Assets:EUR:Banco:Abanca                               -5 EUR
   Expenses:Salir:Cafe
 
@@ -378,7 +378,7 @@
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante
 
-2026-02-20 * "" "hotel Conil"
+2026-02-20 * "" "hotel Conil"#viaje #chiclana-2026
   Assets:EUR:Banco:Abanca                             -235 EUR
   Expenses:Viaje:Hotel
 
@@ -398,23 +398,23 @@
   Assets:EUR:Banco:Abanca                             5964.36 EUR
   Income:Salario:Leo
 
-2026-02-19 * "" "Hotel CHiclana"
+2026-02-19 * "" "Hotel CHiclana" #viaje #chiclana-2026
   Liabilities:TC:Leo                                  -131.5 EUR
   Expenses:Viaje:Hotel
 
-2026-02-20 * "" "Burger"
+2026-02-20 * "" "Burger" #viaje #chiclana-2026
   Liabilities:TC:Leo                                   -10.7 EUR
   Expenses:Salir:Restaurante
 
-2026-02-20 * "" "Gasolinera"
+2026-02-20 * "" "Gasolinera" #viaje #chiclana-2026
   Liabilities:TC:Leo                                   -35.36 EUR
   Expenses:Gastos:Coche:Gasolina
 
-2026-02-21 * "" "Gasolinera"
+2026-02-21 * "" "Gasolinera" #viaje #chiclana-2026
   Liabilities:TC:Leo                                   -84.28 EUR
   Expenses:Gastos:Coche:Gasolina
 
-2026-02-21 * "" "McDonald's"
+2026-02-21 * "" "McDonald's" #viaje #chiclana-2026
   Liabilities:TC:Leo                                   -31.86 EUR
   Expenses:Salir:Restaurante
 
@@ -686,7 +686,7 @@
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante
 
-2026-03-26 * "" "Airbnb O Grove"
+2026-03-26 * "" "Airbnb O Grove" #viaje #ogrove-2026
   Assets:EUR:Banco:Abanca                             -490.5 EUR
   Expenses:Viaje:Hotel
 
@@ -698,7 +698,7 @@
   Assets:EUR:Banco:Abanca                              -13.19 EUR
   Expenses:Compras:Tecnología:Hardware 
 
-2026-03-25 * "" "Barco Ons"
+2026-03-25 * "" "Barco Ons" #viaje #ogrove-2026
   Assets:EUR:Banco:Sabadell                            -55.5 EUR
   Expenses:Viaje:Tour 
 
@@ -718,7 +718,7 @@
   Assets:EUR:Banco:Abanca                              -53.9 EUR
   Expenses:Salir:Restaurante
 
-2026-03-30 * "" "Hotel O Grove"
+2026-03-30 * "" "Hotel O Grove" #viaje #ogrove-2026
   Assets:EUR:Banco:Abanca                              250 EUR
   Expenses:Viaje:Hotel
 
