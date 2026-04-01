@@ -726,7 +726,44 @@
   Assets:EUR:Banco:Abanca                             -190 EUR
   Expenses:Gastos:Bebe:Actividades
 
+2026-03-31 * "" "TGSS Jana"
+  Assets:EUR:Banco:Abanca                             -501.54 EUR
+  Income:Salario:Jana
+
+2026-03-31 * "" "Bajo Leo"
+  Assets:EUR:Banco:Abanca                             -100 EUR
+  Expenses:Gastos:Actividades
+
+2026-03-31 * "" "Coche Impuestos"
+  Assets:EUR:Banco:Abanca                             -132.19 EUR
+  Expenses:Gastos:Coche:Otros 
+
+2026-03-29 * "" "Millennium"
+  Assets:EUR:Banco:Sabadell                            -10 EUR
+  Expenses:Transporte:Publico
+
+2026-03-30 * "" "Steam Laysara"
+  Assets:EUR:Banco:Sabadell                             14.7 EUR
+  Expenses:Compras:Medios:Videojuegos
+
+2026-03-31 * "" "TC Leo"
+  Assets:EUR:Banco:Sabadell                             -2.65 EUR
+  Liabilities:TC:Leo
+
+2026-03-31 * "" "Hipoteca"
+  Assets:EUR:Banco:Sabadell                          -1291.06 EUR
+  Liabilities:Deudas:Banco                            1018.95 EUR
+  Expenses:Compras:Piso:Intereses                      272.11 EUR
+
+2026-04-01 * "" "BU"
+  Assets:EUR:Banco:Sabadell                            -52.12 EUR
+  Expenses:Gastos:Seguros:BU
+  
 ; TODO
-2026-03-31 * "" "Uber Eats"
+2026-04-03 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante
+
+2026-04-03 * "" "Tailscale"
+  Assets:EUR:Banco:Abanca                               -4.39 EUR
+  Expenses:Compras:Tecnología:Software
