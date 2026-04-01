@@ -510,3 +510,7 @@
 2026-04-01 * "café" #bot
     Assets:EUR:Efectivo:Jana    -2.10 EUR
     Expenses:Salir:Cafe
+
+2026-04-01 * "yoga Fede" #bot
+    Assets:EUR:Efectivo:Jana   -80.00 EUR
+    Expenses:Deporte
