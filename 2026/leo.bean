@@ -802,3 +802,7 @@
 2026-04-03 * "café" #bot
     Assets:EUR:Efectivo:Leo    -7.80 EUR
     Expenses:Salir:Cafe
+
+2026-04-04 * "imán" #bot
+    Assets:EUR:Efectivo:Leo    -2.50 EUR
+    Expenses:Viaje:Souvenirs
