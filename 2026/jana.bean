@@ -514,3 +514,7 @@
 2026-04-01 * "yoga Fede" #bot
     Assets:EUR:Efectivo:Jana   -80.00 EUR
     Expenses:Deporte
+
+2026-04-05 * "tiger" #bot
+    Assets:EUR:Efectivo:Jana    -1.50 EUR
+    Expenses:Compras:Utilidades
