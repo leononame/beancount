@@ -786,7 +786,8 @@
 
 2026-04-06 * "" "Transferencia"
   Assets:Invest:MyInvestor:Cash                     -20212.42 EUR
-  Assets:EUR:Banco:Sabadell
+  Assets:EUR:Banco:Sabadell                          20212.42 EUR
+
 
 ; TODO 
 
