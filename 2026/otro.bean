@@ -759,11 +759,42 @@
   Assets:EUR:Banco:Sabadell                            -52.12 EUR
   Expenses:Gastos:Seguros:BU
   
-; TODO
-2026-04-03 * "" "Uber Eats"
+2026-04-02 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante
 
-2026-04-03 * "" "Tailscale" #recurring
+2026-04-02 * "" "Bausparen"
+  Assets:EUR:Banco:Abanca                             -100 EUR
+  Expenses:Invest
+
+2026-04-04 * "" "Pizza O Grove" #viaje #ogrove-2026
+  Assets:EUR:Banco:Abanca                             -119.7 EUR
+  Expenses:Salir:Restaurante
+
+2026-04-01 * "" "Iago Huerto"
+  Assets:EUR:Banco:Sabadell                            -30 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-04-01 * "" "Gasolina" #viaje #ogrove-2026
+  Liabilities:TC:Leo                                   -92.02 EUR
+  Expenses:Gastos:Coche:Gasolina
+
+2026-04-05 * "" "Depósito Fin"
+  Assets:Invest:MyInvestor:Cash                      20212.42 EUR
+  Assets:Invest:MyInvestor:Deposito                 -20181.5 EUR
+  Income:Invest:Intereses                              -30.92 EUR
+
+2026-04-06 * "" "Transferencia"
+  Assets:Invest:MyInvestor:Cash                     -20212.42 EUR
+  Assets:EUR:Banco:Sabadell
+
+; TODO 
+
+2026-04-07 * "" "Tailscale" #recurring
   Assets:EUR:Banco:Abanca                               -4.39 EUR
   Expenses:Compras:Tecnología:Software
+
+2026-04-07 * "" "Airbnb O Grove" #viaje #ogrove-2026
+  Assets:EUR:Banco:Abanca                               -5 EUR
+  Expenses:Viaje:Hotel
+  
