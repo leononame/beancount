@@ -518,3 +518,7 @@
 2026-04-05 * "tiger" #bot
     Assets:EUR:Efectivo:Jana    -1.50 EUR
     Expenses:Compras:Utilidades
+
+2026-04-06 * "paga iago" #bot
+    Assets:EUR:Efectivo:Jana    -1.00 EUR
+    Expenses:Gastos:Bebe
