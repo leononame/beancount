@@ -818,3 +818,7 @@
 2026-04-07 * "pan" #bot
     Assets:EUR:Efectivo:Leo    -1.50 EUR
     Expenses:Compras:Alimentos
+
+2026-04-08 * "filloa" #bot
+    Assets:EUR:Efectivo:Leo   -12.00 EUR
+    Expenses:Salir:Conciertos
