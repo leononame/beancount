@@ -788,9 +788,6 @@
   Assets:Invest:MyInvestor:Cash                     -20212.42 EUR
   Assets:EUR:Banco:Sabadell                          20212.42 EUR
 
-
-; TODO 
-
 2026-04-07 * "" "Tailscale" #recurring
   Assets:EUR:Banco:Abanca                               -4.39 EUR
   Expenses:Compras:Tecnología:Software
@@ -798,4 +795,25 @@
 2026-04-07 * "" "Airbnb O Grove" #viaje #ogrove-2026
   Assets:EUR:Banco:Abanca                               -5 EUR
   Expenses:Viaje:Hotel
-  
+
+2026-04-07 * "" "Bombonas SodaStream"
+  Assets:EUR:Banco:Abanca                             -103 EUR
+  Expenses:Compras:Alimentos
+
+2026-04-08 * "" "Comedor ali"
+  Assets:EUR:Banco:Abanca                              -54.99 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-04-08 * "" "Comunidad"
+  Assets:EUR:Banco:Sabadell                            -75 EUR
+  Expenses:Gastos:Casa:Comunidad
+
+; TODO
+2026-04-12 * "" "Uber One"
+  Assets:EUR:Banco:Abanca                               -4.99 EUR
+  Expenses:Salir:Restaurante
+
+2026-04-12 * "" "Pepita"
+  Assets:EUR:Banco:Abanca                              -40.63 EUR
+  Expenses:Salir:Restaurante
+
