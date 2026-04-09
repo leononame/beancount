@@ -534,3 +534,7 @@
 2026-04-08 * "matcha" #bot
     Assets:EUR:Efectivo:Jana    -3.50 EUR
     Expenses:Salir:Cafe
+
+2026-04-09 * "café" #bot
+    Assets:EUR:Efectivo:Jana    -6.21 EUR
+    Expenses:Salir:Cafe
