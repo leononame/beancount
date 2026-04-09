@@ -538,3 +538,7 @@
 2026-04-09 * "café" #bot
     Assets:EUR:Efectivo:Jana    -6.21 EUR
     Expenses:Salir:Cafe
+
+2026-04-09 * "comida" #bot
+    Assets:EUR:Efectivo:Jana   -17.30 EUR
+    Expenses:Salir:Restaurante
