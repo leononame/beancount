@@ -826,3 +826,7 @@
 2026-04-09 * "farinarium" #bot
     Assets:EUR:Efectivo:Leo    -1.80 EUR
     Expenses:Compras:Alimentos
+
+2026-04-11 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo   -10.09 EUR
+    Expenses:Perdido
