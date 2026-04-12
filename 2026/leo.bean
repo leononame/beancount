@@ -842,3 +842,7 @@
 2026-04-12 * "parking" #bot
     Assets:EUR:Efectivo:Leo    -1.30 EUR
     Expenses:Gastos:Coche:Parking
+
+2026-04-12 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo    -1.20 EUR
+    Expenses:Salir:Cafe
