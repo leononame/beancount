@@ -862,3 +862,7 @@
 2026-04-13 * "paga Iago" #bot
     Assets:EUR:Efectivo:Leo    -1.00 EUR
     Expenses:Gastos:Bebe
+
+2026-04-15 * "familia" #bot
+    Assets:EUR:Efectivo:Leo    -0.92 EUR
+    Expenses:Compras:Alimentos
