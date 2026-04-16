@@ -851,6 +851,18 @@
   Assets:EUR:Banco:Abanca                              -20 EUR
   Expenses:Lujo
 
-2026-04-15 * "" "Iago Fabi"
+2026-04-15 * "" "Iago Fabi" #recurring
   Assets:EUR:Banco:Abanca                              -90 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+2026-04-15 * "" "Hexarchy"
+  Assets:EUR:Banco:Sabadell                             -1.36 EUR
+  Expenses:Compras:Medios:Videojuegos
+
+2026-04-15 * "" "Frostpunk"
+  Assets:EUR:Banco:Sabadell                             -2.98 EUR
+  Expenses:Compras:Medios:Videojuegos
+
+2026-04-16 * "" "Iago Fabi" #recurring
+  Assets:EUR:Banco:Abanca                             -180 EUR
   Expenses:Gastos:Bebe:Actividades
