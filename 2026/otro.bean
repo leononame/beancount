@@ -866,3 +866,18 @@
 2026-04-16 * "" "Iago Fabi" #recurring
   Assets:EUR:Banco:Abanca                             -180 EUR
   Expenses:Gastos:Bebe:Actividades
+
+2026-04-17 * "" "Cartera"
+  Assets:Invest:MyInvestor:Cartera                   -5208.2 EUR
+  Assets:Invest:MyInvestor:Cash
+
+2026-04-17 * "" "Luz" #recurring
+  Assets:EUR:Banco:Abanca                              -65.2 EUR
+  Expenses:Gastos:Casa:Luz
+
+; TODO
+2026-04-19 * "" "Transferencia"
+  Assets:Invest:MyInvestor:Cash                      -5208.2 EUR
+  Assets:EUR:Banco:Sabadell
+
+  
