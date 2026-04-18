@@ -542,3 +542,7 @@
 2026-04-09 * "comida" #bot
     Assets:EUR:Efectivo:Jana   -17.30 EUR
     Expenses:Salir:Restaurante
+
+2026-04-18 * "froiz" #bot
+    Assets:EUR:Efectivo:Jana   -16.11 EUR
+    Expenses:Compras:Alimentos
