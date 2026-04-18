@@ -898,3 +898,7 @@
 2026-04-18 * "aldi" #bot
     Assets:EUR:Efectivo:Leo   -69.02 EUR
     Expenses:Compras:Alimentos
+
+2026-04-18 * "helado" #bot
+    Assets:EUR:Efectivo:Leo   -14.40 EUR
+    Expenses:Salir:Cafe
