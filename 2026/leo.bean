@@ -882,3 +882,7 @@
 2026-04-17 * "regalo jana" #bot
     Assets:EUR:Efectivo:Leo   -69.00 EUR
     Expenses:Compras:Regalos
+
+2026-04-18 * "pan" #bot
+    Assets:EUR:Efectivo:Leo    -6.48 EUR
+    Expenses:Compras:Alimentos
