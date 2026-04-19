@@ -566,3 +566,7 @@
 2026-04-18 * "perdido" #bot
     Assets:EUR:Efectivo:Jana   -75.82 EUR
     Expenses:Perdido
+
+2026-04-19 * "café" #bot
+    Assets:EUR:Efectivo:Jana    -6.21 EUR
+    Expenses:Salir:Cafe
