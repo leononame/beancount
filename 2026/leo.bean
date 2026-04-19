@@ -902,3 +902,7 @@
 2026-04-18 * "helado" #bot
     Assets:EUR:Efectivo:Leo   -14.40 EUR
     Expenses:Salir:Cafe
+
+2026-04-19 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo    -1.50 EUR
+    Expenses:Salir:Cafe
