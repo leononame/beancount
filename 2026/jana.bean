@@ -574,3 +574,7 @@
 2026-04-19 * "diesel" #bot
     Assets:EUR:Efectivo:Jana   -91.00 EUR
     Expenses:Gastos:Coche:Gasolina
+
+2026-04-20 * "paga iago" #bot
+    Assets:EUR:Efectivo:Jana    -1.00 EUR
+    Expenses:Gastos:Bebe
