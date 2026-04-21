@@ -875,9 +875,34 @@
   Assets:EUR:Banco:Abanca                              -65.2 EUR
   Expenses:Gastos:Casa:Luz
 
-; TODO
-2026-04-19 * "" "Transferencia"
+2026-04-17 * "" "Cumple Jana Vagalume"
+  Assets:EUR:Banco:Abanca                              -95 EUR
+  Expenses:Gastos:Actividades
+
+2026-04-17 * "" "Intereses Abanca"
+  Assets:EUR:Banco:Abanca                               -0.21 EUR
+  Expenses:Gastos:Banco:Intereses
+  
+2026-04-17 * "" "Transferencia"
   Assets:Invest:MyInvestor:Cash                      -5208.2 EUR
   Assets:EUR:Banco:Sabadell
 
-  
+2026-04-17 * "" "Lotería"
+  Assets:EUR:Banco:Sabadell                             -2.5 EUR
+  Expenses:Lujo
+
+2026-04-18 * "" "Gadis"
+  Assets:EUR:Banco:Abanca                              -38.86 EUR
+  Expenses:Compras:Alimentos
+
+2026-04-20 * "" "Comedor Iago" #recurring
+  Assets:EUR:Banco:Abanca                              -39.17 EUR
+  Expenses:Gastos:Bebe:Guarde
+; TODO
+2026-04-24 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.13 EUR
+  Expenses:Salir:Restaurante
+
+2026-04-24 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.13 EUR
+  Expenses:Salir:Restaurante
