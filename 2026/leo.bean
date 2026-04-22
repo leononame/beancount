@@ -906,3 +906,7 @@
 2026-04-19 * "cafe" #bot
     Assets:EUR:Efectivo:Leo    -1.50 EUR
     Expenses:Salir:Cafe
+
+2026-04-22 * "familia" #bot
+    Assets:EUR:Efectivo:Leo    -2.37 EUR
+    Expenses:Compras:Alimentos
