@@ -578,3 +578,7 @@
 2026-04-20 * "paga iago" #bot
     Assets:EUR:Efectivo:Jana    -1.00 EUR
     Expenses:Gastos:Bebe
+
+2026-04-23 * "chicles" #bot
+    Assets:EUR:Efectivo:Jana    -1.30 EUR
+    Expenses:Compras:Alimentos
