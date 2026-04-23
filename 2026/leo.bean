@@ -918,3 +918,7 @@
 2026-04-23 * "desayuno" #bot
     Assets:EUR:Efectivo:Leo   -23.50 EUR
     Expenses:Salir:Restaurante
+
+2026-04-23 * "parking" #bot
+    Assets:EUR:Efectivo:Leo    -0.80 EUR
+    Expenses:Gastos:Coche:Parking
