@@ -898,11 +898,25 @@
 2026-04-20 * "" "Comedor Iago" #recurring
   Assets:EUR:Banco:Abanca                              -39.17 EUR
   Expenses:Gastos:Bebe:Guarde
-; TODO
-2026-04-24 * "" "Uber Eats"
+
+2026-04-22 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.13 EUR
   Expenses:Salir:Restaurante
 
-2026-04-24 * "" "Uber Eats"
+2026-04-22 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.13 EUR
   Expenses:Salir:Restaurante
+
+2026-04-22 * "" "Jana"
+  Assets:EUR:Banco:Abanca                             2000 EUR
+  Income:Salario:Jana
+
+2026-04-23 * "" "Corte Inglés"
+  Assets:EUR:Banco:Abanca                             -125.82 EUR
+  Expenses:Compras:Alimentos
+
+;
+2026-04-27 * "" "Juegos Wallapop"
+  Assets:EUR:Banco:Abanca                              -22.18 EUR
+  Expenses:Compras:Bebe
+  
