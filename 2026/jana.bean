@@ -586,3 +586,7 @@
 2026-04-26 * "cena" #bot
     Assets:EUR:Efectivo:Jana   -27.50 EUR
     Expenses:Salir:Restaurante
+
+2026-04-27 * "Freni" #bot
+    Assets:EUR:Efectivo:Jana   -55.00 EUR
+    Expenses:Gastos:Casa
