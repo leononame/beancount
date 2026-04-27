@@ -187,7 +187,7 @@
   Assets:EUR:Banco:Abanca                            -6500 EUR
   Assets:EUR:Banco:Sabadell
   
-2026-01-27 * "" "Hetzner"
+2026-01-27 * "" "Hetzner" #recurring
   Assets:EUR:Banco:Abanca                              -13.19 EUR
   Expenses:Compras:Tecnología:Software
   
@@ -430,7 +430,7 @@
   Assets:EUR:Banco:Abanca                              -39.38 EUR
   Expenses:Salir:Restaurante
 
-2026-02-26 * "" "Storage Box"
+2026-02-26 * "" "Storage Box" #recurring
   Assets:EUR:Banco:Abanca                              -13.19 EUR
   Expenses:Compras:Tecnología:Software
 
@@ -694,7 +694,7 @@
   Assets:EUR:Banco:Abanca                              -23.98 EUR
   Expenses:Compras:Regalos
 
-2026-03-26 * "" "Hetzner"
+2026-03-26 * "" "Hetzner" #recurring
   Assets:EUR:Banco:Abanca                              -13.19 EUR
   Expenses:Compras:Tecnología:Hardware 
 
@@ -915,8 +915,32 @@
   Assets:EUR:Banco:Abanca                             -125.82 EUR
   Expenses:Compras:Alimentos
 
-;
-2026-04-27 * "" "Juegos Wallapop"
+2026-04-24 * "" "Kebab"
+  Assets:EUR:Banco:Abanca                              -11.8 EUR
+  Expenses:Salir:Restaurante
+
+2026-04-26 * "" "Parking Santa Cristina"
+  Assets:EUR:Banco:Abanca                               -8.35 EUR
+  Expenses:Gastos:Coche:Parking
+
+2026-04-27 * "" "Hetzner" #recurring
+  Assets:EUR:Banco:Abanca                              -13.19 EUR
+  Expenses:Compras:Tecnología:Hardware
+
+2026-04-24 * "" "Salario Leo"
+  Assets:EUR:Banco:Sabadell                           5820.55 EUR
+  Income:Salario:Leo
+
+;TODO 
+
+2026-04-30 * "" "Juegos Wallapop"
   Assets:EUR:Banco:Abanca                              -22.18 EUR
   Expenses:Compras:Bebe
   
+2026-04-30 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.13 EUR
+  Expenses:Salir:Restaurante
+
+2026-04-30 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.13 EUR
+  Expenses:Salir:Restaurante
