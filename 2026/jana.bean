@@ -590,3 +590,7 @@
 2026-04-27 * "Freni" #bot
     Assets:EUR:Efectivo:Jana   -55.00 EUR
     Expenses:Gastos:Casa
+
+2026-04-27 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
