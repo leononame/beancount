@@ -966,3 +966,7 @@
 2026-04-29 * "dia" #bot
     Assets:EUR:Efectivo:Leo    -2.64 EUR
     Expenses:Compras:Alimentos
+
+2026-04-29 * "filloa" #bot
+    Assets:EUR:Efectivo:Leo   -15.00 EUR
+    Expenses:Salir:Conciertos
