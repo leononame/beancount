@@ -978,3 +978,7 @@
 2026-04-29 * "cervezas" #bot
     Assets:EUR:Efectivo:Leo    -7.00 EUR
     Expenses:Salir:Copas
+
+2026-04-29 * "filloa" #bot
+    Assets:EUR:Efectivo:Leo   -25.00 EUR
+    Expenses:Salir:Conciertos
