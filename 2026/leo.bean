@@ -962,3 +962,7 @@
 2026-04-29 * "paga Iago" #bot
     Assets:EUR:Efectivo:Leo    -1.00 EUR
     Expenses:Gastos:Bebe
+
+2026-04-29 * "dia" #bot
+    Assets:EUR:Efectivo:Leo    -2.64 EUR
+    Expenses:Compras:Alimentos
