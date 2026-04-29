@@ -931,15 +931,23 @@
   Assets:EUR:Banco:Sabadell                           5820.55 EUR
   Income:Salario:Leo
 
-;TODO 
+2026-04-28 * "" "Cumple Iago"
+  Assets:EUR:Banco:Abanca                              -10 EUR
+  Expenses:Compras:Regalos
 
-2026-04-30 * "" "Juegos Wallapop"
-  Assets:EUR:Banco:Abanca                              -22.18 EUR
-  Expenses:Compras:Bebe
+2026-04-28 * "" "Paxariños Iago"
+  Assets:EUR:Banco:Abanca                              -42 EUR
+  Expenses:Gastos:Bebe:Actividades
   
-2026-04-30 * "" "Uber Eats"
+2026-04-29 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.13 EUR
   Expenses:Salir:Restaurante
+
+2026-04-29 * "" "Juegos Wallapop"
+  Assets:EUR:Banco:Abanca                              -22.18 EUR
+  Expenses:Compras:Bebe
+
+;TODO 
 
 2026-04-30 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.13 EUR
