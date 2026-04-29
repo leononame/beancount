@@ -598,3 +598,7 @@
 2026-04-28 * "farmacia" #bot
     Assets:EUR:Efectivo:Jana   -29.00 EUR
     Expenses:Compras:Utilidades
+
+2026-04-29 * "coruñasia" #bot
+    Assets:EUR:Efectivo:Jana    -6.60 EUR
+    Expenses:Compras:Alimentos
