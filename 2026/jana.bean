@@ -606,3 +606,7 @@
 2026-04-30 * "matcha" #bot
     Assets:EUR:Efectivo:Jana    -4.50 EUR
     Expenses:Salir:Cafe
+
+2026-04-30 * "masaje" #bot
+    Assets:EUR:Efectivo:Jana   -45.00 EUR
+    Expenses:Lujo
