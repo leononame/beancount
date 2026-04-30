@@ -982,3 +982,7 @@
 2026-04-29 * "filloa" #bot
     Assets:EUR:Efectivo:Leo   -25.00 EUR
     Expenses:Salir:Conciertos
+
+2026-04-30 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo   -15.10 EUR
+    Expenses:Salir:Restaurante
