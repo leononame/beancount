@@ -610,3 +610,7 @@
 2026-04-30 * "masaje" #bot
     Assets:EUR:Efectivo:Jana   -45.00 EUR
     Expenses:Lujo
+
+2026-04-30 * "buen rollo" #bot
+    Assets:EUR:Efectivo:Jana    -3.90 EUR
+    Expenses:Salir:Cafe
