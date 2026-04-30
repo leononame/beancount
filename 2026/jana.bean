@@ -602,3 +602,7 @@
 2026-04-29 * "coruñasia" #bot
     Assets:EUR:Efectivo:Jana    -6.60 EUR
     Expenses:Compras:Alimentos
+
+2026-04-30 * "matcha" #bot
+    Assets:EUR:Efectivo:Jana    -4.50 EUR
+    Expenses:Salir:Cafe
