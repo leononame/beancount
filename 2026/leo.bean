@@ -998,3 +998,7 @@
 2026-05-01 * "farinarium" #bot
     Assets:EUR:Efectivo:Leo    -4.00 EUR
     Expenses:Compras:Alimentos
+
+2026-05-02 * "parking" #bot
+    Assets:EUR:Efectivo:Leo   -23.23 EUR
+    Expenses:Gastos:Coche:Parking
