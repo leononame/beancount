@@ -1002,3 +1002,7 @@
 2026-05-02 * "parking" #bot
     Assets:EUR:Efectivo:Leo   -23.23 EUR
     Expenses:Gastos:Coche:Parking
+
+2026-05-03 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca  -300.00 EUR
+    Assets:EUR:Efectivo:Leo
