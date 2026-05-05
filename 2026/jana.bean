@@ -622,3 +622,7 @@
 2026-05-03 * "desayuno" #bot
     Assets:EUR:Efectivo:Jana   -16.20 EUR
     Expenses:Salir:Restaurante
+
+2026-05-05 * "Vagalume" #bot
+    Assets:EUR:Efectivo:Jana   -24.50 EUR
+    Expenses:Salir:Cafe
