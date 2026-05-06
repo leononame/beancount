@@ -646,3 +646,7 @@
 2026-05-05 * "roll de canela" #bot
     Assets:EUR:Efectivo:Jana    -3.00 EUR
     Expenses:Salir:Cafe
+
+2026-05-06 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
