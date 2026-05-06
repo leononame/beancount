@@ -650,3 +650,7 @@
 2026-05-06 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -300.00 EUR
     Assets:EUR:Efectivo:Jana
+
+2026-05-06 * "matcha" #bot
+    Assets:EUR:Efectivo:Jana    -4.80 EUR
+    Expenses:Salir:Cafe
