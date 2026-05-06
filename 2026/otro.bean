@@ -947,8 +947,78 @@
   Assets:EUR:Banco:Abanca                              -22.18 EUR
   Expenses:Compras:Bebe
 
-;TODO 
-
 2026-04-30 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.13 EUR
   Expenses:Salir:Restaurante
+
+2026-04-30 * "" "TGSS Jana"
+  Assets:EUR:Banco:Abanca                             -501.54 EUR
+  Income:Salario:Jana
+
+2026-04-28 * "" "Tomates San Marzano 48 Market Casa Italia"
+  Assets:EUR:Banco:Sabadell                           -108 EUR
+  Expenses:Compras:Alimentos
+
+2026-04-30 * "" "Hipoteca"
+  Assets:EUR:Banco:Sabadell                          -1291.06 EUR
+  Liabilities:Deudas:Banco                            1020.18 EUR
+  Expenses:Compras:Piso:Intereses                      270.88 EUR
+
+2026-04-30 * "" "TC Leo"
+  Assets:EUR:Banco:Sabadell                            -92.02 EUR
+  Liabilities:TC:Leo
+
+2026-05-01 * "" "Huerto Iago" #recurring
+  Assets:EUR:Banco:Sabadell                            -30 EUR
+  Expenses:Gastos:Bebe:Actividades 
+
+2026-05-04 * "" "BU" #recurring
+  Assets:EUR:Banco:Sabadell                            -52.12 EUR
+  Expenses:Gastos:Seguros:BU
+
+2026-05-05 * "" "Comunidad" #recurring
+  Assets:EUR:Banco:Sabadell                            -47 EUR
+  Expenses:Gastos:Casa:Comunidad
+  
+2026-05-03 * "" "Hal Cash retirada dinero fallida"
+  Assets:EUR:Banco:Abanca                             -300 EUR
+  Assets:EUR:Deudas
+
+2026-05-03 * "" "Bazar Cervezas"
+  Assets:EUR:Banco:Abanca                               -2 EUR
+  Expenses:Salir:Copas
+
+2026-05-04 * "" "Gadis"
+  Assets:EUR:Banco:Abanca                              -59.92 EUR
+  Expenses:Compras:Alimentos
+
+2026-05-05 * "" "Bausparen" #recurring
+  Assets:EUR:Banco:Abanca                             -100 EUR
+  Expenses:Invest
+
+2026-05-06 * "" "Tailscale" #recurring
+  Assets:EUR:Banco:Abanca                               -4.29 EUR
+  Expenses:Compras:Tecnología:Software
+
+2026-05-06 * "" "Luz" #recurring
+  Assets:EUR:Banco:Abanca                              -55.98 EUR
+  Expenses:Gastos:Casa:Luz
+
+2026-05-06 * "" "Iago Escuela de Música Matrícula"
+  Assets:EUR:Banco:Abanca                              -71.61 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+
+; TODO
+2026-05-08 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -40.58 EUR
+  Expenses:Salir:Restaurante
+
+2026-05-08 * "" "Airbnb Asturias Micha" #asturias-micha-2026
+  Assets:EUR:Banco:Abanca                             -930.81 EUR
+  Expenses:Viaje:Hotel
+
+2026-05-08 * "" "Vinted Chaqueta Iago"
+  Assets:EUR:Banco:Abanca                              -26.29 EUR
+  Expenses:Compras:Bebe
+
