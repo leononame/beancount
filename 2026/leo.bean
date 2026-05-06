@@ -1010,3 +1010,7 @@
 2026-05-05 * "bazar" #bot
     Assets:EUR:Efectivo:Leo    -6.50 EUR
     Expenses:Compras:Utilidades
+
+2026-05-06 * "filloa" #bot
+    Assets:EUR:Efectivo:Leo   -15.00 EUR
+    Expenses:Salir:Conciertos
