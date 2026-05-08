@@ -1030,3 +1030,7 @@
 2026-05-08 * "café siboney" #bot
     Assets:EUR:Efectivo:Leo   -91.20 EUR
     Expenses:Compras:Alimentos
+
+2026-05-08 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca  -300.00 EUR
+    Assets:EUR:Efectivo:Leo
