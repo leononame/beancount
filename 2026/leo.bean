@@ -1034,3 +1034,7 @@
 2026-05-08 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca  -300.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2026-05-09 * "copas" #bot
+    Assets:EUR:Efectivo:Leo   -10.00 EUR
+    Expenses:Salir:Copas
