@@ -662,3 +662,7 @@
 2026-05-09 * "farmacia" #bot
     Assets:EUR:Efectivo:Jana   -24.55 EUR
     Expenses:Compras:Utilidades
+
+2026-05-10 * "paga iago" #bot
+    Assets:EUR:Efectivo:Jana    -0.35 EUR
+    Expenses:Gastos:Bebe
