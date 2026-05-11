@@ -666,3 +666,7 @@
 2026-05-10 * "paga iago" #bot
     Assets:EUR:Efectivo:Jana    -0.35 EUR
     Expenses:Gastos:Bebe
+
+2026-05-11 * "Freni" #bot
+    Assets:EUR:Efectivo:Jana   -52.00 EUR
+    Expenses:Gastos:Casa
