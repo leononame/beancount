@@ -1,7 +1,7 @@
 
 2026-01-01 * "" "Jana Sudaderas"
   Assets:EUR:Banco:Abanca                              -76 EUR
-  Expenses:Compras:Regalos 
+  Expenses:Compras:Regalos
 
 2026-01-03 * "" "Rewe"
   Assets:EUR:Banco:Abanca                              -32.62 EUR
@@ -33,7 +33,7 @@
 
 2025-12-30 * "" "Wubbke"
   Liabilities:TC:Leo                                   -30.6 EUR
-  Expenses:Salir:Copas 
+  Expenses:Salir:Copas
 
 2026-01-07 * "" "Tortillas aeropuerto"
   Liabilities:TC:Leo                                   -31.6 EUR
@@ -54,11 +54,11 @@
 2026-01-11 * "Venta Carrito bugaboo"
   Assets:EUR:Efectivo:Leo                              100.00 EUR
   Assets:EUR:Efectivo:Jana                             300.00 EUR
-  Expenses:Compras:Bebe 
+  Expenses:Compras:Bebe
 
 2026-01-08 * "" "Iago"
   Assets:EUR:Banco:Abanca                              -50 EUR
-  Expenses:Compras:Regalos 
+  Expenses:Compras:Regalos
 
 2026-01-08 * "" "Ali"
   Assets:EUR:Banco:Abanca                              -50 EUR
@@ -78,7 +78,7 @@
 
 2026-01-10 * "" "Uber One"
   Assets:EUR:Banco:Abanca                               -4.99 EUR
-  Expenses:Salir:Restaurante 
+  Expenses:Salir:Restaurante
 
 2026-01-08 * "" "Tomates San Marzano 42 Market Casa Italia"
   Assets:EUR:Banco:Sabadell                            -94.5 EUR
@@ -124,7 +124,7 @@
 
 2026-01-13 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.01 EUR
-  Expenses:Salir:Restaurante 
+  Expenses:Salir:Restaurante
 
 2026-01-14 * "" "YT Music" #recurring
   Assets:EUR:Banco:Abanca                              -25.99 EUR
@@ -169,7 +169,7 @@
 
 2026-01-21 * "" "Iago Música" #recurring
   Assets:EUR:Banco:Abanca                              -45.58 EUR
-  Expenses:Gastos:Bebe:Actividades 
+  Expenses:Gastos:Bebe:Actividades
 
 2026-01-22 * "Amazon" "Alfombra Tren Iago"
   Assets:EUR:Banco:Abanca                              -62.99 EUR
@@ -181,24 +181,24 @@
 
 2026-01-23 * "" "Leo"
   Assets:EUR:Banco:Abanca                             7855.79 EUR
-  Income:Salario:Leo 
+  Income:Salario:Leo
 
 2026-01-23 * "" "Transferencia"
   Assets:EUR:Banco:Abanca                            -6500 EUR
   Assets:EUR:Banco:Sabadell
-  
+
 2026-01-27 * "" "Hetzner" #recurring
   Assets:EUR:Banco:Abanca                              -13.19 EUR
   Expenses:Compras:Tecnología:Software
-  
+
 2026-01-28 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante
-  
+
 2026-01-28 * "" "Lotería"
   Assets:EUR:Banco:Abanca                              -10.5 EUR
   Expenses:Lujo
-  
+
 2026-01-28 * "" "Moshi Chen"
   Assets:EUR:Banco:Abanca                              -30 EUR
   Expenses:Salir:Restaurante
@@ -265,14 +265,14 @@
 2026-02-03 * "" "Compra Oro plata envio" #irregular
   Assets:EUR:Banco:Sabadell                            -39.95 EUR
   Expenses:Compras:Utilidades
-  
+
 2026-02-04 * "" "Tailscale"
   Assets:EUR:Banco:Abanca                               -4.21 EUR
   Expenses:Compras:Tecnología:Software
 
 2026-02-04 * "Amazon" "Alarmas, pantuflas etc"
   Assets:EUR:Banco:Abanca                              -65.97 EUR
-  Expenses:Compras:Utilidades 
+  Expenses:Compras:Utilidades
 
 2026-02-05 * "" "Vacaciones Adri+Chen" #viaje #asturias-2026
   Assets:EUR:Banco:Abanca                              310 EUR
@@ -356,7 +356,7 @@
 2026-02-13 * "" "Lowi" #recurring
   Assets:EUR:Banco:Abanca                              -32.33 EUR
   Expenses:Gastos:Casa:Internet                         20 EUR
-  Expenses:Gastos:Movil      
+  Expenses:Gastos:Movil
 
 2026-02-13 * "" "Gasolina"#viaje #chiclana-2026
   Assets:EUR:Banco:Abanca                              -61.7 EUR
@@ -495,7 +495,7 @@
 2026-03-01 * "" "Wallapop"
   Assets:EUR:Banco:Abanca                              -28.88 EUR
   Expenses:Compras:Bebe
-  
+
 2026-03-03 * "Amazon" "Desatornilladores"
   Assets:EUR:Banco:Abanca                              -14.72 EUR
   Expenses:Compras:Utilidades
@@ -565,7 +565,7 @@
 
 2026-03-07 * "" "Aldi"
   Assets:EUR:Banco:Abanca                              -67.24 EUR
-  Expenses:Compras:Alimentos 
+  Expenses:Compras:Alimentos
 
 2026-03-07 * "" "Goiko"
   Assets:EUR:Banco:Abanca                              -54.5 EUR
@@ -577,7 +577,7 @@
 
 2026-03-07 * "" "comedor Ali" #recurring
   Assets:EUR:Banco:Abanca                              -74.05 EUR
-  Expenses:Gastos:Bebe:Guarde 
+  Expenses:Gastos:Bebe:Guarde
 
 2026-03-08 * "" "Wallapop"
   Assets:EUR:Efectivo:Leo                               29.88 EUR
@@ -592,7 +592,7 @@
 
 2026-03-09 * "" "Jana"
   Assets:EUR:Banco:Abanca                             2000 EUR
-  Income:Salario:Jana 
+  Income:Salario:Jana
 
 2026-03-11 * "" "Uger One"
   Assets:EUR:Banco:Abanca                               -4.99 EUR
@@ -611,7 +611,7 @@
   Expenses:Salir:Restaurante
 
 2026-03-12 * "Amazon" "Cascos Iago"
-  Assets:EUR:Banco:Abanca                              -31.94 EUR 
+  Assets:EUR:Banco:Abanca                              -31.94 EUR
   Expenses:Compras:Utilidades
 
 2026-03-12 * "" "Música Iago" #recurring
@@ -638,7 +638,7 @@
 2026-03-13 * "" "Lowi" #recurring
   Assets:EUR:Banco:Abanca                              -32.04 EUR
   Expenses:Gastos:Casa:Internet                         20 EUR
-  Expenses:Gastos:Movil      
+  Expenses:Gastos:Movil
 
 2026-03-17 * "" "Agua" #recurring
   Assets:EUR:Banco:Abanca                              -51.88 EUR
@@ -696,11 +696,11 @@
 
 2026-03-26 * "" "Hetzner" #recurring
   Assets:EUR:Banco:Abanca                              -13.19 EUR
-  Expenses:Compras:Tecnología:Hardware 
+  Expenses:Compras:Tecnología:Hardware
 
 2026-03-25 * "" "Barco Ons" #viaje #ogrove-2026
   Assets:EUR:Banco:Sabadell                            -55.5 EUR
-  Expenses:Viaje:Tour 
+  Expenses:Viaje:Tour
 
 2026-03-27 * "" "Vinted Devo"
   Assets:EUR:Banco:Abanca                                9.98 EUR
@@ -736,7 +736,7 @@
 
 2026-03-31 * "" "Coche Impuestos" #recurring
   Assets:EUR:Banco:Abanca                             -132.19 EUR
-  Expenses:Gastos:Coche:Otros 
+  Expenses:Gastos:Coche:Otros
 
 2026-03-29 * "" "Millennium"
   Assets:EUR:Banco:Sabadell                            -10 EUR
@@ -758,7 +758,7 @@
 2026-04-01 * "" "BU" #recurring
   Assets:EUR:Banco:Sabadell                            -52.12 EUR
   Expenses:Gastos:Seguros:BU
-  
+
 2026-04-02 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.01 EUR
   Expenses:Salir:Restaurante
@@ -825,7 +825,7 @@
   Expenses:Salir:Restaurante
 
 2026-04-09 * "" "Intereses MyInvestor"
-  Assets:EUR:Banco:Sabadell                              0.67 EUR 
+  Assets:EUR:Banco:Sabadell                              0.67 EUR
   Income:Invest:Intereses
 
 2026-04-14 * "" "Lowi" #recurring
@@ -882,7 +882,7 @@
 2026-04-17 * "" "Intereses Abanca"
   Assets:EUR:Banco:Abanca                               -0.21 EUR
   Expenses:Gastos:Banco:Intereses
-  
+
 2026-04-17 * "" "Transferencia"
   Assets:Invest:MyInvestor:Cash                      -5208.2 EUR
   Assets:EUR:Banco:Sabadell
@@ -938,7 +938,7 @@
 2026-04-28 * "" "Paxariños Iago"
   Assets:EUR:Banco:Abanca                              -42 EUR
   Expenses:Gastos:Bebe:Actividades
-  
+
 2026-04-29 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.13 EUR
   Expenses:Salir:Restaurante
@@ -970,7 +970,7 @@
 
 2026-05-01 * "" "Huerto Iago" #recurring
   Assets:EUR:Banco:Sabadell                            -30 EUR
-  Expenses:Gastos:Bebe:Actividades 
+  Expenses:Gastos:Bebe:Actividades
 
 2026-05-04 * "" "BU" #recurring
   Assets:EUR:Banco:Sabadell                            -52.12 EUR
@@ -979,7 +979,7 @@
 2026-05-05 * "" "Comunidad" #recurring
   Assets:EUR:Banco:Sabadell                            -47 EUR
   Expenses:Gastos:Casa:Comunidad
-  
+
 2026-05-03 * "" "Hal Cash retirada dinero fallida"
   Assets:EUR:Banco:Abanca                             -300 EUR
   Assets:EUR:Deudas
@@ -1008,17 +1008,41 @@
   Assets:EUR:Banco:Abanca                              -71.61 EUR
   Expenses:Gastos:Bebe:Actividades
 
-
-; TODO
-2026-05-08 * "" "Uber Eats"
+2026-05-07 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -40.58 EUR
   Expenses:Salir:Restaurante
-
-2026-05-08 * "" "Airbnb Asturias Micha" #asturias-micha-2026
-  Assets:EUR:Banco:Abanca                             -930.81 EUR
-  Expenses:Viaje:Hotel
 
 2026-05-08 * "" "Vinted Chaqueta Iago"
   Assets:EUR:Banco:Abanca                              -26.29 EUR
   Expenses:Compras:Bebe
+ 
+2026-05-08 * "" "Iago" #recurring
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-05-08 * "" "Ali" #recurring
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-05-09 * "" "Airbnb Asturias Micha" #asturias-micha-2026
+  Assets:EUR:Banco:Abanca                             -930.81 EUR
+  Expenses:Viaje:Hotel
+
+2026-05-09 * "" "Atípico"
+  Assets:EUR:Banco:Abanca                             -144.2 EUR
+  Expenses:Salir:Restaurante
+
+2026-05-11 * "" "Regalo para Jana de Micha+Ute"
+  Assets:EUR:Banco:Abanca                              300 EUR
+  Income:Regalos
+
+; TODO
+2026-05-13 * "" "Peajes"
+  Assets:EUR:Banco:Abanca                             -100.3 EUR
+  Expenses:Gastos:Coche:Peaje
+
+2026-05-13 * "" "YT Music"
+  Assets:EUR:Banco:Abanca                              -25.99 EUR
+  Expenses:Compras:Medios:Musica
+  
 
