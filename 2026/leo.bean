@@ -1038,3 +1038,7 @@
 2026-05-09 * "copas" #bot
     Assets:EUR:Efectivo:Leo   -10.00 EUR
     Expenses:Salir:Copas
+
+2026-05-11 * "freni" #bot
+    Assets:EUR:Efectivo:Leo   -20.00 EUR
+    Expenses:Gastos:Casa
