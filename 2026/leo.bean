@@ -1042,3 +1042,7 @@
 2026-05-11 * "freni" #bot
     Assets:EUR:Efectivo:Leo   -20.00 EUR
     Expenses:Gastos:Casa
+
+2026-05-12 * "parking" #bot
+    Assets:EUR:Efectivo:Leo    -3.10 EUR
+    Expenses:Gastos:Coche:Parking
