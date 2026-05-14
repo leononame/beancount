@@ -1024,7 +1024,7 @@
   Assets:EUR:Banco:Abanca                              -50 EUR
   Expenses:Compras:Regalos
 
-2026-05-09 * "" "Airbnb Asturias Micha" #asturias-micha-2026
+2026-05-09 * "" "Airbnb Asturias Micha" #viaje #asturias-micha-2026
   Assets:EUR:Banco:Abanca                             -930.81 EUR
   Expenses:Viaje:Hotel
 
@@ -1032,17 +1032,64 @@
   Assets:EUR:Banco:Abanca                             -144.2 EUR
   Expenses:Salir:Restaurante
 
+2026-05-09 * "" "Intereses"
+  Assets:Invest:MyInvestor:Cash                          0.09 EUR
+  Income:Invest:Intereses
+
 2026-05-11 * "" "Regalo para Jana de Micha+Ute"
   Assets:EUR:Banco:Abanca                              300 EUR
   Income:Regalos
 
-; TODO
-2026-05-13 * "" "Peajes"
-  Assets:EUR:Banco:Abanca                             -100.3 EUR
-  Expenses:Gastos:Coche:Peaje
+2026-05-12 * "" "Comedor Ali" #recurring
+  Assets:EUR:Banco:Abanca                              -70.53 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-05-12 * "" "Phantom Liberty Cyberpunk 2077"
+  Assets:EUR:Banco:Sabadell                            -19.49 EUR
+  Expenses:Compras:Medios:Videojuegos
 
 2026-05-13 * "" "YT Music"
   Assets:EUR:Banco:Abanca                              -25.99 EUR
   Expenses:Compras:Medios:Musica
-  
 
+2026-05-13 * "" "Peajes"
+  Assets:EUR:Banco:Abanca                             -100.3 EUR
+  Expenses:Gastos:Coche:Peaje
+
+2026-05-13 * "" "Lowi" #recurring
+  Assets:EUR:Banco:Abanca                              -31.9 EUR
+  Expenses:Gastos:Casa:Internet                         20 EUR
+  Expenses:Gastos:Movil
+
+2026-05-13 * "" "Jana"
+  Assets:EUR:Banco:Abanca                             3000 EUR
+  Income:Salario:Jana
+
+2026-05-13 * "" "Anulación Retirada Halcash"
+  Assets:EUR:Banco:Abanca                              300 EUR
+  Assets:EUR:Efectivo:Leo
+
+2026-05-13 * "" "Comida Sanbrandan"
+  Assets:EUR:Banco:Abanca                               -5.6 EUR
+  Expenses:Salir:Restaurante
+
+2026-05-14 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                               -4.99 EUR
+  Expenses:Salir:Restaurante
+
+2026-05-14 * "" "Devo Jardanay" #recurring
+  Assets:EUR:Banco:Abanca                                0.83 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-05-14 * "" "Iago Música" #recurring
+  Assets:EUR:Banco:Abanca                              -45.58 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+; TODO
+2026-05-17 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.04 EUR
+  Expenses:Salir:Restaurante
+
+2026-05-31 * "" "TGSS Jana"
+  Assets:EUR:Banco:Abanca                             -501.54 EUR
+  Income:Salario:Jana
