@@ -1054,3 +1054,7 @@
 2026-05-15 * "bazar" #bot
     Assets:EUR:Efectivo:Leo   -11.05 EUR
     Expenses:Compras:Utilidades
+
+2026-05-15 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo   -20.42 EUR
+    Expenses:Compras:Alimentos
