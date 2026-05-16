@@ -686,3 +686,7 @@
 2026-05-15 * "copias" #bot
     Assets:EUR:Efectivo:Jana    -1.50 EUR
     Expenses:Compras:Utilidades
+
+2026-05-16 * "pan" #bot
+    Assets:EUR:Efectivo:Jana    -3.15 EUR
+    Expenses:Compras:Alimentos
