@@ -1085,8 +1085,26 @@
   Assets:EUR:Banco:Abanca                              -45.58 EUR
   Expenses:Gastos:Bebe:Actividades
 
-; TODO
-2026-05-17 * "" "Uber Eats"
+2026-05-14 * "" "Bus Millenium"
+  Assets:EUR:Banco:Abanca                              -20 EUR
+  Expenses:Transporte:Publico
+
+2026-05-15 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -41.04 EUR
+  Expenses:Salir:Restaurante
+
+2026-05-15 * "" "Iago Comedor" #recurring
+  Assets:EUR:Banco:Abanca                              -39.17 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-05-15 * "" "Leo cafe familias neurodivergentes"
+  Assets:EUR:Banco:Abanca                              -17 EUR
+  Expenses:Gastos:Actividades
+
+
+; TODo
+
+2026-05-29 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.04 EUR
   Expenses:Salir:Restaurante
 
