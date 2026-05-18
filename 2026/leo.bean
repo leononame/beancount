@@ -1070,3 +1070,7 @@
 2026-05-16 * "Aldi" #bot
     Assets:EUR:Efectivo:Leo   -33.13 EUR
     Expenses:Compras:Alimentos
+
+2026-05-18 * "paga iago" #bot
+    Assets:EUR:Efectivo:Leo    -1.00 EUR
+    Expenses:Gastos:Bebe
