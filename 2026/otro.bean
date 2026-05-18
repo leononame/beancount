@@ -959,7 +959,7 @@
   Assets:EUR:Banco:Sabadell                           -108 EUR
   Expenses:Compras:Alimentos
 
-2026-04-30 * "" "Hipoteca"
+2026-04-30 * "" "Hipoteca" #recurring
   Assets:EUR:Banco:Sabadell                          -1291.06 EUR
   Liabilities:Deudas:Banco                            1020.18 EUR
   Expenses:Compras:Piso:Intereses                      270.88 EUR
