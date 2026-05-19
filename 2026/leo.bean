@@ -1078,3 +1078,7 @@
 2026-05-18 * "Albi" #bot
     Assets:EUR:Efectivo:Leo    -1.55 EUR
     Expenses:Compras:Alimentos
+
+2026-05-19 * "fer" #bot
+    Assets:EUR:Efectivo:Leo  -100.00 EUR
+    Expenses:Gastos:Actividades
