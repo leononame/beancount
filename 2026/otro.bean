@@ -1101,12 +1101,25 @@
   Assets:EUR:Banco:Abanca                              -17 EUR
   Expenses:Gastos:Actividades
 
-
+2026-05-18 * "" "Bahncard Team-Treffen Hamburgo"
+  Assets:EUR:Banco:Sabadell                            -19.9 EUR
+  Income:Salario:Leo
+2026-05-18 * "" "Ticket Team-Treffen Hamburgo"
+  Assets:EUR:Banco:Sabadell                           -124.98 EUR
+  Income:Salario:Leo
 ; TODo
 
-2026-05-29 * "" "Uber Eats"
+2026-05-21 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -41.04 EUR
   Expenses:Salir:Restaurante
+
+2026-05-21 * "Amazon" "Auris Jana Estuche"
+  Assets:EUR:Banco:Abanca                              -19.99 EUR
+  Expenses:Compras:Utilidades
+
+2026-05-21 * "Amazon" "Placa Bosch"
+  Assets:EUR:Banco:Abanca                             -865.29 EUR
+  Expenses:Compras:Casa:Muebles
 
 2026-05-31 * "" "TGSS Jana"
   Assets:EUR:Banco:Abanca                             -501.54 EUR
