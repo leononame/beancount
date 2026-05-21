@@ -690,3 +690,7 @@
 2026-05-16 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -3.15 EUR
     Expenses:Compras:Alimentos
+
+2026-05-21 * "mercadona" #bot
+    Assets:EUR:Efectivo:Jana   -31.19 EUR
+    Expenses:Compras:Alimentos
