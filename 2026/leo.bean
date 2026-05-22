@@ -1098,3 +1098,7 @@
 2026-05-21 * "galera" #bot
     Assets:EUR:Efectivo:Leo   -35.00 EUR
     Expenses:Salir:Restaurante
+
+2026-05-22 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca  -300.00 EUR
+    Assets:EUR:Efectivo:Leo
