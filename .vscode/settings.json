@@ -1,5 +1,6 @@
 {
   "beanLsp.mainBeanFile": "main.bean",
+  "beancount.mainBeanFile": "main.bean",
   "[plaintext]": {
     "editor.suggest.showSnippets": false,
     "editor.suggest.showWords": false,
