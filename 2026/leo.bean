@@ -1122,3 +1122,7 @@
 2026-05-24 * "restaurante indio" #bot
     Assets:EUR:Efectivo:Leo   -55.60 EUR
     Expenses:Salir:Restaurante
+
+2026-05-24 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -1.50 EUR
+    Expenses:Salir:Cafe
