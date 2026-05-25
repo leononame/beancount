@@ -1143,21 +1143,56 @@
 2026-05-20 * "" "Lotería"
   Assets:EUR:Banco:Sabadell                             -2.5 EUR
   Expenses:Lujo
-; TODO
+
+2026-05-23 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -38.9 EUR
+  Expenses:Salir:Restaurante
 
 2026-05-23 * "Amazon" "Auris Jana Estuche"
   Assets:EUR:Banco:Abanca                              -19.99 EUR
   Expenses:Compras:Utilidades 
 
-2026-05-23 * "" "Uber Eats"
+2026-05-23 * "" "Vagalume Cumple Jana"
+  Assets:EUR:Banco:Abanca                             -135.8 EUR
+  Expenses:Gastos:Actividades
+
+2026-05-23 * "" "Cerves Rebe+Fabio"
+  Assets:EUR:Banco:Abanca                              -22 EUR
+  Expenses:Salir:Copas
+
+2026-05-23  * "" "Transferencia"
+  Assets:EUR:Banco:Sabadell                         -10000 EUR
+  Assets:Invest:MyInvestor:Cash
+2026-05-23  * "" "Transferencia"
+  Assets:EUR:Banco:Sabadell                         -30000 EUR
+  Assets:Invest:MyInvestor:Cash
+
+2026-05-23 * "" "Tren Silke"
+  Assets:EUR:Banco:Sabadell                            -36.74 EUR
+  Expenses:Transporte:Tren 
+
+2026-05-25 * "" "Nómina Leo"
+  Assets:EUR:Banco:Sabadell                           5819.29 EUR
+  Income:Salario:Leo
+
+2026-05-25 * "" "Magimix 5200XL mk2shop.com"
+  Assets:EUR:Banco:Sabadell                           -450 EUR
+  Expenses:Compras:Utilidades
+
+2026-05-25 * "" "Transferencia"
+  Assets:EUR:Banco:Sabadell                          -2500 EUR
+  Assets:EUR:Banco:Abanca 
+; TODO
+
+2026-05-26 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -40.29 EUR
   Expenses:Salir:Restaurante
 
-2026-05-23 * "Amazon" "Libros Tiptoi Espacio y Elrike"
+2026-05-26 * "Amazon" "Libros Tiptoi Espacio y Elrike"
   Assets:EUR:Banco:Abanca                              -44.05 EUR
   Expenses:Compras:Bebe 
 
-2026-05-23 * "Amazon" "Levadura Seca"
+2026-05-26 * "Amazon" "Levadura Seca"
   Assets:EUR:Banco:Abanca                               -8.75 EUR
   Expenses:Compras:Alimentos 
 
