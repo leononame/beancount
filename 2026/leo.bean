@@ -1138,3 +1138,7 @@
 2026-05-26 * "cervezas" #bot
     Assets:EUR:Efectivo:Leo    -3.00 EUR
     Expenses:Salir:Copas
+
+2026-05-26 * "kebab" #bot
+    Assets:EUR:Efectivo:Leo   -12.40 EUR
+    Expenses:Salir:Restaurante
