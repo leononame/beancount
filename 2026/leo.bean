@@ -1130,3 +1130,7 @@
 2026-05-26 * "café" #bot
     Assets:EUR:Efectivo:Leo    -1.89 EUR
     Expenses:Salir:Cafe
+
+2026-05-26 * "telecopy" #bot
+    Assets:EUR:Efectivo:Leo   -28.00 EUR
+    Expenses:Compras:Utilidades
