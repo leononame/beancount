@@ -1134,3 +1134,7 @@
 2026-05-26 * "telecopy" #bot
     Assets:EUR:Efectivo:Leo   -28.00 EUR
     Expenses:Compras:Utilidades
+
+2026-05-26 * "cervezas" #bot
+    Assets:EUR:Efectivo:Leo    -3.00 EUR
+    Expenses:Salir:Copas
