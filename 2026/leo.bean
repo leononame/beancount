@@ -1142,3 +1142,7 @@
 2026-05-26 * "kebab" #bot
     Assets:EUR:Efectivo:Leo   -12.40 EUR
     Expenses:Salir:Restaurante
+
+2026-05-27 * "parking" #bot
+    Assets:EUR:Efectivo:Leo    -0.50 EUR
+    Expenses:Gastos:Coche:Parking
