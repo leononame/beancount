@@ -1199,6 +1199,10 @@
   Assets:EUR:Banco:Abanca                               -8.75 EUR
   Expenses:Compras:Alimentos
 
+2026-05-26 * "" "Depósito Contratación"
+  Assets:Invest:MyInvestor:Cash                     -40000.09 EUR
+  Assets:Invest:MyInvestor:Deposito
+  
 2026-05-28 balance Assets:EUR:Banco:Abanca            4765.00 EUR
 
 2026-05-28 * "" "Uber Eats"
