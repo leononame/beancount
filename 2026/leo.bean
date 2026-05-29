@@ -1162,3 +1162,7 @@
 2026-05-28 * "perdido" #bot
     Assets:EUR:Efectivo:Leo    -0.20 EUR
     Expenses:Perdido
+
+2026-05-29 * "farmacia" #bot
+    Assets:EUR:Efectivo:Leo    -9.95 EUR
+    Expenses:Compras:Utilidades
