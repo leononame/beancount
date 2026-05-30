@@ -1178,3 +1178,7 @@
 2026-05-30 * "Aldi" #bot
     Assets:EUR:Efectivo:Leo    -5.75 EUR
     Expenses:Compras:Alimentos
+
+2026-05-30 * "farmacia" #bot
+    Assets:EUR:Efectivo:Leo   -27.50 EUR
+    Expenses:Compras:Utilidades
