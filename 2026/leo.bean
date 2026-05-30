@@ -1182,3 +1182,7 @@
 2026-05-30 * "farmacia" #bot
     Assets:EUR:Efectivo:Leo   -27.50 EUR
     Expenses:Compras:Utilidades
+
+2026-05-30 * "concierto" #bot
+    Assets:EUR:Efectivo:Leo   -10.00 EUR
+    Expenses:Salir:Conciertos
