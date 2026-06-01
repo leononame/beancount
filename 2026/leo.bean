@@ -1190,3 +1190,7 @@
 2026-06-01 * "farinarium" #bot
     Assets:EUR:Efectivo:Leo    -8.10 EUR
     Expenses:Compras:Alimentos
+
+2026-06-01 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo   -45.75 EUR
+    Expenses:Compras:Alimentos
