@@ -1213,15 +1213,75 @@
   Assets:EUR:Banco:Abanca                              -13.19 EUR
   Expenses:Compras:Tecnología:Hardware
 
-; TODO
-2026-05-31 * "" "bitwarden" #recurring
-  Assets:EUR:Banco:Abanca                              -15.55 EUR
-  Expenses:Compras:Tecnología:Software
+2026-05-28 * "" "Café"
+  Assets:EUR:Banco:Abanca                               -7.81 EUR
+  Expenses:Salir:Cafe
 
-2026-05-31 * "Amazon" "Sonómetro decibelios vecinos"
+2026-05-29 * "" "TGSS Jana"
+  Assets:EUR:Banco:Abanca                             -501.54 EUR
+  Income:Salario:Jana
+
+2026-05-29 * "" "A Tenda de Albi"
+  Assets:EUR:Banco:Abanca                              -39.65 EUR
+  Expenses:Compras:Alimentos
+
+2026-05-30 * "Amazon" "Sonómetro decibelios vecinos"
   Assets:EUR:Banco:Abanca                              -51.29 EUR
   Expenses:Compras:Utilidades
 
-2026-05-31 * "" "TGSS Jana"
-  Assets:EUR:Banco:Abanca                             -501.54 EUR
-  Income:Salario:Jana
+2026-05-30 * "" "bitwarden" #recurring
+  Assets:EUR:Banco:Abanca                              -15.47 EUR
+  Expenses:Compras:Tecnología:Software
+
+2026-05-31 * "" "Hotel Asturias" #viaje #asturias-micha-2026
+  Assets:EUR:Banco:Abanca                              500 EUR
+  Expenses:Viaje:Hotel
+
+2026-05-29 * "" "Hipoteca" #recurring
+  Assets:EUR:Banco:Sabadell                          -1291.06 EUR
+  Liabilities:Deudas:Banco                            1021.42 EUR
+  Expenses:Compras:Piso:Intereses                      269.64 EUR
+  
+2026-06-01 * "" "BU" #recurring
+  Assets:EUR:Banco:Sabadell                            -52.12 EUR
+  Expenses:Gastos:Seguros:BU
+
+2026-06-01 * "" "Iago Huerto" #recurring
+  Assets:EUR:Banco:Sabadell                            -30 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+; TODO
+
+2026-06-04 * "Wallapop" "Ropa bebos"
+  Assets:EUR:Banco:Abanca                              -11.93 EUR
+  Expenses:Compras:Bebe
+
+2026-06-04 * "Wallapop" "Ropa bebos"
+  Assets:EUR:Banco:Abanca                              -27.98 EUR
+  Expenses:Compras:Bebe
+
+2026-06-04 * "" "Lentillas Jana"
+  Assets:EUR:Banco:Abanca                              -45.25 EUR
+  Expenses:Compras:Utilidades
+
+2026-06-04 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -40.29 EUR
+  Expenses:Salir:Restaurante
+
+2026-06-04 * "Vinted" "Vinted Ropa bebos"
+  Assets:EUR:Banco:Abanca                              -17 EUR
+  Expenses:Compras:Bebe
+
+2026-06-04 * "Vinted" "Vinted Ropa bebos"
+  Assets:EUR:Banco:Abanca                              -23.03 EUR
+  Expenses:Compras:Bebe
+
+2026-06-04 * "Vinted" "Vinted Ropa bebos"
+  Assets:EUR:Banco:Abanca                              -30.39 EUR
+  Expenses:Compras:Bebe
+
+2026-06-04 * "" "Tailscale"
+  Assets:EUR:Banco:Abanca                               -4.32 EUR
+  Expenses:Compras:Tecnología:Software
+
+  
