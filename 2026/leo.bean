@@ -1186,3 +1186,7 @@
 2026-05-30 * "concierto" #bot
     Assets:EUR:Efectivo:Leo   -10.00 EUR
     Expenses:Salir:Conciertos
+
+2026-06-01 * "farinarium" #bot
+    Assets:EUR:Efectivo:Leo    -8.10 EUR
+    Expenses:Compras:Alimentos
