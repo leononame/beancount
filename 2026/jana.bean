@@ -722,3 +722,7 @@
 2026-05-31 * "gasolina" #bot
     Assets:EUR:Efectivo:Jana   -79.96 EUR
     Expenses:Gastos:Coche:Gasolina
+
+2026-06-03 * "buen rollo" #bot
+    Assets:EUR:Efectivo:Jana    -6.60 EUR
+    Expenses:Salir:Cafe
