@@ -1267,31 +1267,51 @@
   Assets:EUR:Banco:Abanca                               -1.9 EUR
   Expenses:Salir:Cafe
 
-; TODO
+2026-06-03 * "" "Tailscale"
+  Assets:EUR:Banco:Abanca                               -4.30 EUR
+  Expenses:Compras:Tecnología:Software
 
-2026-06-04 * "Wallapop" "Ropa bebos"
-  Assets:EUR:Banco:Abanca                              -11.93 EUR
-  Expenses:Compras:Bebe
-
-2026-06-04 * "" "Lentillas Jana"
-  Assets:EUR:Banco:Abanca                              -45.25 EUR
-  Expenses:Compras:Utilidades
-
-2026-06-04 * "" "Uber Eats"
+2026-06-03 * "" "Uber Eats"
   Assets:EUR:Banco:Abanca                              -40.29 EUR
   Expenses:Salir:Restaurante
 
-2026-06-04 * "Vinted" "Vinted Ropa bebos"
-  Assets:EUR:Banco:Abanca                              -17 EUR
-  Expenses:Compras:Bebe
-
-2026-06-04 * "Vinted" "Vinted Ropa bebos"
+2026-06-03 * "Vinted" "Vinted Ropa bebos"
   Assets:EUR:Banco:Abanca                              -23.03 EUR
   Expenses:Compras:Bebe
 
-2026-06-04 * "Vinted" "Vinted Ropa bebos"
+2026-06-03 * "Vinted" "Vinted Ropa bebos"
+  Assets:EUR:Banco:Abanca                              -17 EUR
+  Expenses:Compras:Bebe
+
+2026-06-03 * "" "Lentillas Jana"
+  Assets:EUR:Banco:Abanca                              -45.25 EUR
+  Expenses:Compras:Utilidades
+
+2026-06-03 * "Wallapop" "Ropa bebos"
+  Assets:EUR:Banco:Abanca                              -11.93 EUR
+  Expenses:Compras:Bebe
+
+2026-06-03 * "Vinted" "Vinted Ropa bebos"
   Assets:EUR:Banco:Abanca                              -30.39 EUR
   Expenses:Compras:Bebe
+
+2026-06-03 * "" "Cumple Valentina"
+  Assets:EUR:Banco:Abanca                              -10 EUR
+  Expenses:Compras:Regalos
+
+2026-06-03 * "" "Sanbrandan Comida"
+  Assets:EUR:Banco:Abanca                               -7.05 EUR
+  Expenses:Salir:Restaurante
+
+2026-06-03 * "" "Día Merienda"
+  Assets:EUR:Banco:Abanca                               -3.52 EUR
+  Expenses:Compras:Alimentos
+
+2026-06-03 * "" "Carnicería"
+  Assets:EUR:Banco:Abanca                              -34.56 EUR
+  Expenses:Compras:Alimentos
+
+2026-06-04 balance Assets:EUR:Banco:Abanca            3917.46 EUR
 
 2026-06-04 * "Amazon" "Gelatina"
   Assets:EUR:Banco:Abanca                              -21.5 EUR
@@ -1300,9 +1320,3 @@
 2026-06-04 * "Vinted" "Ropa bebos"
   Assets:EUR:Banco:Abanca                               -8.08 EUR
   Expenses:Compras:Bebe
-
-2026-06-04 * "" "Tailscale"
-  Assets:EUR:Banco:Abanca                               -4.32 EUR
-  Expenses:Compras:Tecnología:Software
-
-  
