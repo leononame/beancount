@@ -726,3 +726,7 @@
 2026-06-03 * "buen rollo" #bot
     Assets:EUR:Efectivo:Jana    -6.60 EUR
     Expenses:Salir:Cafe
+
+2026-06-05 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
