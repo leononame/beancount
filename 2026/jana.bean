@@ -734,3 +734,7 @@
 2026-06-05 * "yoga Fede" #bot
     Assets:EUR:Efectivo:Jana   -80.00 EUR
     Expenses:Deporte
+
+2026-06-07 * "parking" #bot
+    Assets:EUR:Efectivo:Jana    -0.40 EUR
+    Expenses:Gastos:Coche:Parking
