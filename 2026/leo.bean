@@ -1198,3 +1198,7 @@
 2026-06-07 * "paga Iago" #bot
     Assets:EUR:Efectivo:Leo    -1.00 EUR
     Expenses:Gastos:Bebe
+
+2026-06-07 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo    -0.03 EUR
+    Expenses:Perdido
