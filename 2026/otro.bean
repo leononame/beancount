@@ -1311,6 +1311,10 @@
   Assets:EUR:Banco:Abanca                              -34.56 EUR
   Expenses:Compras:Alimentos
 
+2026-06-03 * "" "Leo dinero casti"
+  Assets:EUR:Efectivo:Leo                              251.07 EUR
+  Assets:EUR:Deudas
+
 2026-06-04 balance Assets:EUR:Banco:Abanca            3917.46 EUR
 
 2026-06-04 * "Amazon" "Gelatina"
@@ -1320,3 +1324,53 @@
 2026-06-04 * "Vinted" "Ropa bebos"
   Assets:EUR:Banco:Abanca                               -8.08 EUR
   Expenses:Compras:Bebe
+
+2026-06-05 * "Amazon" "Sonómetro decibelios vecinos"
+  Assets:EUR:Banco:Abanca                               51.29 EUR
+  Expenses:Compras:Utilidades 
+
+2026-06-05 * "" "Luz"
+  Assets:EUR:Banco:Abanca                              -65.1 EUR
+  Expenses:Gastos:Casa:Luz
+
+2026-06-05 * "" "Comedor Ali"
+  Assets:EUR:Banco:Abanca                              -74.05 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-06-08 * "" "Agua"
+  Assets:EUR:Banco:Abanca                              -60.59 EUR
+  Expenses:Gastos:Casa:Agua
+
+2026-06-08 * "" "Iago"
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-06-08 * "" "Ali"
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-06-04 * "" "Lentillas de Contacto Leo"
+  Assets:EUR:Banco:Sabadell                            -67.96 EUR
+  Expenses:Compras:Utilidades
+
+2026-06-04 * "" "Comunidad"
+  Assets:EUR:Banco:Sabadell                            -47 EUR
+  Expenses:Gastos:Casa:Comunidad
+
+2026-06-04 * "" "Lotería"
+  Assets:EUR:Banco:Sabadell                             -2.5 EUR
+  Expenses:Lujo
+
+; TODO
+
+2026-06-14 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -40.29 EUR
+  Expenses:Salir:Restaurante
+
+2026-06-14 * "Amazon" "Vestido Iago"
+  Assets:EUR:Banco:Abanca                              -46.51 EUR
+  Expenses:Compras:Utilidades
+
+2026-06-14 * "" "Paypal?"
+  Assets:EUR:Banco:Abanca                              -17.99 EUR
+  Expenses:Compras:Utilidades
