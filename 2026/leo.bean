@@ -1202,3 +1202,7 @@
 2026-06-07 * "perdido" #bot
     Assets:EUR:Efectivo:Leo    -0.03 EUR
     Expenses:Perdido
+
+2026-06-09 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo    -1.00 EUR
+    Expenses:Perdido
