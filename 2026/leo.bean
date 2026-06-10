@@ -1206,3 +1206,7 @@
 2026-06-09 * "perdido" #bot
     Assets:EUR:Efectivo:Leo    -1.00 EUR
     Expenses:Perdido
+
+2026-06-10 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo   -15.39 EUR
+    Expenses:Compras:Alimentos
