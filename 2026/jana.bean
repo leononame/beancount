@@ -754,3 +754,7 @@
 2026-06-10 * "farmacia" #bot
     Assets:EUR:Efectivo:Jana    -8.50 EUR
     Expenses:Compras:Utilidades
+
+2026-06-10 * "mercadona" #bot
+    Assets:EUR:Efectivo:Jana    -2.00 EUR
+    Expenses:Compras:Alimentos
