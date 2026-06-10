@@ -786,3 +786,7 @@
 2026-06-10 * "pinta tu cerámica" #bot
     Assets:EUR:Efectivo:Jana   -46.00 EUR
     Expenses:Otros
+
+2026-06-10 * "Freni" #bot
+    Assets:EUR:Efectivo:Jana   -72.00 EUR
+    Expenses:Gastos:Casa
