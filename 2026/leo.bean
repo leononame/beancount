@@ -1214,3 +1214,7 @@
 2026-06-10 * "Gadis" #bot
     Assets:EUR:Efectivo:Leo   -30.20 EUR
     Expenses:Compras:Alimentos
+
+2026-06-10 * "filloa" #bot
+    Assets:EUR:Efectivo:Leo   -30.00 EUR
+    Expenses:Salir:Conciertos
