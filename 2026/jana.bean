@@ -750,3 +750,7 @@
 2026-06-10 * "rifas" #bot
     Assets:EUR:Efectivo:Jana   -10.00 EUR
     Expenses:Compras:Regalos
+
+2026-06-10 * "farmacia" #bot
+    Assets:EUR:Efectivo:Jana    -8.50 EUR
+    Expenses:Compras:Utilidades
