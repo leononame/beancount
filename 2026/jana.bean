@@ -782,3 +782,7 @@
 2026-06-10 * "albi" #bot
     Assets:EUR:Efectivo:Jana   -22.06 EUR
     Expenses:Compras:Alimentos
+
+2026-06-10 * "pinta tu cerámica" #bot
+    Assets:EUR:Efectivo:Jana   -46.00 EUR
+    Expenses:Otros
