@@ -770,3 +770,7 @@
 2026-06-10 * "ropa" #bot
     Assets:EUR:Efectivo:Jana   -29.95 EUR
     Expenses:Compras:Ropa
+
+2026-06-10 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana   -11.20 EUR
+    Expenses:Compras:Alimentos
