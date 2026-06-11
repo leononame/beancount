@@ -794,3 +794,7 @@
 2026-06-10 * "perdido" #bot
     Assets:EUR:Efectivo:Jana    -2.93 EUR
     Expenses:Perdido
+
+2026-06-11 * "desayuno" #bot
+    Assets:EUR:Efectivo:Jana   -11.50 EUR
+    Expenses:Salir:Restaurante
