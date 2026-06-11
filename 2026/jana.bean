@@ -806,3 +806,7 @@
 2026-06-11 * "primos" #bot
     Assets:EUR:Efectivo:Jana   -15.98 EUR
     Expenses:Compras:Utilidades
+
+2026-06-11 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
