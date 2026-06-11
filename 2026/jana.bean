@@ -802,3 +802,7 @@
 2026-06-11 * "agua" #bot
     Assets:EUR:Efectivo:Jana    -0.90 EUR
     Expenses:Compras:Alimentos
+
+2026-06-11 * "primos" #bot
+    Assets:EUR:Efectivo:Jana   -15.98 EUR
+    Expenses:Compras:Utilidades
