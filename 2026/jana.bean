@@ -822,3 +822,7 @@
 2026-06-12 * "pinta tu cerámica" #bot
     Assets:EUR:Efectivo:Jana   -42.00 EUR
     Expenses:Gastos:Actividades
+
+2026-06-12 * "café" #bot
+    Assets:EUR:Efectivo:Jana    -1.89 EUR
+    Expenses:Salir:Cafe
