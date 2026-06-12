@@ -814,3 +814,7 @@
 2026-06-12 * "desayuno" #bot
     Assets:EUR:Efectivo:Jana   -11.50 EUR
     Expenses:Salir:Restaurante
+
+2026-06-12 * "albi" #bot
+    Assets:EUR:Efectivo:Jana    -1.50 EUR
+    Expenses:Compras:Alimentos
