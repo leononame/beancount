@@ -1230,3 +1230,7 @@
 2026-06-13 * "farmacia" #bot
     Assets:EUR:Efectivo:Leo   -10.95 EUR
     Expenses:Compras:Utilidades
+
+2026-06-14 * "paga Iago" #bot
+    Assets:EUR:Efectivo:Leo    -1.00 EUR
+    Expenses:Gastos:Bebe
