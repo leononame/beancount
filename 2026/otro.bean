@@ -1361,16 +1361,58 @@
   Assets:EUR:Banco:Sabadell                             -2.5 EUR
   Expenses:Lujo
 
-; TODO
-
-2026-06-14 * "" "Uber Eats"
-  Assets:EUR:Banco:Abanca                              -40.29 EUR
-  Expenses:Salir:Restaurante
-
-2026-06-14 * "Amazon" "Disfraz Iago"
+2026-06-10 * "Amazon" "Disfraz Iago"
   Assets:EUR:Banco:Abanca                              -46.51 EUR
   Expenses:Compras:Utilidades
 
-2026-06-14 * "" "Paypal audiolibro jana"
+2026-06-10 * "" "Paypal audiolibro jana"
   Assets:EUR:Banco:Abanca                              -17.99 EUR
   Expenses:Compras:Medios:Libros
+
+2026-06-10 * "" "Música Iago" #recurring
+  Assets:EUR:Banco:Abanca                              -45.58 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+2026-06-11 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -40.29 EUR
+  Expenses:Salir:Restaurante
+
+2026-06-09 * "" "Intereses"
+  Assets:Invest:MyInvestor:Cash                          0.66 EUR
+  Income:Invest:Intereses
+
+2026-06-12 * "" "Comedor Iago" #recurring
+  Assets:EUR:Banco:Abanca                              -39.17 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-06-12 * "" "Lowi" #recurring
+  Assets:EUR:Banco:Abanca                              -31.9 EUR
+  Expenses:Gastos:Casa:Internet                         20 EUR
+  Expenses:Gastos:Movil
+  
+2026-06-13 * "" "YT Music"
+  Assets:EUR:Banco:Abanca                              -25.99 EUR
+  Expenses:Compras:Medios:Musica
+
+2026-06-13 * "" "Uber One"
+  Assets:EUR:Banco:Abanca                               -4.99 EUR
+  Expenses:Salir:Restaurante
+
+2026-06-13 * "Amazon" "Tijeras"
+  Assets:EUR:Banco:Abanca                               -9.99 EUR
+  Expenses:Compras:Utilidades
+
+2026-06-15 * "" "Transferencia"
+  Assets:EUR:Banco:Sabadell                          -6000 EUR
+  Assets:Invest:MyInvestor:Cash
+; TODO
+
+2026-06-19 * "" "Uber Eats"
+  Assets:EUR:Banco:Abanca                              -40.49 EUR
+  Expenses:Salir:Restaurante
+
+2026-06-19 * "Amazon" "Calcetines Leo"
+  Assets:EUR:Banco:Abanca                              -14.99 EUR
+  Expenses:Compras:Ropa
+
+  
