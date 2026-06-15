@@ -1234,3 +1234,7 @@
 2026-06-14 * "paga Iago" #bot
     Assets:EUR:Efectivo:Leo    -1.00 EUR
     Expenses:Gastos:Bebe
+
+2026-06-15 * "pan" #bot
+    Assets:EUR:Efectivo:Leo    -0.98 EUR
+    Expenses:Compras:Alimentos
