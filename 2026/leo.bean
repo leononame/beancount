@@ -1250,3 +1250,7 @@
 2026-06-17 * "café" #bot
     Assets:EUR:Efectivo:Leo    -4.55 EUR
     Expenses:Salir:Cafe
+
+2026-06-19 * "farinarium" #bot
+    Assets:EUR:Efectivo:Leo   -11.85 EUR
+    Expenses:Compras:Alimentos
