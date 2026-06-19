@@ -842,3 +842,7 @@
 2026-06-19 * "curso de golf de Rebe" #bot
     Assets:EUR:Efectivo:Jana   -29.81 EUR
     Expenses:Deporte
+
+2026-06-19 * "ropa" #bot
+    Assets:EUR:Efectivo:Jana  -106.00 EUR
+    Expenses:Compras:Ropa
