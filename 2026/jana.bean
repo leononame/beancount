@@ -846,3 +846,7 @@
 2026-06-19 * "ropa" #bot
     Assets:EUR:Efectivo:Jana  -106.00 EUR
     Expenses:Compras:Ropa
+
+2026-06-20 * "café" #bot
+    Assets:EUR:Efectivo:Jana    -6.20 EUR
+    Expenses:Salir:Cafe
