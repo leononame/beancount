@@ -1266,3 +1266,7 @@
 2026-06-22 * "alimerka" #bot
     Assets:EUR:Efectivo:Leo    -6.02 EUR
     Expenses:Compras:Bebe
+
+2026-06-22 * "parking" #bot
+    Assets:EUR:Efectivo:Leo   -13.50 EUR
+    Expenses:Gastos:Coche:Parking
