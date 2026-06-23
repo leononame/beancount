@@ -1270,3 +1270,7 @@
 2026-06-22 * "parking" #bot
     Assets:EUR:Efectivo:Leo   -13.50 EUR
     Expenses:Gastos:Coche:Parking
+
+2026-06-23 * "finca malain" #bot
+    Assets:EUR:Efectivo:Leo   -17.00 EUR
+    Expenses:Gastos:Actividades
