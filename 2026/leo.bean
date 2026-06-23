@@ -1274,3 +1274,7 @@
 2026-06-23 * "finca malain" #bot
     Assets:EUR:Efectivo:Leo   -17.00 EUR
     Expenses:Gastos:Actividades
+
+2026-06-23 * "alcampo" #bot
+    Assets:EUR:Efectivo:Leo   -65.00 EUR
+    Expenses:Compras:Alimentos
