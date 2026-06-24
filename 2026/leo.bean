@@ -1278,3 +1278,7 @@
 2026-06-23 * "alcampo" #bot
     Assets:EUR:Efectivo:Leo   -65.00 EUR
     Expenses:Compras:Alimentos
+
+2026-06-24 * "parque de la vida" #bot
+    Assets:EUR:Efectivo:Leo   -24.00 EUR
+    Expenses:Salir:Museo
