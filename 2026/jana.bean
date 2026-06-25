@@ -854,3 +854,7 @@
 2026-06-20 * "bazar" #bot
     Assets:EUR:Efectivo:Jana    -1.20 EUR
     Expenses:Compras:Utilidades
+
+2026-06-25 * "alimerka" #bot
+    Assets:EUR:Efectivo:Jana   -26.73 EUR
+    Expenses:Compras:Alimentos
