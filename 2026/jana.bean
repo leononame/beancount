@@ -874,3 +874,7 @@
 2026-06-25 * "Hunkemöller" #bot
     Assets:EUR:Efectivo:Jana   -28.08 EUR
     Expenses:Compras:Ropa
+
+2026-06-25 * "Bijou Brigitte" #bot
+    Assets:EUR:Efectivo:Jana    -9.95 EUR
+    Expenses:Compras:Ropa
