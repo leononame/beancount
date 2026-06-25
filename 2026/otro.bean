@@ -1418,15 +1418,85 @@
   Assets:EUR:Banco:Abanca                              -14.99 EUR
   Expenses:Compras:Ropa
 
-; TODO
+2026-06-17 * "" "Jana zapatos"
+  Assets:EUR:Banco:Abanca                              -89.9 EUR
+  Expenses:Compras:Ropa
 
-2026-06-21 * "Amazon" "Sonómetro y Grabadora"
+2026-06-18 * "Amazon" "Sonómetro y Grabadora"
   Assets:EUR:Banco:Abanca                             -128.69 EUR
   Expenses:Compras:Utilidades
 
-2026-06-21 * "Vinted" "Ropa Bebos"
+2026-06-18 * "Vinted" "Ropa Bebos"
   Assets:EUR:Banco:Abanca                              -11.53 EUR
   Expenses:Compras:Bebe
+
+2026-06-18 * "" "Curso de Golf"
+  Assets:EUR:Banco:Abanca                               30 EUR
+  Expenses:Deporte
+
+2026-06-18 * "" "Dentista Jana"
+  Assets:EUR:Banco:Abanca                              -59 EUR
+  Expenses:Otros
+
+2026-06-18 * "" "Women's Circle"
+  Assets:EUR:Banco:Abanca                              -15 EUR
+  Expenses:Gastos:Actividades
+
+2026-06-19 * "" "Caja Frio Bazar"
+  Assets:EUR:Banco:Abanca                              -22.5 EUR
+  Expenses:Compras:Utilidades
+
+2026-06-20 * "Vinted" "Ropa bebos"
+  Assets:EUR:Banco:Abanca                               -8.34 EUR
+  Expenses:Compras:Bebe
+
+2026-06-20 * "" "Alimerka" #viaje #asturias-micha-2026
+  Assets:EUR:Banco:Abanca                              -86.48 EUR
+  Expenses:Compras:Alimentos
+
+2026-06-20 * "" "Parking Gijon" #viaje #asturias-micha-2026
+  Assets:EUR:Banco:Abanca                               -7.2 EUR
+  Expenses:Gastos:Coche:Parking
+
+2026-06-21 * "" "Gasolina" #viaje #asturias-micha-2026
+  Assets:EUR:Banco:Abanca                              -81.18 EUR
+  Expenses:Gastos:Coche:Gasolina
+
+2026-06-23 * "" "Glovo Ramen"
+  Assets:EUR:Banco:Abanca                              -41.7 EUR
+  Expenses:Salir:Restaurante
+
+2026-06-19 * "Steam" "Slay the Spire"
+  Assets:EUR:Banco:Sabadell                             -5.74 EUR
+  Expenses:Compras:Medios:Videojuegos
+
+2026-06-23 * "" "Anpa Iago+Ali"
+  Assets:EUR:Banco:Sabadell                            -25 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-06-25 balance Assets:EUR:Banco:Sabadell          6484.14 EUR
+
+2026-06-25 * "" "Leo"
+  Assets:EUR:Banco:Sabadell                           5964.89 EUR
+  Income:Salario:Leo
+
+2026-06-25 balance Assets:EUR:Banco:Abanca            1899.07 EUR
+
+2026-06-25 * "" "Hetzner" #recurring
+  Assets:EUR:Banco:Abanca                              -13.19 EUR
+  Expenses:Compras:Tecnología:Hardware
+
+2026-06-25 * "" "Lotería"
+  Assets:EUR:Banco:Abanca                               -9.5 EUR
+  Expenses:Lujo
+
+2026-06-25 * "" "Jana"
+  Assets:EUR:Banco:Abanca                             3000 EUR
+  Income:Salario:Jana
+
+2026-06-25 * "" "Transferencia"
+  Assets:EUR:Banco:Sabadell                          -6000 EUR
+  Assets:Invest:MyInvestor:Cash
 
 2026-06-30 * "" "TGSS Jana"
   Assets:EUR:Banco:Abanca                             -501.54 EUR
