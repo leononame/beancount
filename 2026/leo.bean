@@ -1282,3 +1282,7 @@
 2026-06-24 * "parque de la vida" #bot
     Assets:EUR:Efectivo:Leo   -24.00 EUR
     Expenses:Salir:Museo
+
+2026-06-25 * "museo" #bot
+    Assets:EUR:Efectivo:Leo   -17.00 EUR
+    Expenses:Salir:Museo
