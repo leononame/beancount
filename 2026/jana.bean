@@ -866,3 +866,7 @@
 2026-06-25 * "arenal" #bot
     Assets:EUR:Efectivo:Jana   -20.13 EUR
     Expenses:Compras:Utilidades
+
+2026-06-25 * "zapatos" #bot
+    Assets:EUR:Efectivo:Jana   -89.90 EUR
+    Expenses:Compras:Ropa
