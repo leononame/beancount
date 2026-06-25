@@ -870,3 +870,7 @@
 2026-06-25 * "zapatos" #bot
     Assets:EUR:Efectivo:Jana   -89.90 EUR
     Expenses:Compras:Ropa
+
+2026-06-25 * "Hunkemöller" #bot
+    Assets:EUR:Efectivo:Jana   -28.08 EUR
+    Expenses:Compras:Ropa
