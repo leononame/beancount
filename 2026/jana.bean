@@ -882,3 +882,7 @@
 2026-06-25 * "primaprix" #bot
     Assets:EUR:Efectivo:Jana    -3.70 EUR
     Expenses:Compras:Alimentos
+
+2026-06-25 * "albi" #bot
+    Assets:EUR:Efectivo:Jana   -21.54 EUR
+    Expenses:Compras:Alimentos
