@@ -1294,3 +1294,7 @@
 2026-06-26 * "queso" #bot
     Assets:EUR:Efectivo:Leo   -12.50 EUR
     Expenses:Compras:Alimentos
+
+2026-06-27 * "kebab" #bot
+    Assets:EUR:Efectivo:Leo   -11.40 EUR
+    Expenses:Salir:Restaurante
