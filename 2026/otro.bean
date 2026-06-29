@@ -1498,6 +1498,35 @@
   Assets:EUR:Banco:Sabadell                          -6000 EUR
   Assets:Invest:MyInvestor:Cash
 
+2026-06-26 * "" "Pizza Asturias" #viaje #asturias-micha-2026
+  Assets:EUR:Banco:Abanca                              -59 EUR
+  Expenses:Salir:Restaurante
+
+2026-06-28 * "" "Sport Torti"
+  Assets:EUR:Banco:Abanca                              -20.8 EUR
+  Expenses:Salir:Cafe
+
+2026-06-29 * "" "SanBrandan Comida"
+  Assets:EUR:Banco:Abanca                               -7.05 EUR
+  Expenses:Salir:Restaurante
+
+2026-06-26 * "" "Caserinos"  #viaje #asturias-micha-2026
+  Assets:EUR:Banco:Sabadell                             -8 EUR
+  Expenses:Viaje:Tour
+
+2026-06-25 * "" "Depósito Fin"
+  Assets:Invest:MyInvestor:Cash                      40055.98 EUR
+  Assets:Invest:MyInvestor:Deposito                 -40000.09 EUR
+  Income:Invest:Intereses                              -55.89 EUR
+
+2026-06-26 * "" "Depósito Contratación"
+  Assets:Invest:MyInvestor:Cash                     -51900 EUR
+  Assets:Invest:MyInvestor:Deposito
+
+2026-06-26 * "" "Cartera Mynvestor"
+  Assets:Invest:MyInvestor:Cartera                     156.64 EUR
+  Assets:Invest:MyInvestor:Cash
+  
 2026-06-30 * "" "TGSS Jana"
   Assets:EUR:Banco:Abanca                             -501.54 EUR
   Income:Salario:Jana
