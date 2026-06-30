@@ -890,3 +890,7 @@
 2026-06-29 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -300.00 EUR
     Assets:EUR:Efectivo:Jana
+
+2026-06-30 * "dentista" #bot
+    Assets:EUR:Efectivo:Jana   -59.00 EUR
+    Expenses:Otros
