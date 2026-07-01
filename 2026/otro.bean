@@ -1530,3 +1530,25 @@
 2026-06-30 * "" "TGSS Jana"
   Assets:EUR:Banco:Abanca                             -501.54 EUR
   Income:Salario:Jana
+
+2026-06-30 * "" "Pulpo"
+  Assets:EUR:Banco:Abanca                              -62.2 EUR
+  Expenses:Salir:Restaurante
+
+2026-06-30 * "" "Hipoteca"#recurring
+  Assets:EUR:Banco:Sabadell                          -1291.06 EUR
+  Liabilities:Deudas:Banco                            1022.65 EUR
+  Expenses:Compras:Piso:Intereses                      268.41 EUR
+
+2026-07-01 * "" "BU" #recurring
+  Assets:EUR:Banco:Sabadell                            -52.12 EUR
+  Expenses:Gastos:Seguros:BU
+
+2026-07-01 * "" "Fuxtec Bollerwagen"
+  Assets:EUR:Banco:Sabadell                           -312.2 EUR
+  Expenses:Compras:Utilidades
+  
+; TODO 
+2026-07-05 * "" "Tailscale"#recurring
+  Assets:EUR:Banco:Abanca                               -4.41 EUR
+  Expenses:Compras:Tecnología:Software
