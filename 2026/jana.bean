@@ -902,3 +902,7 @@
 2026-07-01 * "cesta verduras" #bot
     Assets:EUR:Efectivo:Jana   -30.00 EUR
     Expenses:Compras:Alimentos
+
+2026-07-02 * "albi" #bot
+    Assets:EUR:Efectivo:Jana   -14.40 EUR
+    Expenses:Compras:Alimentos
