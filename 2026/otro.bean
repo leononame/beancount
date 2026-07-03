@@ -1548,7 +1548,31 @@
   Assets:EUR:Banco:Sabadell                           -312.2 EUR
   Expenses:Compras:Utilidades
   
-; TODO 
-2026-07-05 * "" "Tailscale"#recurring
-  Assets:EUR:Banco:Abanca                               -4.41 EUR
+2026-07-01 * "" "Bombilla"
+  Assets:EUR:Banco:Abanca                              -11 EUR
+  Expenses:Salir:Restaurante
+
+2026-07-02 * "" "Bausparen" #recurring
+  Assets:EUR:Banco:Abanca                             -100 EUR
+  Expenses:Invest
+
+2026-07-02 * "" "SanBrandan"
+  Assets:EUR:Banco:Abanca                               -7.05 EUR
+  Expenses:Salir:Restaurante
+
+2026-07-03 * "" "Tailscale"#recurring
+  Assets:EUR:Banco:Abanca                               -4.39 EUR
   Expenses:Compras:Tecnología:Software
+
+2026-07-03 * "" "Impuestos Leo"
+  Assets:EUR:Banco:Abanca                             2965.95 EUR
+  Income:Salario:Leo 
+
+2026-07-03 * "" "Gasolina"
+  Liabilities:TC:Leo                                   -79.37 EUR
+  Expenses:Gastos:Coche:Gasolina
+
+; TODO
+2026-07-31 * "" "TGSS Jana"
+  Assets:EUR:Banco:Abanca                             -501.54 EUR
+  Income:Salario:Jana
