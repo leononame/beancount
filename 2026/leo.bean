@@ -1306,3 +1306,7 @@
 2026-07-04 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca   -20.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2026-07-04 * "barracas" #bot
+    Assets:EUR:Efectivo:Leo    -4.00 EUR
+    Expenses:Gastos:Bebe
