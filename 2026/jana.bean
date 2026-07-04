@@ -914,3 +914,7 @@
 2026-07-02 * "golf" #bot
     Assets:EUR:Efectivo:Jana    -1.80 EUR
     Expenses:Deporte
+
+2026-07-04 * "parking" #bot
+    Assets:EUR:Efectivo:Jana    -1.35 EUR
+    Expenses:Gastos:Coche:Parking
