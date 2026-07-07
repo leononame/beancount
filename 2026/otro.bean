@@ -1572,7 +1572,36 @@
   Liabilities:TC:Leo                                   -79.37 EUR
   Expenses:Gastos:Coche:Gasolina
 
+2026-07-03 * "" "Ventilador Bazar Casti"
+  Assets:EUR:Banco:Abanca                              -34.95 EUR
+  Expenses:Compras:Utilidades
+
+2026-07-04 * "" "Gadis"
+  Assets:EUR:Banco:Abanca                               -2.8 EUR
+  Expenses:Compras:Alimentos
+
+2026-07-06 * "" "Guarde" #recurring
+  Assets:EUR:Banco:Abanca                              -74.05 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-07-06 * "" "Luz" #recurring
+  Assets:EUR:Banco:Abanca                              -66.93 EUR
+  Expenses:Gastos:Casa:Luz
+
+2026-07-06 * "" "Comunidad y Gas" #recurring
+  Assets:EUR:Banco:Sabadell                           -163.85 EUR
+  Expenses:Gastos:Casa:Gas                             116.85 EUR
+  Expenses:Gastos:Casa:Comunidad                        47 EUR
+
 ; TODO
+2026-07-10 * "" "Barracas"
+  Assets:EUR:Banco:Abanca                              -12 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+2026-07-10 * "Uber Eats" "Pepita"
+  Assets:EUR:Banco:Abanca                              -39.98 EUR
+  Expenses:Salir:Restaurante
+
 2026-07-31 * "" "TGSS Jana"
   Assets:EUR:Banco:Abanca                             -501.54 EUR
   Income:Salario:Jana
