@@ -926,3 +926,7 @@
 2026-07-11 * "arenal" #bot
     Assets:EUR:Efectivo:Jana   -25.88 EUR
     Expenses:Compras:Utilidades
+
+2026-07-11 * "primaprix" #bot
+    Assets:EUR:Efectivo:Jana   -17.85 EUR
+    Expenses:Compras:Alimentos
