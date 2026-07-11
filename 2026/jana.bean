@@ -946,3 +946,7 @@
 2026-07-11 * "sephora" #bot
     Assets:EUR:Efectivo:Jana   -36.00 EUR
     Expenses:Compras:Utilidades
+
+2026-07-11 * "froiz" #bot
+    Assets:EUR:Efectivo:Jana   -36.75 EUR
+    Expenses:Compras:Alimentos
