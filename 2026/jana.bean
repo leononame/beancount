@@ -922,3 +922,7 @@
 2026-07-09 * "golf" #bot
     Assets:EUR:Efectivo:Jana    -1.80 EUR
     Expenses:Deporte
+
+2026-07-11 * "arenal" #bot
+    Assets:EUR:Efectivo:Jana   -25.88 EUR
+    Expenses:Compras:Utilidades
