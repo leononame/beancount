@@ -962,3 +962,7 @@
 2026-07-11 * "aldi" #bot
     Assets:EUR:Efectivo:Jana   -27.55 EUR
     Expenses:Compras:Alimentos
+
+2026-07-13 * "polvo matcha" #bot
+    Assets:EUR:Efectivo:Jana    -5.70 EUR
+    Expenses:Compras:Alimentos
