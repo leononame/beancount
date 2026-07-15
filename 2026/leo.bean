@@ -1370,3 +1370,7 @@
 2026-07-14 * "garimbota" #bot
     Assets:EUR:Efectivo:Leo   -10.60 EUR
     Expenses:Salir:Restaurante
+
+2026-07-15 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo   -17.65 EUR
+    Expenses:Compras:Alimentos
