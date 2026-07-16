@@ -1386,3 +1386,7 @@
 2026-07-16 * "café" #bot
     Assets:EUR:Efectivo:Leo    -2.30 EUR
     Expenses:Salir:Cafe
+
+2026-07-16 * "decathlon" #bot
+    Assets:EUR:Efectivo:Leo   -31.47 EUR
+    Expenses:Compras:Utilidades
