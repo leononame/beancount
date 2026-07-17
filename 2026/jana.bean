@@ -978,3 +978,7 @@
 2026-07-15 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -6.77 EUR
     Expenses:Compras:Alimentos
+
+2026-07-17 * "cesta Fede" #bot
+    Assets:EUR:Efectivo:Jana   -50.00 EUR
+    Expenses:Compras:Alimentos
