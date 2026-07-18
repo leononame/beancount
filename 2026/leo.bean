@@ -1410,3 +1410,7 @@
 2026-07-17 * "fu" #bot
     Assets:EUR:Efectivo:Leo   -38.40 EUR
     Expenses:Salir:Restaurante
+
+2026-07-18 * "parking" #bot
+    Assets:EUR:Efectivo:Leo    -2.00 EUR
+    Expenses:Gastos:Coche:Parking
