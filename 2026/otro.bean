@@ -1651,27 +1651,70 @@
   Expenses:Gastos:Casa:Internet                         20 EUR
   Expenses:Gastos:Movil
 
+2026-07-14 * "" "Bajo Fer Clase suelta" #recurring
+  Assets:EUR:Banco:Abanca                              -30 EUR
+  Expenses:Gastos:Actividades
 
-; TODO
-2026-07-16 * "Uber Eats" "Pepita"
+2026-07-15 * "Uber Eats" "Pepita"
   Assets:EUR:Banco:Abanca                              -40.49 EUR
   Expenses:Salir:Restaurante
 
-2026-07-16 * "YT Music" #recurring
+2026-07-15 * "Uber Eats" "Uber One"
+  Assets:EUR:Banco:Abanca                               -4.99 EUR
+  Expenses:Salir:Restaurante
+
+2026-07-15 * "Uber Eats" "Pepita"
+  Assets:EUR:Banco:Abanca                              -40.49 EUR
+  Expenses:Salir:Restaurante
+
+2026-07-15 * "YT Music" #recurring
   Assets:EUR:Banco:Abanca                              -25.99 EUR
   Expenses:Compras:Medios:Musica
 
-2026-07-16 * "Uber Eats" "Pepita"
-  Assets:EUR:Banco:Abanca                              -40.49 EUR
-  Expenses:Salir:Restaurante
-
-2026-07-16 * "Uber Eats" "Uber One"
-  Assets:EUR:Banco:Abanca                               -4.99 EUR
-  Expenses:Salir:Restaurante
+2026-07-20 * "" "Fede Caja Verduras Devo"
+  Assets:EUR:Banco:Abanca                               20 EUR
+  Expenses:Compras:Alimentos
 
 2026-07-16 * "Too Good To Go" "Nua"
   Assets:EUR:Banco:Abanca                               -4.5 EUR
   Expenses:Salir:Restaurante
+
+2026-07-16 * "" "Psicóloga Estefanía Sesión familia"
+  Assets:EUR:Banco:Abanca                              -60 EUR
+  Expenses:Gastos:Actividades
+
+2026-07-16 * "" "Fu Jana "
+  Assets:EUR:Banco:Abanca                              -18.2 EUR
+  Expenses:Salir:Restaurante
+
+2026-07-16 * "" "Kebab"
+  Assets:EUR:Banco:Abanca                              -11.4 EUR
+  Expenses:Salir:Restaurante
+
+2026-07-17 * "" "Devo Arenal"
+  Assets:EUR:Banco:Abanca                                3.45 EUR
+  Expenses:Compras:Utilidades
+
+2026-07-17 * "" "Women's Circle"
+  Assets:EUR:Banco:Abanca                              -15 EUR
+  Expenses:Gastos:Actividades
+
+2026-07-18 * "" "Astro"
+  Assets:EUR:Banco:Abanca                               -6.21 EUR
+  Expenses:Salir:Cafe
+
+; TODO
+2026-07-25 * "Uber Eats" "Pepita"
+  Assets:EUR:Banco:Abanca                              -40.49 EUR
+  Expenses:Salir:Restaurante
+
+2026-07-25 * "Amazon" "Bañadores Iago, Calcetines Jana, Perlas cadena Ali"
+  Assets:EUR:Banco:Abanca                              -37.97 EUR
+  Expenses:Compras:Utilidades
+
+2026-07-25 * "Amazon" "Prime"
+  Assets:EUR:Banco:Abanca                               -1.99 EUR
+  Expenses:Compras:Utilidades
 
 2026-07-31 * "" "TGSS Jana"
   Assets:EUR:Banco:Abanca                             -501.54 EUR
