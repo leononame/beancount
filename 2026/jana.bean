@@ -986,3 +986,7 @@
 2026-07-18 * "Albi" #bot
     Assets:EUR:Efectivo:Jana   -17.55 EUR
     Expenses:Compras:Alimentos
+
+2026-07-21 * "parking" #bot
+    Assets:EUR:Efectivo:Jana    -2.00 EUR
+    Expenses:Gastos:Coche:Parking
