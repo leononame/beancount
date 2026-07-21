@@ -114,6 +114,7 @@ include "prices.bean"
 2000-01-01 open Assets:EUR:Banco:Sabadell                       EUR
 
 2000-01-01 open Assets:Piso:Tui                                 EUR
+2000-01-01 open Assets:Piso:Bajo                                EUR
 
 2020-02-01 open Assets:EUR:Banco:Leo                            EUR
 2020-02-01 open Assets:EUR:Banco:Jana                           EUR

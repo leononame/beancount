@@ -1703,6 +1703,23 @@
   Assets:EUR:Banco:Abanca                               -6.21 EUR
   Expenses:Salir:Cafe
 
+2026-07-21 * "" "Compra Bajo"
+  Assets:EUR:Banco:Abanca                           -25000
+  Assets:Piso:Bajo
+
+2026-07-21 * "" "Impuestos Compra Bajo" #extraordinario
+  Assets:EUR:Banco:Abanca                            -2000 EUR
+  Expenses:Compras:Piso                               2000 EUR 
+
+2026-07-21 * "" "Registro Compra Bajo" #extraordinario
+  Assets:EUR:Banco:Abanca                             -300 EUR
+  Expenses:Compras:Piso                                300 EUR 
+
+2026-07-21 * "" "Notaría Compra Bajo" #extraordinario
+  Assets:EUR:Banco:Abanca                             -883.14 EUR
+  Expenses:Compras:Piso                                883.14 EUR 
+
+
 ; TODO
 2026-07-25 * "Uber Eats" "Pepita"
   Assets:EUR:Banco:Abanca                              -40.49 EUR
