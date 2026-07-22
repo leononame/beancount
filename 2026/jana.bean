@@ -994,3 +994,7 @@
 2026-07-21 * "croissant" #bot
     Assets:EUR:Efectivo:Jana    -3.00 EUR
     Expenses:Compras:Alimentos
+
+2026-07-22 * "matcha" #bot
+    Assets:EUR:Efectivo:Jana    -4.50 EUR
+    Expenses:Salir:Cafe
