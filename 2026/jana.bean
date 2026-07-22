@@ -1002,3 +1002,7 @@
 2026-07-22 * "roll de canela" #bot
     Assets:EUR:Efectivo:Jana    -3.30 EUR
     Expenses:Salir:Cafe
+
+2026-07-22 * "tiger" #bot
+    Assets:EUR:Efectivo:Jana   -13.00 EUR
+    Expenses:Compras:Utilidades
