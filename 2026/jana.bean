@@ -1014,3 +1014,7 @@
 2026-07-22 * "gadis" #bot
     Assets:EUR:Efectivo:Jana   -20.76 EUR
     Expenses:Compras:Alimentos
+
+2026-07-22 * "familia" #bot
+    Assets:EUR:Efectivo:Jana    -5.61 EUR
+    Expenses:Compras:Alimentos
