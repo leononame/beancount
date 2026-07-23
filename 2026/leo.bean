@@ -1442,3 +1442,7 @@
 2026-07-20 * "Albi" #bot
     Assets:EUR:Efectivo:Leo    -0.01 EUR
     Expenses:Compras:Alimentos
+
+2026-07-23 * "filloa" #bot
+    Assets:EUR:Efectivo:Leo   -15.00 EUR
+    Expenses:Salir:Conciertos
