@@ -1450,3 +1450,7 @@
 2026-07-23 * "cervezas" #bot
     Assets:EUR:Efectivo:Leo    -3.50 EUR
     Expenses:Salir:Copas
+
+2026-07-23 * "capulana Ali" #bot
+    Assets:EUR:Efectivo:Leo    -5.00 EUR
+    Expenses:Compras:Bebe
