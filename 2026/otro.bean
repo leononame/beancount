@@ -1719,19 +1719,47 @@
   Assets:EUR:Banco:Abanca                             -883.14 EUR
   Expenses:Compras:Piso                                883.14 EUR 
 
+2026-07-22 * "" "Ferretería"
+  Assets:EUR:Banco:Abanca                               -2.65 EUR
+  Expenses:Compras:Utilidades
 
+2026-07-22 * "" "Cervezas"
+  Assets:EUR:Banco:Abanca                               -9 EUR
+  Expenses:Salir:Copas
 ; TODO
-2026-07-25 * "Uber Eats" "Pepita"
+2026-07-23 * "Uber Eats" "Pepita"
   Assets:EUR:Banco:Abanca                              -40.49 EUR
   Expenses:Salir:Restaurante
 
-2026-07-25 * "Amazon" "Bañadores Iago, Calcetines Jana, Perlas cadena Ali"
+2026-07-23 * "Amazon" "Prime"
+  Assets:EUR:Banco:Abanca                               -1.99 EUR
+  Expenses:Compras:Utilidades
+
+2026-07-23 * "Amazon" "Bañadores Iago, Calcetines Jana, Perlas cadena Ali"
   Assets:EUR:Banco:Abanca                              -37.97 EUR
   Expenses:Compras:Utilidades
 
-2026-07-25 * "Amazon" "Prime"
-  Assets:EUR:Banco:Abanca                               -1.99 EUR
-  Expenses:Compras:Utilidades
+2026-07-23 * "" "SanBrandan"
+  Assets:EUR:Banco:Abanca                               -4.5 EUR
+  Expenses:Salir:Cafe
+
+2026-07-23 * "" "Café"
+  Assets:EUR:Banco:Abanca                               -4.8 EUR
+  Expenses:Salir:Cafe
+
+2026-07-23 * "" "Garimbota"
+  Assets:EUR:Banco:Abanca                              -11.6 EUR
+  Expenses:Salir:Restaurante
+
+2026-07-23 * "" "Withdrawal Leo"
+  Assets:EUR:Banco:Abanca                             -300 EUR
+  Assets:EUR:Efectivo:Leo
+
+2026-07-24 balance Assets:EUR:Banco:Abanca            9203.68 EUR
+
+2026-07-24 * "" "Nómina"
+  Assets:EUR:Banco:Sabadell                           5820.83 EUR
+  Income:Salario:Leo
 
 2026-07-31 * "" "TGSS Jana"
   Assets:EUR:Banco:Abanca                             -501.54 EUR
