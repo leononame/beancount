@@ -1462,3 +1462,7 @@
 2026-07-25 * "cafe" #bot
     Assets:EUR:Efectivo:Leo    -1.80 EUR
     Expenses:Salir:Cafe
+
+2026-07-25 * "carrefour" #bot
+    Assets:EUR:Efectivo:Leo    -5.39 EUR
+    Expenses:Compras:Utilidades
