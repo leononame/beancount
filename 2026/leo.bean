@@ -1458,3 +1458,7 @@
 2026-07-25 * "desayuno" #bot
     Assets:EUR:Efectivo:Leo   -12.05 EUR
     Expenses:Salir:Restaurante
+
+2026-07-25 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo    -1.80 EUR
+    Expenses:Salir:Cafe
