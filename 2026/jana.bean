@@ -1042,3 +1042,7 @@
 2026-07-23 * "pan" #bot
     Assets:EUR:Efectivo:Jana    -8.30 EUR
     Expenses:Compras:Alimentos
+
+2026-07-25 * "carrefour" #bot
+    Assets:EUR:Efectivo:Jana   -16.50 EUR
+    Expenses:Compras:Alimentos
