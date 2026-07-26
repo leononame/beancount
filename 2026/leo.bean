@@ -1478,3 +1478,7 @@
 2026-07-26 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca  -300.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2026-07-26 * "pan" #bot
+    Assets:EUR:Efectivo:Leo    -1.20 EUR
+    Expenses:Compras:Alimentos
