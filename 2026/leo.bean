@@ -1470,3 +1470,7 @@
 2026-07-26 * "metro Bilbao" #bot
     Assets:EUR:Efectivo:Leo    -5.00 EUR
     Expenses:Transporte:Publico
+
+2026-07-26 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -8.50 EUR
+    Expenses:Salir:Cafe
