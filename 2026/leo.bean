@@ -1466,3 +1466,7 @@
 2026-07-25 * "carrefour" #bot
     Assets:EUR:Efectivo:Leo    -5.39 EUR
     Expenses:Compras:Utilidades
+
+2026-07-26 * "metro Bilbao" #bot
+    Assets:EUR:Efectivo:Leo    -5.00 EUR
+    Expenses:Transporte:Publico
