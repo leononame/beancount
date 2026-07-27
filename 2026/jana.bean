@@ -1046,3 +1046,7 @@
 2026-07-25 * "carrefour" #bot
     Assets:EUR:Efectivo:Jana   -16.50 EUR
     Expenses:Compras:Alimentos
+
+2026-07-27 * "calcetines bebos" #bot
+    Assets:EUR:Efectivo:Jana   -38.16 EUR
+    Expenses:Compras:Ropa
