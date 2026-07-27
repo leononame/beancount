@@ -1050,3 +1050,7 @@
 2026-07-27 * "calcetines bebos" #bot
     Assets:EUR:Efectivo:Jana   -38.16 EUR
     Expenses:Compras:Ropa
+
+2026-07-27 * "comida" #bot
+    Assets:EUR:Efectivo:Jana   -48.00 EUR
+    Expenses:Salir:Restaurante
