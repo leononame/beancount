@@ -1054,3 +1054,7 @@
 2026-07-27 * "comida" #bot
     Assets:EUR:Efectivo:Jana   -48.00 EUR
     Expenses:Salir:Restaurante
+
+2026-07-27 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca   -300.00 EUR
+    Assets:EUR:Efectivo:Jana
