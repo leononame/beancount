@@ -1502,3 +1502,7 @@
 2026-07-27 * "farmacia" #bot
     Assets:EUR:Efectivo:Leo    -3.90 EUR
     Expenses:Compras:Utilidades
+
+2026-07-28 * "café" #bot
+    Assets:EUR:Efectivo:Leo    -5.70 EUR
+    Expenses:Salir:Cafe
