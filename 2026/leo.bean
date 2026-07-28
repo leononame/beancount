@@ -1510,3 +1510,7 @@
 2026-07-28 * "agua" #bot
     Assets:EUR:Efectivo:Leo    -2.99 EUR
     Expenses:Compras:Alimentos
+
+2026-07-28 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo    -5.03 EUR
+    Expenses:Perdido
