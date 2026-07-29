@@ -1757,9 +1757,61 @@
 
 2026-07-24 balance Assets:EUR:Banco:Abanca            9203.68 EUR
 
+2026-07-24 * "" "SanBrandan"
+  Assets:EUR:Banco:Abanca                               -6.85 EUR
+  Expenses:Salir:Restaurante
+
+2026-07-24 * "" "Familia"
+  Assets:EUR:Banco:Abanca                               -2.68 EUR
+  Expenses:Compras:Alimentos
+
+2026-07-24 * "" "Gasolina" #alemania2026
+  Assets:EUR:Banco:Abanca                              -81.31 EUR
+  Expenses:Gastos:Coche:Gasolina
+
+2026-07-27 * "" "Hetzner"
+  Assets:EUR:Banco:Abanca                              -13.19 EUR
+  Expenses:Compras:Tecnología:Hardware
+
+2026-07-29 * "Uber Eats" "Pepita"
+  Assets:EUR:Banco:Abanca                              -40.49 EUR
+  Expenses:Salir:Restaurante
+
+2026-07-29 * "" "Lotería"
+  Assets:EUR:Banco:Abanca                              -20 EUR
+  Expenses:Lujo
+
 2026-07-24 * "" "Nómina"
   Assets:EUR:Banco:Sabadell                           5820.83 EUR
   Income:Salario:Leo
+
+2026-07-24 * "" "Sitzplatzreservierung Silke"
+  Assets:EUR:Banco:Sabadell                             -5.5 EUR
+  Expenses:Transporte:Tren
+
+2026-07-25 * "" "Gasolina" #alemania2026
+  Liabilities:TC:Leo                                   -70.58 EUR
+  Expenses:Gastos:Coche:Gasolina
+
+; TODO
+
+2026-07-31 * "" "Peaje" #alemania2026
+  Assets:EUR:Banco:Abanca                             -125.3 EUR
+  Expenses:Gastos:Coche:Peaje
+
+2026-07-31 * "" "McDonald's Tours" #alemania2026
+  Liabilities:TC:Leo                                   -28.25 EUR
+  Liabilities:TC:Leo                                   -10.55 EUR
+  Liabilities:TC:Leo                                    -5.8 EUR
+  Expenses:Salir:Restaurante                            44.60 EUR
+
+2026-07-31 * "" "Hotel Tours" #alemania2026
+  Liabilities:TC:Leo                                  -215.74 EUR
+  Expenses:Viaje:Hotel
+
+2026-07-31 * "" "Gasolina" #alemania2026
+  Liabilities:TC:Leo                                  -144.92 EUR
+  Expenses:Gastos:Coche:Gasolina
 
 2026-07-31 * "" "TGSS Jana"
   Assets:EUR:Banco:Abanca                             -501.54 EUR
