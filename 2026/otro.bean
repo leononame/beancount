@@ -1535,7 +1535,7 @@
   Assets:EUR:Banco:Abanca                              -62.2 EUR
   Expenses:Salir:Restaurante
 
-2026-06-30 * "" "Hipoteca"#recurring
+2026-06-30 * "" "Hipoteca" #recurring
   Assets:EUR:Banco:Sabadell                          -1291.06 EUR
   Liabilities:Deudas:Banco                            1022.65 EUR
   Expenses:Compras:Piso:Intereses                      268.41 EUR
@@ -1793,26 +1793,57 @@
   Liabilities:TC:Leo                                   -70.58 EUR
   Expenses:Gastos:Coche:Gasolina
 
-; TODO
-
-2026-07-31 * "" "Peaje" #alemania2026
+2026-07-30 * "" "Peaje" #alemania2026
   Assets:EUR:Banco:Abanca                             -125.3 EUR
   Expenses:Gastos:Coche:Peaje
 
-2026-07-31 * "" "McDonald's Tours" #alemania2026
+2026-07-30 * "" "TGSS Jana"
+  Assets:EUR:Banco:Abanca                             -501.54 EUR
+  Income:Salario:Jana
+
+2026-07-27 * "" "McDonald's Tours" #alemania2026
   Liabilities:TC:Leo                                   -28.25 EUR
   Liabilities:TC:Leo                                   -10.55 EUR
   Liabilities:TC:Leo                                    -5.8 EUR
   Expenses:Salir:Restaurante                            44.60 EUR
 
-2026-07-31 * "" "Hotel Tours" #alemania2026
+2026-07-27 * "" "Gasolina" #alemania2026
+  Liabilities:TC:Leo                                  -100 EUR
+  Expenses:Gastos:Coche:Gasolina
+
+2026-07-28 * "" "Hotel Tours" #alemania2026
   Liabilities:TC:Leo                                  -215.74 EUR
   Expenses:Viaje:Hotel
 
-2026-07-31 * "" "Gasolina" #alemania2026
+2026-07-28 * "" "Gasolina" #alemania2026
   Liabilities:TC:Leo                                  -144.92 EUR
   Expenses:Gastos:Coche:Gasolina
 
-2026-07-31 * "" "TGSS Jana"
-  Assets:EUR:Banco:Abanca                             -501.54 EUR
-  Income:Salario:Jana
+2026-07-29 * "" "Lieferando"
+  Assets:EUR:Banco:Sabadell                            -24.99 EUR
+  Expenses:Salir:Restaurante
+
+2026-07-29 * "Steam" "Pioneers of Pagonia"
+  Assets:EUR:Banco:Sabadell                            -34.99 EUR
+  Expenses:Compras:Medios:Videojuegos
+
+2026-07-31 * "" "Hipoteca"
+  Assets:EUR:Banco:Sabadell                          -1291.06 EUR
+  Liabilities:Deudas:Banco                            1023.89 EUR
+  Expenses:Compras:Piso:Intereses                      267.17 EUR
+
+2026-07-31 * "" "TC Leo"
+  Liabilities:TC:Leo                                    79.37 EUR
+  Assets:EUR:Banco:Sabadell
+
+; TODO
+
+2026-07-31 * "" "Spielwaren Wagner"
+  Assets:EUR:Banco:Abanca                              -66.96 EUR
+  Expenses:Compras:Bebe                                 59.96 EUR
+  Assets:EUR:Efectivo:Jana                               7 EUR
+
+2026-07-31 * "" "Rewe" #alemania2026
+  Assets:EUR:Banco:Abanca                              -65.15 EUR
+  Expenses:Compras:Alimentos
+
