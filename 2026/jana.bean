@@ -1074,3 +1074,7 @@
 2026-08-01 * "Jumpsuit Jana" #bot
     Assets:EUR:Efectivo:Jana    -62.00 EUR
     Expenses:Compras:Ropa
+
+2026-08-01 * "parking" #bot
+    Assets:EUR:Efectivo:Jana     -4.00 EUR
+    Expenses:Gastos:Coche:Parking
