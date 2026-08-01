@@ -1082,3 +1082,7 @@
 2026-08-01 * "pan" #bot
     Assets:EUR:Efectivo:Jana     -5.60 EUR
     Expenses:Compras:Alimentos
+
+2026-08-01 * "parking" #bot
+    Assets:EUR:Efectivo:Jana    -10.00 EUR
+    Expenses:Gastos:Coche:Parking
