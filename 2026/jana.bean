@@ -1086,3 +1086,7 @@
 2026-08-01 * "parking" #bot
     Assets:EUR:Efectivo:Jana    -10.00 EUR
     Expenses:Gastos:Coche:Parking
+
+2026-08-01 * "minigolf" #bot
+    Assets:EUR:Efectivo:Jana    -13.00 EUR
+    Expenses:Gastos:Actividades
