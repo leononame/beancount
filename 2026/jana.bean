@@ -1090,3 +1090,7 @@
 2026-08-01 * "minigolf" #bot
     Assets:EUR:Efectivo:Jana    -13.00 EUR
     Expenses:Gastos:Actividades
+
+2026-08-02 * "Matcha latte" #bot
+    Assets:EUR:Efectivo:Jana     -6.00 EUR
+    Expenses:Salir:Cafe
