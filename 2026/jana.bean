@@ -1094,3 +1094,7 @@
 2026-08-02 * "Matcha latte" #bot
     Assets:EUR:Efectivo:Jana     -6.00 EUR
     Expenses:Salir:Cafe
+
+2026-08-02 * "comida" #bot
+    Assets:EUR:Efectivo:Jana    -52.00 EUR
+    Expenses:Salir:Restaurante
