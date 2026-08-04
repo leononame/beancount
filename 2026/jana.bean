@@ -1106,3 +1106,7 @@
 2026-08-04 * "pan" #bot
     Assets:EUR:Efectivo:Jana     -3.05 EUR
     Expenses:Compras:Alimentos
+
+2026-08-04 * "cena" #bot
+    Assets:EUR:Efectivo:Jana    -65.00 EUR
+    Expenses:Salir:Restaurante
