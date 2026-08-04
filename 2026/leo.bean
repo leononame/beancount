@@ -1522,3 +1522,7 @@
 2026-07-30 * "piscina" #bot
     Assets:EUR:Efectivo:Leo      -5.00 EUR
     Expenses:Gastos:Actividades
+
+2026-08-04 * "café" #bot
+    Assets:EUR:Efectivo:Leo     -28.00 EUR
+    Expenses:Salir:Cafe
