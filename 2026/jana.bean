@@ -1102,3 +1102,7 @@
 2026-08-02 * "piscina" #bot
     Assets:EUR:Efectivo:Jana    -10.00 EUR
     Expenses:Gastos:Actividades
+
+2026-08-04 * "pan" #bot
+    Assets:EUR:Efectivo:Jana     -3.05 EUR
+    Expenses:Compras:Alimentos
