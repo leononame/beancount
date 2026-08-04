@@ -1110,3 +1110,7 @@
 2026-08-04 * "cena" #bot
     Assets:EUR:Efectivo:Jana    -65.00 EUR
     Expenses:Salir:Restaurante
+
+2026-08-04 * "ayran" #bot
+    Assets:EUR:Efectivo:Jana     -3.00 EUR
+    Expenses:Compras:Alimentos
