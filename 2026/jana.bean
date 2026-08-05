@@ -1114,3 +1114,7 @@
 2026-08-04 * "ayran" #bot
     Assets:EUR:Efectivo:Jana     -3.00 EUR
     Expenses:Compras:Alimentos
+
+2026-08-05 * "parking" #bot
+    Assets:EUR:Efectivo:Jana     -4.00 EUR
+    Expenses:Gastos:Coche:Parking
