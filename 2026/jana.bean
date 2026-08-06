@@ -1118,3 +1118,7 @@
 2026-08-05 * "parking" #bot
     Assets:EUR:Efectivo:Jana     -4.00 EUR
     Expenses:Gastos:Coche:Parking
+
+2026-08-06 * "matcha" #bot
+    Assets:EUR:Efectivo:Jana    -12.00 EUR
+    Expenses:Salir:Cafe
