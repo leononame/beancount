@@ -1836,14 +1836,56 @@
   Liabilities:TC:Leo                                    79.37 EUR
   Assets:EUR:Banco:Sabadell
 
-; TODO
-
-2026-07-31 * "" "Spielwaren Wagner"
+2026-08-04 * "" "Spielwaren Wagner"
   Assets:EUR:Banco:Abanca                              -66.96 EUR
   Expenses:Compras:Bebe                                 59.96 EUR
-  Assets:EUR:Efectivo:Jana                               7 EUR
+  Assets:EUR:Efectivo:Jana      
 
-2026-07-31 * "" "Rewe" #alemania2026
+
+2026-08-04 * "" "Rewe" #alemania2026
   Assets:EUR:Banco:Abanca                              -65.15 EUR
   Expenses:Compras:Alimentos
+
+2026-08-04 * "" "Bausparen" #recurring
+  Assets:EUR:Banco:Abanca                             -100 EUR
+  Expenses:Invest
+
+2026-08-05 * "" "Peaje" #alemania2026
+  Assets:EUR:Banco:Abanca                             -125.3 EUR
+  Expenses:Gastos:Coche:Peaje
+
+2026-08-05 * "" "Tailscale" #recurring
+  Assets:EUR:Banco:Abanca                               -4.37 EUR
+  Expenses:Compras:Tecnología:Software 
+
+2026-08-05 * "" "Luz" #recurring
+  Assets:EUR:Banco:Abanca                              -69.21 EUR
+  Expenses:Gastos:Casa:Luz
+  
+2026-08-03 * "" "BU" #recurring
+  Assets:EUR:Banco:Sabadell                            -52.15 EUR
+  Expenses:Gastos:Seguros:BU
+
+2026-08-05 * "" "Comunidad" #recurring
+  Assets:EUR:Banco:Sabadell                            -47 EUR
+  Expenses:Gastos:Casa:Comunidad
+
+2026-08-05 * "" "Action Squad Steam"
+  Assets:EUR:Banco:Sabadell                             -1.85 EUR
+  Expenses:Compras:Medios:Videojuegos
+
+2026-08-06 * "" "Transfer"
+  Assets:EUR:Banco:Abanca                             3500 EUR
+  Assets:EUR:Banco:Sabadell                          -3500.00 EUR
+
+; TODO
+
+2026-08-10 * "" "Rewe" #alemania2026
+  Assets:EUR:Banco:Abanca                              -70.33 EUR
+  Expenses:Compras:Alimentos
+
+2026-08-10 * "" "Cine"
+  Assets:EUR:Banco:Abanca                              -10.4 EUR
+  Expenses:Salir:Cine
+
 
