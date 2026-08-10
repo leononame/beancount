@@ -1863,7 +1863,7 @@
   Expenses:Gastos:Casa:Luz
   
 2026-08-03 * "" "BU" #recurring
-  Assets:EUR:Banco:Sabadell                            -52.15 EUR
+  Assets:EUR:Banco:Sabadell                            -52.12 EUR
   Expenses:Gastos:Seguros:BU
 
 2026-08-05 * "" "Comunidad" #recurring
@@ -1878,14 +1878,46 @@
   Assets:EUR:Banco:Abanca                             3500 EUR
   Assets:EUR:Banco:Sabadell                          -3500.00 EUR
 
-; TODO
-
-2026-08-10 * "" "Rewe" #alemania2026
+2026-08-07 * "" "Rewe" #alemania2026
   Assets:EUR:Banco:Abanca                              -70.33 EUR
   Expenses:Compras:Alimentos
 
-2026-08-10 * "" "Cine"
+2026-08-07 * "" "Jana Yoga" #recurring
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Deporte
+
+2026-08-07 * "" "Iago" #recurring
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-08-07 * "" "Ali" #recurring
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-08-08 * "" "Cine"
   Assets:EUR:Banco:Abanca                              -10.4 EUR
   Expenses:Salir:Cine
 
+2026-08-10 * "" "Kai Billard"
+  Assets:EUR:Banco:Abanca                               15 EUR
+  Expenses:Salir:Copas
+
+2026-08-10 * "" "Frank Billard"
+  Assets:EUR:Efectivo:Leo                               18 EUR
+  Expenses:Salir:Copas
+
+2026-08-08 * "" "Bahn Silke"
+  Assets:EUR:Banco:Sabadell                            -96.74 EUR
+  Expenses:Transporte:Tren
+
+2026-08-08 * "Steam" "Pioneers of Pagonia"
+  Assets:EUR:Banco:Sabadell                             34.99 EUR
+  Expenses:Compras:Medios:Videojuegos
+
+   
+; TODO
+
+2026-08-12 * "" "Billard"
+  Assets:EUR:Banco:Abanca                              -72.3 EUR
+  Expenses:Salir:Copas
 
