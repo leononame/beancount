@@ -1130,3 +1130,7 @@
 2026-08-10 * "baño" #bot
     Assets:EUR:Efectivo:Jana     -0.40 EUR
     Expenses:Salir:Cafe
+
+2026-08-11 * "cena" #bot
+    Assets:EUR:Efectivo:Jana    -14.70 EUR
+    Expenses:Salir:Restaurante
