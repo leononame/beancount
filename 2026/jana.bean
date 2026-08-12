@@ -1146,3 +1146,7 @@
 2026-08-12 * "piscina" #bot
     Assets:EUR:Efectivo:Jana    -10.00 EUR
     Expenses:Gastos:Actividades
+
+2026-08-12 * "wagner" #bot
+    Assets:EUR:Efectivo:Jana    -66.96 EUR
+    Expenses:Compras:Regalos
