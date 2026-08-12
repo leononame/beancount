@@ -1142,3 +1142,7 @@
 2026-08-12 * "ropa bebe" #bot
     Assets:EUR:Efectivo:Jana     -8.45 EUR
     Expenses:Compras:Ropa
+
+2026-08-12 * "piscina" #bot
+    Assets:EUR:Efectivo:Jana    -10.00 EUR
+    Expenses:Gastos:Actividades
