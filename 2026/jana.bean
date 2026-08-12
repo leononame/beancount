@@ -1150,3 +1150,7 @@
 2026-08-12 * "wagner" #bot
     Assets:EUR:Efectivo:Jana    -66.96 EUR
     Expenses:Compras:Regalos
+
+2026-08-12 * "rewe" #bot
+    Assets:EUR:Efectivo:Jana    -31.55 EUR
+    Expenses:Compras:Alimentos
