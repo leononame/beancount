@@ -1902,6 +1902,13 @@
   Assets:EUR:Banco:Abanca                               15 EUR
   Expenses:Salir:Copas
 
+2026-08-10 * "" "Kai Billard Paypal"
+  Assets:EUR:Banco:Abanca                                0.07 EUR
+  Expenses:Salir:Copas
+2026-08-10 * "" "Kai Billard Paypal"
+  Assets:EUR:Banco:Abanca                                0.14 EUR
+  Expenses:Salir:Copas
+
 2026-08-10 * "" "Frank Billard"
   Assets:EUR:Efectivo:Leo                               18 EUR
   Expenses:Salir:Copas
@@ -1914,10 +1921,66 @@
   Assets:EUR:Banco:Sabadell                             34.99 EUR
   Expenses:Compras:Medios:Videojuegos
 
-   
-; TODO
-
+2026-08-10 * "" "Bahn Silke"
+  Assets:EUR:Banco:Abanca                               48.37 EUR
+  Expenses:Transporte:Tren
+  
 2026-08-12 * "" "Billard"
   Assets:EUR:Banco:Abanca                              -72.3 EUR
   Expenses:Salir:Copas
 
+2026-08-12 * "Lowi" "" #recurring
+  Assets:EUR:Banco:Abanca                              -31.9 EUR
+  Expenses:Gastos:Casa:Internet                         20 EUR
+  Expenses:Gastos:Movil
+
+2026-08-13 * "YT Music" #recurring
+  Assets:EUR:Banco:Abanca                              -25.99 EUR
+  Expenses:Compras:Medios:Musica
+
+2026-08-13 * "" "Restaurante Cita Jana"
+  Assets:EUR:Banco:Abanca                             -120 EUR
+  Expenses:Salir:Restaurante
+
+2026-08-14 * "" "Juegos Tren Matthias"
+  Assets:EUR:Banco:Abanca                              -32.08 EUR
+  Expenses:Compras:Medios:Juegos
+
+2026-08-04 * "" "Parkhaus Butzbach"
+  Liabilities:TC:Leo                                    -2.4 EUR
+  Expenses:Gastos:Coche:Parking
+2026-08-11 * "" "HVV Markus"
+  Assets:EUR:Banco:Sabadell                            -15.25 EUR
+  Income:Salario:Leo 
+2026-08-12 * "" "HVV Markus"
+  Assets:EUR:Banco:Sabadell                            -15.25 EUR
+  Income:Salario:Leo
+2026-08-14 * "" "Miniatur Wunderland"
+  Assets:EUR:Banco:Sabadell                            -99 EUR
+  Expenses:Salir:Museo
+2026-08-13 * "" "HVV Markus"
+  Assets:EUR:Banco:Sabadell                            -15.25 EUR
+  Income:Salario:Leo 
+
+2026-08-14 * "" "Depósito Fin"
+  Assets:Invest:MyInvestor:Deposito                 -21900.48 EUR
+  Assets:Invest:MyInvestor:Cash                      21934.03 EUR
+  Income:Invest:Intereses
+
+2026-08-14 * "" "Depósito Contratación"
+  Assets:Invest:MyInvestor:Deposito                  21934.03 EUR
+  Assets:Invest:MyInvestor:Cash             
+
+; TODO
+
+2026-08-17 * "" "??"
+  Assets:EUR:Banco:Abanca                              -17.25 EUR
+  Expenses:Compras:Utilidades
+
+2026-08-17 * "" "DM"
+  Assets:EUR:Banco:Abanca                              -54.5 EUR
+  Expenses:Compras:Utilidades
+
+2026-08-17 * "" "Coca Cola"
+  Assets:EUR:Banco:Abanca                               -2.04 EUR
+  Expenses:Salir:Cafe
