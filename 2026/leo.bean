@@ -1570,3 +1570,7 @@
 2026-08-15 * "café" #bot
     Assets:EUR:Efectivo:Leo     -16.70 EUR
     Expenses:Salir:Cafe
+
+2026-08-15 * "miramar" #bot
+    Assets:EUR:Efectivo:Leo     -71.70 EUR
+    Expenses:Gastos:Actividades
