@@ -1562,3 +1562,7 @@
 2026-08-12 * "cerveza" #bot
     Assets:EUR:Efectivo:Leo      -4.34 EUR
     Expenses:Compras:Alimentos
+
+2026-08-15 * "panadería" #bot
+    Assets:EUR:Efectivo:Leo      -4.00 EUR
+    Expenses:Compras:Alimentos
