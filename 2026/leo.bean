@@ -1578,3 +1578,7 @@
 2026-08-16 * "restaurante" #bot
     Assets:EUR:Efectivo:Leo     -56.00 EUR
     Expenses:Salir:Restaurante
+
+2026-08-16 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo      -3.50 EUR
+    Expenses:Salir:Cafe
