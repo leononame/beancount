@@ -1574,3 +1574,7 @@
 2026-08-15 * "miramar" #bot
     Assets:EUR:Efectivo:Leo     -71.70 EUR
     Expenses:Gastos:Actividades
+
+2026-08-16 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo     -56.00 EUR
+    Expenses:Salir:Restaurante
