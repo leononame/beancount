@@ -1154,3 +1154,7 @@
 2026-08-12 * "rewe" #bot
     Assets:EUR:Efectivo:Jana    -31.55 EUR
     Expenses:Compras:Alimentos
+
+2026-08-18 * "bäcker" #bot
+    Assets:EUR:Efectivo:Jana     -3.95 EUR
+    Expenses:Compras:Alimentos
