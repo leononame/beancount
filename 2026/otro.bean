@@ -1969,18 +1969,68 @@
 
 2026-08-14 * "" "Depósito Contratación"
   Assets:Invest:MyInvestor:Deposito                  21934.03 EUR
-  Assets:Invest:MyInvestor:Cash             
+  Assets:Invest:MyInvestor:Cash       
 
-; TODO
-
-2026-08-17 * "" "??"
-  Assets:EUR:Banco:Abanca                              -17.25 EUR
-  Expenses:Compras:Utilidades
-
-2026-08-17 * "" "DM"
+2026-08-15 * "" "DM" #alemania2026
   Assets:EUR:Banco:Abanca                              -54.5 EUR
-  Expenses:Compras:Utilidades
+  Expenses:Compras:Utilidades    
+
+2026-08-15 * "" "Panaderia" #alemania2026
+  Assets:EUR:Banco:Abanca                              -17.25 EUR
+  Expenses:Compras:Alimentos
+
+2026-08-17 * "" "Tren DB"
+  Assets:EUR:Banco:Abanca                               62.49 EUR
+  Income:Salario:Leo
 
 2026-08-17 * "" "Coca Cola"
   Assets:EUR:Banco:Abanca                               -2.04 EUR
   Expenses:Salir:Cafe
+
+2026-08-19 * "Rewe" "" #alemania2026
+  Assets:EUR:Banco:Abanca                              -10.32 EUR
+  Expenses:Compras:Alimentos
+
+2026-08-19 * "" "Luisenpark" #alemania2026
+  Assets:EUR:Banco:Abanca                              -13.5 EUR
+  Expenses:Gastos:Actividades
+
+2026-08-20 * "Rewe" "" #alemania2026
+  Assets:EUR:Banco:Abanca                              -31.66 EUR
+  Expenses:Compras:Alimentos
+
+2026-08-14 * "Steam" "Expedition 33"
+  Assets:EUR:Banco:Sabadell                            -31.14 EUR
+  Expenses:Compras:Medios:Videojuegos
+
+2026-08-16 * "" "Luisenpark" #alemania2026
+  Assets:EUR:Banco:Sabadell                            -27 EUR
+  Expenses:Gastos:Actividades
+
+2026-08-16 * "" "Gasolinera Wehrheim" #alemania2026
+  Liabilities:TC:Leo                                  -132.75 EUR
+  Expenses:Gastos:Coche:Gasolina
+  
+2026-08-18 * "Rewe" ""
+  Liabilities:TC:Leo                                   -28.06 EUR
+  Expenses:Compras:Alimentos
+
+; TODO
+2026-08-24 ! "Rewe" "" #alemania2026
+  Liabilities:TC:Leo                                    -3.98 EUR
+  Expenses:Compras:Alimentos
+2026-08-24 ! "Rewe" "" #alemania2026
+  Liabilities:TC:Leo                                   -35.64 EUR
+  Expenses:Compras:Alimentos
+2026-08-24 ! "Rewe" "" #alemania2026
+  Liabilities:TC:Leo                                    -8.28 EUR
+  Expenses:Compras:Alimentos
+
+2026-08-24 ! "" "Döner" #alemania2026
+  Liabilities:TC:Leo                                   -26.4 EUR
+  Expenses:Compras:Alimentos
+
+2026-08-24 * "" "Paarzeit"
+  Assets:EUR:Banco:Abanca                              -18 EUR
+  Expenses:Compras:Medios:Juegos
+  
