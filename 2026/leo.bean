@@ -1594,3 +1594,7 @@
 2026-08-19 * "la stalla" #bot
     Assets:EUR:Efectivo:Leo    -165.00 EUR
     Expenses:Salir:Restaurante
+
+2026-08-20 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo      -6.90 EUR
+    Expenses:Salir:Cafe
