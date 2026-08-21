@@ -1178,3 +1178,7 @@
 2026-08-21 * "matcha" #bot
     Assets:EUR:Efectivo:Jana     -6.20 EUR
     Expenses:Compras:Alimentos
+
+2026-08-21 * "cena" #bot
+    Assets:EUR:Efectivo:Jana    -25.00 EUR
+    Expenses:Salir:Restaurante
