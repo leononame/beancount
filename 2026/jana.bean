@@ -1174,3 +1174,7 @@
 2026-08-21 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca    -300.00 EUR
     Assets:EUR:Efectivo:Jana
+
+2026-08-21 * "matcha" #bot
+    Assets:EUR:Efectivo:Jana     -6.20 EUR
+    Expenses:Compras:Alimentos
