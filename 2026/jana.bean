@@ -1186,3 +1186,7 @@
 2026-08-21 * "schorle" #bot
     Assets:EUR:Efectivo:Jana     -7.00 EUR
     Expenses:Salir:Copas
+
+2026-08-22 * "bäcker" #bot
+    Assets:EUR:Efectivo:Jana     -8.15 EUR
+    Expenses:Compras:Alimentos
