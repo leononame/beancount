@@ -1194,3 +1194,7 @@
 2026-08-23 * "paga iago" #bot
     Assets:EUR:Efectivo:Jana     -1.00 EUR
     Expenses:Gastos:Bebe
+
+2026-08-24 * "schorle" #bot
+    Assets:EUR:Efectivo:Jana     -8.00 EUR
+    Expenses:Salir:Copas
