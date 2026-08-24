@@ -1614,3 +1614,7 @@
 2026-08-22 * "penny" #bot
     Assets:EUR:Efectivo:Leo      -0.99 EUR
     Expenses:Compras:Alimentos
+
+2026-08-24 * "restaurante" #bot
+    Assets:EUR:Efectivo:Leo     -80.00 EUR
+    Expenses:Salir:Restaurante
