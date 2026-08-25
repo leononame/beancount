@@ -1202,3 +1202,7 @@
 2026-08-25 * "Bäcker" #bot
     Assets:EUR:Efectivo:Jana     -4.39 EUR
     Expenses:Compras:Alimentos
+
+2026-08-25 * "ropa bebe" #bot
+    Assets:EUR:Efectivo:Jana    -21.80 EUR
+    Expenses:Compras:Ropa
