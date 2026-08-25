@@ -1206,3 +1206,7 @@
 2026-08-25 * "ropa bebe" #bot
     Assets:EUR:Efectivo:Jana    -21.80 EUR
     Expenses:Compras:Ropa
+
+2026-08-25 * "cafe" #bot
+    Assets:EUR:Efectivo:Jana    -10.40 EUR
+    Expenses:Salir:Cafe
