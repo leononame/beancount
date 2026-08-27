@@ -2015,22 +2015,68 @@
   Liabilities:TC:Leo                                   -28.06 EUR
   Expenses:Compras:Alimentos
 
-; TODO
-2026-08-24 ! "Rewe" "" #alemania2026
+2026-08-22 * "" "Paarzeit"
+  Assets:EUR:Banco:Abanca                              -18 EUR
+  Expenses:Compras:Medios:Juegos
+
+2026-08-24 * "" "Jana"
+  Assets:EUR:Banco:Abanca                             3000 EUR
+  Income:Salario:Jana
+
+2026-08-24 * "Migadu" "Email" #recurring
+  Assets:EUR:Banco:Abanca                              -16.28 EUR
+  Expenses:Compras:Tecnología:Software
+
+2026-08-27 * "" "Cafe" #alemania2026
+  Assets:EUR:Banco:Abanca                              -10.10 EUR
+  Expenses:Salir:Cafe
+
+2026-08-27 * "" "Rossmann"
+  Assets:EUR:Banco:Abanca                               -6.94 EUR
+  Expenses:Compras:Utilidades
+
+2026-08-27 * "Rewe" "" #alemania2026
+  Assets:EUR:Banco:Abanca                              -25.11 EUR
+  Expenses:Compras:Alimentos
+
+2026-08-27 * "" "DM"
+  Assets:EUR:Banco:Abanca                              -22.3 EUR
+  Expenses:Compras:Utilidades
+
+2026-08-27 * "" "Hetzner" #recurring
+  Assets:EUR:Banco:Abanca                              -13.19 EUR
+  Expenses:Compras:Tecnología:Hardware
+
+2026-08-25 * "" "Leo"
+  Assets:EUR:Banco:Sabadell                           5819.62 EUR
+  Income:Salario:Leo 
+
+2026-08-19 * "Rewe" "" #alemania2026
   Liabilities:TC:Leo                                    -3.98 EUR
   Expenses:Compras:Alimentos
-2026-08-24 ! "Rewe" "" #alemania2026
-  Liabilities:TC:Leo                                   -35.64 EUR
-  Expenses:Compras:Alimentos
-2026-08-24 ! "Rewe" "" #alemania2026
+
+2026-08-20 * "Rewe" "" #alemania2026
   Liabilities:TC:Leo                                    -8.28 EUR
   Expenses:Compras:Alimentos
 
-2026-08-24 ! "" "Döner" #alemania2026
+2026-08-20 * "" "Döner" #alemania2026
   Liabilities:TC:Leo                                   -26.4 EUR
   Expenses:Compras:Alimentos
 
-2026-08-24 * "" "Paarzeit"
-  Assets:EUR:Banco:Abanca                              -18 EUR
-  Expenses:Compras:Medios:Juegos
-  
+2026-08-20 * "Rewe" "" #alemania2026
+  Liabilities:TC:Leo                                   -35.64 EUR
+  Expenses:Compras:Alimentos
+
+2026-08-22 * "Rewe" "" #alemania2026
+  Liabilities:TC:Leo                                   -21.6 EUR
+  Expenses:Compras:Alimentos
+
+;TODO
+
+2026-08-31 ! "" "Peaje"
+  Assets:EUR:Banco:Abanca                             -125.3 EUR
+  Expenses:Gastos:Coche:Peaje
+
+2026-08-31 ! "Rewe" "" #alemania2026
+  Assets:EUR:Banco:Abanca                              -14.59 EUR
+  Expenses:Compras:Alimentos
