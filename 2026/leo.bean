@@ -1626,3 +1626,7 @@
 2026-08-27 * "kebab" #bot
     Assets:EUR:Efectivo:Leo     -16.50 EUR
     Expenses:Salir:Restaurante
+
+2026-08-27 * "café" #bot
+    Assets:EUR:Efectivo:Leo     -26.70 EUR
+    Expenses:Salir:Cafe
