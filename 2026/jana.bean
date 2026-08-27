@@ -1210,3 +1210,7 @@
 2026-08-25 * "cafe" #bot
     Assets:EUR:Efectivo:Jana    -10.40 EUR
     Expenses:Salir:Cafe
+
+2026-08-27 * "bäcker" #bot
+    Assets:EUR:Efectivo:Jana     -6.30 EUR
+    Expenses:Compras:Alimentos
