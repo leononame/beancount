@@ -1650,3 +1650,7 @@
 2026-08-28 * "sidewalk" #bot
     Assets:EUR:Efectivo:Leo     -53.00 EUR
     Expenses:Salir:Restaurante
+
+2026-08-28 * "theater" #bot
+    Assets:EUR:Efectivo:Leo      -2.00 EUR
+    Expenses:Salir:Teatro
