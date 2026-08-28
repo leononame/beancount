@@ -1638,3 +1638,7 @@
 2026-08-27 * "bus" #bot
     Assets:EUR:Efectivo:Leo      -3.00 EUR
     Expenses:Transporte:Publico
+
+2026-08-28 * "Nicole" #bot
+    Assets:EUR:Efectivo:Leo    -270.00 EUR
+    Expenses:Gastos:Bebe
