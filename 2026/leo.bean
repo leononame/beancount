@@ -1642,3 +1642,7 @@
 2026-08-28 * "Nicole" #bot
     Assets:EUR:Efectivo:Leo    -270.00 EUR
     Expenses:Gastos:Bebe
+
+2026-08-28 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca    -500.00 EUR
+    Assets:EUR:Efectivo:Leo
