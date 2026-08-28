@@ -1214,3 +1214,7 @@
 2026-08-27 * "bäcker" #bot
     Assets:EUR:Efectivo:Jana     -6.30 EUR
     Expenses:Compras:Alimentos
+
+2026-08-28 * "Nicole Babysitterin" #bot
+    Assets:EUR:Efectivo:Jana    -70.00 EUR
+    Expenses:Gastos:Bebe
