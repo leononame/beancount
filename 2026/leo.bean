@@ -1654,3 +1654,7 @@
 2026-08-28 * "theater" #bot
     Assets:EUR:Efectivo:Leo      -2.00 EUR
     Expenses:Salir:Teatro
+
+2026-08-29 * "Achim" #bot
+    Assets:EUR:Efectivo:Leo     -12.66 EUR
+    Expenses:Compras:Alimentos
