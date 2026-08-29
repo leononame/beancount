@@ -1658,3 +1658,7 @@
 2026-08-29 * "Achim" #bot
     Assets:EUR:Efectivo:Leo     -12.66 EUR
     Expenses:Compras:Alimentos
+
+2026-08-29 * "cervezas" #bot
+    Assets:EUR:Efectivo:Leo      -9.82 EUR
+    Expenses:Salir:Copas
