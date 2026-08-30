@@ -1230,3 +1230,7 @@
 2026-08-29 * "bäcker" #bot
     Assets:EUR:Efectivo:Jana     -5.75 EUR
     Expenses:Compras:Alimentos
+
+2026-08-30 * "paga iago" #bot
+    Assets:EUR:Efectivo:Jana     -1.00 EUR
+    Expenses:Gastos:Bebe
