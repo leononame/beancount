@@ -1234,3 +1234,7 @@
 2026-08-30 * "paga iago" #bot
     Assets:EUR:Efectivo:Jana     -1.00 EUR
     Expenses:Gastos:Bebe
+
+2026-08-30 * "wurdt" #bot
+    Assets:EUR:Efectivo:Jana    -10.00 EUR
+    Expenses:Compras:Alimentos
