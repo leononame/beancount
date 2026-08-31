@@ -1238,3 +1238,7 @@
 2026-08-30 * "wurdt" #bot
     Assets:EUR:Efectivo:Jana    -10.00 EUR
     Expenses:Compras:Alimentos
+
+2026-08-31 * "Bäcker" #bot
+    Assets:EUR:Efectivo:Jana     -4.20 EUR
+    Expenses:Compras:Alimentos
