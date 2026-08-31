@@ -2071,12 +2071,43 @@
   Liabilities:TC:Leo                                   -21.6 EUR
   Expenses:Compras:Alimentos
 
-;TODO
-
-2026-08-31 ! "" "Peaje"
+2026-08-29 * "" "Peaje"
   Assets:EUR:Banco:Abanca                             -125.3 EUR
   Expenses:Gastos:Coche:Peaje
 
-2026-08-31 ! "Rewe" "" #alemania2026
+2026-08-29 * "Rewe" "" #alemania2026
   Assets:EUR:Banco:Abanca                              -14.59 EUR
   Expenses:Compras:Alimentos
+
+2026-08-31 * "" "Agua" #recurring
+  Assets:EUR:Banco:Abanca                              -63.43 EUR
+  Expenses:Gastos:Casa:Agua
+
+2026-08-31 * "" "TGSS Jana"
+  Assets:EUR:Banco:Abanca                             -501.54 EUR
+  Income:Salario:Jana
+
+2026-08-31 * "" "Hipoteca" #recurring
+  Assets:EUR:Banco:Sabadell                          -1291.06 EUR
+  Liabilities:Deudas:Banco                            1025.12 EUR
+  Expenses:Compras:Piso:Intereses                      265.94 EUR
+
+2026-08-31 * "" "TC Leo" 
+  Assets:EUR:Banco:Sabadell                           -834.95 EUR
+  Liabilities:TC:Leo
+
+  
+; TODO
+
+2026-09-02 ! "Rewe" ""
+  Assets:EUR:Banco:Abanca                               -4.38 EUR
+  Expenses:Compras:Alimentos
+
+2026-09-02 ! "Rewe" ""
+  Assets:EUR:Banco:Abanca                              -13.73 EUR
+  Expenses:Compras:Alimentos
+
+2026-09-02 ! "McDonald's" ""
+  Assets:EUR:Banco:Abanca                              -19.56 EUR
+  Expenses:Salir:Restaurante
+
