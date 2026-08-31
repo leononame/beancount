@@ -1246,3 +1246,7 @@
 2026-08-31 * "döner" #bot
     Assets:EUR:Efectivo:Jana    -15.00 EUR
     Expenses:Salir:Restaurante
+
+2026-08-31 * "matcha" #bot
+    Assets:EUR:Efectivo:Jana    -10.10 EUR
+    Expenses:Salir:Cafe
