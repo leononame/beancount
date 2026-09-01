@@ -1678,3 +1678,7 @@
 2026-09-01 * "sidewalk" #bot
     Assets:EUR:Efectivo:Leo     -23.80 EUR
     Expenses:Salir:Restaurante
+
+2026-09-01 * "Nicole" #bot
+    Assets:EUR:Efectivo:Leo    -170.00 EUR
+    Expenses:Gastos:Bebe
