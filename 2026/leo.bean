@@ -1674,3 +1674,7 @@
 2026-08-31 * "panadería" #bot
     Assets:EUR:Efectivo:Leo      -2.40 EUR
     Expenses:Compras:Alimentos
+
+2026-09-01 * "sidewalk" #bot
+    Assets:EUR:Efectivo:Leo     -23.80 EUR
+    Expenses:Salir:Restaurante
