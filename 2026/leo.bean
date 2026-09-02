@@ -1682,3 +1682,7 @@
 2026-09-01 * "Nicole" #bot
     Assets:EUR:Efectivo:Leo    -170.00 EUR
     Expenses:Gastos:Bebe
+
+2026-09-02 * "patatas fritas" #bot
+    Assets:EUR:Efectivo:Leo     -28.20 EUR
+    Expenses:Salir:Restaurante
