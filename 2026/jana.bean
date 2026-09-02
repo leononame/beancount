@@ -1254,3 +1254,7 @@
 2026-09-02 * "Bäcker" #bot
     Assets:EUR:Efectivo:Jana     -4.00 EUR
     Expenses:Compras:Alimentos
+
+2026-09-02 * "matcha" #bot
+    Assets:EUR:Efectivo:Jana    -10.40 EUR
+    Expenses:Salir:Cafe
