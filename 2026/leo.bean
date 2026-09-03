@@ -1686,3 +1686,7 @@
 2026-09-02 * "patatas fritas" #bot
     Assets:EUR:Efectivo:Leo     -28.20 EUR
     Expenses:Salir:Restaurante
+
+2026-09-03 * "café" #bot
+    Assets:EUR:Efectivo:Leo      -9.50 EUR
+    Expenses:Salir:Cafe
