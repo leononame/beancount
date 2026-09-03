@@ -1262,3 +1262,7 @@
 2026-09-03 * "lavadora" #bot
     Assets:EUR:Efectivo:Jana     -2.50 EUR
     Expenses:Compras:Utilidades
+
+2026-09-03 * "play café" #bot
+    Assets:EUR:Efectivo:Jana    -12.00 EUR
+    Expenses:Gastos:Bebe
