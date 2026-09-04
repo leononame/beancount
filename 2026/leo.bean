@@ -1694,3 +1694,7 @@
 2026-09-03 * "tren tours" #bot
     Assets:EUR:Efectivo:Leo     -23.50 EUR
     Expenses:Viaje:Tour
+
+2026-09-04 * "café" #bot
+    Assets:EUR:Efectivo:Leo      -4.20 EUR
+    Expenses:Salir:Cafe
