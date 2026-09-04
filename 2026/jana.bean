@@ -1270,3 +1270,7 @@
 2026-09-04 * "panadería" #bot
     Assets:EUR:Efectivo:Jana     -4.00 EUR
     Expenses:Compras:Alimentos
+
+2026-09-04 * "Ibuprofeno" #bot
+    Assets:EUR:Efectivo:Jana     -1.95 EUR
+    Expenses:Compras:Utilidades
