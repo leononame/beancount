@@ -1266,3 +1266,7 @@
 2026-09-03 * "play café" #bot
     Assets:EUR:Efectivo:Jana    -12.00 EUR
     Expenses:Gastos:Bebe
+
+2026-09-04 * "panadería" #bot
+    Assets:EUR:Efectivo:Jana     -4.00 EUR
+    Expenses:Compras:Alimentos
