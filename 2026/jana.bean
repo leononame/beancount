@@ -1274,3 +1274,7 @@
 2026-09-04 * "Ibuprofeno" #bot
     Assets:EUR:Efectivo:Jana     -1.95 EUR
     Expenses:Compras:Utilidades
+
+2026-09-04 * "cafe" #bot
+    Assets:EUR:Efectivo:Jana    -17.00 EUR
+    Expenses:Salir:Cafe
