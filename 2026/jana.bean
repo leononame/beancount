@@ -1278,3 +1278,7 @@
 2026-09-04 * "cafe" #bot
     Assets:EUR:Efectivo:Jana    -17.00 EUR
     Expenses:Salir:Cafe
+
+2026-09-05 * "copas" #bot
+    Assets:EUR:Efectivo:Jana    -10.50 EUR
+    Expenses:Salir:Copas
