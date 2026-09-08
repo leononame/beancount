@@ -1306,3 +1306,7 @@
 2026-09-08 * "farmacia" #bot
     Assets:EUR:Efectivo:Jana     -6.44 EUR
     Expenses:Compras:Utilidades
+
+2026-09-08 * "piscina" #bot
+    Assets:EUR:Efectivo:Jana    -10.00 EUR
+    Expenses:Gastos:Actividades
