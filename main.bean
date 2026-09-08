@@ -196,6 +196,8 @@ include "prices.bean"
 2000-01-01 open Expenses:Transporte:Tren                        EUR
 2000-01-01 open Expenses:Transporte:Barco                       EUR
 2000-01-01 open Expenses:Transporte:Bus                         EUR
+2000-01-01 open Expenses:Gastos:Bici:Taller                     EUR
+2000-01-01 open Expenses:Gastos:Bici:Herramientas               EUR
 2000-01-01 open Expenses:Gastos:Coche:Gasolina                  EUR
 2000-01-01 open Expenses:Gastos:Coche:Otros                     EUR
 2000-01-01 open Expenses:Gastos:Coche:Parking                   EUR

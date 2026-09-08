@@ -56,11 +56,11 @@
   Assets:EUR:Efectivo:Jana                             300.00 EUR
   Expenses:Compras:Bebe
 
-2026-01-08 * "" "Iago"
+2026-01-08 * "" "Iago" #recurring
   Assets:EUR:Banco:Abanca                              -50 EUR
   Expenses:Compras:Regalos
 
-2026-01-08 * "" "Ali"
+2026-01-08 * "" "Ali" #recurring
   Assets:EUR:Banco:Abanca                              -50 EUR
   Expenses:Compras:Regalos
 
@@ -2247,6 +2247,23 @@
 2026-09-07 * "Gadis" "Orillamar"
   Liabilities:TC:Leo                                  -128.19 EUR
   Expenses:Compras:Alimentos
+
+2026-09-08 * "" "Alta contador luz bajo"
+  Assets:EUR:Banco:Abanca                              -63.07 EUR
+  Expenses:Gastos:Casa:Luz
+
+2026-09-08 * "" "Iago" #recurring
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-09-08 * "" "Ali" #recurring
+  Assets:EUR:Banco:Abanca                              -50 EUR
+  Expenses:Compras:Regalos
+
+2026-09-08 * "" "Lubricante Silca.cc"
+  Assets:EUR:Banco:Sabadell                            -24.95 EUR
+  Expenses:Gastos:Bici:Herramientas
+
 ; TODO
 
 2026-09-10 * "" "Hotel" #alemania2026
@@ -2261,6 +2278,21 @@
   Assets:EUR:Banco:Abanca                             -184.84 EUR
   Expenses:Compras:Utilidades
 
+2026-09-11 * "Uber Eats" "Pepita"
+  Assets:EUR:Banco:Abanca                              -41.09 EUR
+  Expenses:Salir:Restaurante
+
+2026-09-11 * "Uber Eats" "Uber One"
+  Assets:EUR:Banco:Abanca                               -4.99 EUR
+  Expenses:Salir:Restaurante
+
+2026-09-11 * "Amazon" "Libros Música Lo"
+  Assets:EUR:Banco:Abanca                             -115 EUR
+  Expenses:Compras:Medios:Libros
+
+2026-09-11 * "Amazon" "Herramientas Bici"
+  Assets:EUR:Banco:Abanca                              -63.48 EUR
+  Expenses:Gastos:Bici:Herramientas
 
 2026-09-30 ! "" "TGSS Jana"
   Assets:EUR:Banco:Abanca                             -501.54 EUR
