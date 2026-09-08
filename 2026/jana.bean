@@ -1302,3 +1302,7 @@
 2026-09-08 * "Achim" #bot
     Assets:EUR:Efectivo:Jana     -4.68 EUR
     Expenses:Compras:Alimentos
+
+2026-09-08 * "farmacia" #bot
+    Assets:EUR:Efectivo:Jana     -6.44 EUR
+    Expenses:Compras:Utilidades
