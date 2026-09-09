@@ -1338,3 +1338,7 @@
 2026-09-09 * "yoga" #bot
     Assets:EUR:Efectivo:Jana    -75.00 EUR
     Expenses:Deporte
+
+2026-09-09 * "cesta de verduras" #bot
+    Assets:EUR:Efectivo:Jana    -35.00 EUR
+    Expenses:Compras:Alimentos
