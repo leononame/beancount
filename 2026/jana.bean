@@ -1330,3 +1330,7 @@
 2026-09-09 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca    -300.00 EUR
     Assets:EUR:Efectivo:Jana
+
+2026-09-09 * "matcha" #bot
+    Assets:EUR:Efectivo:Jana     -6.62 EUR
+    Expenses:Salir:Cafe
