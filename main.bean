@@ -162,6 +162,7 @@ include "prices.bean"
 2000-01-01 open Expenses:Compras:Bebe                           EUR
 2000-01-01 open Expenses:Compras:Bitpiraten                     EUR
 2000-01-01 open Expenses:Compras:Ropa                           EUR
+2000-01-01 open Expenses:Compras:Bici                           EUR
 2000-01-01 open Expenses:Compras:Coche                          EUR
 2000-01-01 open Expenses:Compras:Casa:Muebles                   EUR
 2000-01-01 open Expenses:Compras:Casa:Decoracion                EUR
@@ -197,7 +198,7 @@ include "prices.bean"
 2000-01-01 open Expenses:Transporte:Barco                       EUR
 2000-01-01 open Expenses:Transporte:Bus                         EUR
 2000-01-01 open Expenses:Gastos:Bici:Taller                     EUR
-2000-01-01 open Expenses:Gastos:Bici:Herramientas               EUR
+2000-01-01 open Expenses:Gastos:Bici:Accesorios                 EUR
 2000-01-01 open Expenses:Gastos:Coche:Gasolina                  EUR
 2000-01-01 open Expenses:Gastos:Coche:Otros                     EUR
 2000-01-01 open Expenses:Gastos:Coche:Parking                   EUR
