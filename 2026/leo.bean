@@ -1735,3 +1735,7 @@
 2026-09-11 * "bolso ali" #bot
     Assets:EUR:Efectivo:Leo      -4.95 EUR
     Expenses:Compras:Regalos
+
+2026-09-11 * "Albi" #bot
+    Assets:EUR:Efectivo:Leo     -13.36 EUR
+    Expenses:Compras:Alimentos
