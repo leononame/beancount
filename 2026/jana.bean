@@ -1346,3 +1346,7 @@
 2026-09-11 * "helado" #bot
     Assets:EUR:Efectivo:Jana     -3.50 EUR
     Expenses:Salir:Restaurante
+
+2026-09-12 * "tortilla" #bot
+    Assets:EUR:Efectivo:Jana    -16.50 EUR
+    Expenses:Salir:Cafe
