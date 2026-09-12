@@ -1350,3 +1350,7 @@
 2026-09-12 * "tortilla" #bot
     Assets:EUR:Efectivo:Jana    -16.50 EUR
     Expenses:Salir:Cafe
+
+2026-09-12 * "pan" #bot
+    Assets:EUR:Efectivo:Jana     -1.65 EUR
+    Expenses:Compras:Alimentos
