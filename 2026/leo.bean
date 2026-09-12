@@ -1743,3 +1743,7 @@
 2026-09-12 * "parking" #bot
     Assets:EUR:Efectivo:Leo      -5.00 EUR
     Expenses:Gastos:Coche:Parking
+
+2026-09-12 * "parking" #bot
+    Assets:EUR:Efectivo:Leo      -6.10 EUR
+    Expenses:Gastos:Coche:Parking
