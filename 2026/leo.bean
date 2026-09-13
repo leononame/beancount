@@ -1751,3 +1751,7 @@
 2026-09-13 * "pan" #bot
     Assets:EUR:Efectivo:Leo      -1.35 EUR
     Expenses:Compras:Alimentos
+
+2026-09-13 * "parking" #bot
+    Assets:EUR:Efectivo:Leo      -5.00 EUR
+    Expenses:Gastos:Coche:Parking
