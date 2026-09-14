@@ -1755,3 +1755,7 @@
 2026-09-13 * "parking" #bot
     Assets:EUR:Efectivo:Leo      -5.00 EUR
     Expenses:Gastos:Coche:Parking
+
+2026-09-14 * "ferretería" #bot
+    Assets:EUR:Efectivo:Leo     -19.20 EUR
+    Expenses:Gastos:Casa
