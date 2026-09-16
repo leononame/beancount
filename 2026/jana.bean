@@ -1358,3 +1358,7 @@
 2026-09-16 * "coro" #bot
     Assets:EUR:Efectivo:Jana    -30.00 EUR
     Expenses:Gastos:Actividades
+
+2026-09-16 * "bazar" #bot
+    Assets:EUR:Efectivo:Jana     -3.00 EUR
+    Expenses:Compras:Utilidades
