@@ -1763,3 +1763,7 @@
 2026-09-16 * "sanbrandan" #bot
     Assets:EUR:Efectivo:Leo      -6.85 EUR
     Expenses:Compras:Alimentos
+
+2026-09-16 * "día" #bot
+    Assets:EUR:Efectivo:Leo      -1.18 EUR
+    Expenses:Compras:Alimentos
