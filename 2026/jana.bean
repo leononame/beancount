@@ -1354,3 +1354,7 @@
 2026-09-12 * "pan" #bot
     Assets:EUR:Efectivo:Jana     -1.65 EUR
     Expenses:Compras:Alimentos
+
+2026-09-16 * "coro" #bot
+    Assets:EUR:Efectivo:Jana    -30.00 EUR
+    Expenses:Gastos:Actividades
