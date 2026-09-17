@@ -1771,3 +1771,7 @@
 2026-09-16 * "fill9a" #bot
     Assets:EUR:Efectivo:Leo     -24.00 EUR
     Expenses:Salir:Conciertos
+
+2026-09-17 * "día" #bot
+    Assets:EUR:Efectivo:Leo      -1.69 EUR
+    Expenses:Compras:Alimentos
