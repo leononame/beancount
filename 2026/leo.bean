@@ -1775,3 +1775,7 @@
 2026-09-17 * "día" #bot
     Assets:EUR:Efectivo:Leo      -1.69 EUR
     Expenses:Compras:Alimentos
+
+2026-09-17 * "café" #bot
+    Assets:EUR:Efectivo:Leo      -1.50 EUR
+    Expenses:Salir:Cafe
