@@ -1779,3 +1779,7 @@
 2026-09-17 * "café" #bot
     Assets:EUR:Efectivo:Leo      -1.50 EUR
     Expenses:Salir:Cafe
+
+2026-09-19 * "froiz" #bot
+    Assets:EUR:Efectivo:Leo     -25.61 EUR
+    Expenses:Compras:Alimentos
