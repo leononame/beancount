@@ -1791,3 +1791,7 @@
 2026-09-19 * "Gadis" #bot
     Assets:EUR:Efectivo:Leo     -54.06 EUR
     Expenses:Compras:Alimentos
+
+2026-09-19 * "perdido" #bot
+    Assets:EUR:Efectivo:Leo      -6.66 EUR
+    Expenses:Perdido
