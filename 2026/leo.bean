@@ -1795,3 +1795,7 @@
 2026-09-19 * "perdido" #bot
     Assets:EUR:Efectivo:Leo      -6.66 EUR
     Expenses:Perdido
+
+2026-09-20 * "parking" #bot
+    Assets:EUR:Efectivo:Leo      -1.05 EUR
+    Expenses:Gastos:Coche:Parking
