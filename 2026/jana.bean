@@ -1362,3 +1362,7 @@
 2026-09-16 * "bazar" #bot
     Assets:EUR:Efectivo:Jana     -3.00 EUR
     Expenses:Compras:Utilidades
+
+2026-09-20 * "pan" #bot
+    Assets:EUR:Efectivo:Jana     -1.20 EUR
+    Expenses:Compras:Alimentos
