@@ -1807,3 +1807,7 @@
 2026-09-20 * "cervezas" #bot
     Assets:EUR:Efectivo:Leo      -3.10 EUR
     Expenses:Salir:Copas
+
+2026-09-21 * "café" #bot
+    Assets:EUR:Efectivo:Leo      -4.40 EUR
+    Expenses:Salir:Cafe
