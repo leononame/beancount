@@ -1815,3 +1815,7 @@
 2026-09-21 * "Gadis" #bot
     Assets:EUR:Efectivo:Leo     -28.33 EUR
     Expenses:Compras:Alimentos
+
+2026-09-22 * "Paga Iago" #bot
+    Assets:EUR:Efectivo:Leo      -1.00 EUR
+    Expenses:Gastos:Bebe
