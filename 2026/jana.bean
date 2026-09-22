@@ -1370,3 +1370,7 @@
 2026-09-22 * "paga iago" #bot
     Assets:EUR:Efectivo:Jana     -2.00 EUR
     Expenses:Gastos:Bebe
+
+2026-09-22 * "albi" #bot
+    Assets:EUR:Efectivo:Jana    -45.57 EUR
+    Expenses:Compras:Alimentos
