@@ -1366,3 +1366,7 @@
 2026-09-20 * "pan" #bot
     Assets:EUR:Efectivo:Jana     -1.20 EUR
     Expenses:Compras:Alimentos
+
+2026-09-22 * "paga iago" #bot
+    Assets:EUR:Efectivo:Jana     -2.00 EUR
+    Expenses:Gastos:Bebe
