@@ -1382,3 +1382,7 @@
 2026-09-22 * "primaprix" #bot
     Assets:EUR:Efectivo:Jana    -27.30 EUR
     Expenses:Compras:Alimentos
+
+2026-09-22 * "copia" #bot
+    Assets:EUR:Efectivo:Jana     -1.00 EUR
+    Expenses:Compras:Utilidades
