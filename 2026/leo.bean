@@ -1831,3 +1831,7 @@
 2026-09-24 * "fonda" #bot
     Assets:EUR:Efectivo:Leo     -13.25 EUR
     Expenses:Compras:Alimentos
+
+2026-09-24 * "pan" #bot
+    Assets:EUR:Efectivo:Leo      -3.60 EUR
+    Expenses:Compras:Alimentos
