@@ -1390,3 +1390,7 @@
 2026-09-22 * "pesntañas y cejas" #bot
     Assets:EUR:Efectivo:Jana    -50.00 EUR
     Expenses:Gastos:Peluquero
+
+2026-09-24 * " correos" #bot
+    Assets:EUR:Efectivo:Jana     -7.40 EUR
+    Expenses:Compras:Regalos
