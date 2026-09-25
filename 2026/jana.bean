@@ -1394,3 +1394,7 @@
 2026-09-24 * " correos" #bot
     Assets:EUR:Efectivo:Jana     -7.40 EUR
     Expenses:Compras:Regalos
+
+2026-09-25 * "pan" #bot
+    Assets:EUR:Efectivo:Jana     -6.90 EUR
+    Expenses:Compras:Alimentos
