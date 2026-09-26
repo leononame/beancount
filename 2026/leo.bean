@@ -1847,3 +1847,7 @@
 2026-09-26 * "pasta" #bot
     Assets:EUR:Efectivo:Leo      -2.71 EUR
     Expenses:Compras:Alimentos
+
+2026-09-26 * "Gadis" #bot
+    Assets:EUR:Efectivo:Leo     -59.61 EUR
+    Expenses:Compras:Alimentos
