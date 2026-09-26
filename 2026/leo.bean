@@ -1859,3 +1859,7 @@
 2026-09-26 * "Albi" #bot
     Assets:EUR:Efectivo:Leo     -26.50 EUR
     Expenses:Compras:Alimentos
+
+2026-09-26 * "Aldi" #bot
+    Assets:EUR:Efectivo:Leo      -1.49 EUR
+    Expenses:Compras:Alimentos
