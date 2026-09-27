@@ -1398,3 +1398,7 @@
 2026-09-25 * "pan" #bot
     Assets:EUR:Efectivo:Jana     -6.90 EUR
     Expenses:Compras:Alimentos
+
+2026-09-27 * "café" #bot
+    Assets:EUR:Efectivo:Jana     -7.71 EUR
+    Expenses:Salir:Cafe
