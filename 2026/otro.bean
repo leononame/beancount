@@ -1707,15 +1707,15 @@
   Assets:EUR:Banco:Abanca                           -25000
   Assets:Piso:Bajo
 
-2026-07-21 * "" "Impuestos Compra Bajo" #extraordinario
+2026-07-21 * "" "Impuestos Compra Bajo" #irregular
   Assets:EUR:Banco:Abanca                            -2000 EUR
   Expenses:Compras:Piso                               2000 EUR 
 
-2026-07-21 * "" "Registro Compra Bajo" #extraordinario
+2026-07-21 * "" "Registro Compra Bajo" #irregular
   Assets:EUR:Banco:Abanca                             -300 EUR
   Expenses:Compras:Piso                                300 EUR 
 
-2026-07-21 * "" "Notaría Compra Bajo" #extraordinario
+2026-07-21 * "" "Notaría Compra Bajo" #irregular
   Assets:EUR:Banco:Abanca                             -883.14 EUR
   Expenses:Compras:Piso                                883.14 EUR 
 
@@ -2268,7 +2268,7 @@
   Assets:EUR:Banco:Abanca                               -4.5 EUR
   Expenses:Salir:Copas
 
-2026-09-09 * "" "Bici Yuba" #extraordinario
+2026-09-09 * "" "Bici Yuba" #irregular
   Assets:EUR:Banco:Abanca                            -4499 EUR
   Expenses:Compras:Bici
 
@@ -2288,7 +2288,7 @@
   Assets:EUR:Banco:Abanca                               -4.99 EUR
   Expenses:Salir:Restaurante
 
-2026-09-10 * "" "Persiana Bajo" #extraordinario
+2026-09-10 * "" "Persiana Bajo" #irregular
   Assets:EUR:Banco:Sabadell                          -1417.22 EUR
   Expenses:Gastos:Casa:Reforma
 
@@ -2435,21 +2435,71 @@
   Liabilities:TC:Leo                                   -89 EUR
   Expenses:Gastos:Coche:Gasolina
 
-; TODO
-
-2026-09-28 * "Amazon" "Wandanker otra marca"
-  Assets:EUR:Banco:Abanca                              -59.9 EUR
-  Expenses:Compras:Utilidades
-
-2026-09-28 * "Uber Eats" "Pepita"
+2026-09-24 * "Uber Eats" "Pepita"
   Assets:EUR:Banco:Abanca                              -40.59 EUR
   Expenses:Salir:Restaurante
 
-2026-09-28 * "Wallapop" "Zapatos boda Iago"
+2026-09-24 * "Jardanay" "" #recurring
+  Assets:EUR:Banco:Abanca                              -98.67 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-09-24 * "Jardanay" "" #recurring
+  Assets:EUR:Banco:Abanca                             -108.41 EUR
+  Expenses:Gastos:Bebe:Guarde
+
+2026-09-25 * "Wallapop" "Zapatos boda Iago"
   Assets:EUR:Banco:Abanca                               -9.64 EUR
   Expenses:Compras:Bebe
+
+2026-09-25 * "" "Hetzner" #recurring
+  Assets:EUR:Banco:Abanca                              -13.19 EUR
+  Expenses:Compras:Tecnología:Hardware
+
+2026-09-26 * "Amazon" "Wandanker otra marca"
+  Assets:EUR:Banco:Abanca                              -59.9 EUR
+  Expenses:Compras:Utilidades
+
+2026-09-26 * "Amazon" "Pizarras Bebos"
+  Assets:EUR:Banco:Abanca                              -29.98 EUR
+  Expenses:Compras:Bebe
+
+2026-09-28 * "Ikea" "compras cuarto alicia"
+  Liabilities:TC:Leo                                  -158.85 EUR
+  Expenses:Compras:Utilidades
+
+2026-09-25 * "" "Nómina Leo"
+  Assets:EUR:Banco:Sabadell                           5964.36 EUR
+  Income:Salario:Leo
+
+2026-09-25 * "" "Seguro Bici" #recurring
+  Assets:EUR:Banco:Sabadell                           -336.48 EUR
+  Expenses:Gastos:Bici:Seguro 
   
-  
+2026-09-26 * "" "Cutoa socios AGAX" #recurring
+  Assets:EUR:Banco:Sabadell                            -10 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+2026-09-26 * "" "Transfer"
+  Assets:EUR:Banco:Sabadell                          -3000 EUR
+  Assets:EUR:Banco:Abanca
+; TODO
+
+2026-09-30 * "Uber Eats" "Pepita"
+  Assets:EUR:Banco:Abanca                              -41.09 EUR
+  Expenses:Salir:Restaurante
+
+2026-09-30 * "Amazon" "Bolsas de rope vacío"
+  Assets:EUR:Banco:Abanca                              -19.99 EUR
+  Expenses:Compras:Utilidades
+
+2026-09-30 * "Wallapop" "No sé"
+  Assets:EUR:Banco:Abanca                               -8.28 EUR
+  Expenses:Compras:Bebe
+
+2026-09-30 * "Amazon" "Pegamento, Cojín equilibrio, silla autismo iago, carpetas"
+  Assets:EUR:Banco:Abanca                             -108.24 EUR
+  Expenses:Compras:Bebe
+
 2026-09-30 ! "" "TGSS Jana"
   Assets:EUR:Banco:Abanca                             -501.54 EUR
   Income:Salario:Jana

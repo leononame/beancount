@@ -438,7 +438,7 @@
     Assets:EUR:Banco:Abanca                             -57.14 EUR
     Expenses:Compras:Regalos
 
-2022-03-12 * "Coche Boris" #extraordinario
+2022-03-12 * "Coche Boris" #irregular
     Assets:EUR:Banco:Abanca                            -300 EUR
     Expenses:Compras:Coche
 
@@ -492,7 +492,7 @@
     Assets:EUR:Banco:Abanca                             -84.6 EUR
     Expenses:Salir:Restaurante
 
-2022-03-19 * "Boris" #extraordinario
+2022-03-19 * "Boris" #irregular
     Assets:EUR:Banco:Abanca                          -21600 EUR
     Expenses:Compras:Coche
 
@@ -874,7 +874,7 @@
     Assets:EUR:Banco:Sabadell                          3000 EUR
     Income:Salario:Leo
 
-2022-05-12 * "Tasación Piso" #extraordinario
+2022-05-12 * "Tasación Piso" #irregular
     Assets:EUR:Banco:Sabadell                          -477.95 EUR
     Expenses:Compras:Piso
 
@@ -891,7 +891,7 @@
     Expenses:Gastos:Casa:Internet                        20 EUR
     Expenses:Gastos:Movil
 
-2022-05-16 * "Nota simple Piso" #extraordinario
+2022-05-16 * "Nota simple Piso" #irregular
     Assets:EUR:Banco:Sabadell                           -50.82 EUR
     Expenses:Compras:Piso
 
@@ -1064,7 +1064,7 @@
     Assets:EUR:Banco:Sabadell                          -680 EUR
     Expenses:Gastos:Alquiler
 
-2022-06-09 * "Nota simple Piso 2" #extraordinario
+2022-06-09 * "Nota simple Piso 2" #irregular
     Assets:EUR:Banco:Sabadell                           -50.82 EUR
     Expenses:Compras:Piso
 
@@ -1216,7 +1216,7 @@
     Assets:EUR:Banco:Sabadell                        268830.30 EUR
     Liabilities:Deudas:Banco
 
-2022-06-15 * "Apertura Crédito" #extraordinario
+2022-06-15 * "Apertura Crédito" #irregular
     Assets:EUR:Banco:Sabadell                          -750 EUR
     Expenses:Compras:Piso
 
@@ -1242,16 +1242,16 @@
     Expenses:Compras:Medios:Musica
 
 
-2022-06-16 * "Impuestos piso" #extraordinario
+2022-06-16 * "Impuestos piso" #irregular
     Assets:EUR:Banco:Sabadell                        -28800 EUR
     Expenses:Compras:Piso
-2022-06-16 * "Notaría piso" #extraordinario
+2022-06-16 * "Notaría piso" #irregular
     Assets:EUR:Banco:Sabadell                         -1450 EUR
     Expenses:Compras:Piso
-2022-06-16 * "Registro piso" #extraordinario
+2022-06-16 * "Registro piso" #irregular
     Assets:EUR:Banco:Sabadell                          -950 EUR
     Expenses:Compras:Piso
-2022-06-16 * "Gestión piso" #extraordinario
+2022-06-16 * "Gestión piso" #irregular
     Assets:EUR:Banco:Sabadell                          -441.65 EUR
     Expenses:Compras:Piso
 2022-06-16 * "Provision no residente"
@@ -1280,15 +1280,15 @@
     Assets:EUR:Banco:DKB                                -31.2 EUR
     Expenses:Compras:Utilidades
 
-2022-06-17 * "Seguro Vida piso" #extraordinario
+2022-06-17 * "Seguro Vida piso" #irregular
     Assets:EUR:Banco:Sabadell                         -7471.89 EUR
     Expenses:Compras:Piso                              4625.29 EUR
     Assets:EUR:Deudas                                  2846.60 EUR
-2022-06-17 * "Seguro Vida piso" #extraordinario
+2022-06-17 * "Seguro Vida piso" #irregular
     Assets:EUR:Banco:Sabadell                         -7471.89 EUR
     Expenses:Compras:Piso                              4625.29 EUR
     Assets:EUR:Deudas                                  2846.60 EUR
-2022-06-20 * "Seguro protección de pagos piso" #extraordinario
+2022-06-20 * "Seguro protección de pagos piso" #irregular
     Assets:EUR:Banco:Sabadell                         -3576.23 EUR
     Expenses:Compras:Piso
 2022-06-21 * "Lyxor New Energy"
@@ -1937,7 +1937,7 @@
     Assets:EUR:Banco:DKB                                260 EUR
     Expenses:Gastos:Seguros:Rente
 
-2022-09-19 * "No sé qué es (registro piso?)" #extraordinario
+2022-09-19 * "No sé qué es (registro piso?)" #irregular
     Assets:EUR:Banco:Sabadell                           916.04 EUR
     Expenses:Compras:Piso
 
@@ -2546,7 +2546,7 @@
     Assets:EUR:Banco:Abanca                             -42.84 EUR
     Expenses:Gastos:Casa:Agua
 
-2022-11-30 * "Reforma" #extraordinario
+2022-11-30 * "Reforma" #irregular
     Assets:EUR:Banco:Abanca                          -20000 EUR
     Expenses:Gastos:Casa:Reforma
 
@@ -2619,19 +2619,19 @@
     Assets:EUR:Banco:DKB                                -78.74 EUR
     Expenses:Compras:Regalos
 
-2022-12-05 * "Reforma" #extraordinario
+2022-12-05 * "Reforma" #irregular
     Assets:EUR:Banco:Abanca                           -6400 EUR
     Expenses:Gastos:Casa:Reforma
 
-2022-12-07 * "Ayuntamiento" #extraordinario
+2022-12-07 * "Ayuntamiento" #irregular
     Assets:EUR:Banco:Abanca                            -570 EUR
     Expenses:Gastos:Casa:Reforma
 
-2022-12-07 * "Ayuntamiento" #extraordinario
+2022-12-07 * "Ayuntamiento" #irregular
     Assets:EUR:Banco:Abanca                             -40.19 EUR
     Expenses:Gastos:Casa:Reforma
 
-2022-12-07 * "Ayuntamiento" #extraordinario
+2022-12-07 * "Ayuntamiento" #irregular
     Assets:EUR:Banco:Abanca                             -40.19 EUR
     Expenses:Gastos:Casa:Reforma
 

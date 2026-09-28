@@ -253,7 +253,7 @@
     Assets:EUR:Banco:Abanca                          -1200 EUR
     Assets:EUR:Banco:Sabadell
 
-2023-02-01 * "Reforma" #extraordinario
+2023-02-01 * "Reforma" #irregular
     Assets:EUR:Banco:Abanca                         -16650.7 EUR
     Expenses:Gastos:Casa:Reforma
 
@@ -261,7 +261,7 @@
     Assets:EUR:Banco:Abanca                            -40.2 EUR
     Expenses:Deporte
 
-2023-02-02 * "Reforma" #extraordinario
+2023-02-02 * "Reforma" #irregular
     Assets:EUR:Banco:Abanca                         -14740.5 EUR
     Expenses:Gastos:Casa:Reforma
 
@@ -329,7 +329,7 @@
     Assets:EUR:Banco:DKB                             -4000 EUR
     Assets:EUR:Banco:Abanca
 
-2023-02-08 * "Miele" #extraordinario
+2023-02-08 * "Miele" #irregular
     Assets:EUR:Banco:Abanca                          -2449 EUR
     Expenses:Gastos:Casa:Reforma
 
@@ -346,7 +346,7 @@
     Assets:EUR:Banco:Abanca                            -45.96 EUR
     Expenses:Compras:Bebe
 
-2023-02-10 * "Termostatos Homematic" #extraordinario
+2023-02-10 * "Termostatos Homematic" #irregular
     Assets:EUR:Banco:Abanca                          -1061.79 EUR
     Expenses:Gastos:Casa:Reforma
 
@@ -669,7 +669,7 @@
     Expenses:Gastos:Casa:Internet                       20 EUR
     Expenses:Gastos:Movil
 
-2023-03-16 * "Termostatos" #extraordinario
+2023-03-16 * "Termostatos" #irregular
     Assets:EUR:Banco:Abanca                             67.9 EUR
     Assets:EUR:Banco:Abanca                            475.3 EUR
     Expenses:Compras:Utilidades
@@ -678,7 +678,7 @@
     Assets:EUR:Banco:Abanca                           -195.54 EUR
     Expenses:Gastos:Casa:Luz
 
-2023-03-16 * "Mudanza" #extraordinario
+2023-03-16 * "Mudanza" #irregular
     Assets:EUR:Banco:Abanca                          -1210 EUR
     Expenses:Gastos:Casa:Reforma
 
@@ -709,7 +709,7 @@
     Assets:EUR:Banco:Sabadell                         -209.48 EUR
     Expenses:Gastos:Coche:Taller
 
-2023-03-13 * "Termostatos" #extraordinario
+2023-03-13 * "Termostatos" #irregular
     Assets:EUR:Banco:Sabadell                         -879.2 EUR
     Expenses:Compras:Utilidades
 
@@ -1032,7 +1032,7 @@
     Assets:EUR:Banco:Abanca                            -20.85 EUR
     Expenses:Gastos:Casa:Luz
 
-2023-04-25 * "Reforma" #extraordinario
+2023-04-25 * "Reforma" #irregular
     Assets:EUR:Banco:Abanca                         -18150.93 EUR
     Expenses:Gastos:Casa:Reforma
 
