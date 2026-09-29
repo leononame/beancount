@@ -1863,3 +1863,7 @@
 2026-09-26 * "Aldi" #bot
     Assets:EUR:Efectivo:Leo      -1.49 EUR
     Expenses:Compras:Alimentos
+
+2026-09-29 * "tapita" #bot
+    Assets:EUR:Efectivo:Leo      -9.50 EUR
+    Expenses:Salir:Restaurante
