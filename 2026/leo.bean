@@ -1867,3 +1867,7 @@
 2026-09-29 * "tapita" #bot
     Assets:EUR:Efectivo:Leo      -9.50 EUR
     Expenses:Salir:Restaurante
+
+2026-09-29 * "McDonald's" #bot
+    Assets:EUR:Efectivo:Leo      -0.59 EUR
+    Expenses:Salir:Restaurante
