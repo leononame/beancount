@@ -1414,3 +1414,7 @@
 2026-09-29 * "familia" #bot
     Assets:EUR:Efectivo:Jana     -3.17 EUR
     Expenses:Compras:Alimentos
+
+2026-09-30 * "mesa Ali" #bot
+    Assets:EUR:Efectivo:Jana    -18.00 EUR
+    Expenses:Compras:Bebe
