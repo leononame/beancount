@@ -1765,7 +1765,7 @@
   Assets:EUR:Banco:Abanca                               -2.68 EUR
   Expenses:Compras:Alimentos
 
-2026-07-24 * "" "Gasolina" #alemania2026
+2026-07-24 * "" "Gasolina" #viaje #alemania-2026
   Assets:EUR:Banco:Abanca                              -81.31 EUR
   Expenses:Gastos:Coche:Gasolina
 
@@ -1789,11 +1789,11 @@
   Assets:EUR:Banco:Sabadell                             -5.5 EUR
   Expenses:Transporte:Tren
 
-2026-07-25 * "" "Gasolina" #alemania2026
+2026-07-25 * "" "Gasolina" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -70.58 EUR
   Expenses:Gastos:Coche:Gasolina
 
-2026-07-30 * "" "Peaje" #alemania2026
+2026-07-30 * "" "Peaje" #viaje #alemania-2026
   Assets:EUR:Banco:Abanca                             -125.3 EUR
   Expenses:Gastos:Coche:Peaje
 
@@ -1801,21 +1801,21 @@
   Assets:EUR:Banco:Abanca                             -501.54 EUR
   Income:Salario:Jana
 
-2026-07-27 * "" "McDonald's Tours" #alemania2026
+2026-07-27 * "" "McDonald's Tours" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -28.25 EUR
   Liabilities:TC:Leo                                   -10.55 EUR
   Liabilities:TC:Leo                                    -5.8 EUR
   Expenses:Salir:Restaurante                            44.60 EUR
 
-2026-07-27 * "" "Gasolina" #alemania2026
+2026-07-27 * "" "Gasolina" #viaje #alemania-2026
   Liabilities:TC:Leo                                  -100 EUR
   Expenses:Gastos:Coche:Gasolina
 
-2026-07-28 * "" "Hotel Tours" #alemania2026
+2026-07-28 * "" "Hotel Tours" #viaje #alemania-2026
   Liabilities:TC:Leo                                  -215.74 EUR
   Expenses:Viaje:Hotel
 
-2026-07-28 * "" "Gasolina" #alemania2026
+2026-07-28 * "" "Gasolina" #viaje #alemania-2026
   Liabilities:TC:Leo                                  -144.92 EUR
   Expenses:Gastos:Coche:Gasolina
 
@@ -1850,7 +1850,7 @@
   Assets:EUR:Banco:Abanca                             -100 EUR
   Expenses:Invest
 
-2026-08-05 * "" "Peaje" #alemania2026
+2026-08-05 * "" "Peaje" #viaje #alemania-2026
   Assets:EUR:Banco:Abanca                             -125.3 EUR
   Expenses:Gastos:Coche:Peaje
 
@@ -2172,75 +2172,75 @@
   Liabilities:TC:Leo                                   -43.11 EUR
   Expenses:Compras:Alimentos
 
-2026-09-01 * "" "Tanken" #alemania2026
+2026-09-01 * "" "Tanken" #viaje #alemania-2026
   Liabilities:TC:Leo                                  -124.59 EUR
   Expenses:Gastos:Coche:Gasolina
 
-2026-09-02 * "" "Parking Namur" #alemania2026
+2026-09-02 * "" "Parking Namur" #viaje #alemania-2026
   Liabilities:TC:Leo                                    -9 EUR
   Expenses:Gastos:Coche:Parking
 
-2026-09-02 * "" "Comida Namur" #alemania2026
+2026-09-02 * "" "Comida Namur" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -77.5 EUR
   Expenses:Salir:Restaurante
 
-2026-09-02 * "" "Hotel Namur" #alemania2026
+2026-09-02 * "" "Hotel Namur" #viaje #alemania-2026
   Liabilities:TC:Leo                                  -132.58 EUR
   Expenses:Viaje:Hotel
 
-2026-09-02 * "" "Helado Namur" #alemania2026
+2026-09-02 * "" "Helado Namur" #viaje #alemania-2026
   Liabilities:TC:Leo                                    -6 EUR
   Expenses:Lujo
 
-2026-09-02 * "" "Gasolina" #alemania2026
+2026-09-02 * "" "Gasolina" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -94.82 EUR
   Expenses:Gastos:Coche:Gasolina
 
-2026-09-02 * "" "Café" #alemania2026
+2026-09-02 * "" "Café" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -10.4 EUR
   Expenses:Salir:Cafe
 
-2026-09-02 * "" "Spar Namur" #alemania2026
+2026-09-02 * "" "Spar Namur" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -19.82 EUR
   Expenses:Compras:Alimentos
 
-2026-09-03 * "" "Comida Tours" #alemania2026
+2026-09-03 * "" "Comida Tours" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -58.8 EUR
   Expenses:Salir:Restaurante
 
-2026-09-03 * "McDonald's" "" #alemania2026
+2026-09-03 * "McDonald's" "" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -36.05 EUR
   Expenses:Salir:Restaurante
 
-2026-09-03 * "" "Play Café Tours" #alemania2026
+2026-09-03 * "" "Play Café Tours" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -11 EUR
   Expenses:Compras:Utilidades
 
-2026-09-04 * "" "Gasolina Tours" #alemania2026
+2026-09-04 * "" "Gasolina Tours" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -84.26 EUR
   Expenses:Gastos:Coche:Gasolina
 
-2026-09-04 * "" "Hotel Tours" #alemania2026
+2026-09-04 * "" "Hotel Tours" #viaje #alemania-2026
   Liabilities:TC:Leo                                  -330.98 EUR
   Expenses:Viaje:Hotel
 
-2026-09-04 * "" "Cena Tours Crepes" #alemania2026
+2026-09-04 * "" "Cena Tours Crepes" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -56 EUR
   Expenses:Salir:Restaurante
 
-2026-09-04 * "" "Cena Tours" #alemania2026
+2026-09-04 * "" "Cena Tours" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -43 EUR
   Expenses:Salir:Restaurante
 
-2026-09-04 * "" "Carrefour Tours" #alemania2026
+2026-09-04 * "" "Carrefour Tours" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -14.08 EUR
   Expenses:Compras:Alimentos
 
-2026-09-06 * "" "Gasolina Bilbao" #alemania2026
+2026-09-06 * "" "Gasolina Bilbao" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -92.38 EUR
   Expenses:Gastos:Coche:Gasolina
 
-2026-09-06 * "" "Burger King Ribadeo" #alemania2026
+2026-09-06 * "" "Burger King Ribadeo" #viaje #alemania-2026
   Liabilities:TC:Leo                                   -40.97 EUR
   Expenses:Salir:Restaurante
 
@@ -2264,7 +2264,7 @@
   Assets:EUR:Banco:Sabadell                            -24.95 EUR
   Expenses:Gastos:Bici:Accesorios
 
-2026-09-09 * "" "Hotel" #alemania2026
+2026-09-09 * "" "Hotel" #viaje #alemania-2026
   Assets:EUR:Banco:Abanca                               -4.5 EUR
   Expenses:Salir:Copas
 
