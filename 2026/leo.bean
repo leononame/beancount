@@ -1879,3 +1879,7 @@
 2026-09-30 * "Withdrawal" #bot
     Assets:EUR:Banco:Abanca    -320.00 EUR
     Assets:EUR:Efectivo:Leo
+
+2026-09-30 * "mesa Ali" #bot
+    Assets:EUR:Efectivo:Leo      -2.00 EUR
+    Expenses:Compras:Regalos
