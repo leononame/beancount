@@ -2482,7 +2482,29 @@
 2026-09-26 * "" "Transfer"
   Assets:EUR:Banco:Sabadell                          -3000 EUR
   Assets:EUR:Banco:Abanca
-; TODO
+
+2026-09-28 * "" "Tapita"
+  Assets:EUR:Banco:Abanca                               -8.5 EUR
+  Expenses:Salir:Restaurante
+
+2026-09-29 * "Wallapop" "No sé"
+  Assets:EUR:Banco:Abanca                               -8.28 EUR
+  Expenses:Compras:Bebe
+
+2026-09-29 * "Ikea" "Cosas Habitacion Ali"
+  Assets:EUR:Banco:Abanca                             -109.96 EUR
+  Expenses:Compras:Utilidades
+
+2026-09-29 * "Decathlon" "Natación Iago, Botas Ali"
+  Assets:EUR:Banco:Abanca                              -30.97 EUR
+  Expenses:Gastos:Bebe:Actividades
+2026-09-29 * "McDonald's" ""
+  Assets:EUR:Banco:Abanca                              -35.8 EUR
+  Expenses:Salir:Restaurante
+
+2026-09-29 * "" "Zapatos"
+  Assets:EUR:Banco:Abanca                             -252.95 EUR
+  Expenses:Compras:Ropa
 
 2026-09-30 * "Uber Eats" "Pepita"
   Assets:EUR:Banco:Abanca                              -41.09 EUR
@@ -2492,14 +2514,25 @@
   Assets:EUR:Banco:Abanca                              -19.99 EUR
   Expenses:Compras:Utilidades
 
-2026-09-30 * "Wallapop" "No sé"
-  Assets:EUR:Banco:Abanca                               -8.28 EUR
-  Expenses:Compras:Bebe
+2026-09-30 * "" "TGSS Jana"
+  Assets:EUR:Banco:Abanca                             -501.54 EUR
+  Income:Salario:Jana
+
+2026-09-29 * "" "Curso Natación Iago"
+  Assets:EUR:Banco:Sabadell                           -116.49 EUR
+  Expenses:Gastos:Bebe:Actividades
+
+2026-09-30 * "" "Hipoteca" #recurring
+  Assets:EUR:Banco:Sabadell                          -1291.06 EUR
+  Liabilities:Deudas:Banco                            1026.36 EUR
+  Expenses:Compras:Piso:Intereses                      264.7 EUR
+
+2026-09-30 * "" "TC Leo"
+  Assets:EUR:Banco:Sabadell                          -1527.44 EUR
+  Liabilities:TC:Leo
+
+; TODO
 
 2026-09-30 * "Amazon" "Pegamento, Cojín equilibrio, silla autismo iago, carpetas"
   Assets:EUR:Banco:Abanca                             -108.24 EUR
   Expenses:Compras:Bebe
-
-2026-09-30 ! "" "TGSS Jana"
-  Assets:EUR:Banco:Abanca                             -501.54 EUR
-  Income:Salario:Jana
