@@ -1875,3 +1875,7 @@
 2026-09-29 * "cervezas" #bot
     Assets:EUR:Efectivo:Leo      -3.90 EUR
     Expenses:Salir:Copas
+
+2026-09-30 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca    -320.00 EUR
+    Assets:EUR:Efectivo:Leo
