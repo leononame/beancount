@@ -1891,3 +1891,7 @@
 2026-10-01 * "tapita" #bot
     Assets:EUR:Efectivo:Leo      -3.50 EUR
     Expenses:Salir:Restaurante
+
+2026-10-01 * "pan" #bot
+    Assets:EUR:Efectivo:Leo      -0.75 EUR
+    Expenses:Compras:Alimentos
