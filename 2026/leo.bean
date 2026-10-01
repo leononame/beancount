@@ -1887,3 +1887,7 @@
 2026-10-01 * "café" #bot
     Assets:EUR:Efectivo:Leo      -5.60 EUR
     Expenses:Salir:Cafe
+
+2026-10-01 * "tapita" #bot
+    Assets:EUR:Efectivo:Leo      -3.50 EUR
+    Expenses:Salir:Restaurante
