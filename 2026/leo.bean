@@ -1895,3 +1895,7 @@
 2026-10-01 * "pan" #bot
     Assets:EUR:Efectivo:Leo      -0.75 EUR
     Expenses:Compras:Alimentos
+
+2026-10-01 * "termaria pulsera" #bot
+    Assets:EUR:Efectivo:Leo      -5.00 EUR
+    Expenses:Gastos:Bebe
