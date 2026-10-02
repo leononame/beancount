@@ -2531,8 +2531,38 @@
   Assets:EUR:Banco:Sabadell                          -1527.44 EUR
   Liabilities:TC:Leo
 
-; TODO
-
-2026-09-30 * "Amazon" "Pegamento, Cojín equilibrio, silla autismo iago, carpetas"
+2026-09-30 * "Amazon" "Devo"
+  Assets:EUR:Banco:Abanca                               59.9 EUR
+  Expenses:Gastos:Bici:Accesorios
+2026-09-30 * "Amazon" "Devo"
+  Assets:EUR:Banco:Abanca                              373.54 EUR
+  Expenses:Gastos:Bici:Accesorios
+  
+2026-10-01 * "Amazon" "Pegamento, Cojín equilibrio, silla autismo iago, carpetas"
   Assets:EUR:Banco:Abanca                             -108.24 EUR
   Expenses:Compras:Bebe
+
+2026-10-02 * "" "Bausparen" #recurring
+  Assets:EUR:Banco:Abanca                             -100 EUR
+  Expenses:Invest
+
+; TODO
+2026-10-05 * "Uber Eats" "Pepita"
+  Assets:EUR:Banco:Abanca                              -41.09 EUR
+  Expenses:Salir:Restaurante
+
+2026-10-05 * "" "Lea Paypal"
+  Assets:EUR:Banco:Abanca                              -31 EUR
+  Expenses:Compras:Regalos 
+
+2026-10-05 * "" "Tailscale" #recurring
+  Assets:EUR:Banco:Abanca                               -4.44 EUR
+  Expenses:Compras:Tecnología:Software
+
+2026-10-01 * "" "BU" #recurring
+  Assets:EUR:Banco:Sabadell                            -52.12 EUR
+  Expenses:Gastos:Seguros:BU
+
+2026-10-01 * "" "Huerto" #recurring
+  Assets:EUR:Banco:Sabadell                            -70 EUR
+  Expenses:Gastos:Bebe:Actividades
