@@ -1899,3 +1899,7 @@
 2026-10-01 * "termaria pulsera" #bot
     Assets:EUR:Efectivo:Leo      -5.00 EUR
     Expenses:Gastos:Bebe
+
+2026-10-05 * "cafe" #bot
+    Assets:EUR:Efectivo:Leo      -1.50 EUR
+    Expenses:Salir:Cafe
