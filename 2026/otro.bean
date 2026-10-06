@@ -2599,3 +2599,7 @@
 2026-10-10 * "" "Too good to go"
   Assets:EUR:Banco:Abanca                               -4.5 EUR
   Expenses:Salir:Restaurante
+
+2026-10-31 * "" "TGSS Jana"
+  Assets:EUR:Banco:Abanca                             -501.54 EUR
+  Income:Salario:Jana
