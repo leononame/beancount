@@ -1426,3 +1426,7 @@
 2026-10-01 * "pan" #bot
     Assets:EUR:Efectivo:Jana     -4.80 EUR
     Expenses:Compras:Alimentos
+
+2026-10-06 * "Withdrawal" #bot
+    Assets:EUR:Banco:Abanca    -300.00 EUR
+    Assets:EUR:Efectivo:Jana
