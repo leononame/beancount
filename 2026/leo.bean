@@ -1907,3 +1907,7 @@
 2026-10-07 * "farinarium" #bot
     Assets:EUR:Efectivo:Leo      -4.50 EUR
     Expenses:Compras:Alimentos
+
+2026-10-10 * "farmacia" #bot
+    Assets:EUR:Efectivo:Leo      -9.70 EUR
+    Expenses:Compras:Utilidades
