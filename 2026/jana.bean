@@ -1438,3 +1438,7 @@
 2026-10-08 * "matcha" #bot
     Assets:EUR:Efectivo:Jana     -4.50 EUR
     Expenses:Salir:Cafe
+
+2026-10-12 * "farmacia" #bot
+    Assets:EUR:Efectivo:Jana     -8.95 EUR
+    Expenses:Compras:Utilidades
