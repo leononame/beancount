@@ -53,11 +53,11 @@
 
 2025-01-08 * "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-01-08 * "Ali"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-01-10 * "Need for Speed Heat difmark"
     Assets:EUR:Banco:Abanca                             -7.89 EUR
@@ -325,11 +325,11 @@
 
 2025-02-07 * "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-02-07 * "Ali"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-02-09 * "Intereses"
     Assets:Invest:MyInvestor:Cash                        2.14 EUR
@@ -497,11 +497,11 @@
 
 2025-03-07 * "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-03-07 * "Ali"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-03-08 * "Corte Inglés"
     Assets:EUR:Banco:Abanca                            -15.95 EUR
@@ -730,11 +730,11 @@
 
 2025-04-08 * "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-04-08 * "Ali"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-04-10 * "Amazon regalo Calvin "
     Assets:EUR:Banco:Abanca                            -54.46 EUR
@@ -978,11 +978,11 @@
 
 2025-05-08 * "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-05-08 * "Ali"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-05-06 * "Comunidad"
     Assets:EUR:Banco:Sabadell                          -75 EUR
@@ -1288,11 +1288,11 @@
 
 2025-06-06 * "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-06-06 * "Alicia"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-06-06 * "Impuestos Piso"
     Assets:EUR:Banco:Abanca                           -281.65 EUR
@@ -1546,11 +1546,11 @@
 
 2025-07-08 * "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-07-08 * "Ali"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-07-04 * "Comunidad"
     Assets:EUR:Banco:Sabadell                          -75 EUR
@@ -1748,11 +1748,11 @@
 
 2025-08-09 * "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-08-09 * "Ali"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-08-12 * "Lowi" ""
     Assets:EUR:Banco:Abanca                            -31.9 EUR
@@ -1932,11 +1932,11 @@
 
 2025-09-08 * "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-09-08 * "Ali"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos
+    Expenses:Gastos:Bebe
 
 2025-09-09 * "" "Agua"
     Assets:EUR:Banco:Abanca                            -47.92 EUR
@@ -2188,11 +2188,11 @@
 
 2025-10-08 * "" "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos 
+    Expenses:Gastos:Bebe 
 
 2025-10-08 * "" "Alicia"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos 
+    Expenses:Gastos:Bebe 
 
 2025-10-09 balance Assets:EUR:Banco:Abanca            7658.57 EUR
 
@@ -2392,11 +2392,11 @@
 
 2025-11-07 * "" "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos 
+    Expenses:Gastos:Bebe 
 
 2025-11-07 * "" "Alicia"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos 
+    Expenses:Gastos:Bebe 
 
 2025-11-10 * "" "Comedor Ali"
     Assets:EUR:Banco:Abanca                            -82.53 EUR
@@ -2587,11 +2587,11 @@
 
 2025-12-05 * "" "Iago"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos 
+    Expenses:Gastos:Bebe 
 
 2025-12-05 * "" "Ali"
     Assets:EUR:Banco:Abanca                            -50 EUR
-    Expenses:Compras:Regalos 
+    Expenses:Gastos:Bebe 
 
 2025-12-06 * "" "Uber Eats"
     Assets:EUR:Banco:Abanca                            -41.01 EUR
