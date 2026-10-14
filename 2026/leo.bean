@@ -1915,3 +1915,7 @@
 2026-10-13 * "bazar" #bot
     Assets:EUR:Efectivo:Leo      -4.85 EUR
     Expenses:Compras:Utilidades
+
+2026-10-14 * "freni" #bot
+    Assets:EUR:Efectivo:Leo      -2.00 EUR
+    Expenses:Gastos:Casa
