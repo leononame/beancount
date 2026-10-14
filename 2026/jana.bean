@@ -1466,3 +1466,7 @@
 2026-10-14 * "primaprix" #bot
     Assets:EUR:Efectivo:Jana     -9.55 EUR
     Expenses:Compras:Alimentos
+
+2026-10-14 * "Bijou Brigitte" #bot
+    Assets:EUR:Efectivo:Jana    -21.90 EUR
+    Expenses:Compras:Ropa
