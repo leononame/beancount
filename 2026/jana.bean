@@ -1450,3 +1450,7 @@
 2026-10-14 * "paga iago" #bot
     Assets:EUR:Efectivo:Jana     -1.00 EUR
     Expenses:Gastos:Bebe
+
+2026-10-14 * "yoga Fede" #bot
+    Assets:EUR:Efectivo:Jana    -50.00 EUR
+    Expenses:Deporte
