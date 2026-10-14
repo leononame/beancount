@@ -1446,3 +1446,7 @@
 2026-10-14 * "freni" #bot
     Assets:EUR:Efectivo:Jana    -70.00 EUR
     Expenses:Gastos:Casa
+
+2026-10-14 * "paga iago" #bot
+    Assets:EUR:Efectivo:Jana     -1.00 EUR
+    Expenses:Gastos:Bebe
