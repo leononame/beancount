@@ -1494,3 +1494,7 @@
 2026-10-14 * "zapatos" #bot
     Assets:EUR:Efectivo:Jana    -55.00 EUR
     Expenses:Compras:Ropa
+
+2026-10-14 * "freni" #bot
+    Assets:EUR:Efectivo:Jana    -72.00 EUR
+    Expenses:Gastos:Casa
