@@ -1923,3 +1923,7 @@
 2026-10-14 * "día" #bot
     Assets:EUR:Efectivo:Leo      -0.53 EUR
     Expenses:Compras:Alimentos
+
+2026-10-14 * "día" #bot
+    Assets:EUR:Efectivo:Leo      -0.10 EUR
+    Expenses:Compras:Alimentos
