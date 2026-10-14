@@ -1486,3 +1486,7 @@
 2026-10-14 * "albi" #bot
     Assets:EUR:Efectivo:Jana    -22.50 EUR
     Expenses:Compras:Alimentos
+
+2026-10-14 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana    -49.17 EUR
+    Expenses:Compras:Alimentos
