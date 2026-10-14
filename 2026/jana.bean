@@ -1498,3 +1498,7 @@
 2026-10-14 * "freni" #bot
     Assets:EUR:Efectivo:Jana    -72.00 EUR
     Expenses:Gastos:Casa
+
+2026-10-14 * "gadis" #bot
+    Assets:EUR:Efectivo:Jana    -39.07 EUR
+    Expenses:Compras:Alimentos
