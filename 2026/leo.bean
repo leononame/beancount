@@ -1919,3 +1919,7 @@
 2026-10-14 * "freni" #bot
     Assets:EUR:Efectivo:Leo      -2.00 EUR
     Expenses:Gastos:Casa
+
+2026-10-14 * "día" #bot
+    Assets:EUR:Efectivo:Leo      -0.53 EUR
+    Expenses:Compras:Alimentos
