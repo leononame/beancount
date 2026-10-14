@@ -1462,3 +1462,7 @@
 2026-10-14 * "arreglo ropa" #bot
     Assets:EUR:Efectivo:Jana    -10.00 EUR
     Expenses:Compras:Utilidades
+
+2026-10-14 * "primaprix" #bot
+    Assets:EUR:Efectivo:Jana     -9.55 EUR
+    Expenses:Compras:Alimentos
