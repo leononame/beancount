@@ -1458,3 +1458,7 @@
 2026-10-14 * "albi" #bot
     Assets:EUR:Efectivo:Jana    -45.57 EUR
     Expenses:Compras:Alimentos
+
+2026-10-14 * "arreglo ropa" #bot
+    Assets:EUR:Efectivo:Jana    -10.00 EUR
+    Expenses:Compras:Utilidades
