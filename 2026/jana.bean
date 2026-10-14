@@ -1442,3 +1442,7 @@
 2026-10-12 * "farmacia" #bot
     Assets:EUR:Efectivo:Jana     -8.95 EUR
     Expenses:Compras:Utilidades
+
+2026-10-14 * "freni" #bot
+    Assets:EUR:Efectivo:Jana    -70.00 EUR
+    Expenses:Gastos:Casa
