@@ -1490,3 +1490,7 @@
 2026-10-14 * "gadis" #bot
     Assets:EUR:Efectivo:Jana    -49.17 EUR
     Expenses:Compras:Alimentos
+
+2026-10-14 * "zapatos" #bot
+    Assets:EUR:Efectivo:Jana    -55.00 EUR
+    Expenses:Compras:Ropa
