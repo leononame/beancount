@@ -1927,3 +1927,7 @@
 2026-10-14 * "día" #bot
     Assets:EUR:Efectivo:Leo      -0.10 EUR
     Expenses:Compras:Alimentos
+
+2026-10-15 * "ferretería" #bot
+    Assets:EUR:Efectivo:Leo      -2.40 EUR
+    Expenses:Gastos:Casa
