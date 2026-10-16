@@ -1931,3 +1931,7 @@
 2026-10-15 * "ferretería" #bot
     Assets:EUR:Efectivo:Leo      -2.40 EUR
     Expenses:Gastos:Casa
+
+2026-10-16 * "filloa" #bot
+    Assets:EUR:Efectivo:Leo     -10.00 EUR
+    Expenses:Salir:Conciertos
